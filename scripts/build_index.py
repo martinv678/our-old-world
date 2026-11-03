@@ -19,11 +19,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 GLOSSARY = ROOT / "GLOSSARY.md"
+TIMELINE = ROOT / "TIMELINE.md"
 PLACES = ROOT / "places"
 
 LINK = re.compile(r"\[([^\]]+)\]\([^)]*\)")
 CATALOGUE_BLOCK = re.compile(r"<!-- catalogue:start -->.*?<!-- catalogue:end -->", re.DOTALL)
 INDEX_BLOCK = re.compile(r"<!-- index:start -->.*?<!-- index:end -->", re.DOTALL)
+TIMELINE_BLOCK = re.compile(r"<!-- timeline:start -->.*?<!-- timeline:end -->", re.DOTALL)
 BUILDINGS_BLOCK = re.compile(r"<!-- buildings:start -->.*?<!-- buildings:end -->", re.DOTALL)
 SECTION_HEADING = re.compile(r"^## (.+)$", re.MULTILINE)
 NOT_FEATURES = {"how the glossary works"}
@@ -60,6 +62,36 @@ def tags(pattern: re.Pattern, text: str) -> list[str]:
     return [capitalise(t.strip()) for t in cell(pattern, text).split(",") if t.strip()]
 
 
+def first_year(built: str):
+    """First year mentioned in a Built cell, e.g. 'Early 1600s; ...' -> 1600, 'c. 1857–66' -> 1857."""
+    match = re.search(r"\b(1\d{3}|[5-9]\d{2})(?:s)?\b", built)
+    return int(match.group(1)) if match else None
+
+
+def ordinal_century(year: int) -> str:
+    n = year // 100 + 1
+    suffix = "th" if 10 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
+    return f"{n}{suffix} century"
+
+
+def build_timeline(entries) -> str:
+    dated = sorted((e for e in entries if e["year"]), key=lambda e: (e["year"], e["title"].lower()))
+    undated = [e for e in entries if not e["year"]]
+    lines = ["<!-- timeline:start -->"]
+    current = None
+    for e in dated:
+        century = ordinal_century(e["year"])
+        if century != current:
+            current = century
+            lines += ["", f"## {century}", "", "| Year | Building | Country | Built | Type |", "|---|---|---|---|---|"]
+        lines.append(f"| {e['year']} | [{e['title']}]({e['rel']}) | {e['country']} | {e['built']} | {', '.join(e['types'])} |")
+    if undated:
+        lines += ["", "## Date not yet known", ""]
+        lines += [f"- [{e['title']}]({e['rel']}) – {e['country']}" for e in undated]
+    lines.append("<!-- timeline:end -->")
+    return "\n".join(lines)
+
+
 def load_entries():
     entries = []
     for path in sorted(PLACES.glob("*/*/*.md")):
@@ -77,6 +109,7 @@ def load_entries():
             "types": tags(TYPE_ROW, text),
             "features": tags(FEATURES_ROW, text),
             "built": cell(BUILT_ROW, text),
+            "year": first_year(cell(BUILT_ROW, text)),
             "status": cell(STATUS_ROW, text).split(";")[0].strip(),
         })
     return entries
@@ -200,6 +233,10 @@ def main() -> int:
         return 1
     readme = CATALOGUE_BLOCK.sub(lambda _: build_catalogue(entries), readme)
     README.write_text(readme, encoding="utf-8")
+
+    # Timeline
+    timeline = TIMELINE.read_text(encoding="utf-8")
+    TIMELINE.write_text(TIMELINE_BLOCK.sub(lambda _: build_timeline(entries), timeline), encoding="utf-8")
 
     # Entries
     type_names, _ = group(entries, "types")

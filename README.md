@@ -31,6 +31,7 @@ our-old-world/
 ├── README.md
 ├── CLAUDE.md                       # Research brief: how entries are researched and written
 ├── GLOSSARY.md                     # Features index (domes, towers, rose windows...)
+├── TIMELINE.md                     # Buildings in date order (generated)
 ├── mkdocs.yml                      # Website settings
 ├── assets/                         # Website styles
 ├── scripts/
@@ -160,6 +161,10 @@ Every building, grouped by type. A building can appear under more than one type 
 <!-- catalogue:end -->
 
 The [research list](links/research-list.md) has over 100 more pre-1900 buildings waiting to be added, with a tick next to each one that's done. Other leads are in [`links/poi.md`](links/poi.md).
+
+## Timeline
+
+Want to see the buildings in date order? The [timeline](TIMELINE.md) lists every building by when it was built, grouped by century, from medieval Cologne Cathedral to the 1890s.
 
 ## Glossary of features
 

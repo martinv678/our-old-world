@@ -6,6 +6,7 @@ on:
     paths:
       - "places/**"
       - "GLOSSARY.md"
+      - "TIMELINE.md"
       - "README.md"
       - "scripts/build_index.py"
   workflow_dispatch:
@@ -31,6 +32,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add README.md GLOSSARY.md places
+          git add README.md GLOSSARY.md TIMELINE.md places
           git commit -m "Update indexes"
           git push
