@@ -53,7 +53,7 @@ The town or city goes in the details table at the top of each entry, not in the 
 Every building, grouped by type. A building can appear under more than one type (for example a station that is also a hotel). This list is generated automatically from each entry's **Type** row, so there's no need to edit it by hand.
 
 <!-- catalogue:start -->
-**Jump to:** [Casino](#casino) (1) · [Castle](#castle) (2) · [Exhibition hall](#exhibition-hall) (1) · [Hotel](#hotel) (1) · [Palace](#palace) (1) · [Railway station](#railway-station) (4) · [Villa](#villa) (2)
+**Jump to:** [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Exhibition hall](#exhibition-hall) (4) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Museum](#museum) (1) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Villa](#villa) (2)
 
 ### Casino
 
@@ -68,11 +68,33 @@ Every building, grouped by type. A building can appear under more than one type 
 | [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) | Italy | Early 1600s; remodelled c. 1853–1889 | Abandoned since 1990 |
 | [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) | Italy | From 1850, on the ruins of a medieval fortress; extended until the 1890s | Restored by Fondazione Carisbo |
 
+### Cathedral
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) | Germany | Begun 1248; work stopped 1473; resumed 1842; completed 1880 | In use |
+| [Saint Isaac's Cathedral](places/russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) | Russia | 1818–1858 | Museum, with church services held |
+
 ### Exhibition hall
 
 | Building | Country | Built | Status |
 |---|---|---|---|
+| [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) | Australia | 1879–1880 | In use as an exhibition venue |
+| [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) | France | 1876–1878 | Largely demolished 1935–1937 |
 | [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | UK | 1850–1851; dismantled and rebuilt larger at Sydenham 1852–1854 | Destroyed by fire 1936 |
+| [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) | USA | 1891–1893; rebuilt in stone c. 1929–1933 | In use as the Griffin Museum of Science and Industry |
+
+### Government building
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) | UK | Rebuilt c. 1840–1870 after the fire of 1834; clock tower completed c. 1859 | In use |
+
+### Historic district
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Seattle Underground](places/usa/seattle-underground/seattle-underground.md) | USA | Streets and buildings mostly 1889–1890s; streets raised in the years after 1889 | Partly accessible on guided tours |
 
 ### Hotel
 
@@ -80,11 +102,23 @@ Every building, grouped by type. A building can appear under more than one type 
 |---|---|---|---|
 | [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) | UK | Train shed 1865–1868; hotel 1868–1876 | In use as St Pancras International station and the St Pancras Renaissance Hotel |
 
+### Museum
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) | USA | 1891–1893; rebuilt in stone c. 1929–1933 | In use as the Griffin Museum of Science and Industry |
+
 ### Palace
 
 | Building | Country | Built | Status |
 |---|---|---|---|
 | [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) | UK | 1787 (Marine Pavilion); rebuilt and extended c. 1815–1823 | Museum, run by Brighton & Hove Museums |
+
+### Planned town
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Palmanova](places/italy/palmanova/palmanova.md) | Italy | Founded 7 October 1593; outer ring added in the early 19th century | Inhabited town |
 
 ### Railway station
 
@@ -94,6 +128,25 @@ Every building, grouped by type. A building can appear under more than one type 
 | [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) | Germany | 1892–1898 | In use |
 | [Frankfurt (Main) Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) | Germany | 1883–1888 | In use |
 | [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) | UK | Train shed 1865–1868; hotel 1868–1876 | In use as St Pancras International station and the St Pancras Renaissance Hotel |
+
+### Shopping arcade
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) | Italy | 1865–1877 | In use as a luxury shopping arcade |
+
+### Star fort
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Palmanova](places/italy/palmanova/palmanova.md) | Italy | Founded 7 October 1593; outer ring added in the early 19th century | Inhabited town |
+| [Goryōkaku](places/japan/goryokaku/goryokaku.md) | Japan | c. 1857–1866 (sources differ) | Public park |
+
+### Street level
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Seattle Underground](places/usa/seattle-underground/seattle-underground.md) | USA | Streets and buildings mostly 1889–1890s; streets raised in the years after 1889 | Partly accessible on guided tours |
 
 ### Villa
 

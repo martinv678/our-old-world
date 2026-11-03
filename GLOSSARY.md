@@ -7,23 +7,26 @@ The building lists and the index below are generated automatically from the **Fe
 <!-- index:start -->
 | Feature | Buildings |
 |---|---|
-| [Built on older ruins](#built-on-older-ruins) | 1 |
-| [Buried ground floor](#buried-ground-floor) | 0 |
-| [Clock tower](#clock-tower) | 1 |
+| [Built on older ruins](#built-on-older-ruins) | 3 |
+| [Buried ground floor](#buried-ground-floor) | 1 |
+| [Clock tower](#clock-tower) | 2 |
 | [Coloured tilework](#coloured-tilework) | 1 |
 | [Courtyard](#courtyard) | 1 |
-| [Dome](#dome) | 3 |
+| [Dome](#dome) | 7 |
 | [Inscriptions](#inscriptions) | 1 |
-| [Iron and glass construction](#iron-and-glass-construction) | 5 |
-| [Landscaped park](#landscaped-park) | 4 |
+| [Iron and glass construction](#iron-and-glass-construction) | 6 |
+| [Landscaped park](#landscaped-park) | 7 |
 | [Minaret](#minaret) | 2 |
+| [Monolithic columns](#monolithic-columns) | 1 |
 | [Moorish arches](#moorish-arches) | 3 |
 | [Onion dome](#onion-dome) | 2 |
+| [Raised streets](#raised-streets) | 1 |
 | [Rooftop sculpture](#rooftop-sculpture) | 1 |
 | [Rose window](#rose-window) | 0 |
-| [Star fort](#star-fort) | 0 |
+| [Spire](#spire) | 2 |
+| [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
-| [Tower](#tower) | 4 |
+| [Tower](#tower) | 7 |
 | [Undercroft](#undercroft) | 1 |
 | [Underground tunnel](#underground-tunnel) | 2 |
 <!-- index:end -->
@@ -37,9 +40,11 @@ A building said to have been constructed on, or around, the remains of an earlie
 **Why it matters:** if a "new" building reuses older foundations or walls, how much of it is really new? The line between restoration and new build is often where construction dates can be questioned.
 
 <!-- buildings:start -->
-**Buildings (1):**
+**Buildings (3):**
 
+- [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) – France
 - [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) – Italy
+- [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 <!-- buildings:end -->
 
 ## Buried ground floor
@@ -49,7 +54,9 @@ Windows, doors or whole floors that sit at or below today's ground level, often 
 **Why it matters:** a central piece of evidence in mud flood theories, which suggest earlier ground levels were buried by a sudden, widespread event.
 
 <!-- buildings:start -->
-_No buildings tagged yet._
+**Buildings (1):**
+
+- [Seattle Underground](places/usa/seattle-underground/seattle-underground.md) – USA
 <!-- buildings:end -->
 
 ## Clock tower
@@ -59,8 +66,9 @@ A tower carrying a large public clock, often the tallest point of a town hall, r
 **Why it matters:** clock towers appear in near-identical forms across the world in the same period. Some researchers link towers and spires to ideas about lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (1):**
+**Buildings (2):**
 
+- [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 <!-- buildings:end -->
 
@@ -95,11 +103,15 @@ A rounded roof shaped like half a sphere, rising above the main building.
 **Why it matters:** domes are one of the most common features of "old world" architecture. The same forms appear on palaces, casinos, churches and exhibition halls across continents in the same decades. Some theories link domes to lost energy or acoustic technology.
 
 <!-- buildings:start -->
-**Buildings (3):**
+**Buildings (7):**
 
+- [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) – Australia
 - [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) – Germany
+- [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) – Italy
 - [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) – Italy
+- [Saint Isaac's Cathedral](places/russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) – Russia
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
+- [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) – USA
 <!-- buildings:end -->
 
 ## Inscriptions
@@ -121,11 +133,12 @@ Large buildings framed in cast or wrought iron and covered in glass, such as exh
 **Why it matters:** enormous iron and glass structures appeared around the world in a few decades and were often put up very quickly. Many were later demolished or burned.
 
 <!-- buildings:start -->
-**Buildings (5):**
+**Buildings (6):**
 
 - [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) – Germany
 - [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) – Germany
 - [Frankfurt (Main) Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) – Germany
+- [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) – Italy
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
 <!-- buildings:end -->
@@ -137,12 +150,15 @@ Large designed grounds around a building, often with exotic trees, paths and wat
 **Why it matters:** mature parks with exotic trees raise questions about when they were really planted, and whether the grounds are older than the building's official date.
 
 <!-- buildings:start -->
-**Buildings (4):**
+**Buildings (7):**
 
+- [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) – Australia
 - [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) – Italy
 - [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) – Italy
+- [Goryōkaku](places/japan/goryokaku/goryokaku.md) – Japan
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
+- [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) – USA
 <!-- buildings:end -->
 
 ## Minaret
@@ -156,6 +172,18 @@ A tall, slender tower, traditionally part of a mosque, used in Orientalist build
 
 - [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) – Italy
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
+<!-- buildings:end -->
+
+## Monolithic columns
+
+Columns, obelisks or pillars carved from a single block of stone, often weighing tens of tonnes.
+
+**Why it matters:** quarrying, moving and raising huge single stones by hand raises questions about the methods really used. Monolithic columns are often cited as evidence of lost building technology.
+
+<!-- buildings:start -->
+**Buildings (1):**
+
+- [Saint Isaac's Cathedral](places/russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) – Russia
 <!-- buildings:end -->
 
 ## Moorish arches
@@ -185,6 +213,18 @@ A dome that swells out wider than its base and tapers to a point, shaped like an
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 <!-- buildings:end -->
 
+## Raised streets
+
+Streets whose level was raised by a storey or more, leaving older ground floors, doorways and sidewalks below the new surface.
+
+**Why it matters:** raised streets and the buried levels beneath them are central to mud flood theories. The question is whether deliberate engineering explains every case.
+
+<!-- buildings:start -->
+**Buildings (1):**
+
+- [Seattle Underground](places/usa/seattle-underground/seattle-underground.md) – USA
+<!-- buildings:end -->
+
 ## Rooftop sculpture
 
 Statues or sculpture groups standing on a building's roofline, often figures from mythology or allegories of ideas such as industry, steam or electricity.
@@ -207,6 +247,19 @@ A large circular window divided into sections by stone tracery radiating from th
 _No buildings tagged yet._
 <!-- buildings:end -->
 
+## Spire
+
+A tall, tapering pointed structure on top of a tower or roof, typical of Gothic churches and Gothic Revival buildings.
+
+**Why it matters:** spires appear in very similar forms around the world. Some theories link spires and towers to lost energy or communication technology.
+
+<!-- buildings:start -->
+**Buildings (2):**
+
+- [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
+- [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
+<!-- buildings:end -->
+
 ## Star fort
 
 A fortification laid out with angled bastions, giving a star shape when seen from above.
@@ -214,7 +267,10 @@ A fortification laid out with angled bastions, giving a star shape when seen fro
 **Why it matters:** star forts appear all over the world with very similar geometry. Some researchers question whether they were really built for defence, or for another purpose.
 
 <!-- buildings:start -->
-_No buildings tagged yet._
+**Buildings (2):**
+
+- [Palmanova](places/italy/palmanova/palmanova.md) – Italy
+- [Goryōkaku](places/japan/goryokaku/goryokaku.md) – Japan
 <!-- buildings:end -->
 
 ## Stucco decoration
@@ -237,10 +293,13 @@ A tall structure rising above the main body of a building, whether square, round
 **Why it matters:** towers and spires are common in old world architecture. Some theories link them to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (4):**
+**Buildings (7):**
 
+- [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) – France
+- [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
 - [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) – Italy
 - [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) – Italy
+- [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
 <!-- buildings:end -->
