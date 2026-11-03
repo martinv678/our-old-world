@@ -9,7 +9,7 @@
 | **Style** | Eclectic, French-influenced; three domes |
 | **Original use** | Casino and private club |
 | **Status** | Abandoned / derelict |
-
+| **Features** | [Dome](../../../GLOSSARY.md#dome), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |
 ## Overview
 
 Villa Sultana stands in the centre of Ospedaletti, above the old fishing village and roughly 250 metres from the sea. It is set in a park of about 14,000 m², planted with tall trees, palms and botanically valuable species.

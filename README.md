@@ -29,6 +29,9 @@ These are some of the ideas that come up again and again when looking at old wor
 ```
 our-old-world/
 ├── README.md
+├── GLOSSARY.md                     # Features index (domes, towers, rose windows...)
+├── scripts/
+│   └── build_glossary.py           # Rebuilds the glossary from each entry's Features
 ├── links/
 │   └── poi.md                      # Points of interest still to be researched
 └── places/
@@ -53,13 +56,19 @@ The town or city goes in the details table at the top of each entry and in the B
 
 Places still to be looked at are listed in [`links/poi.md`](links/poi.md).
 
+## Glossary of features
+
+Want to see every building with a dome, a tower or a rose window? The [glossary](GLOSSARY.md) lists architectural features, explains why each one interests the alternative view, and links to every building that has it.
+
 ## Adding a building
 
 1. Check the building was built, or is said to have been built, **before 1900**.
 2. Create a folder at `places/<country>/<building-name>/` using lowercase and hyphens (for example `places/uk/crystal-palace/`).
 3. Add a `<building-name>.md` file using the template below.
 4. Put any images in an `images/` folder next to it, and check the licence before uploading.
-5. Add the building to the table above.
+5. List its features in the **Features** row, using names from the [glossary](GLOSSARY.md). New features are fine too: the script will add a placeholder for them.
+6. Add the building to the table above.
+7. Run `python3 scripts/build_glossary.py` to update the glossary and links. If you skip this, it runs automatically on GitHub when the change reaches `main`.
 
 ### Entry template
 
@@ -74,6 +83,7 @@ Places still to be looked at are listed in [`links/poi.md`](links/poi.md).
 | **Style** | |
 | **Original use** | |
 | **Status** | In use / Abandoned / Demolished / Restored |
+| **Features** | Dome, Tower, Rose window |
 
 ## Overview
 

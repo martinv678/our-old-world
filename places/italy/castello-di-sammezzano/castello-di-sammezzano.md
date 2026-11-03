@@ -9,7 +9,7 @@
 | **Style** | Moorish Revival / Orientalist |
 | **Original use** | Private residence |
 | **Status** | Abandoned since 1990; closed to the public |
-
+| **Features** | [Moorish arches](../../../GLOSSARY.md#moorish-arches), [Coloured tilework](../../../GLOSSARY.md#coloured-tilework), [Stucco decoration](../../../GLOSSARY.md#stucco-decoration), [Inscriptions](../../../GLOSSARY.md#inscriptions), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |
 ## Overview
 
 Sammezzano is a hilltop castle in a large wooded park in the Valdarno, south-east of Florence. Behind a fairly sober exterior, its interiors are covered in brightly coloured Moorish-style tiles, stucco, arches and patterned ceilings, including the well-known *Sala dei Pavoni* (Hall of the Peacocks). It is often described as the largest example of Moorish Revival architecture in Italy.

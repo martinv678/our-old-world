@@ -9,7 +9,7 @@
 | **Style** | Moorish Revival / Orientalist; minaret-style tower |
 | **Original use** | Private residence of the Crespi family |
 | **Status** | In use as a hotel and restaurant |
-
+| **Features** | [Minaret](../../../GLOSSARY.md#minaret), [Tower](../../../GLOSSARY.md#tower), [Moorish arches](../../../GLOSSARY.md#moorish-arches), [Stucco decoration](../../../GLOSSARY.md#stucco-decoration) |
 ## Overview
 
 Villa Crespi stands just outside the old town of Orta San Giulio, above Lake Orta. Its tall minaret-style tower, horseshoe arches and stucco arabesques make it one of the best-known Orientalist buildings in northern Italy. It was first called **Villa Pia**, after the owner's wife, Pia Travelli.
