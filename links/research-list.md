@@ -4,7 +4,7 @@ Pre-1900 buildings and places to research for the project, grouped by region. �
 
 Dates are approximate starting points, so check them when researching. "Begun" means the building was started before 1900 but finished later.
 
-**Progress: 20 of 122 done.**
+**Progress: 20 of 132 done.**
 
 ## United Kingdom and Ireland
 
@@ -127,6 +127,23 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ⬜ | Keleti station | Budapest, Hungary | 1881–84 | Great iron train shed |
 | ⬜ | Dolmabahçe Palace | Istanbul, Turkey | 1843–56 | European-style Ottoman palace |
 | ⬜ | Sirkeci station | Istanbul, Turkey | 1888–90 | Orient Express terminus with Moorish details |
+
+## Russia: Republic of Tatarstan
+
+Tatarstan, on the Volga, is the historic heartland of the Volga Tatars, the Kazan Khanate and, before it, Volga Bulgaria. Its name links it directly to the "Tartary" (*Tartaria*) shown on many old European maps, which makes it a natural focus for the project.
+
+| Done | Building | Location | Built | Why it's interesting |
+|---|---|---|---|---|
+| ⬜ | Kazan Kremlin | Kazan | 16th century onwards, on the site of the khans' fortress | Citadel of the Kazan Khanate, rebuilt after the 1552 conquest; UNESCO World Heritage Site |
+| ⬜ | Söyembikä Tower | Kazan Kremlin | Disputed: 16th to early 18th century; first documented 1777 | Leaning tower that nobody can date or attribute with certainty |
+| ⬜ | Annunciation Cathedral | Kazan Kremlin | 1554–62; enlarged after the 1855 fire | Built on the conquered khans' citadel; unusual six-pier, five-apse plan |
+| ⬜ | Governor's Palace (now President's Palace) | Kazan Kremlin | 1845–48 | 19th-century palace on the old khans' palace grounds |
+| ⬜ | Peter and Paul Cathedral | Kazan | 1723–26 | Lavish baroque cathedral linked to Peter the Great's 1722 visit; damaged by repeated fires |
+| ⬜ | Märcani (Marjani) Mosque | Kazan, Old Tatar Quarter | 1766–70 | First stone mosque permitted in Kazan after 1552 |
+| ⬜ | Kazan University main building | Kazan | 1820s–1830s (university founded 1804) | Long classical colonnaded front |
+| ⬜ | Kazan railway station (old building) | Kazan | 1893 or 1896 (sources differ) | Ornate station of the Moscow–Kazan railway |
+| ⬜ | Sviyazhsk and its Assumption Cathedral | Sviyazhsk island | Town founded 1551; cathedral c. 1556 | Fortress said to have been prefabricated upriver and assembled in weeks; rare frescoes; UNESCO World Heritage Site |
+| ⬜ | Bolgar (Bulgar) | Spassky District | 10th–15th century ruins | Former capital of Volga Bulgaria; Peter the Great ordered its ruins preserved in 1722; its Great Minaret was rebuilt in modern times; UNESCO World Heritage Site |
 
 ## Asia
 
