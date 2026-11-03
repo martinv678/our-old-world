@@ -43,7 +43,18 @@ Test each building against these. Add, remove or reorder them to match what you 
 
 List the researchers, channels, books and websites you rate. Claude will look for their arguments about each building and engage with them directly.
 
--
+A suggested starting list (from [ALTERNATIVE-VIEW.md](ALTERNATIVE-VIEW.md)). Edit it to match who you rate:
+
+- **Jon Levi** (YouTube): architectural anomalies, Tartaria
+- **Martin Liedtke** (YouTube): mud flood, Tartaria
+- **Sylvie Ivanowa** (YouTube): architectural anomalies
+- **Stolen History** (stolenhistory.net): old photos, maps and theories
+- **r/Tartaria** and **r/CulturalLayer** (Reddit)
+- **Anatoly Fomenko and Gleb Nosovsky**: *New Chronology*
+- **Nikolai Levashov**: "Great Tartaria"
+- **Heribert Illig**: phantom time hypothesis
+- **Graham Hancock** and **UnchartedX**: lost civilisations, precision stonework
+- For counter-arguments to test against: **Skeptoid #765**, **Geographicus** on Tartary maps
 
 ## 5. Research methods to use on every building
 
