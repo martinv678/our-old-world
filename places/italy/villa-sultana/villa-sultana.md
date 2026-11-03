@@ -12,6 +12,9 @@
 | **Status** | Abandoned / derelict |
 | **Features** | [Dome](../../../GLOSSARY.md#dome), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |
 
+![Engraving of Villa Sultana with its three domes, arcaded front and terraced gardens](images/engraving.jpg)
+*Villa Sultana as a casino: 19th-century engraving showing the three domes, arcades and landscaped grounds.*
+
 ## Overview
 
 Villa Sultana stands in the centre of Ospedaletti, above the old fishing village and roughly 250 metres from the sea. It is set in a park of about 14,000 m², planted with tall trees, palms and botanically valuable species.
@@ -80,11 +83,32 @@ On 23 February 1887, only three years after the casino opened, the Ligurian eart
 
 - **Casino dates:** FAI gives 1884–1905 for the casino. The Museum of Gaming History gives 1884–1914, with final closure in 1926. The likely explanation is that the licensed casino ended in 1905 while the private club continued, but this needs confirming.
 - **Current status:** No information found on restoration plans after 2016.
-- **Photos:** Historic and current images would be welcome (check licensing).
+- **The 1911 photo:** A photo of guests on the casino steps is captioned *"Ouverture Casino Ospedaletti 1911"* (Casino opening, Ospedaletti, 1911). Was there a reopening in 1911, after the licence moved to Sanremo in 1905? See [Images](#images).
+- **Lower level:** The present-day photo shows openings in the wall below the semicircular terrace. What is behind them, and was this level ever at ground level?
+- **Image sources:** The source, date and licence of each image below need confirming.
+- **Photos:** More historic and current images would be welcome (check licensing).
 - **Pre-1883 maps:** Do any maps or cadastral surveys of Ospedaletti from before 1883 show a building on the site?
 - **Construction records:** Do Biasini's plans, permits or contracts survive, for example in archives in Nice or Imperia?
 - **Ground level:** Are there basement levels, buried windows or doors visible around the building?
 - **1887 earthquake:** Was the villa damaged, and were repairs recorded?
+
+## Images
+
+Click any image to enlarge it.
+
+![Early photograph of the casino from the promenade, with a horse-drawn carriage in the foreground](images/early-photo-from-promenade.jpg)
+*Early photograph from the promenade below the gardens. A horse-drawn carriage waits in the foreground.*
+
+![Colour postcard titled "Ospedaletti – Le Casino", showing the casino above the coast road and railway](images/postcard-le-casino.jpg)
+*Postcard: "Ospedaletti – Le Casino". The casino above the coastal railway, with the sea on the right.*
+
+![Guests in Edwardian dress on the curved casino steps, captioned "Ouverture Casino Ospedaletti 1911"](images/casino-opening-1911.jpg)
+*Guests on the casino steps, captioned "Ouverture Casino Ospedaletti 1911" (Casino opening, Ospedaletti, 1911). Photo: A. P… (name partly hidden).*
+
+![Aerial view of the derelict Villa Sultana today, with damaged domes, overgrown terraces and site fencing](images/aerial-today.jpg)
+*The villa today: derelict, with vegetation on the dome and an open, roofless arcade. Image dated 2020.*
+
+_Image sources and licences are still to be confirmed._
 
 ## Sources
 

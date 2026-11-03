@@ -114,7 +114,14 @@ Want to see every building with a dome, a tower or a rose window? The [glossary]
 1. Check the building was built, or is said to have been built, **before 1900**.
 2. Create a folder at `places/<country>/<building-name>/` using lowercase and hyphens (for example `places/uk/crystal-palace/`).
 3. Add a `<building-name>.md` file using the template below.
-4. Put any images in an `images/` folder next to it, and check the licence before uploading.
+4. Put any images in an `images/` folder next to it, and check the licence before uploading. Use short lowercase file names with hyphens, such as `postcard-1900.jpg`, and keep images under about 1600px wide. Show them on the page with a description and a credit line underneath:
+
+   ```markdown
+   ![Short description of the image](images/postcard-1900.jpg)
+   *Caption: what it shows, date, source and licence.*
+   ```
+
+   Put one main image under the details table and the rest in an `## Images` section before Sources (see [Villa Sultana](places/italy/villa-sultana/villa-sultana.md) for an example). On the website, readers can click any image to enlarge it.
 5. Fill in the **Type** row with one or more categories, separated by commas, such as `Railway station, Hotel`. Reuse the names in the [Buildings](#buildings) list where you can.
 6. Fill in the **Features** row using names from the [glossary](GLOSSARY.md). New features are fine too: the script will add a placeholder for them.
 7. Run `python3 scripts/build_index.py` to update the Buildings list, the glossary and the links. If you skip this, it runs automatically on GitHub when the change reaches `main`.
