@@ -7,7 +7,7 @@ The building lists and the index below are generated automatically from the **Fe
 <!-- index:start -->
 | Feature | Buildings |
 |---|---|
-| [Built on older ruins](#built-on-older-ruins) | 3 |
+| [Built on older ruins](#built-on-older-ruins) | 4 |
 | [Buried ground floor](#buried-ground-floor) | 1 |
 | [Clock tower](#clock-tower) | 2 |
 | [Coloured tilework](#coloured-tilework) | 1 |
@@ -40,9 +40,10 @@ A building said to have been constructed on, or around, the remains of an earlie
 **Why it matters:** if a "new" building reuses older foundations or walls, how much of it is really new? The line between restoration and new build is often where construction dates can be questioned.
 
 <!-- buildings:start -->
-**Buildings (3):**
+**Buildings (4):**
 
 - [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) – France
+- [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
 - [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) – Italy
 - [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 <!-- buildings:end -->
