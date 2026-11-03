@@ -33,29 +33,30 @@ our-old-world/
 │   └── poi.md                      # Points of interest still to be researched
 └── places/
     └── <country>/
-        └── <town-or-city>/
-            └── <building>/
-                ├── <building>.md   # The write-up
-                └── images/         # Photos, postcards, maps
+        └── <building>/
+            ├── <building>.md       # The write-up
+            └── images/             # Photos, postcards, maps
 ```
 
-Example: [`places/italy/san-remo/villa-sultana/villa-sultana.md`](places/italy/san-remo/villa-sultana/villa-sultana.md)
+Example: [`places/italy/villa-sultana/villa-sultana.md`](places/italy/villa-sultana/villa-sultana.md)
+
+The town or city goes in the details table at the top of each entry and in the Buildings table below, not in the folder path.
 
 ## Buildings
 
 | Building | Location | Built | Status |
 |---|---|---|---|
-| [Villa Sultana](places/italy/san-remo/villa-sultana/villa-sultana.md) | Ospedaletti (near Sanremo), Italy | 1883–1884 | Abandoned |
-| [Castello di Sammezzano](places/italy/reggello/castello-di-sammezzano/castello-di-sammezzano.md) | Reggello (near Florence), Italy | 1600s; remodelled c. 1853–1889 | Abandoned |
-| [Rocchetta Mattei](places/italy/grizzana-morandi/rocchetta-mattei/rocchetta-mattei.md) | Grizzana Morandi (near Bologna), Italy | 1850–1890s | Restored, open for visits |
-| [Villa Crespi](places/italy/orta-san-giulio/villa-crespi/villa-crespi.md) | Orta San Giulio, Italy | From 1879 | Hotel and restaurant |
+| [Villa Sultana](places/italy/villa-sultana/villa-sultana.md) | Ospedaletti (near Sanremo), Italy | 1883–1884 | Abandoned |
+| [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) | Reggello (near Florence), Italy | 1600s; remodelled c. 1853–1889 | Abandoned |
+| [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) | Grizzana Morandi (near Bologna), Italy | 1850–1890s | Restored, open for visits |
+| [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) | Orta San Giulio, Italy | From 1879 | Hotel and restaurant |
 
 Places still to be looked at are listed in [`links/poi.md`](links/poi.md).
 
 ## Adding a building
 
 1. Check the building was built, or is said to have been built, **before 1900**.
-2. Create a folder at `places/<country>/<town-or-city>/<building-name>/` using lowercase and hyphens.
+2. Create a folder at `places/<country>/<building-name>/` using lowercase and hyphens (for example `places/uk/crystal-palace/`).
 3. Add a `<building-name>.md` file using the template below.
 4. Put any images in an `images/` folder next to it, and check the licence before uploading.
 5. Add the building to the table above.
