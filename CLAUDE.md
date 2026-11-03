@@ -37,7 +37,8 @@ Test each building against these. Add, remove or reorder them to match what you 
 
 ✏️ *Add your own themes here:*
 
--
+- **Satan's Little Season:** the view that the thousand years of Revelation 20 have already passed and we now live in the "little season" of deception. Ask whether the building belongs to an older age that was later claimed, and whether its records look rewritten. See [ALTERNATIVE-VIEW.md](ALTERNATIVE-VIEW.md).
+- **Letters in dates (the "J" argument):** Fomenko's claim that the leading "1" in dates was originally an I or J for Jesus, adding about 1,000 years to history. Check date stones, foundation stones, inscriptions and documents for how the year is written, and record examples in the Anomaly log. Remember that a final "j" in Roman numerals (for example "xiij") is normal in older writing.
 
 ## 4. Owner's sources and researchers ✏️
 

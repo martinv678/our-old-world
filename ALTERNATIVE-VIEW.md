@@ -22,6 +22,62 @@ This page explains the ideas behind the "alternative view" sections in this proj
 | **Impossible timelines** | Buildings were too big, too fast or too precise for their stated dates | [Crystal Palace](places/uk/crystal-palace/crystal-palace.md), [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) |
 | **Star forts** | The same geometry worldwide suggests a common origin or a non-military purpose | [Palmanova](places/italy/palmanova/palmanova.md), [Goryōkaku](places/japan/goryokaku/goryokaku.md) |
 | **Shared architecture** | The same domes and styles appear on every continent at once | See the [glossary](GLOSSARY.md), for example Dome and Onion dome |
+| **Satan's Little Season** | The "thousand years" of Revelation 20 have already passed, and we now live in the short season that follows, a time of deception that explains the reset and the hidden history | A framework for the whole project rather than one building; see [below](#satans-little-season) |
+| **Letters in dates (the "J" argument)** | The first "1" in dates like 1255 was originally an **I** or **J** standing for Jesus, so history has been stretched by about 1,000 years | Date stones and inscriptions on buildings; see [below](#letters-in-dates-the-j-argument) |
+
+## Satan's Little Season
+
+### The idea
+
+Revelation 20 describes Satan being bound for a thousand years, after which "he must be loosed a little season" (Revelation 20:3, King James Version) before the final judgement. Most Christian traditions place the thousand years either in the future or treat them as symbolic.
+
+The "Satan's Little Season" view says the thousand-year reign has **already happened** in the past, and that we are living now in the little season of deception that follows. Supporters connect this with:
+
+- **Tartaria:** the thousand years as a golden age, whose civilisation and buildings were inherited and re-labelled
+- **the reset and mud flood:** catastrophe and the loss of that world, sometimes linked to Satan's release
+- **altered timelines and "missing centuries"**, and sometimes the Mandela Effect
+
+### How it applies to this project
+
+It is a framework for the whole story rather than a claim about any one building. For each building it raises the question: does the building belong to an older age that was later claimed, and do its records show signs of being rewritten?
+
+### What critics say
+
+- **Mainstream Christian commentators** read the little season as a short final rebellion still in the future, or as a symbol, not a historical period.
+- **A detailed review** of one version of the theory argues that its order of events conflicts with the sequence in Revelation 20 itself, and calls it a synthetic chronology rather than something the text sets out.
+- Some Reformed writers do link the little season to deception in the present age, so the idea of living in it isn't entirely new, even if the Tartaria connection is.
+
+## Letters in dates (the "J" argument)
+
+### The idea
+
+This comes from Anatoly Fomenko's *New Chronology* (volume 1, chapter 6). The argument is that in medieval documents years were written with the name of Jesus in front, as a letter **I** (or sometimes **J**) or **X**, for example "I.255" meaning "year 255 of Jesus". Later readers took the I or J for the number 1 and read it as "1255". On this reading, many dates have been made about **1,000 years older** than they really are.
+
+Supporters also point out that **J** only became a separate letter quite late:
+
+- Gian Giorgio Trissino first formally distinguished I and J as separate letters in **1524**.
+- In English, the distinction only settled in the **1600s**. The first English book to explain it is usually dated to 1633.
+
+So, the argument goes, a date stone or document that uses a "J" in a way that looks old should make us ask when it was really made.
+
+### How it applies to this project
+
+Look closely at **date stones, foundation stones, inscriptions, coins and old documents** connected with each building:
+
+- Is the year written with a letter in front of it, or a "1" that looks like an I or J?
+- Does a "J" appear in an inscription supposedly older than the 1500s?
+- Do the dates on the building match the dates in the records?
+
+Record any examples in the entry's **Anomaly log**, with a photo if possible.
+
+### What critics say
+
+- **J as a numeral is documented.** In Roman numerals, a final *i* was often written as *j*, so 13 might be written "xiij" and 23 "XXIIJ". A "j" in a number is therefore expected in older documents and doesn't by itself mean the date is wrong.
+- **Lowercase i and j were already different shapes** before 1524; only the capital letter shared one form. So the presence of a "j" doesn't automatically date a text to after 1524.
+- **Dating doesn't rest on written dates alone.** Historians also use tree-ring dating, radiocarbon, astronomical records (eclipses) and independent manuscript traditions, which would all need to be wrong in the same way.
+- Mainstream historians reject the New Chronology as a whole.
+
+The useful test for this project is concrete: find actual inscriptions and documents and look at exactly how their dates are written.
 
 ## People and places to watch
 
@@ -80,3 +136,13 @@ Knowing the strongest counter-arguments makes the alternative view sharper. Thes
 - Discover Magazine – What is the lost empire of Tartaria?: https://www.discovermagazine.com/what-is-the-lost-empire-of-tartaria-45702
 - The Spinoff – Inside the wild architecture conspiracy theory gaining traction online (2022): https://thespinoff.co.nz/society/14-01-2022/inside-the-wild-architecture-conspiracy-theory-gaining-traction-online
 - Lead Stories – Fact check: Tartarian Empire and mud flood (2023): https://leadstories.com/hoax-alert/2023/05/fact-check-no-evidence-of-old-tartarian-empire-or-of-mud-flood-resetting-society.html
+- Revelation 20 (King James Version): https://www.bibleserver.com/KJV.NIRV/Revelation20
+- Unrefined Podcast E216 – Following the trail (Satan's Little Season theory): https://unrefinedpodcast.transistor.fm/216
+- VCG Notes – Testing the proposed events of Satan's Little Season (critical review): https://public.app.basecamp.com/p/c4q5Zc2sUGnj3pKWRbEjcqZc
+- Pristine Grace – What does the Bible say about Satan's little season?: https://www.pristinegrace.org/questions/what-does-the-bible-say-about-satan-s-little-season
+- Matthew Henry's commentary on Revelation 20: https://www.biblestudytools.com/commentaries/matthew-henry-complete/revelation/20.html
+- Alternative wiki – Time (summary of Fomenko's "I.255" argument): https://alternative.shoutwiki.com/wiki/Time
+- Wikipedia – New chronology (Fomenko): https://en.wikipedia.org/wiki/New_chronology_(Fomenko)
+- Jason Colavito – What's behind the attempt to impose a "New Chronology" on history?: https://www.jasoncolavito.com/who-lost-the-middle-ages.html
+- Wikipedia – J (history of the letter): https://en.wikipedia.org/wiki/J
+- Dictionary.com – Meet the man responsible for the letter J: https://www.dictionary.com/e/j/
