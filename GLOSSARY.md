@@ -9,19 +9,22 @@ The building lists and the index below are generated automatically from the **Fe
 |---|---|
 | [Built on older ruins](#built-on-older-ruins) | 1 |
 | [Buried ground floor](#buried-ground-floor) | 0 |
-| [Clock tower](#clock-tower) | 0 |
+| [Clock tower](#clock-tower) | 1 |
 | [Coloured tilework](#coloured-tilework) | 1 |
 | [Courtyard](#courtyard) | 1 |
-| [Dome](#dome) | 1 |
+| [Dome](#dome) | 2 |
 | [Inscriptions](#inscriptions) | 1 |
-| [Landscaped park](#landscaped-park) | 2 |
-| [Minaret](#minaret) | 1 |
+| [Iron and glass construction](#iron-and-glass-construction) | 2 |
+| [Landscaped park](#landscaped-park) | 4 |
+| [Minaret](#minaret) | 2 |
 | [Moorish arches](#moorish-arches) | 3 |
-| [Onion dome](#onion-dome) | 1 |
+| [Onion dome](#onion-dome) | 2 |
 | [Rose window](#rose-window) | 0 |
 | [Star fort](#star-fort) | 0 |
 | [Stucco decoration](#stucco-decoration) | 2 |
-| [Tower](#tower) | 2 |
+| [Tower](#tower) | 4 |
+| [Undercroft](#undercroft) | 1 |
+| [Underground tunnel](#underground-tunnel) | 1 |
 <!-- index:end -->
 
 ---
@@ -55,7 +58,9 @@ A tower carrying a large public clock, often the tallest point of a town hall, r
 **Why it matters:** clock towers appear in near-identical forms across the world in the same period. Some researchers link towers and spires to ideas about lost energy or communication technology.
 
 <!-- buildings:start -->
-_No buildings tagged yet._
+**Buildings (1):**
+
+- [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 <!-- buildings:end -->
 
 ## Coloured tilework
@@ -89,9 +94,10 @@ A rounded roof shaped like half a sphere, rising above the main building.
 **Why it matters:** domes are one of the most common features of "old world" architecture. The same forms appear on palaces, casinos, churches and exhibition halls across continents in the same decades. Some theories link domes to lost energy or acoustic technology.
 
 <!-- buildings:start -->
-**Buildings (1):**
+**Buildings (2):**
 
 - [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) – Italy
+- [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 <!-- buildings:end -->
 
 ## Inscriptions
@@ -106,6 +112,19 @@ Words, mottos or symbols carved, painted or moulded into a building's walls or d
 - [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) – Italy
 <!-- buildings:end -->
 
+## Iron and glass construction
+
+Large buildings framed in cast or wrought iron and covered in glass, such as exhibition halls, railway sheds, conservatories and markets.
+
+**Why it matters:** enormous iron and glass structures appeared around the world in a few decades and were often put up very quickly. Many were later demolished or burned.
+
+<!-- buildings:start -->
+**Buildings (2):**
+
+- [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
+- [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
+<!-- buildings:end -->
+
 ## Landscaped park
 
 Large designed grounds around a building, often with exotic trees, paths and water features.
@@ -113,10 +132,12 @@ Large designed grounds around a building, often with exotic trees, paths and wat
 **Why it matters:** mature parks with exotic trees raise questions about when they were really planted, and whether the grounds are older than the building's official date.
 
 <!-- buildings:start -->
-**Buildings (2):**
+**Buildings (4):**
 
 - [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) – Italy
 - [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) – Italy
+- [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
+- [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
 <!-- buildings:end -->
 
 ## Minaret
@@ -126,9 +147,10 @@ A tall, slender tower, traditionally part of a mosque, used in Orientalist build
 **Why it matters:** minaret-style towers appear on 19th-century European villas and halls with no Islamic connection. Are they a fashion, or part of a shared older style?
 
 <!-- buildings:start -->
-**Buildings (1):**
+**Buildings (2):**
 
 - [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) – Italy
+- [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 <!-- buildings:end -->
 
 ## Moorish arches
@@ -152,9 +174,10 @@ A dome that swells out wider than its base and tapers to a point, shaped like an
 **Why it matters:** strongly associated with Russia and the East, and often cited in Tartaria theories. Onion domes on Western European buildings are of particular interest.
 
 <!-- buildings:start -->
-**Buildings (1):**
+**Buildings (2):**
 
 - [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) – Italy
+- [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 <!-- buildings:end -->
 
 ## Rose window
@@ -197,10 +220,36 @@ A tall structure rising above the main body of a building, whether square, round
 **Why it matters:** towers and spires are common in old world architecture. Some theories link them to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (2):**
+**Buildings (4):**
 
 - [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) – Italy
 - [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) – Italy
+- [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
+- [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
+<!-- buildings:end -->
+
+## Undercroft
+
+A vaulted space underneath a building, at or below ground level, often used for storage.
+
+**Why it matters:** large spaces below street level are often linked to mud flood theories. Were they built as basements, or were they once the ground floor?
+
+<!-- buildings:start -->
+**Buildings (1):**
+
+- [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
+<!-- buildings:end -->
+
+## Underground tunnel
+
+A passage running underground from a building, for example to another building, a garden or the shore.
+
+**Why it matters:** tunnels and hidden passages come up often in old world research. Where they go, who built them and when are often poorly recorded.
+
+<!-- buildings:start -->
+**Buildings (1):**
+
+- [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 <!-- buildings:end -->
 
 ---

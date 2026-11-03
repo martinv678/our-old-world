@@ -53,6 +53,9 @@ The town or city goes in the details table at the top of each entry and in the B
 | [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) | Reggello (near Florence), Italy | 1600s; remodelled c. 1853–1889 | Abandoned |
 | [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) | Grizzana Morandi (near Bologna), Italy | 1850–1890s | Restored, open for visits |
 | [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) | Orta San Giulio, Italy | From 1879 | Hotel and restaurant |
+| [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | Hyde Park, then Sydenham, London, UK | 1850–1851; rebuilt 1852–1854 | Destroyed by fire 1936 |
+| [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) | Brighton, UK | 1787; rebuilt c. 1815–1823 | Museum |
+| [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) | King's Cross, London, UK | 1865–1876 | Station and hotel |
 
 Places still to be looked at are listed in [`links/poi.md`](links/poi.md).
 
