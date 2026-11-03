@@ -66,6 +66,24 @@ Sources do not agree on when the casino closed: 1905 (FAI), 1914, or 1926 (Museu
 
 On 23 February 1887, only three years after the casino opened, the Ligurian earthquake caused heavy damage along this coast, including Ospedaletti and Sanremo. How the villa came through it, and whether any repairs or rebuilding were recorded, is worth looking into.
 
+### The 1911 photo: no shadows
+
+In the photo captioned *"Ouverture Casino Ospedaletti 1911"* (see [Images](#images)), none of the people on the steps appear to cast a shadow. If the figures were added to a photo of the empty building later, it would raise the question of whether the building was really in use as a casino at that time, or whether the scene was staged to give it a history.
+
+Points to weigh up:
+
+- **The building has no shadows either.** The balustrade, balusters and arches don't cast clear shadows on the steps. That suggests soft, overcast light or open shade, which gives no hard shadows to anyone. A pasted-in figure would stand out more if the building had strong shadows and the people didn't.
+- **The people overlap naturally.** Figures stand in front of and behind each other, and in front of the balustrade at different heights. That is harder to fake than a single figure, though photo montage was already possible in 1911.
+- **The copy is small.** The image here is only 572 × 377 pixels and heavily compressed, which can hide faint shadows around feet and edges.
+
+**How to test it:** find a larger scan or an original print, and check:
+
+- whether the feet show any darkening where they meet the steps
+- whether the light on faces and clothing comes from the same direction as the light on the building
+- whether the edges of the figures look cut out
+
+Other photos of the same event, or a newspaper report of a 1911 opening, would also help.
+
 ### What would support the alternative view
 
 - Maps, surveys or images of the site that show a large structure **before 1883**
@@ -83,7 +101,7 @@ On 23 February 1887, only three years after the casino opened, the Ligurian eart
 
 - **Casino dates:** FAI gives 1884–1905 for the casino. The Museum of Gaming History gives 1884–1914, with final closure in 1926. The likely explanation is that the licensed casino ended in 1905 while the private club continued, but this needs confirming.
 - **Current status:** No information found on restoration plans after 2016.
-- **The 1911 photo:** A photo of guests on the casino steps is captioned *"Ouverture Casino Ospedaletti 1911"* (Casino opening, Ospedaletti, 1911). Was there a reopening in 1911, after the licence moved to Sanremo in 1905? See [Images](#images).
+- **The 1911 photo:** A photo of guests on the casino steps is captioned *"Ouverture Casino Ospedaletti 1911"* (Casino opening, Ospedaletti, 1911). Was there a reopening in 1911, after the licence moved to Sanremo in 1905? The people in it also appear to cast no shadows (see [The 1911 photo: no shadows](#the-1911-photo-no-shadows)). Can anyone find a larger scan, the original print, or other photos of the same event?
 - **Lower level:** The present-day photo shows openings in the wall below the semicircular terrace. What is behind them, and was this level ever at ground level?
 - **Image sources:** The source, date and licence of each image below need confirming.
 - **Photos:** More historic and current images would be welcome (check licensing).
