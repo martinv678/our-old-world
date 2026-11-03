@@ -80,3 +80,4 @@ The interiors are full of inscriptions and symbols, including the phrase *"Non p
 - Messy Nessy Chic (2014): https://messynessychic.com/2014/04/17/amazing-technicolor-castle-abandoned-20-years
 - La Gazzetta Italiana – Save Sammezzano: https://www.lagazzettaitaliana.com/history-culture/10158-save-sammezzano
 - Finestre sull'Arte – purchase proposal: https://www.finestresullarte.info/es/noticias/castillo-de-sammezzano-por-fin-hay-una-propuesta-de-compra
+- AD Italia – Castello di Sammezzano sold to the Moretti family (photo gallery): https://www.ad-italia.it/gallery/castello-di-sammezzano-toscana-venduto-famiglia-moretti-foto/
