@@ -11,6 +11,7 @@
 | **Original use** | Berlin terminus of the Berlin–Anhalt railway, for trains to the south |
 | **Status** | Demolished 1959–1960; only a fragment of the entrance portico survives as a listed ruin |
 | **Features** | [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Underground tunnel](../../../GLOSSARY.md#underground-tunnel) |
+
 ## Overview
 
 The Anhalter Bahnhof was once one of Berlin's grandest and busiest stations, the city's "gateway to the south", with trains to Dresden, Munich, Vienna and Rome. Today almost nothing is left. A lone fragment of its brick entrance portico stands on Askanischer Platz in front of an open park and the Tempodrom concert venue.

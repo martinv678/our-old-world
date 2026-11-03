@@ -11,6 +11,7 @@
 | **Original use** | London terminus of the Midland Railway, with a luxury hotel |
 | **Status** | In use as St Pancras International station and the St Pancras Renaissance Hotel; Grade I listed |
 | **Features** | [Clock tower](../../../GLOSSARY.md#clock-tower), [Tower](../../../GLOSSARY.md#tower), [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Undercroft](../../../GLOSSARY.md#undercroft) |
+
 ## Overview
 
 St Pancras is a railway station in north London with two famous parts. At the back is William Barlow's huge arched iron and glass train shed. At the front, facing Euston Road, is George Gilbert Scott's red-brick Gothic hotel, with its spires and clock tower. Today it is the London terminal for Eurostar trains to Europe.

@@ -11,6 +11,7 @@
 | **Original use** | Seaside palace of the Prince Regent, later King George IV |
 | **Status** | Museum, run by Brighton & Hove Museums |
 | **Features** | [Onion dome](../../../GLOSSARY.md#onion-dome), [Dome](../../../GLOSSARY.md#dome), [Minaret](../../../GLOSSARY.md#minaret), [Underground tunnel](../../../GLOSSARY.md#underground-tunnel), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |
+
 ## Overview
 
 The Royal Pavilion is a palace in the centre of Brighton with onion domes, minarets and pinnacles that look as if they belong in India rather than on the English south coast. Inside, it is decorated in a lavish Chinese style. It is now a museum and one of Brighton's best-known landmarks.

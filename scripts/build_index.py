@@ -31,7 +31,7 @@ COUNTRY_NAMES = {"uk": "UK", "usa": "USA"}
 
 
 def row_pattern(label: str) -> re.Pattern:
-    return re.compile(rf"^\|\s*\*\*{label}\*\*\s*\|(.*)\|\s*$", re.MULTILINE)
+    return re.compile(rf"^\|[ \t]*\*\*{label}\*\*[ \t]*\|(.*)\|[ \t]*$", re.MULTILINE)
 
 
 TYPE_ROW = row_pattern("Type")

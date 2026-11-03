@@ -11,6 +11,7 @@
 | **Original use** | Central railway station, replacing three earlier stations |
 | **Status** | In use; Hesse's busiest station |
 | **Features** | [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Rooftop sculpture](../../../GLOSSARY.md#rooftop-sculpture) |
+
 ## Overview
 
 Frankfurt Hauptbahnhof is a huge terminus station west of the city centre. Behind a long stone neo-Renaissance front building stand great arched iron and glass halls covering the platforms. When it opened in 1888 it was the largest railway station in Europe, and it is still one of the busiest in Germany.

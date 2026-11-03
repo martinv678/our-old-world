@@ -11,6 +11,7 @@
 | **Original use** | Private residence and base for Mattei's medical practice |
 | **Status** | Restored by Fondazione Carisbo; open for guided visits |
 | **Features** | [Onion dome](../../../GLOSSARY.md#onion-dome), [Tower](../../../GLOSSARY.md#tower), [Moorish arches](../../../GLOSSARY.md#moorish-arches), [Courtyard](../../../GLOSSARY.md#courtyard), [Built on older ruins](../../../GLOSSARY.md#built-on-older-ruins) |
+
 ## Overview
 
 Rocchetta Mattei is a fairy-tale castle on a rocky outcrop above the Reno valley in the Bolognese Apennines. Its towers, onion domes and courtyards mix Moorish, medieval and Renaissance styles. Its best-known features include a courtyard modelled on the Court of the Lions at the Alhambra and a Moorish-style chapel where Mattei is buried.

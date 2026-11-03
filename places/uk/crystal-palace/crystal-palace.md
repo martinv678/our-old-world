@@ -11,6 +11,7 @@
 | **Original use** | Exhibition hall for the Great Exhibition of 1851 |
 | **Status** | Destroyed by fire 1936; water towers demolished 1941. Terraces, sphinxes and park survive |
 | **Features** | [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Tower](../../../GLOSSARY.md#tower), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |
+
 ## Overview
 
 The Crystal Palace was a vast glass and iron hall built in Hyde Park for the Great Exhibition of 1851. After the exhibition it was taken down and rebuilt, even bigger, on Sydenham Hill in south London, where it stood as an entertainment and exhibition centre until it burned down in 1936. The area is still called Crystal Palace, and the park keeps the terraces, stone sphinxes and the famous Victorian dinosaur sculptures.

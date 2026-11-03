@@ -30,8 +30,11 @@ These are some of the ideas that come up again and again when looking at old wor
 our-old-world/
 ├── README.md
 ├── GLOSSARY.md                     # Features index (domes, towers, rose windows...)
+├── mkdocs.yml                      # Website settings
+├── assets/                         # Website styles
 ├── scripts/
-│   └── build_index.py              # Rebuilds the Buildings list and the glossary
+│   ├── build_index.py              # Rebuilds the Buildings list and the glossary
+│   └── build_site.py               # Prepares the website build
 ├── links/
 │   └── poi.md                      # Points of interest still to be researched
 └── places/
@@ -161,6 +164,19 @@ Things that still need checking or that contributors could help with.
 
 Links for both the main story and the alternative view.
 ```
+
+## Website
+
+The repo is also published as a website with search, built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and hosted on GitHub Pages at <https://martinv678.github.io/our-old-world/>. It rebuilds automatically every time a change reaches `main`.
+
+To preview it on your own computer:
+
+```bash
+pip install -r requirements-site.txt
+python3 scripts/build_index.py && python3 scripts/build_site.py && mkdocs serve
+```
+
+Then open <http://127.0.0.1:8000>.
 
 ## Guidelines
 

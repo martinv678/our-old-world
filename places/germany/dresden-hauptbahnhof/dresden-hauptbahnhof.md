@@ -11,6 +11,7 @@
 | **Original use** | Central railway station for Dresden |
 | **Status** | In use; restored with a new fabric roof by Foster + Partners (1997–2006) |
 | **Features** | [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Dome](../../../GLOSSARY.md#dome) |
+
 ## Overview
 
 Dresden Hauptbahnhof is the city's main station, south of the old town. It's unusual because it combines two kinds of station: terminus tracks end in the central hall, while through tracks run past on raised platforms on either side. Its central entrance hall is topped by a dome. Since 2006 the platforms have been covered by a translucent fabric roof that lets in daylight.

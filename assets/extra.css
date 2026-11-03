@@ -1,0 +1,6 @@
+/* Website-only styles (used by mkdocs.yml). */
+
+/* Hide the empty header row of each building's details table ("| | |"). */
+.md-typeset thead:not(:has(th:not(:empty))) {
+  display: none;
+}

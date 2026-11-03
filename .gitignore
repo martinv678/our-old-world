@@ -1,0 +1,3 @@
+# Generated website source and output (scripts/build_site.py, mkdocs build)
+build/
+__pycache__/
