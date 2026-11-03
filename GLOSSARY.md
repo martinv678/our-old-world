@@ -12,19 +12,20 @@ The building lists and the index below are generated automatically from the **Fe
 | [Clock tower](#clock-tower) | 1 |
 | [Coloured tilework](#coloured-tilework) | 1 |
 | [Courtyard](#courtyard) | 1 |
-| [Dome](#dome) | 2 |
+| [Dome](#dome) | 3 |
 | [Inscriptions](#inscriptions) | 1 |
-| [Iron and glass construction](#iron-and-glass-construction) | 2 |
+| [Iron and glass construction](#iron-and-glass-construction) | 5 |
 | [Landscaped park](#landscaped-park) | 4 |
 | [Minaret](#minaret) | 2 |
 | [Moorish arches](#moorish-arches) | 3 |
 | [Onion dome](#onion-dome) | 2 |
+| [Rooftop sculpture](#rooftop-sculpture) | 1 |
 | [Rose window](#rose-window) | 0 |
 | [Star fort](#star-fort) | 0 |
 | [Stucco decoration](#stucco-decoration) | 2 |
 | [Tower](#tower) | 4 |
 | [Undercroft](#undercroft) | 1 |
-| [Underground tunnel](#underground-tunnel) | 1 |
+| [Underground tunnel](#underground-tunnel) | 2 |
 <!-- index:end -->
 
 ---
@@ -94,8 +95,9 @@ A rounded roof shaped like half a sphere, rising above the main building.
 **Why it matters:** domes are one of the most common features of "old world" architecture. The same forms appear on palaces, casinos, churches and exhibition halls across continents in the same decades. Some theories link domes to lost energy or acoustic technology.
 
 <!-- buildings:start -->
-**Buildings (2):**
+**Buildings (3):**
 
+- [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) – Germany
 - [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) – Italy
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 <!-- buildings:end -->
@@ -119,8 +121,11 @@ Large buildings framed in cast or wrought iron and covered in glass, such as exh
 **Why it matters:** enormous iron and glass structures appeared around the world in a few decades and were often put up very quickly. Many were later demolished or burned.
 
 <!-- buildings:start -->
-**Buildings (2):**
+**Buildings (5):**
 
+- [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) – Germany
+- [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) – Germany
+- [Frankfurt (Main) Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) – Germany
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
 <!-- buildings:end -->
@@ -178,6 +183,18 @@ A dome that swells out wider than its base and tapers to a point, shaped like an
 
 - [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) – Italy
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
+<!-- buildings:end -->
+
+## Rooftop sculpture
+
+Statues or sculpture groups standing on a building's roofline, often figures from mythology or allegories of ideas such as industry, steam or electricity.
+
+**Why it matters:** the subjects chosen for rooftop sculpture can hint at what a building's makers valued or knew. Figures representing electricity or energy on 19th-century buildings are of particular interest to old world research.
+
+<!-- buildings:start -->
+**Buildings (1):**
+
+- [Frankfurt (Main) Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) – Germany
 <!-- buildings:end -->
 
 ## Rose window
@@ -247,8 +264,9 @@ A passage running underground from a building, for example to another building, 
 **Why it matters:** tunnels and hidden passages come up often in old world research. Where they go, who built them and when are often poorly recorded.
 
 <!-- buildings:start -->
-**Buildings (1):**
+**Buildings (2):**
 
+- [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) – Germany
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 <!-- buildings:end -->
 
@@ -269,7 +287,7 @@ A passage running underground from a building, for example to another building, 
 3. **Update the lists.** Run:
 
    ```bash
-   python3 scripts/build_glossary.py
+   python3 scripts/build_index.py
    ```
 
    This rebuilds the index and building lists here, and turns each building's **Features** into links back to this page. It also runs automatically on GitHub whenever a change is pushed to `main`.

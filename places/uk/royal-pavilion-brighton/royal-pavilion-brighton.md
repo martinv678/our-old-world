@@ -7,6 +7,7 @@
 | **Built** | 1787 (Marine Pavilion); rebuilt and extended c. 1815–1823 |
 | **Architect** | Henry Holland (1787); John Nash (1815–1823) |
 | **Style** | Indo-Saracenic / Indo-Islamic exterior; Chinese-style interiors |
+| **Type** | [Palace](../../../README.md#palace) |
 | **Original use** | Seaside palace of the Prince Regent, later King George IV |
 | **Status** | Museum, run by Brighton & Hove Museums |
 | **Features** | [Onion dome](../../../GLOSSARY.md#onion-dome), [Dome](../../../GLOSSARY.md#dome), [Minaret](../../../GLOSSARY.md#minaret), [Underground tunnel](../../../GLOSSARY.md#underground-tunnel), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |

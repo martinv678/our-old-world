@@ -7,6 +7,7 @@
 | **Built** | 1850–1851; dismantled and rebuilt larger at Sydenham 1852–1854 |
 | **Architect** | Joseph Paxton, with engineers Fox, Henderson & Co. |
 | **Style** | Prefabricated cast iron and plate glass |
+| **Type** | [Exhibition hall](../../../README.md#exhibition-hall) |
 | **Original use** | Exhibition hall for the Great Exhibition of 1851 |
 | **Status** | Destroyed by fire 1936; water towers demolished 1941. Terraces, sphinxes and park survive |
 | **Features** | [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Tower](../../../GLOSSARY.md#tower), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |

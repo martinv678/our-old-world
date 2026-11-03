@@ -7,6 +7,7 @@
 | **Built** | 1883–1884 |
 | **Architect** | S.M. Biasini of Nice (1841–1913) |
 | **Style** | Eclectic, French-influenced; three domes |
+| **Type** | [Villa](../../../README.md#villa), [Casino](../../../README.md#casino) |
 | **Original use** | Casino and private club |
 | **Status** | Abandoned / derelict |
 | **Features** | [Dome](../../../GLOSSARY.md#dome), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |

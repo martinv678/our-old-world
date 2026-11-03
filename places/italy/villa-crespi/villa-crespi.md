@@ -7,6 +7,7 @@
 | **Built** | From 1879 |
 | **Architect** | Angelo Colla (one record gives Angelo Costa) |
 | **Style** | Moorish Revival / Orientalist; minaret-style tower |
+| **Type** | [Villa](../../../README.md#villa) |
 | **Original use** | Private residence of the Crespi family |
 | **Status** | In use as a hotel and restaurant |
 | **Features** | [Minaret](../../../GLOSSARY.md#minaret), [Tower](../../../GLOSSARY.md#tower), [Moorish arches](../../../GLOSSARY.md#moorish-arches), [Stucco decoration](../../../GLOSSARY.md#stucco-decoration) |

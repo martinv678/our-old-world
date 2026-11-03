@@ -7,6 +7,7 @@
 | **Built** | Early 1600s; remodelled c. 1853–1889 |
 | **Architect** | Ferdinando Panciatichi Ximenes d'Aragona (owner and designer) |
 | **Style** | Moorish Revival / Orientalist |
+| **Type** | [Castle](../../../README.md#castle) |
 | **Original use** | Private residence |
 | **Status** | Abandoned since 1990; closed to the public |
 | **Features** | [Moorish arches](../../../GLOSSARY.md#moorish-arches), [Coloured tilework](../../../GLOSSARY.md#coloured-tilework), [Stucco decoration](../../../GLOSSARY.md#stucco-decoration), [Inscriptions](../../../GLOSSARY.md#inscriptions), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |

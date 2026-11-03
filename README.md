@@ -31,7 +31,7 @@ our-old-world/
 ├── README.md
 ├── GLOSSARY.md                     # Features index (domes, towers, rose windows...)
 ├── scripts/
-│   └── build_glossary.py           # Rebuilds the glossary from each entry's Features
+│   └── build_index.py              # Rebuilds the Buildings list and the glossary
 ├── links/
 │   └── poi.md                      # Points of interest still to be researched
 └── places/
@@ -43,19 +43,62 @@ our-old-world/
 
 Example: [`places/italy/villa-sultana/villa-sultana.md`](places/italy/villa-sultana/villa-sultana.md)
 
-The town or city goes in the details table at the top of each entry and in the Buildings table below, not in the folder path.
+The town or city goes in the details table at the top of each entry, not in the folder path. Categories such as *railway station* or *castle* go in the entry's **Type** row rather than in folders, because one building can belong to several.
 
 ## Buildings
 
-| Building | Location | Built | Status |
+Every building, grouped by type. A building can appear under more than one type (for example a station that is also a hotel). This list is generated automatically from each entry's **Type** row, so there's no need to edit it by hand.
+
+<!-- catalogue:start -->
+**Jump to:** [Casino](#casino) (1) · [Castle](#castle) (2) · [Exhibition hall](#exhibition-hall) (1) · [Hotel](#hotel) (1) · [Palace](#palace) (1) · [Railway station](#railway-station) (4) · [Villa](#villa) (2)
+
+### Casino
+
+| Building | Country | Built | Status |
 |---|---|---|---|
-| [Villa Sultana](places/italy/villa-sultana/villa-sultana.md) | Ospedaletti (near Sanremo), Italy | 1883–1884 | Abandoned |
-| [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) | Reggello (near Florence), Italy | 1600s; remodelled c. 1853–1889 | Abandoned |
-| [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) | Grizzana Morandi (near Bologna), Italy | 1850–1890s | Restored, open for visits |
-| [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) | Orta San Giulio, Italy | From 1879 | Hotel and restaurant |
-| [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | Hyde Park, then Sydenham, London, UK | 1850–1851; rebuilt 1852–1854 | Destroyed by fire 1936 |
-| [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) | Brighton, UK | 1787; rebuilt c. 1815–1823 | Museum |
-| [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) | King's Cross, London, UK | 1865–1876 | Station and hotel |
+| [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) | Italy | 1883–1884 | Abandoned / derelict |
+
+### Castle
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) | Italy | Early 1600s; remodelled c. 1853–1889 | Abandoned since 1990 |
+| [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) | Italy | From 1850, on the ruins of a medieval fortress; extended until the 1890s | Restored by Fondazione Carisbo |
+
+### Exhibition hall
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | UK | 1850–1851; dismantled and rebuilt larger at Sydenham 1852–1854 | Destroyed by fire 1936 |
+
+### Hotel
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) | UK | Train shed 1865–1868; hotel 1868–1876 | In use as St Pancras International station and the St Pancras Renaissance Hotel |
+
+### Palace
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) | UK | 1787 (Marine Pavilion); rebuilt and extended c. 1815–1823 | Museum, run by Brighton & Hove Museums |
+
+### Railway station
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) | Germany | 1876–1880, replacing a station of 1841 | Demolished 1959–1960 |
+| [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) | Germany | 1892–1898 | In use |
+| [Frankfurt (Main) Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) | Germany | 1883–1888 | In use |
+| [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) | UK | Train shed 1865–1868; hotel 1868–1876 | In use as St Pancras International station and the St Pancras Renaissance Hotel |
+
+### Villa
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) | Italy | From 1879 | In use as a hotel and restaurant |
+| [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) | Italy | 1883–1884 | Abandoned / derelict |
+<!-- catalogue:end -->
 
 Places still to be looked at are listed in [`links/poi.md`](links/poi.md).
 
@@ -69,9 +112,9 @@ Want to see every building with a dome, a tower or a rose window? The [glossary]
 2. Create a folder at `places/<country>/<building-name>/` using lowercase and hyphens (for example `places/uk/crystal-palace/`).
 3. Add a `<building-name>.md` file using the template below.
 4. Put any images in an `images/` folder next to it, and check the licence before uploading.
-5. List its features in the **Features** row, using names from the [glossary](GLOSSARY.md). New features are fine too: the script will add a placeholder for them.
-6. Add the building to the table above.
-7. Run `python3 scripts/build_glossary.py` to update the glossary and links. If you skip this, it runs automatically on GitHub when the change reaches `main`.
+5. Fill in the **Type** row with one or more categories, separated by commas, such as `Railway station, Hotel`. Reuse the names in the [Buildings](#buildings) list where you can.
+6. Fill in the **Features** row using names from the [glossary](GLOSSARY.md). New features are fine too: the script will add a placeholder for them.
+7. Run `python3 scripts/build_index.py` to update the Buildings list, the glossary and the links. If you skip this, it runs automatically on GitHub when the change reaches `main`.
 
 ### Entry template
 
@@ -84,6 +127,7 @@ Want to see every building with a dome, a tower or a rose window? The [glossary]
 | **Built** | Year(s) |
 | **Architect** | Name (if known) |
 | **Style** | |
+| **Type** | Railway station, Hotel |
 | **Original use** | |
 | **Status** | In use / Abandoned / Demolished / Restored |
 | **Features** | Dome, Tower, Rose window |

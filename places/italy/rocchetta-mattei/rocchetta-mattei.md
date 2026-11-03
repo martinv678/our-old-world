@@ -7,6 +7,7 @@
 | **Built** | From 1850, on the ruins of a medieval fortress; extended until the 1890s |
 | **Architect** | Count Cesare Mattei (owner and designer) |
 | **Style** | Eclectic: Moorish, Gothic, Renaissance |
+| **Type** | [Castle](../../../README.md#castle) |
 | **Original use** | Private residence and base for Mattei's medical practice |
 | **Status** | Restored by Fondazione Carisbo; open for guided visits |
 | **Features** | [Onion dome](../../../GLOSSARY.md#onion-dome), [Tower](../../../GLOSSARY.md#tower), [Moorish arches](../../../GLOSSARY.md#moorish-arches), [Courtyard](../../../GLOSSARY.md#courtyard), [Built on older ruins](../../../GLOSSARY.md#built-on-older-ruins) |

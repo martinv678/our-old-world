@@ -7,6 +7,7 @@
 | **Built** | Train shed 1865–1868; hotel 1868–1876 |
 | **Architect** | William Henry Barlow (train shed); George Gilbert Scott (hotel) |
 | **Style** | Gothic Revival hotel; iron and glass train shed |
+| **Type** | [Railway station](../../../README.md#railway-station), [Hotel](../../../README.md#hotel) |
 | **Original use** | London terminus of the Midland Railway, with a luxury hotel |
 | **Status** | In use as St Pancras International station and the St Pancras Renaissance Hotel; Grade I listed |
 | **Features** | [Clock tower](../../../GLOSSARY.md#clock-tower), [Tower](../../../GLOSSARY.md#tower), [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Undercroft](../../../GLOSSARY.md#undercroft) |
