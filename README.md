@@ -46,6 +46,9 @@ Example: [`places/italy/san-remo/villa-sultana/villa-sultana.md`](places/italy/s
 | Building | Location | Built | Status |
 |---|---|---|---|
 | [Villa Sultana](places/italy/san-remo/villa-sultana/villa-sultana.md) | Ospedaletti (near Sanremo), Italy | 1883–1884 | Abandoned |
+| [Castello di Sammezzano](places/italy/reggello/castello-di-sammezzano/castello-di-sammezzano.md) | Reggello (near Florence), Italy | 1600s; remodelled c. 1853–1889 | Abandoned |
+| [Rocchetta Mattei](places/italy/grizzana-morandi/rocchetta-mattei/rocchetta-mattei.md) | Grizzana Morandi (near Bologna), Italy | 1850–1890s | Restored, open for visits |
+| [Villa Crespi](places/italy/orta-san-giulio/villa-crespi/villa-crespi.md) | Orta San Giulio, Italy | From 1879 | Hotel and restaurant |
 
 Places still to be looked at are listed in [`links/poi.md`](links/poi.md).
 
