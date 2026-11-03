@@ -29,6 +29,7 @@ These are some of the ideas that come up again and again when looking at old wor
 ```
 our-old-world/
 ├── README.md
+├── CLAUDE.md                       # Research brief: how entries are researched and written
 ├── GLOSSARY.md                     # Features index (domes, towers, rose windows...)
 ├── mkdocs.yml                      # Website settings
 ├── assets/                         # Website styles
@@ -208,24 +209,48 @@ and what happened to it afterwards.
 
 ## The alternative view
 
-What doesn't add up? For example:
+One subsection per anomaly or theme, each tagged Documented, Observed,
+Reported or Speculative. For example: construction too fast, buried floors,
+architecture matching buildings elsewhere, gaps in the records, or old
+photos and maps that raise questions.
 
-- Construction time, cost or labour that seems unlikely
-- Buried floors, raised ground or signs of a mud flood
-- Architecture matching buildings elsewhere in the world
-- Gaps or contradictions in the records
-- Old photos, maps or postcards that raise questions
+### Anomaly log
 
-Then set out the alternative explanation and what would support it.
+| Anomaly | Evidence | Label | Source |
+|---|---|---|---|
 
-## Open questions
+### Timeline check
+
+Materials, workforce and time against the official dates.
+
+### Comparison buildings
+
+Similar buildings elsewhere, with links.
+
+### What would support the alternative view
+
+### What would weaken it
+
+## Open questions for contributors
 
 Things that still need checking or that contributors could help with.
+
+## Leads to follow up
+
+Archives, documents, photos or people that could move the research on.
+
+## Research notes
+
+Your own observations and hunches.
+
+## Images
 
 ## Sources
 
 Links for both the main story and the alternative view.
 ```
+
+The full research brief, including the research methods and evidence labels, is in [`CLAUDE.md`](https://github.com/martinv678/our-old-world/blob/main/CLAUDE.md).
 
 ## Website
 
