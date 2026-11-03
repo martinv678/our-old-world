@@ -5,7 +5,7 @@ INHERIT: build/nav.yml
 
 site_name: Our Old World
 site_description: Pre-1900 buildings seen two ways - the story we are told, and the alternative.
-site_url: https://martinv678.github.io/our-old-world/
+site_url: https://ourold.world/
 repo_url: https://github.com/martinv678/our-old-world
 repo_name: martinv678/our-old-world
 edit_uri: ""

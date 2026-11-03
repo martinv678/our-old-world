@@ -262,7 +262,7 @@ The full research brief, including the research methods and evidence labels, is 
 
 ## Website
 
-The repo is also published as a website with search, built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and hosted on GitHub Pages at <https://martinv678.github.io/our-old-world/>. It rebuilds automatically every time a change reaches `main`.
+The repo is also published as a website with search, built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) and hosted on GitHub Pages at <https://ourold.world/>. It rebuilds automatically every time a change reaches `main`.
 
 To preview it on your own computer:
 
