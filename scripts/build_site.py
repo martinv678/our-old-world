@@ -63,8 +63,12 @@ def main() -> int:
         for md in sorted(entries, key=lambda p: title_of(p).lower()):
             rel = md.relative_to(DOCS).as_posix()
             lines.append(f"          - {yaml_str(title_of(md))}: {rel}")
-    if (DOCS / "links" / "poi.md").exists():
-        lines.append("  - Points of interest: links/poi.md")
+    research = [("Research list", "research-list.md"), ("Image shortlist", "image-shortlist.md"),
+                ("Points of interest", "poi.md")]
+    research = [(t, f) for t, f in research if (DOCS / "links" / f).exists()]
+    if research:
+        lines.append("  - Research:")
+        lines += [f"      - {yaml_str(t)}: links/{f}" for t, f in research]
     NAV.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     print(f"Site source ready in {DOCS.relative_to(ROOT)}/")

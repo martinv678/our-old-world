@@ -36,6 +36,8 @@ our-old-world/
 │   ├── build_index.py              # Rebuilds the Buildings list and the glossary
 │   └── build_site.py               # Prepares the website build
 ├── links/
+│   ├── research-list.md            # Buildings to add, with progress ticks
+│   ├── image-shortlist.md          # Freely licensed images to add
 │   └── poi.md                      # Points of interest still to be researched
 └── places/
     └── <country>/
@@ -156,7 +158,7 @@ Every building, grouped by type. A building can appear under more than one type 
 | [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) | Italy | 1883–1884 | Abandoned / derelict |
 <!-- catalogue:end -->
 
-Places still to be looked at are listed in [`links/poi.md`](links/poi.md).
+The [research list](links/research-list.md) has over 100 more pre-1900 buildings waiting to be added, with a tick next to each one that's done. Other leads are in [`links/poi.md`](links/poi.md).
 
 ## Glossary of features
 
