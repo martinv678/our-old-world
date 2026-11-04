@@ -10,7 +10,7 @@
 | **Type** | [Town hall](../../../README.md#town-hall) |
 | **Original use** | Council offices, courts, a police station and cells, and a great hall for concerts and meetings |
 | **Status** | In use as a concert and events venue. Grade I listed |
-| **Features** | [Clock tower](../../../GLOSSARY.md#clock-tower), [Tower](../../../GLOSSARY.md#tower), [Undercroft](../../../GLOSSARY.md#undercroft) |
+| **Features** | [Clock tower](../../../GLOSSARY.md#clock-tower), [Tower](../../../GLOSSARY.md#tower), [Undercroft](../../../GLOSSARY.md#undercroft), [Portico](../../../GLOSSARY.md#portico) |
 
 ![Leeds Town Hall today, a dark stone classical building with rows of columns, a tall clock tower with a dome, stone lions by the front steps and traffic in the foreground](images/headrow-today.jpg)
 *Leeds Town Hall today from the Headrow, with the lions of 1867 by the front steps. Supplied by the owner, apparently from Wikimedia Commons; photographer and licence to be confirmed.*

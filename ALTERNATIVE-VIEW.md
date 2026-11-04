@@ -208,7 +208,7 @@ For every building, the **Records audit** should say whether construction photog
 
 ### The photo record so far
 
-All 30 entries have now been checked (November 2026), using online catalogues and search. "None found" means none was found online; the archives listed in each entry haven't been searched in person.
+All 31 entries have now been checked (November 2026), using online catalogues and search. "None found" means none was found online; the archives listed in each entry haven't been searched in person.
 
 | Building | Built | Style | Construction images found |
 |---|---|---|---|
@@ -229,6 +229,7 @@ All 30 entries have now been checked (November 2026), using online catalogues an
 | [St Pancras](places/uk/st-pancras/st-pancras.md) | Train shed 1865–68; hotel 1868–76 | Gothic hotel; iron shed | **Yes for the train shed** (the basement in 1867, the roof in 1868). **None found yet for the Gothic hotel** |
 | [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | 1867–71 | Italianate | **Yes**: the hall has published a set, including the lower walls and the dome going up |
 | [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) | 1868–77 | Gothic Revival | **None found**: only an 1877 album of the finished building |
+| [Lyceum Theatre, Newport](places/uk/lyceum-theatre-newport/lyceum-theatre-newport.md) | c. 1867; rebuilt 1896–97 | Classical, Corinthian portico | **None found**: the earliest image found is an 1868 engraving of the finished Victoria Assembly Rooms |
 | [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) | 1865–73; rebuilt 1873–75 | Exhibition palace | **None found** for either build: only the fire of 1873, the ruins, and the finished palace |
 | [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) | 1873–81 | Romanesque Revival | **Some**: Rupert Potter photographed the site in 1873, the year work began (V&A). A picture library also lists a construction view of 1873–80, not yet checked |
 | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | 1873–82 | Gothic Revival | **None found**: designs, a finished-looking engraving and later postcards only |
@@ -247,7 +248,7 @@ All 30 entries have now been checked (November 2026), using online catalogues an
 
 **What it shows so far:**
 
-- **Totals:** 8 buildings with construction photographs (the Scott Monument, Cologne, the Crystal Palace, the Galleria, the St Pancras train shed, the Albert Hall, Tower Bridge and Chicago's Palace of Fine Arts), 2 with some (Westminster and the Natural History Museum), 2 possible (the Trocadéro and Dresden), 2 with lithographs or engravings only (Saint Isaac's and Melbourne), 2 from before photography (Palmanova and the Royal Pavilion), and 14 with none found (including the Palm House at Kew, St George's Hall and Leeds Town Hall, added later).
+- **Totals:** 8 buildings with construction photographs (the Scott Monument, Cologne, the Crystal Palace, the Galleria, the St Pancras train shed, the Albert Hall, Tower Bridge and Chicago's Palace of Fine Arts), 2 with some (Westminster and the Natural History Museum), 2 possible (the Trocadéro and Dresden), 2 with lithographs or engravings only (Saint Isaac's and Melbourne), 2 from before photography (Palmanova and the Royal Pavilion), and 15 with none found (including the Palm House at Kew, St George's Hall, Leeds Town Hall and the Lyceum in Newport, added later).
 - **Iron and engineering were photographed; stone and brick often weren't.** The clearest pattern is not about style but about what was being built. Iron and glass structures, bridges and world's fair buildings were photographed while going up: the Crystal Palace, the Galleria's iron frame, the St Pancras train shed, the Albert Hall dome, Tower Bridge's steel and the Chicago fair. At **St Pancras**, the iron train shed was photographed but no photograph of the Gothic hotel going up has been found, even though they were built side by side.
 - **The owner's pattern partly holds.** The buildings with no construction photographs found include the Gothic civic buildings (Manchester Town Hall, Royal Courts of Justice), the St Pancras hotel, and the Moorish and eclectic villas and castles (Sammezzano, Rocchetta Mattei, Villa Crespi, Villa Sultana). These are the buildings that look most like older periods.
 - **But there are exceptions both ways.** The Gothic [Scott Monument](places/uk/scott-monument/scott-monument.md) in Edinburgh was photographed at almost every stage in 1843–44, in the very first years of photography. Cologne Cathedral and the Palace of Westminster, both Gothic, were photographed too, and so was the Natural History Museum's site. Tower Bridge was designed to look medieval and was photographed in detail. And some buildings in newer styles, such as the German stations, haven't turned up construction photographs either.

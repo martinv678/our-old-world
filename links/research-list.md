@@ -4,7 +4,7 @@ Pre-1900 buildings and places to research for the project, grouped by region. �
 
 Dates are approximate starting points, so check them when researching. "Begun" means the building was started before 1900 but finished later.
 
-**Progress: 30 of 138 done.**
+**Progress: 31 of 139 done.**
 
 ## United Kingdom and Ireland
 
@@ -31,6 +31,7 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ⬜ | Oxford University Museum of Natural History | Oxford | 1855–60 | Gothic 'cathedral of science' with an iron and glass court |
 | ⬜ | Leeds Corn Exchange | Leeds | 1861–63 | Brodrick's domed oval trading hall |
 | ⬜ | Grand Hotel | Scarborough | 1863–67 | Brodrick's giant seaside hotel |
+| ✅ | [Lyceum Theatre](../places/uk/lyceum-theatre-newport/lyceum-theatre-newport.md) | Newport, Wales | c. 1867; rebuilt 1896–97 | Corinthian portico; gutted by fire 1896; demolished 1961 |
 | ⬜ | Albert Memorial | London | 1864–76 | Gothic canopy over a gilded statue, facing the Albert Hall |
 | ⬜ | Birmingham Town Hall | Birmingham | 1832–34 | Roman-temple concert hall on a high base |
 | ⬜ | Forth Bridge | Firth of Forth, Scotland | 1882–90 | Giant steel cantilever bridge by Tower Bridge's steel contractor |

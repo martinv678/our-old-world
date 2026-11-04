@@ -46,6 +46,7 @@ The list below is generated automatically by `scripts/build_index.py`, so don't 
 | 1865 | [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) | UK | First palace c. 1865–1873 (burned 1873); rebuilt 1873–1875 | Exhibition hall |
 | 1865 | [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) | Italy | 1865–1877 | Shopping arcade |
 | 1865 | [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) | UK | Train shed 1865–1868; hotel 1868–1876 | Railway station, Hotel |
+| 1867 | [Lyceum Theatre, Newport](places/uk/lyceum-theatre-newport/lyceum-theatre-newport.md) | UK | c. 1867 as the Victoria Assembly Rooms; gutted by fire 1896; rebuilt inside as the Lyceum Theatre 1896–1897 | Theatre |
 | 1867 | [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | UK | 1867–1871 | Concert hall |
 | 1868 | [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) | UK | 1868–1877 | Town hall |
 | 1873 | [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) | UK | 1873–1881 | Museum |

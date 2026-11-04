@@ -21,6 +21,7 @@ The building lists and the index below are generated automatically from the **Fe
 | [Monolithic columns](#monolithic-columns) | 1 |
 | [Moorish arches](#moorish-arches) | 3 |
 | [Onion dome](#onion-dome) | 2 |
+| [Portico](#portico) | 3 |
 | [Raised streets](#raised-streets) | 1 |
 | [Rooftop sculpture](#rooftop-sculpture) | 1 |
 | [Rose window](#rose-window) | 1 |
@@ -367,6 +368,20 @@ A continuous arched ceiling or roof, shaped like half a barrel or tunnel, runnin
 <!-- buildings:start -->
 **Buildings (1):**
 
+- [St George's Hall, Liverpool](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) – UK
+<!-- buildings:end -->
+
+## Portico
+
+A porch in the form of a temple front: a row of columns carrying a roof, often with a triangular pediment above, built across the entrance of a building. It comes from the temples of ancient Greece and Rome.
+
+**Why it matters:** in the 19th century, temple porticos with Corinthian or Ionic columns were put on town halls, assembly rooms, theatres, banks and museums across Britain, Europe, Russia and the Americas at the same time. That makes them a clear example of the [shared worldwide architecture](ALTERNATIVE-VIEW.md) theme, and of grand fronts on buildings in young or small towns.
+
+<!-- buildings:start -->
+**Buildings (3):**
+
+- [Leeds Town Hall](places/uk/leeds-town-hall/leeds-town-hall.md) – UK
+- [Lyceum Theatre, Newport](places/uk/lyceum-theatre-newport/lyceum-theatre-newport.md) – UK
 - [St George's Hall, Liverpool](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) – UK
 <!-- buildings:end -->
 

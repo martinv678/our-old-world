@@ -10,7 +10,7 @@
 | **Type** | [Concert hall](../../../README.md#concert-hall), [Law court](../../../README.md#law-court) |
 | **Original use** | Concert hall and assize courts under one roof |
 | **Status** | In use as a venue. Grade I listed. Courts closed 1984; restored and reopened about 2007 |
-| **Features** | [Barrel vault](../../../GLOSSARY.md#barrel-vault), [Undercroft](../../../GLOSSARY.md#undercroft) |
+| **Features** | [Barrel vault](../../../GLOSSARY.md#barrel-vault), [Undercroft](../../../GLOSSARY.md#undercroft), [Portico](../../../GLOSSARY.md#portico) |
 
 ![St George's Hall from Lime Street, a long stone building with rows of giant Corinthian columns on a raised base with steps, and an equestrian statue in front](images/exterior-today.jpg)
 *St George's Hall today, from the east, with its Corinthian colonnade on a raised base. Supplied by the owner, apparently from Wikimedia Commons; photographer and licence to be confirmed.*
