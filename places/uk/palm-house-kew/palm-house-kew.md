@@ -12,7 +12,8 @@
 | **Status** | In use. Grade I listed, within the Kew World Heritage Site. Restored 1955–57 and 1985–88; due to close in 2027 for a five-year renovation |
 | **Features** | [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Underground tunnel](../../../GLOSSARY.md#underground-tunnel), [Tower](../../../GLOSSARY.md#tower), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |
 
-*Images to be added by the owner.*
+![The Palm House at Kew today, a long curved glasshouse with a tall central section and lower wings, behind flower beds and lawns](images/palm-house-today.jpg)
+*The Palm House today, seen across its flower beds. Supplied by the owner, apparently from Wikimedia Commons; photographer and licence to be confirmed.*
 
 ## Overview
 
@@ -78,7 +79,7 @@ It also helps with the "lost energy technology" theme. The Campanile was a real 
 
 ### No construction images found
 
-**Observed** (none found so far) – No photographs or engravings of the Palm House being built have been found yet. It was built in 1844–48, in the first years of photography, when photographs were rare and needed long exposures, so this is less surprising than for buildings of the 1870s. Engravings of the works in *The Builder* or the *Illustrated London News* are more likely. See the [photo record](../../../ALTERNATIVE-VIEW.md#missing-construction-photographs-the-photo-record-argument).
+**Observed** (none found so far) – No photographs or engravings of the Palm House being built have been found yet, by the owner or in online searches. The earliest image in this entry is a hand-coloured print of the finished building, probably from the 1850s–60s, which already shows the Campanile chimney across the pond. It was built in 1844–48, in the first years of photography, when photographs were rare and needed long exposures, so this is less surprising than for buildings of the 1870s. Engravings of the works in *The Builder* or the *Illustrated London News* are more likely. See the [photo record](../../../ALTERNATIVE-VIEW.md#missing-construction-photographs-the-photo-record-argument).
 
 ### Dates and inscriptions
 
@@ -165,12 +166,24 @@ It also helps with the "lost energy technology" theme. The Campanile was a real 
 
 <!-- Owner's notes: add observations, hunches and links here. Claude reads this section first and doesn't remove it. -->
 
+- Owner's observation: there are no construction photographs of the Palm House, only images of the finished building. See [No construction images found](#no-construction-images-found).
+
 ## Images
 
-Images will be added by the owner. The most useful for this entry would be:
+Click any image to enlarge it.
+
+![The Palm House at Kew today, a long curved glasshouse with a tall central section and lower wings, behind flower beds and lawns](images/palm-house-today.jpg)
+*The Palm House today, seen across its flower beds. Supplied by the owner, apparently from Wikimedia Commons; photographer and licence to be confirmed.*
+
+![Hand-coloured print titled "Great Palm House, Kew Gardens", showing the glasshouse on the right, the pond, a tall tower in the distance, the Pagoda at far right, and visitors in Victorian dress](images/great-palm-house-print.jpg)
+*"Great Palm House, Kew Gardens", hand-coloured print numbered 46, probably 1850s–60s (date not confirmed; the women's crinolines suggest these years). The Palm House is on the right, with palms visible through the glass. Across the pond stands a tall tower, which appears to be Burton's Campanile, the disguised chimney for the boilers, and on the far right is the Pagoda of 1762. Supplied by the owner; publisher and licence to be confirmed, though a print of this age is likely to be out of copyright.*
+
+**No construction images.** The owner has looked and found no photographs or engravings of the Palm House being built, only views of the finished building like the print above.
+
+Other images that would be useful:
 
 - any **engraving** of the Palm House being built in 1844–48
-- the **Campanile** near Victoria Gate
+- the **Campanile** near Victoria Gate today
 - the **tunnel** and its railway, and the boiler rooms
 - the Palm House **during the 1985–88 restoration**, stripped to its frame
 - **founders' marks** or dates on the ironwork
