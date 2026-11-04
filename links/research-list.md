@@ -4,7 +4,7 @@ Pre-1900 buildings and places to research for the project, grouped by region. �
 
 Dates are approximate starting points, so check them when researching. "Begun" means the building was started before 1900 but finished later.
 
-**Progress: 26 of 134 done.**
+**Progress: 27 of 134 done.**
 
 ## United Kingdom and Ireland
 
@@ -19,7 +19,7 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ✅ | [Natural History Museum](../places/uk/natural-history-museum/natural-history-museum.md) | London | 1873–81 | Romanesque 'cathedral of nature' with towers |
 | ✅ | [Royal Courts of Justice](../places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | London | 1873–82 | Vast Gothic complex; spires and towers |
 | ✅ | [Tower Bridge](../places/uk/tower-bridge/tower-bridge.md) | London | 1886–94 | Steel frame hidden inside 'medieval' stone towers |
-| ⬜ | Palm House, Kew Gardens | London | 1844–48 | Early iron and glass giant |
+| ✅ | [Palm House, Kew Gardens](../places/uk/palm-house-kew/palm-house-kew.md) | London | 1844–48 | Early iron and glass giant |
 | ⬜ | Tilbury Fort | Essex | 1670s | English star fort on the Thames |
 | ⬜ | Berwick-upon-Tweed walls | Northumberland | 1558–70 | Bastioned town walls (star fort design) |
 | ✅ | [Manchester Town Hall](../places/uk/manchester-town-hall/manchester-town-hall.md) | Manchester | 1868–77 | Gothic clock tower |

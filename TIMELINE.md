@@ -36,6 +36,7 @@ The list below is generated automatically by `scripts/build_index.py`, so don't 
 |---|---|---|---|---|
 | 1818 | [Saint Isaac's Cathedral](places/russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) | Russia | 1818–1858 | Cathedral |
 | 1840 | [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) | UK | Rebuilt c. 1840–1870 after the fire of 1834; clock tower completed c. 1859 | Government building |
+| 1844 | [Palm House, Kew Gardens](places/uk/palm-house-kew/palm-house-kew.md) | UK | 1844–1848 | Glasshouse |
 | 1850 | [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) | Italy | From 1850, on the ruins of a medieval fortress; extended until the 1890s | Castle |
 | 1850 | [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | UK | 1850–1851; dismantled and rebuilt larger at Sydenham 1852–1854 | Exhibition hall |
 | 1857 | [Goryōkaku](places/japan/goryokaku/goryokaku.md) | Japan | c. 1857–1866 (sources differ) | Star fort |

@@ -14,8 +14,8 @@ The building lists and the index below are generated automatically from the **Fe
 | [Courtyard](#courtyard) | 1 |
 | [Dome](#dome) | 8 |
 | [Inscriptions](#inscriptions) | 2 |
-| [Iron and glass construction](#iron-and-glass-construction) | 9 |
-| [Landscaped park](#landscaped-park) | 8 |
+| [Iron and glass construction](#iron-and-glass-construction) | 10 |
+| [Landscaped park](#landscaped-park) | 9 |
 | [Minaret](#minaret) | 2 |
 | [Monolithic columns](#monolithic-columns) | 1 |
 | [Moorish arches](#moorish-arches) | 3 |
@@ -26,9 +26,9 @@ The building lists and the index below are generated automatically from the **Fe
 | [Spire](#spire) | 3 |
 | [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
-| [Tower](#tower) | 12 |
+| [Tower](#tower) | 13 |
 | [Undercroft](#undercroft) | 1 |
-| [Underground tunnel](#underground-tunnel) | 3 |
+| [Underground tunnel](#underground-tunnel) | 4 |
 <!-- index:end -->
 
 ---
@@ -138,7 +138,7 @@ Large buildings framed in cast or wrought iron and covered in glass, such as exh
 **Why it matters:** enormous iron and glass structures appeared around the world in a few decades and were often put up very quickly. Many were later demolished or burned.
 
 <!-- buildings:start -->
-**Buildings (9):**
+**Buildings (10):**
 
 - [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) – Germany
 - [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) – Germany
@@ -146,6 +146,7 @@ Large buildings framed in cast or wrought iron and covered in glass, such as exh
 - [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) – Italy
 - [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) – UK
 - [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) – UK
+- [Palm House, Kew Gardens](places/uk/palm-house-kew/palm-house-kew.md) – UK
 - [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
@@ -158,13 +159,14 @@ Large designed grounds around a building, often with exotic trees, paths and wat
 **Why it matters:** mature parks with exotic trees raise questions about when they were really planted, and whether the grounds are older than the building's official date.
 
 <!-- buildings:start -->
-**Buildings (8):**
+**Buildings (9):**
 
 - [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) – Australia
 - [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) – Italy
 - [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) – Italy
 - [Goryōkaku](places/japan/goryokaku/goryokaku.md) – Japan
 - [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) – UK
+- [Palm House, Kew Gardens](places/uk/palm-house-kew/palm-house-kew.md) – UK
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
 - [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) – USA
@@ -305,7 +307,7 @@ A tall structure rising above the main body of a building, whether square, round
 **Why it matters:** towers and spires are common in old world architecture. Some theories link them to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (12):**
+**Buildings (13):**
 
 - [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) – France
 - [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
@@ -315,6 +317,7 @@ A tall structure rising above the main body of a building, whether square, round
 - [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) – UK
 - [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) – UK
 - [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
+- [Palm House, Kew Gardens](places/uk/palm-house-kew/palm-house-kew.md) – UK
 - [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
@@ -340,9 +343,10 @@ A passage running underground from a building, for example to another building, 
 **Why it matters:** tunnels and hidden passages come up often in old world research. Where they go, who built them and when are often poorly recorded.
 
 <!-- buildings:start -->
-**Buildings (3):**
+**Buildings (4):**
 
 - [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) – Germany
+- [Palm House, Kew Gardens](places/uk/palm-house-kew/palm-house-kew.md) – UK
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
 <!-- buildings:end -->

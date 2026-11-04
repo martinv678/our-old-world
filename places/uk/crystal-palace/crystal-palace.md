@@ -109,6 +109,7 @@ Glass and iron buildings full of timber floors and exhibits were genuinely vulne
 | Building | Where | Built | Fate |
 |---|---|---|---|
 | Great Conservatory, Chatsworth | Derbyshire, UK | 1836–41 | Paxton's earlier glasshouse; demolished 1920 |
+| [Palm House, Kew Gardens](../palm-house-kew/palm-house-kew.md) | London, UK | 1844–48 | Survives; curved wrought iron and glass by Burton and Turner |
 | New York Crystal Palace | New York, USA | 1853 | Burned 1858 |
 | Glaspalast | Munich, Germany | 1854 | Burned 1931 |
 | [Alexandra Palace](../alexandra-palace/alexandra-palace.md) | London, UK | 1873 | Burned 16 days after opening; rebuilt 1875 |

@@ -64,7 +64,7 @@ The town or city goes in the details table at the top of each entry, not in the 
 Every building, grouped by type. A building can appear under more than one type (for example a station that is also a hotel). This list is generated automatically from each entry's **Type** row, so there's no need to edit it by hand.
 
 <!-- catalogue:start -->
-**Jump to:** [Bridge](#bridge) (1) · [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Concert hall](#concert-hall) (1) · [Exhibition hall](#exhibition-hall) (5) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Law court](#law-court) (1) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Town hall](#town-hall) (1) · [Villa](#villa) (2)
+**Jump to:** [Bridge](#bridge) (1) · [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Concert hall](#concert-hall) (1) · [Exhibition hall](#exhibition-hall) (5) · [Glasshouse](#glasshouse) (1) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Law court](#law-court) (1) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Town hall](#town-hall) (1) · [Villa](#villa) (2)
 
 ### Bridge
 
@@ -107,6 +107,12 @@ Every building, grouped by type. A building can appear under more than one type 
 | [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) | UK | First palace c. 1865–1873 (burned 1873); rebuilt 1873–1875 | In use as an events venue. Burned 1873, rebuilt 1875 |
 | [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | UK | 1850–1851; dismantled and rebuilt larger at Sydenham 1852–1854 | Destroyed by fire 1936 |
 | [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) | USA | 1891–1893; rebuilt in stone c. 1929–1933 | In use as the Griffin Museum of Science and Industry |
+
+### Glasshouse
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Palm House, Kew Gardens](places/uk/palm-house-kew/palm-house-kew.md) | UK | 1844–1848 | In use. Grade I listed, within the Kew World Heritage Site. Restored 1955–57 and 1985–88 |
 
 ### Government building
 
