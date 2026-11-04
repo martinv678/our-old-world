@@ -107,7 +107,34 @@ For each building, the **Timeline check** should include a **delivery check**: h
 
 If each cart made three or four round trips a day from a wharf, rail yard or brickfield a mile or two away, about 13 loads a day needs only four or five carts. For a single building, the delivery side is small: the Albert Hall's whole yearly need (about 2 million bricks) is about a tenth of one per cent of Britain's 1840 output.
 
-**The bigger question is the total.** Britain's 1.7 billion bricks a year in 1840 works out at about 5.7 million bricks every working day, or more than 11,000 one-horse loads a day if all of it went by road, and output rose after 1850. So the owner's picture of a constant building site everywhere is, in a sense, what the records show: Victorian Britain really was building on an enormous scale. The test is whether the recorded capacity (brickworks, quarries, ironworks, barges, canals, railways, horses and workers) matches everything that was built. That has to be checked across a whole city or region, not one building at a time.
+**The bigger question is the total.** The great public buildings were only a small part of what was being built. Most bricks went into ordinary houses, along with shops, pubs, theatres, chapels, schools, warehouses, railway viaducts and sewers. So the test has to be done for a whole city, everything included.
+
+#### A whole city: London in 1879
+
+*The Builder* estimated in 1879, when brickmaking was at or near its peak, that **London used about 700 million bricks a year**. By the late 1890s, Greater London's demand is put at about **1,470 million a year**. Almost half of London's bricks around 1880 are said to have come from east Kent, by barge. These figures already include the houses, theatres and everything else.
+
+| | London, 1879 | Greater London, late 1890s |
+|---|---|---|
+| Bricks a year | about 700 million | about 1,470 million |
+| Bricks a working day (300 days) | about 2.3 million | about 4.9 million |
+| Weight a day (about 3 kg a brick) | about 7,000 tonnes | about 14,700 tonnes |
+| One-horse loads a day (500 bricks), if all went by road | about 4,700 | about 9,800 |
+| Carts needed, at three trips a day each | about 1,600 | about 3,300 |
+| Bricklayers laying at once, at 500–1,000 bricks a day each | about 2,300–4,700 | about 4,900–9,800 |
+
+How this compares with what London had:
+
+- **Horses:** about 1,600 carts in 1879, or about 3,300 in the late 1890s, would be about 0.5–1% of the more than 300,000 horses working in London in 1893.
+- **Barges:** if about half the bricks (350 million a year in 1879) came up the Thames from Kent, and a typical sailing barge carried about 120 tons (sources give 80–150), about 40,000 bricks a load, that's about 8,750 barge-loads a year, or about 29 a day. There were about 2,000 Thames sailing barges working around 1900 (one source says 4,000), so each would have needed to carry bricks only four or five times a year.
+- **The great buildings' share:** the Royal Courts of Justice, at about 4.4 million bricks a year if the 35 million figure is right, would have been about 0.6% of London's annual use. The Royal Albert Hall, at about 2 million a year, about 0.3%.
+- **Bricklayers:** London would have needed several thousand bricklayers laying at once, with labourers, scaffolders and carters on top. The census occupation tables for 1871, 1881 and 1891 give the real numbers of bricklayers in London, and should be checked against this.
+
+So, on the period figures found so far, the city-wide demand, houses included, could be carried by a small share of London's horses and barges. The owner's point stands, though: this is only the bricks. A full check also needs:
+
+- **stone, timber, iron, glass, slate, lime, cement and sand**, which all had to be quarried, made and carried too
+- **the brickmaking itself**: the brickfields, clay, kilns and fuel (London stock bricks were fired in clamps with ash and household refuse mixed into the clay), and the workers to make 700 million bricks a year
+- **fodder and stabling** for the horses, and the roads, wharves and goods yards to handle it all
+- **the railways, docks and sewers** that were being built at the same time and used materials of their own
 
 ### What critics say
 
@@ -119,6 +146,8 @@ If each cart made three or four round trips a day from a wharf, rail yard or bri
 ### How to test it
 
 - For each building, find the **contractors' accounts** and the names of the **brickmakers, quarries and ironworks** that supplied it.
+- Find the number of **bricklayers, labourers and carters** in each city in the census occupation tables (1871, 1881, 1891), and compare it with the workforce the city-wide brick figures need.
+- Repeat the city-wide working for **stone, timber and iron**, not just bricks.
 - Compare the **total material needed** for a city's major buildings in a decade with the **recorded output** of its brickworks and quarries (brick tax returns up to 1850, trade directories and Board of Trade figures after).
 - Look for **photographs and engravings** of brickfields, kilns, barges, goods yards and building sites. Where a big building has none (see the [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md#no-construction-photographs-found)), note it.
 - Check the **transport records**: canal and river tolls (for example, tolls charged per thousand bricks on barges), railway goods traffic and local carting firms.
@@ -181,6 +210,9 @@ Knowing the strongest counter-arguments makes the alternative view sharper. Thes
 - Benfleet Community Archive – The Thames barges and tolls on bricks: https://www.benfleethistory.org.uk/content/buildings/buildings_and_development/brickworks/the_thames_barges_and_tolls_on_bricks
 - Wikipedia – Thames sailing barge: https://en.wikipedia.org/wiki/Thames_sailing_barge
 - Wuxtiple (blog) – Brick carting (500 bricks to a one-horse dray): https://wuxtiple.blogspot.com/2013/07/brick-carting.html
+- RIBA Journal – Book review: *Bricks of Victorian London: A Social and Economic History* (Greater London demand in the 1890s): https://www.ribaj.com/culture/book-review-bricks-of-victorian-london-a-social-and-economic-history
+- Wikipedia – London stock brick: https://en.wikipedia.org/wiki/London_stock_brick
+- Victorian Web – Thames sailing barges (about 2,000 in 1900): https://victorianweb.org/technology/ships/9.html
 - Elephant and Castle history – Elephant's horse-powered past (W. J. Gordon, *The Horse World of London*, 1893): https://www.elephantandcastle.org.uk/a-brief-history/elephants-horse-powered-past/
 - Wikipedia – Tartarian Empire: https://en.wikipedia.org/wiki/Tartarian_Empire
 - Explorersweb – Exploration Mysteries: Tartarian Empire: https://explorersweb.com/exploration-mysteries-tartarian-empire/
