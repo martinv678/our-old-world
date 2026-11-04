@@ -206,21 +206,46 @@ For every building, the **Records audit** should say whether construction photog
 
 ### The photo record so far
 
+All 26 entries have now been checked (November 2026), using online catalogues and search. "None found" means none was found online; the archives listed in each entry haven't been searched in person.
+
 | Building | Built | Style | Construction images found |
 |---|---|---|---|
-| [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | 1850–51; rebuilt 1852–54 | Iron and glass | **Yes**: the rebuilding at Sydenham was photographed by Philip Henry Delamotte |
+| [Palmanova](places/italy/palmanova/palmanova.md) | 1593 onwards | Renaissance star fort | **Before photography**: plans and engravings only |
+| [Royal Pavilion](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) | 1815–23 | Indian-style exterior | **Before photography**: drawings and prints only |
+| [Saint Isaac's Cathedral](places/russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) | 1818–58 | Neoclassical | **Lithographs, yes**: Montferrand's own album shows the columns being raised and the building in scaffolding (1845). The earliest photograph found is from August 1856, near completion |
 | [Palace of Westminster](places/uk/palace-of-westminster/palace-of-westminster.md) | c. 1840–70 | Gothic Revival | **Some**: Roger Fenton's view of about 1857 shows the palace under construction behind Westminster Abbey |
-| [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) | 1248–1473; 1842–80 | Gothic | **Yes**: Bisson Frères photographed the south transept with scaffolding in 1854, and later photographs show the towers being built |
-| [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | 1867–71 | Italianate, Roman amphitheatre plan | **Yes**: the hall has published a set, including the dome going up |
-| [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) | 1868–77 | Gothic Revival | **None found so far**: only an 1877 album of the finished building |
-| [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | 1873–82 | Gothic Revival | **None found so far**: designs, a finished-looking engraving and later postcards only |
-| [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) | 1873–81 | Romanesque Revival | Not yet checked |
-| [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) | 1873; rebuilt 1875 | Exhibition palace | Not yet checked |
-| [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) | 1879–80 | Exhibition hall | **Engraving** of the works; photographs not yet checked |
+| [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) | 1248–1473; 1842–80 | Gothic | **Yes**: Bisson Frères photographed the south transept with scaffolding in 1854, and later photographs (c. 1874–81) show the towers being built |
+| [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | 1850–51; rebuilt 1852–54 | Iron and glass | **Yes**: the rebuilding at Sydenham was photographed by Philip Henry Delamotte |
+| [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) | Remodelled c. 1853–89 | Moorish Revival | **None found**: only interior views of about 1880–1900 |
+| [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) | 1850–1890s | Eclectic | **None found**: only later views of the finished building |
+| [Goryōkaku](places/japan/goryokaku/goryokaku.md) | c. 1857–66 | Star fort | **None found**: the earliest image found is an 1873 illustration |
+| [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) | 1865–77 | Neo-Renaissance with iron and glass | **Yes**: a full photographic record of the building site in 1866–67 by Deroche & Heyland, probably commissioned by the city, showing scaffolding, the cast-iron frame and a wooden tower at the Octagon |
+| [St Pancras](places/uk/st-pancras/st-pancras.md) | Train shed 1865–68; hotel 1868–76 | Gothic hotel; iron shed | **Yes for the train shed** (the basement in 1867, the roof in 1868). **None found yet for the Gothic hotel** |
+| [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | 1867–71 | Italianate | **Yes**: the hall has published a set, including the lower walls and the dome going up |
+| [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) | 1868–77 | Gothic Revival | **None found**: only an 1877 album of the finished building |
+| [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) | 1865–73; rebuilt 1873–75 | Exhibition palace | **None found** for either build: only the fire of 1873, the ruins, and the finished palace |
+| [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) | 1873–81 | Romanesque Revival | **Some**: Rupert Potter photographed the site in 1873, the year work began (V&A). A picture library also lists a construction view of 1873–80, not yet checked |
+| [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | 1873–82 | Gothic Revival | **None found**: designs, a finished-looking engraving and later postcards only |
+| [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) | 1876–80 | Historicist brick and terracotta | **None found**: photographs catalogued as "1875/1880" appear to show the finished station |
+| [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) | 1876–78 | Eclectic, Moorish | **Possibly**: a recent exhibition on the Chaillot hill is said to have used photographs of its construction; not yet confirmed. Many photographs of the finished palace from 1878 |
+| [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) | From 1879 | Moorish Revival | **None found**: earliest found is an interior of 1901–10 |
+| [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) | 1879–80 | Eclectic | **Engraving, yes**: "The Works at the Melbourne International Exhibition". No photograph found; the earliest found are of the 1880 exhibition |
+| [Villa Sultana](places/italy/villa-sultana/villa-sultana.md) | 1883–84 | Eclectic, three domes | **None found** |
+| [Frankfurt Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) | 1883–88 | Neo-Renaissance; iron shed | **None found**: a Swiss building journal of 1886 described the works and may have illustrations |
 | [Tower Bridge](places/uk/tower-bridge/tower-bridge.md) | 1886–94 | Victorian Gothic over steel | **Yes**: the bare steel towers were photographed before the stone was added |
-| Other entries | | | Not yet checked |
+| [Seattle Underground](places/usa/seattle-underground/seattle-underground.md) | 1889–1890s | Romanesque and commercial | **None found** for the raising of the streets in the 1890s. The later hill regrades of 1905–29 are photographed in great detail |
+| [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) | 1891–93 | Beaux-Arts classical | **Yes**: a view of 1892 shows its south front under construction, and C. D. Arnold's albums record the whole fair being built (383 prints, 1891–92) |
+| [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) | 1892–98 | Historicist; iron sheds | **Possibly**: an archive photograph titled "Bauarbeiten am Dach" (work on the roof) is undated; not yet confirmed |
 
-**What it shows so far:** the two buildings with no construction images found, Manchester Town Hall and the Royal Courts of Justice, are both Gothic Revival, which fits the owner's argument. But two other Gothic buildings, the Palace of Westminster and Cologne Cathedral, do have construction photographs, and so does Tower Bridge, which was deliberately dressed to look medieval. So on the evidence so far, style alone doesn't decide whether a building was photographed. More buildings are needed before any pattern can be relied on (**Speculative**).
+**What it shows so far:**
+
+- **Totals:** 7 buildings with construction photographs (Cologne, the Crystal Palace, the Galleria, the St Pancras train shed, the Albert Hall, Tower Bridge and Chicago's Palace of Fine Arts), 2 with some (Westminster and the Natural History Museum), 2 possible (the Trocadéro and Dresden), 2 with lithographs or engravings only (Saint Isaac's and Melbourne), 2 from before photography (Palmanova and the Royal Pavilion), and 11 with none found.
+- **Iron and engineering were photographed; stone and brick often weren't.** The clearest pattern is not about style but about what was being built. Iron and glass structures, bridges and world's fair buildings were photographed while going up: the Crystal Palace, the Galleria's iron frame, the St Pancras train shed, the Albert Hall dome, Tower Bridge's steel and the Chicago fair. At **St Pancras**, the iron train shed was photographed but no photograph of the Gothic hotel going up has been found, even though they were built side by side.
+- **The owner's pattern partly holds.** The buildings with no construction photographs found include the Gothic civic buildings (Manchester Town Hall, Royal Courts of Justice), the St Pancras hotel, and the Moorish and eclectic villas and castles (Sammezzano, Rocchetta Mattei, Villa Crespi, Villa Sultana). These are the buildings that look most like older periods.
+- **But there are exceptions both ways.** Cologne Cathedral and the Palace of Westminster, both Gothic, were photographed, and so was the Natural History Museum's site. Tower Bridge was designed to look medieval and was photographed in detail. And some buildings in newer styles, such as the German stations, haven't turned up construction photographs either.
+- **Who paid matters.** The photographed buildings were mostly big public or engineering showpieces with official photographers (the city of Milan, the Chicago fair, the Crystal Palace Company, the Albert Hall). The private villas and castles were built for individuals who may never have commissioned photographs.
+
+So far the evidence fits the critics' explanation (engineering showpieces were photographed, other buildings often weren't) at least as well as the owner's (older-looking buildings have no construction record). The St Pancras hotel, Manchester Town Hall and the Royal Courts of Justice are the best test cases: if a proper archive search still finds nothing for any of them, while their iron and engineering neighbours were photographed, that would strengthen the owner's argument (**Speculative**).
 
 ### What critics say
 
@@ -287,6 +312,22 @@ Knowing the strongest counter-arguments makes the alternative view sharper. Thes
 
 ## Sources
 
+- V&A – Site of the Natural History Museum, 1873 (Rupert Potter): https://collections.vam.ac.uk/item/O1321175/site-of-the-natural-history-photograph-rupert-potter
+- Structurae – St Pancras station (the train shed under construction in 1868): https://structurae.net/en/structures/saint-pancras-station
+- History Today – In Focus: St Pancras rises (photograph of 1867): https://www.historytoday.com/node/53277
+- Comune di Milano, Fotografie in Comune – Deroche & Heyland (construction of the Galleria, 1866–67): https://fotografieincomune.comune.milano.it/fotografieincomune/en/autori/AUF-3a010-0000028
+- Lombardia Beni Culturali – Galleria Vittorio Emanuele II, scaffolding, 1866–67: https://lombardiabeniculturali.it/fotografie/schede-complete/IMM-3a010-0016167
+- Canadian Centre for Architecture – Fine Arts Building under construction, 1892: https://www.cca.qc.ca/en/search/details/collection/object/12390
+- Chicago Public Library – C. D. Arnold photographic collection: https://www.chipublib.org/fa-c-d-arnold-photographic-collection/
+- Royal Collection Trust – St Isaac's Cathedral, August 1856: https://albert.rct.uk/collections/photographs-collection/landscape-nature-and-architecture/st-isaacs
+- Heritage Images – Montferrand, view of St Isaac's surrounded by wooden scaffolding, 1845: https://www.heritage-images.com/preview/view-of-the-cathedral-surrounded-by-wooden-scaffolding-from-the-2593109
+- Batiweb – Esprit(s) des lieux: the history of the Chaillot hill in images: https://www.batiweb.com/actualites/evenement-du-batiment/esprit-s-des-lieux-l-histoire-en-images-de-la-colline-de-chaillot-18826
+- Deutsche Digitale Bibliothek – Dresden Hauptbahnhof (archive photographs): https://www.deutsche-digitale-bibliothek.de/item/TJC6GJEAOGDXO3LDIOY7UUVX2VLU3Z5G
+- Google Arts & Culture – Berlin, Anhalter Bahnhof, 1875/1880: https://artsandculture.google.com/asset/berlin-anhalter-bahnhof-franz-heinrich-schwechten/SwHs4p9Q90WfRQ
+- National Archives of Japan – Goryōkaku illustration, 1873: https://www.digital.archives.go.jp/DAS/pickup/view/category/categoryArchivesEn/0600000000/0607000000/01
+- Luminous-Lint – Sammezzano, interior view (Vincenzo Paganori, 1880–1900): https://luminous-lint.com/phoenix.php/images/single/911641303517639132210/std/
+- Seattle Public Library – Seattle regrade photograph collection: https://spl.org/online-resources/seattle-room-digital-collections/seattle-regrade-photograph-collection
+- Museums Victoria – Royal Exhibition Building photographs (Nettleton): https://collections.museumsvictoria.com.au/items/1697835
 - Heritage Images – Westminster Abbey and the Palace of Westminster under construction, c. 1857 (Roger Fenton): https://www.heritage-images.com/preview/1191588
 - Bridgeman Images – Bisson Frères, Cologne Cathedral, south transept, 1854: https://bridgemanimages.com/fr/bisson-freres-studio/cologne-cathedral-south-transept-1854-albumen-print/albumen-print/asset/2971288
 - Cornell University Library – Cologne Cathedral tower detail, c. 1877–81: https://digital.library.cornell.edu/catalog/ss:3874239
