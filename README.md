@@ -18,6 +18,7 @@ These are some of the ideas that come up again and again when looking at old wor
 
 - **Who really built it?** The theory that some of these buildings came from an earlier, more advanced civilisation (sometimes called *Tartaria* or the "old world") and were later claimed, re-dated or repurposed.
 - **Construction timelines.** Buildings recorded as finished in a handful of years with the tools, labour and money of the time. Does the timeline add up?
+- **Materials and delivery.** Millions of bricks and tons of stone and iron, made and carried by horse, barge and early railway, for many great buildings going up at once. Could the country really have supplied it all?
 - **Mud flood and buried floors.** Ground floors and windows below today's street level, raised streets, and buildings that appear to have been dug out.
 - **Shared architecture worldwide.** The same domes, columns and proportions turning up on different continents at around the same time.
 - **Purpose and abandonment.** Buildings that seem far too grand for their stated use, or that were abandoned or demolished soon after being finished.

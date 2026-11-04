@@ -39,6 +39,7 @@ Test each building against these. Add, remove or reorder them to match what you 
 
 - **Satan's Little Season:** the view that the thousand years of Revelation 20 have already passed and we now live in the "little season" of deception. Ask whether the building belongs to an older age that was later claimed, and whether its records look rewritten. See [ALTERNATIVE-VIEW.md](ALTERNATIVE-VIEW.md).
 - **Letters in dates (the "J" argument):** Fomenko's claim that the leading "1" in dates was originally an I or J for Jesus, adding about 1,000 years to history. Check date stones, foundation stones, inscriptions and documents for how the year is written, and record examples in the Anomaly log. Remember that a final "j" in Roman numerals (for example "xiij") is normal in older writing.
+- **Materials and delivery (the logistics argument):** the millions of bricks and tons of stone, iron and glass for so many buildings going up at the same time would have needed transport and production on a vast scale. For each building, work out how much material was needed, where it came from, how it was carried and how many loads a day that means, then consider what else was being built in the same city at the same time. See [ALTERNATIVE-VIEW.md](ALTERNATIVE-VIEW.md#materials-and-delivery-the-logistics-argument).
 
 ## 4. Owner's sources and researchers ✏️
 
@@ -62,7 +63,7 @@ A suggested starting list (from [ALTERNATIVE-VIEW.md](ALTERNATIVE-VIEW.md)). Edi
 Work through as many of these as the evidence allows.
 
 1. **Records audit.** What primary records exist: plans, contracts, invoices, construction photos, newspaper reports, official inquiries? Note where they're held and where the gaps are.
-2. **Timeline check.** Estimate the materials and labour against the recorded dates and workforce. Show the working, and say whether the timeline is plausible, tight or implausible.
+2. **Timeline check.** Estimate the materials and labour against the recorded dates and workforce. Include a **delivery check**: where the materials came from, how they were carried and how many loads a day that means. Show the working, and say whether the timeline is plausible, tight or implausible.
 3. **Ground-level check.** Compare the oldest available photos, engravings and maps with today. Look for buried windows and doors, steps down into entrances, and raised streets.
 4. **Photo analysis.** For key historic images, check lighting and shadows, edges, perspective, retouching and captions. Say what resolution the analysis is based on.
 5. **Map check.** What do the oldest maps show on the site before the official build date?

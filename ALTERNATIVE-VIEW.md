@@ -24,6 +24,7 @@ This page explains the ideas behind the "alternative view" sections in this proj
 | **Shared architecture** | The same domes and styles appear on every continent at once | See the [glossary](GLOSSARY.md), for example Dome and Onion dome |
 | **Satan's Little Season** | The "thousand years" of Revelation 20 have already passed, and we now live in the short season that follows, a time of deception that explains the reset and the hidden history | A framework for the whole project rather than one building; see [below](#satans-little-season) |
 | **Letters in dates (the "J" argument)** | The first "1" in dates like 1255 was originally an **I** or **J** standing for Jesus, so history has been stretched by about 1,000 years | Date stones and inscriptions on buildings; see [below](#letters-in-dates-the-j-argument) |
+| **Materials and delivery** | The millions of bricks and tons of stone and iron for so many buildings at once couldn't have been made and delivered with horses, carts and early railways | [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md), [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md), [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md); see [below](#materials-and-delivery-the-logistics-argument) |
 
 ## Satan's Little Season
 
@@ -79,6 +80,51 @@ Record any examples in the entry's **Anomaly log**, with a photo if possible.
 
 The useful test for this project is concrete: find actual inscriptions and documents and look at exactly how their dates are written.
 
+## Materials and delivery (the logistics argument)
+
+### The idea
+
+This is the owner's own argument. It starts from the materials rather than the buildings. The grand buildings in this project used millions of bricks, thousands of tons of stone and iron, and huge amounts of timber and glass. In the official story, all of this was made, carried and put in place with horses, carts, barges and early railways. And many of these buildings were going up at the same time, in the same cities, alongside new railways, docks, sewers and whole districts of housing. On this view, the whole country would have had to be one constant building site, and the technology and transport of the time don't seem equal to it. If the logistics don't add up, that would suggest some of these buildings were already standing.
+
+### How it applies to this project
+
+For each building, the **Timeline check** should include a **delivery check**: how much material was needed, where it came from, how it was carried, and how many loads a day that means. Then add up what was being built in the same city at the same time. The working below gives the method and the period figures to use.
+
+**Period figures** (approximate; see Sources):
+
+- **A brick** weighed about 3 kg. A one-horse dray was customarily loaded with about **500 bricks**, about 1.5 tonnes.
+- **Britain made about 1.7 billion bricks in 1840**, according to the brick tax returns (the tax was charged per thousand bricks from 1784 to 1850, so output was counted). Output grew a great deal after the tax was abolished.
+- **Bricks for London** came largely by **Thames sailing barge** from brickfields in Kent and Essex, and from brickfields around the edge of the city. Northern cities like Manchester had their own brickworks and canals as well as railways.
+- **London had more than 300,000 horses** pulling vehicles in 1893, according to W. J. Gordon's *The Horse World of London*.
+
+**Worked examples:**
+
+| Building | Bricks | Years of building | Bricks a day (300 working days a year) | One-horse loads a day (500 bricks) |
+|---|---|---|---|---|
+| [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | about 6 million | about 3 | about 6,700 | about 13 |
+| [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) | more than 14 million | about 7 | about 6,700 | about 13 |
+| [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | about 35 million (not confirmed) | about 8 | about 14,600 | about 29 |
+
+If each cart made three or four round trips a day from a wharf, rail yard or brickfield a mile or two away, about 13 loads a day needs only four or five carts. For a single building, the delivery side is small: the Albert Hall's whole yearly need (about 2 million bricks) is about a tenth of one per cent of Britain's 1840 output.
+
+**The bigger question is the total.** Britain's 1.7 billion bricks a year in 1840 works out at about 5.7 million bricks every working day, or more than 11,000 one-horse loads a day if all of it went by road, and output rose after 1850. So the owner's picture of a constant building site everywhere is, in a sense, what the records show: Victorian Britain really was building on an enormous scale. The test is whether the recorded capacity (brickworks, quarries, ironworks, barges, canals, railways, horses and workers) matches everything that was built. That has to be checked across a whole city or region, not one building at a time.
+
+### What critics say
+
+- **The numbers per building are modest.** The worked examples above need a handful of carts and a few dozen workers, not a vast operation.
+- **Much of the transport was by water.** A barge or canal boat carried many cart-loads at once, and most brick traffic only went by road for the last mile or two.
+- **The output was counted.** The brick tax returns, quarry and ironworks records, canal and railway goods traffic, and contractors' accounts all record production and delivery.
+- **The building boom is well documented.** London's population grew from about 1 million in 1801 to about 6.5 million in 1901, and the houses, railways and sewers built for them are recorded in maps, Acts of Parliament and photographs.
+
+### How to test it
+
+- For each building, find the **contractors' accounts** and the names of the **brickmakers, quarries and ironworks** that supplied it.
+- Compare the **total material needed** for a city's major buildings in a decade with the **recorded output** of its brickworks and quarries (brick tax returns up to 1850, trade directories and Board of Trade figures after).
+- Look for **photographs and engravings** of brickfields, kilns, barges, goods yards and building sites. Where a big building has none (see the [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md#no-construction-photographs-found)), note it.
+- Check the **transport records**: canal and river tolls (for example, tolls charged per thousand bricks on barges), railway goods traffic and local carting firms.
+
+If the recorded production and transport capacity falls clearly short of what was built, that would support the argument. If it matches, it would weaken it.
+
 ## People and places to watch
 
 A starting list for exploring the alternative view. The project doesn't endorse every claim these sources make: use them for leads and arguments, then check each claim against the evidence and label it (see [How to weigh what you watch](#how-to-weigh-what-you-watch)).
@@ -128,6 +174,14 @@ Knowing the strongest counter-arguments makes the alternative view sharper. Thes
 
 ## Sources
 
+- Scottish Brick History – Brick development through the centuries (brick tax output figures): https://www.scottishbrickhistory.co.uk/brick-development-through-the-centuries/
+- Wikipedia – Brick tax: https://en.wikipedia.org/wiki/Brick_tax
+- Kent Archaeological Society – The brickmaking industry in Kent c. 1825–1900: https://www.kentarchaeology.org.uk/journal/141/brickmaking-industry-kent-c1825-1900
+- Construction Physics – Bricks and the Industrial Revolution: https://www.construction-physics.com/p/bricks-and-the-industrial-revolution
+- Benfleet Community Archive – The Thames barges and tolls on bricks: https://www.benfleethistory.org.uk/content/buildings/buildings_and_development/brickworks/the_thames_barges_and_tolls_on_bricks
+- Wikipedia – Thames sailing barge: https://en.wikipedia.org/wiki/Thames_sailing_barge
+- Wuxtiple (blog) – Brick carting (500 bricks to a one-horse dray): https://wuxtiple.blogspot.com/2013/07/brick-carting.html
+- Elephant and Castle history – Elephant's horse-powered past (W. J. Gordon, *The Horse World of London*, 1893): https://www.elephantandcastle.org.uk/a-brief-history/elephants-horse-powered-past/
 - Wikipedia – Tartarian Empire: https://en.wikipedia.org/wiki/Tartarian_Empire
 - Explorersweb – Exploration Mysteries: Tartarian Empire: https://explorersweb.com/exploration-mysteries-tartarian-empire/
 - All That's Interesting – The Tartarian Empire: https://allthatsinteresting.com/tartarian-empire

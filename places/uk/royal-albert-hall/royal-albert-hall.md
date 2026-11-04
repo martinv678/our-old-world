@@ -167,6 +167,7 @@ What stands out for this project:
 **The working:**
 
 - **Brickwork:** about 6 million bricks over roughly 3 years of wall-building (about 150 working weeks) is about 40,000 bricks a week, or about 6,700 a day over a six-day week. A Victorian bricklayer is often said to have laid around 500–1,000 bricks a day (a commonly quoted figure, not confirmed here), so this needs only about 7 to 14 bricklayers working at once, plus labourers. Even allowing for the curved walls and terracotta, that's comfortable.
+- **Delivery check:** about 6 million bricks at roughly 3 kg each is about 18,000 tonnes. At about 6,700 bricks a day and about 500 bricks to a one-horse load, that's about 13 cart-loads a day, or four or five carts making three or four trips each from a wharf or yard nearby. The open question is the total for South Kensington, where the hall, the museums and new housing were all going up in the same years. See the [logistics argument](../../../ALTERNATIVE-VIEW.md#materials-and-delivery-the-logistics-argument) for the method.
 - **Terracotta:** about 80,000 blocks made off site by Gibbs and Canning and fixed over the same period is about 530 blocks a week.
 - **Dome:** the iron frame was made and test-assembled in Manchester before delivery, so the work in London was mainly re-erection and glazing.
 - **Money:** about £200,000 over four years is about £50,000 a year.
