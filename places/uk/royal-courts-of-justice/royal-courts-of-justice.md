@@ -88,6 +88,27 @@ So, at the very moment the Law Courts were rising, one of London's best-known ol
 
 **Documented** – A question in Parliament in 1879 shows the eastern wing was well behind its 1877 target, because of "frosts, strikes, and other unforeseen circumstances". Most Victorian buildings in this project are suspected of being finished too *fast*; this one was finished slowly, over about nine years, with recorded delays. That makes it a useful comparison: here the timeline looks like what you'd expect from a large hand-built stone building.
 
+### No construction photographs found
+
+**Observed** (none found so far) / **Speculative** (interpretation) – As the owner has pointed out, no photographs of the Royal Courts of Justice under construction have been found so far, even though the work went on for about nine years (1873–82) in the middle of London, on the busy Strand. Searches have turned up the competition designs of 1866–67, a finished-looking engraving of about 1878 in *Old and New London*, the engraving of the Great Hall in *The Builder* in 1882, and postcards of the completed building, but not a single view of the building site, the scaffolding or the half-built walls.
+
+That stands out against the other London buildings in this project from the same years:
+
+- the [Royal Albert Hall](../royal-albert-hall/royal-albert-hall.md) (1867–71) has a published set of construction photographs, including the dome going up
+- [Tower Bridge](../tower-bridge/tower-bridge.md) (1886–94) was photographed in detail, with its bare steel towers before the stone was added
+- the [Natural History Museum](../natural-history-museum/natural-history-museum.md) (1873–81), built in the same years, has surviving drawings and records of its construction
+
+For the alternative view, a building of this size going up for nine years without being photographed would be a real gap in the record. If the building was already standing, in whole or in part, before 1873, there would be nothing to photograph, and the "construction" might have been a completion, refacing or fitting out of an existing structure (**Speculative**).
+
+Points to weigh up:
+
+- **Absence online isn't absence in the archive.** Many Victorian construction photographs survive only as prints in archives that haven't been put online, such as the Office of Works files at the National Archives, the London Metropolitan Archives and the Historic England Archive. The contractors, Bull and Sons, may also have commissioned photographs.
+- **Photography of building sites wasn't yet routine.** In the 1870s, progress photographs were taken for some big projects but not all. Engravings in *The Builder* and the *Illustrated London News* were the usual way of recording progress, and these haven't been searched properly yet.
+- **There's written evidence of the construction.** Questions in Parliament in the 1870s report on the progress and delays of the work, including the late eastern wing and the masons' strike. These describe a building site, not an existing building.
+- **The site had to be cleared first.** About 450 houses were demolished in the 1860s. Maps from before and after would show whether anything large stood on the site before 1873.
+
+**How to test it:** search the National Archives (Office of Works records for the Law Courts), the London Metropolitan Archives' Collage image collection, the Historic England Archive and the RIBA collections for photographs dated 1873–82. Look through *The Builder*, *The Building News* and the *Illustrated London News* for 1873–82 (many volumes are on the Internet Archive and HathiTrust) for engravings of the works in progress. If, after a proper search, no image of the building site exists at all, that would be a significant finding.
+
 ### A cathedral for the law
 
 **Documented** (style) / **Speculative** (interpretation) – Street was mainly a church architect, and the building looks like a great medieval church or palace: the Great Hall is about 238 ft long and 80 ft high, vaulted in stone, with a mosaic floor of Italian marble. In the "shared worldwide architecture" theme, it belongs to a wave of huge Gothic and Romanesque public buildings put up across Europe in the same decades, such as the [Palace of Westminster](../palace-of-westminster/palace-of-westminster.md), [St Pancras](../st-pancras/st-pancras.md), Manchester Town Hall and the completion of [Cologne Cathedral](../../germany/cologne-cathedral/cologne-cathedral.md). The ordinary explanation is the Gothic Revival, a well-documented movement led by architects like Street.
@@ -108,6 +129,8 @@ So, at the very moment the Law Courts were rising, one of London's best-known ol
 | Cost given as under £1 million, about £2 million or £2.2 million | Sources disagree | Documented | Wikipedia; Historic England; A View on Cities |
 | East wing late "owing to frosts, strikes, and other unforeseen circumstances" | Parliamentary question, 1879 | Documented | Hansard |
 | Start date given as 1873 or 1874 | Sources disagree | Documented | Wikipedia; Historic England |
+| No construction photographs found for a nine-year build in central London | Searches so far | Observed | Owner; this project |
+| A tall ladder stands against the same tower in two early postcards | Postcards c. 1900–1910 | Observed | Owner's postcards |
 
 ### Timeline check
 
@@ -144,13 +167,14 @@ So, at the very moment the Law Courts were rising, one of London's best-known ol
 
 - Older structures, foundations or buried levels found when the site was cleared and dug out
 - Gaps or contradictions in the Office of Works records, contracts and accounts
+- A proper search of the archives that still finds no photograph or engraving of the building site in 1873–82
 - Differences between Temple Bar as rebuilt and as shown in photographs before 1878
 - Evidence that the foreign workforce was larger or stayed longer than a strike would explain
 
 ### What would weaken it
 
 - Street's drawings, which survive in quantity, and the Office of Works files
-- Construction-period photographs and reports in *The Builder* and the *Illustrated London News*
+- Construction-period photographs, or engravings of the works in progress in *The Builder* and the *Illustrated London News*
 - Maps, surveys and photographs of the streets cleared for the site
 - The parliamentary papers on the site, the competition and the costs
 
@@ -163,6 +187,9 @@ So, at the very moment the Law Courts were rising, one of London's best-known ol
 - **Temple Bar:** When exactly was it rebuilt at Theobalds Park (1880, 1887 or 1889)?
 - **Street's statue:** Where is Armstead's statue of Street in the building? Is it the white statue on the left of the Great Hall photo?
 - **The bricks:** Is the often-quoted figure of 35 million bricks right?
+- **Construction photographs:** Does any photograph or engraving of the building site exist from 1873–82? Where?
+- **The ladder:** What is the tall ladder standing against the tower to the east of the main entrance in both early postcards? It may be one of the wheeled fire escapes that were stationed at fixed points on London streets at the time.
+- **The postcards:** When exactly were the two postcards published, and by whom?
 - **The Great Hall:** Is it 38 ft or 48 ft wide? Sources differ.
 
 ## Leads to follow up
@@ -171,6 +198,7 @@ So, at the very moment the Law Courts were rising, one of London's best-known ol
 - **Hansard:** the debates and questions on the site (1865–69) and the progress of the work (1870s).
 - **RIBA Drawings Collection and the V&A:** Street's drawings for the Law Courts.
 - **London Metropolitan Archives:** maps and records of the cleared streets, and photographs of the area before demolition.
+- **Construction images:** the National Archives (Office of Works records), the London Metropolitan Archives' Collage image collection, the Historic England Archive and the RIBA collections, for any photograph of the works in 1873–82.
 - **Period journals:** *The Builder* (which published the Great Hall in September 1882), the *Illustrated London News* and *The Times* for 1873–82, for the strike, the progress of the work and the opening.
 - **Survey of London:** the volumes covering the Strand and St Clement Danes (British History Online).
 - **Temple Bar Trust:** records and photographs of the gate's dismantling in 1878 and its return in 2004.
@@ -180,6 +208,8 @@ So, at the very moment the Law Courts were rising, one of London's best-known ol
 ## Research notes
 
 <!-- Owner's notes: add observations, hunches and links here. Claude reads this section first and doesn't remove it. -->
+
+- Owner's observation: the biggest hole in the story is that there seem to be no photographs of the building being built, which is odd in the age of the camera. You'd expect a record of it. See [No construction photographs found](#no-construction-photographs-found).
 
 ## Images
 
@@ -194,12 +224,18 @@ Click any image to enlarge it.
 ![The vaulted Great Hall of the Royal Courts of Justice, with a long patterned marble mosaic floor, a large chandelier and a white statue at the left](images/great-hall.jpg)
 *The Great Hall, about 238 ft long and 80 ft high, with its stone vault and marble mosaic floor. A white marble statue stands in the arcade on the left; it may be Armstead's memorial statue of Street, but this needs confirming. Wikimedia Commons; author and licence to be confirmed.*
 
-_Image credits and licences are still to be confirmed (Wikimedia Commons was rate-limiting lookups)._
+![Early postcard titled "Royal Courts of Justice, London", looking along the Strand to the clock tower, with horse-drawn cabs and a tall ladder against one of the towers](images/postcard-strand-clock-tower.jpg)
+*Postcard, "Royal Courts of Justice, London", probably c. 1900–1910, looking east along the Strand towards the clock tower, with horse-drawn cabs. A tall ladder stands against the octagonal tower to the right of the main entrance. Supplied by the owner; publisher and date to be confirmed.*
+
+![Early postcard titled "Law Courts, Strand, London", showing the main entrance arch, rose window and flèche, with a horse-drawn cab in the road](images/postcard-law-courts-strand.jpg)
+*Postcard, "Law Courts, Strand, London", probably c. 1900–1910, showing the main entrance, rose window and flèche. The same ladder stands against the same tower. The street level at the entrance looks much as it does today. Supplied by the owner; publisher and date to be confirmed.*
+
+_Image credits and licences are still to be confirmed (Wikimedia Commons was rate-limiting lookups). The postcards are old enough that they are probably public domain._
 
 Other images that would be useful:
 
 - the **streets on the site** before they were demolished
-- the courts **under construction** in 1873–82
+- the courts **under construction** in 1873–82: none found so far (see [No construction photographs found](#no-construction-photographs-found))
 - **Temple Bar** standing beside the building site before 1878
 - the **opening** by Queen Victoria on 4 December 1882
 - the **Temple Bar Memorial** and its dragon
@@ -207,6 +243,8 @@ Other images that would be useful:
 
 ## Sources
 
+- Heritage Images – The New Law Courts, Westminster, London, c. 1878 (from *Old and New London*): https://www.heritage-images.com/preview/the-new-law-courts-westminster-london-c1878-1878-artist-unknown-2637429
+- Hansard – House of Commons, 4 July 1876: the new Law Courts, the architects: https://api.parliament.uk/historic-hansard/commons/1876/jul/04/the-new-law-courts-the-architects
 - Wikipedia – Royal Courts of Justice: https://en.wikipedia.org/wiki/Royal_Courts_of_Justice
 - Historic England – Royal Courts of Justice (list entry 1264258): https://historicengland.org.uk/listing/the-list/list-entry/1264258
 - British Listed Buildings – Royal Courts of Justice: https://britishlistedbuildings.co.uk/101264258-royal-courts-of-justice-the-law-courts-screen-walls-gates-railings-and-lamps-st-jamess-ward
