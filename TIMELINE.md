@@ -51,6 +51,7 @@ The list below is generated automatically by `scripts/build_index.py`, so don't 
 | 1879 | [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) | Italy | From 1879 | Villa |
 | 1883 | [Frankfurt (Main) Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) | Germany | 1883–1888 | Railway station |
 | 1883 | [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) | Italy | 1883–1884 | Villa, Casino |
+| 1886 | [Tower Bridge](places/uk/tower-bridge/tower-bridge.md) | UK | 1886–1894 | Bridge |
 | 1889 | [Seattle Underground](places/usa/seattle-underground/seattle-underground.md) | USA | Streets and buildings mostly 1889–1890s; streets raised in the years after 1889 | Street level, Historic district |
 | 1891 | [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) | USA | 1891–1893; rebuilt in stone c. 1929–1933 | Exhibition hall, Museum |
 | 1892 | [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) | Germany | 1892–1898 | Railway station |

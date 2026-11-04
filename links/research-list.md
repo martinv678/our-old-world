@@ -4,7 +4,7 @@ Pre-1900 buildings and places to research for the project, grouped by region. �
 
 Dates are approximate starting points, so check them when researching. "Begun" means the building was started before 1900 but finished later.
 
-**Progress: 24 of 133 done.**
+**Progress: 25 of 134 done.**
 
 ## United Kingdom and Ireland
 
@@ -18,7 +18,7 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ✅ | [Royal Albert Hall](../places/uk/royal-albert-hall/royal-albert-hall.md) | London | 1867–71 | Huge iron and glass dome over an oval hall |
 | ✅ | [Natural History Museum](../places/uk/natural-history-museum/natural-history-museum.md) | London | 1873–81 | Romanesque 'cathedral of nature' with towers |
 | ✅ | [Royal Courts of Justice](../places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | London | 1873–82 | Vast Gothic complex; spires and towers |
-| ⬜ | Tower Bridge | London | 1886–94 | Steel frame hidden inside 'medieval' stone towers |
+| ✅ | [Tower Bridge](../places/uk/tower-bridge/tower-bridge.md) | London | 1886–94 | Steel frame hidden inside 'medieval' stone towers |
 | ⬜ | Palm House, Kew Gardens | London | 1844–48 | Early iron and glass giant |
 | ⬜ | Tilbury Fort | Essex | 1670s | English star fort on the Thames |
 | ⬜ | Berwick-upon-Tweed walls | Northumberland | 1558–70 | Bastioned town walls (star fort design) |
@@ -29,6 +29,7 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ⬜ | Scott Monument | Edinburgh | 1840–46 | Gothic spire monument |
 | ⬜ | West Pier | Brighton | 1863–66 | Iron pier, now a ruin |
 | ⬜ | Oxford University Museum of Natural History | Oxford | 1855–60 | Gothic 'cathedral of science' with an iron and glass court |
+| ⬜ | Forth Bridge | Firth of Forth, Scotland | 1882–90 | Giant steel cantilever bridge by Tower Bridge's steel contractor |
 
 ## France
 

@@ -26,7 +26,7 @@ The building lists and the index below are generated automatically from the **Fe
 | [Spire](#spire) | 3 |
 | [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
-| [Tower](#tower) | 10 |
+| [Tower](#tower) | 11 |
 | [Undercroft](#undercroft) | 1 |
 | [Underground tunnel](#underground-tunnel) | 3 |
 <!-- index:end -->
@@ -302,7 +302,7 @@ A tall structure rising above the main body of a building, whether square, round
 **Why it matters:** towers and spires are common in old world architecture. Some theories link them to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (10):**
+**Buildings (11):**
 
 - [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) – France
 - [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
@@ -314,6 +314,7 @@ A tall structure rising above the main body of a building, whether square, round
 - [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
+- [Tower Bridge](places/uk/tower-bridge/tower-bridge.md) – UK
 <!-- buildings:end -->
 
 ## Undercroft
