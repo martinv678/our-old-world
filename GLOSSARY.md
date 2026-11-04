@@ -22,7 +22,7 @@ The building lists and the index below are generated automatically from the **Fe
 | [Onion dome](#onion-dome) | 2 |
 | [Raised streets](#raised-streets) | 1 |
 | [Rooftop sculpture](#rooftop-sculpture) | 1 |
-| [Rose window](#rose-window) | 0 |
+| [Rose window](#rose-window) | 1 |
 | [Spire](#spire) | 3 |
 | [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
@@ -250,10 +250,12 @@ Statues or sculpture groups standing on a building's roofline, often figures fro
 
 A large circular window divided into sections by stone tracery radiating from the centre, often filled with stained glass.
 
-**Why it matters:** rose windows need precise geometry and skilled stonework. Their consistent design across countries and centuries raises questions about how the knowledge was shared.
+**Why it matters:** rose windows need precise geometry and skilled stonework. Their consistent design across countries and centuries raises questions about how the knowledge was shared. The owner's view is that they were designed to match the patterns sound makes (cymatics); see [Sound and cymatics](ALTERNATIVE-VIEW.md#sound-and-cymatics-the-resonance-argument).
 
 <!-- buildings:start -->
-_No buildings tagged yet._
+**Buildings (1):**
+
+- [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) – UK
 <!-- buildings:end -->
 
 ## Spire

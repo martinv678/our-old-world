@@ -10,7 +10,7 @@
 | **Type** | [Law court](../../../README.md#law-court) |
 | **Original use** | The central civil courts of England and Wales (the "Law Courts") |
 | **Status** | In use as law courts. Grade I listed |
-| **Features** | [Clock tower](../../../GLOSSARY.md#clock-tower), [Tower](../../../GLOSSARY.md#tower), [Spire](../../../GLOSSARY.md#spire) |
+| **Features** | [Clock tower](../../../GLOSSARY.md#clock-tower), [Tower](../../../GLOSSARY.md#tower), [Spire](../../../GLOSSARY.md#spire), [Rose window](../../../GLOSSARY.md#rose-window) |
 
 ![The Gothic front of the Royal Courts of Justice on the Strand, with the central arched entrance, rose window and spire](images/strand-front.jpg)
 *The main front on the Strand, with the central entrance arch, rose window and flèche. Wikimedia Commons; author and licence to be confirmed.*

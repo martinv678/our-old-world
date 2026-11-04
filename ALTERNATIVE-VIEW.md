@@ -24,6 +24,7 @@ This page explains the ideas behind the "alternative view" sections in this proj
 | **Shared architecture** | The same domes and styles appear on every continent at once | See the [glossary](GLOSSARY.md), for example Dome and Onion dome |
 | **Satan's Little Season** | The "thousand years" of Revelation 20 have already passed, and we now live in the short season that follows, a time of deception that explains the reset and the hidden history | A framework for the whole project rather than one building; see [below](#satans-little-season) |
 | **Letters in dates (the "J" argument)** | The first "1" in dates like 1255 was originally an **I** or **J** standing for Jesus, so history has been stretched by about 1,000 years | Date stones and inscriptions on buildings; see [below](#letters-in-dates-the-j-argument) |
+| **Sound and cymatics** | Rose windows match the patterns sound makes, and organs and bells turned buildings into instruments, showing the builders understood sound and the body | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) (rose window and bells), [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) (organ and echo); see [below](#sound-and-cymatics-the-resonance-argument) |
 | **Missing construction photographs** | Buildings in older styles have no photographs of being built, which suggests they're older than the records say | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md), [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md); see [below](#missing-construction-photographs-the-photo-record-argument) |
 | **Skill and precision** | So many complex buildings needed huge numbers of master craftsmen who got it right first time, without modern tools | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md), [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md); see [below](#skill-and-precision-the-master-builders-argument) |
 | **Materials and delivery** | The millions of bricks and tons of stone and iron for so many buildings at once couldn't have been made and delivered with horses, carts and early railways | [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md), [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md), [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md); see [below](#materials-and-delivery-the-logistics-argument) |
@@ -263,6 +264,47 @@ So far the evidence fits the critics' explanation (engineering showpieces were p
 - **Check the site before the build** on old maps: was it empty, or covered by other buildings that were demolished?
 - **Look for physical dating evidence** in the building: machine-made bricks, Portland cement mortar, rolled iron and steel, and tree-ring dating of roof timbers would all show when it was really built.
 
+## Sound and cymatics (the resonance argument)
+
+### The idea
+
+This is the owner's own view. Many of these buildings, especially churches and cathedrals with rose windows, were designed with **cymatics** in mind: the patterns that sound makes when it vibrates a surface. On this view, the builders understood which sounds and acoustics are best for the human body. Rose windows exist because they match the patterns that sound creates, and organs and bells were used to turn the whole building into an instrument. We are supposed to have advanced since then, but the people of the past seem to have known more about sound and the body than we do.
+
+### How it applies to this project
+
+For each building, record its **sound features** and look for links between its shapes and sound:
+
+- **Rose windows:** how many divisions (petals, spokes, rings), and when they were made
+- **Organs and bells:** who made them, how big they are, and what notes the bells are tuned to
+- **Domes, vaults and towers:** what the space sounds like, and whether its resonance has been measured
+- **Any written evidence** that the builders thought about sound when designing the building
+
+### What the evidence shows so far
+
+- **The patterns are real.** When a plate covered in sand is made to vibrate, the sand gathers into patterns along the lines that don't move. Robert Hooke described this in 1680, and Ernst Chladni studied it systematically in 1787, so the patterns are called **Chladni figures**. Hans Jenny coined the word **cymatics** in 1967. On a round plate, the patterns are made of lines radiating from the centre and rings around it, which is also the basic shape of a rose window (**Documented**).
+- **Rose windows came before the science.** The first true rose window is usually dated to the west front of Saint-Denis near Paris, about 1140, developing from the Roman *oculus* (a round opening) and the Romanesque "wheel window". Rose windows are laid out on radial divisions, often of 12, or of 4, 6 or 8. If the medieval builders knew about sound patterns, they knew about them more than 600 years before Chladni (**Documented** dates / **Speculative** link).
+- **The ancients did design for sound.** The Roman architect Vitruvius, writing in the 1st century BC, described bronze or clay "sounding vessels" (*echea*) placed in theatres to improve the sound. Clay "acoustic jars" have been found built into the walls of a number of medieval churches. So the idea that builders shaped buildings for sound is documented, though not for rose windows specifically (**Documented**).
+- **Rosslyn Chapel.** Thomas and Stuart Mitchell claim that the 213 carved cubes in Rosslyn Chapel in Scotland show Chladni patterns, and turned them into music, the "Rosslyn Motet" (reported in 2005–07). It's the best-known attempt to link carvings to cymatics. It hasn't been accepted by historians, although one expert on early Scottish music said it was "by no means implausible" (**Reported**).
+- **Ancient chambers that resonate.** Studies from the 1990s onwards reported that several Neolithic chambers, including the Ħal Saflieni Hypogeum in Malta, resonate strongly at around 95–120 Hz, often around 110 Hz, which is in the range of a low male voice. A small pilot study of 30 people (2008) reported changes in brain activity at 110 Hz. A later, more careful study of the Hypogeum (*Antiquity*, 2016) said earlier work lacked rigour (**Reported**).
+- **Medieval cathedrals and their music shaped each other.** Measurements at Notre-Dame de Paris (before and after the 2019 fire) show a reverberation of several seconds, and research on its 12th-century choir suggests the long echo influenced how chant and early polyphony were sung there (**Documented**).
+- **Organs and bells in this project.** The [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) and [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) were built around huge Willis organs. [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) has a great bell, "Great Abel", and the [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) has a clock tower with five bells and a rose window over its main entrance.
+- **The Victorians didn't always get it right.** The Royal Albert Hall had such a bad echo that it wasn't fixed until 1969. On the owner's view, this could be a sign that the old knowledge of sound had been lost by the 19th century, and the revival buildings copied the forms without the understanding (**Speculative**).
+
+### What critics say
+
+- **Rose windows have other explanations.** They let light into the west and transept ends of a church, they grew out of earlier round windows, and they carried religious meaning: the wheel, the rose of the Virgin Mary, Christ in majesty at the centre. No medieval source found so far links them to sound.
+- **Radial symmetry is common.** Anything laid out with a compass around a centre point (a wheel, a flower, a clock face, a rose window or a Chladni figure) will share the same basic shape. A match in general shape isn't evidence of a link; a match to the *specific* pattern of a *specific* note would be.
+- **There are many Chladni patterns.** Each plate and each note gives a different figure, so with enough patterns to choose from, some will resemble almost any design.
+- **Stained glass in lead isn't a sounding plate.** Window glass held in lead and stone tracery doesn't vibrate freely like a Chladni plate.
+- **Big stone churches are poor for speech.** Their long echo suits slow chant and organ music, but makes preaching hard to hear, which is why pulpits with sounding boards were added later.
+
+### How to test it
+
+- **Catalogue the rose windows** in the project: date, number of divisions, rings and pattern. Compare each with the Chladni figures of a round plate (which are numbered by how many lines cross the centre and how many rings there are). If windows match particular figures much more closely than chance would allow, that would support the argument.
+- **Look for medieval writing** on sound and building: Vitruvius, the sketchbook of the 13th-century architect Villard de Honnecourt (which includes drawings of rose windows), and builders' and musicians' treatises.
+- **Compare measured acoustics with the organs and bells**: do the main resonances of a building match the pitch of its bells or the tuning of its organ?
+- **Check for acoustic jars or vessels** in the walls and vaults of the older buildings in this project.
+
 ## People and places to watch
 
 A starting list for exploring the alternative view. The project doesn't endorse every claim these sources make: use them for leads and arguments, then check each claim against the evidence and label it (see [How to weigh what you watch](#how-to-weigh-what-you-watch)).
@@ -312,6 +354,16 @@ Knowing the strongest counter-arguments makes the alternative view sharper. Thes
 
 ## Sources
 
+- Wikipedia – Cymatics (Hooke, Chladni and Jenny): https://en.wikipedia.org/wiki/Cymatics
+- Wikipedia – Rose window: https://en.wikipedia.org/wiki/Rose_window
+- History News Network – 500-year-old music code cracked: the Rosslyn Motet: https://www.historynewsnetwork.org/article/38297
+- The Scotsman – Tune into the Da Vinci coda (the Rosslyn cubes): https://www.scotsman.com/whats-on/arts-and-entertainment/tune-da-vinci-coda-2463379
+- The History Blog – Tripping Stone Age temple acoustics (110 Hz studies): https://www.thehistoryblog.com/archives/4114
+- Antiquity (2016), supplementary material – archaeoacoustic study of the Ħal Saflieni Hypogeum: https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0003598X16002581/resource/name/S0003598X16002581sup001.pdf
+- Katz and Weber, *Acoustics* (2020) – An acoustic survey of Notre-Dame de Paris before and after the fire of 2019: https://hal.archives-ouvertes.fr/hal-02994273
+- K. Morgan, UCLA – Voice of the cathedral: sound and space in twelfth-century Notre-Dame of Paris: https://escholarship.org/uc/item/10v1x47m
+- Medievalists.net – Why Notre-Dame was built for medieval music: https://www.medievalists.net/2024/12/why-notre-dame-was-built-for-medieval-music/
+- Past Has Ears – Vaulted Harmonies: acoustics of Notre-Dame: https://vaultedharmonies.pasthasears.dalembert.upmc.fr/pages/backstage_en/6_acoustics.html
 - V&A – Site of the Natural History Museum, 1873 (Rupert Potter): https://collections.vam.ac.uk/item/O1321175/site-of-the-natural-history-photograph-rupert-potter
 - Structurae – St Pancras station (the train shed under construction in 1868): https://structurae.net/en/structures/saint-pancras-station
 - History Today – In Focus: St Pancras rises (photograph of 1867): https://www.historytoday.com/node/53277
