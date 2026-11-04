@@ -238,6 +238,8 @@ All 26 entries have now been checked (November 2026), using online catalogues an
 | [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) | 1891–93 | Beaux-Arts classical | **Yes**: a view of 1892 shows its south front under construction, and C. D. Arnold's albums record the whole fair being built (383 prints, 1891–92) |
 | [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) | 1892–98 | Historicist; iron sheds | **Possibly**: an archive photograph titled "Bauarbeiten am Dach" (work on the roof) is undated; not yet confirmed |
 
+**A benchmark:** [Tower Bridge](places/uk/tower-bridge/tower-bridge.md#a-benchmark-for-construction-photographs) is the clearest example in the project of a building photographed while it was built, with a sequence running from the bare steel towers in 1892 (dated on the plate) to the nearly finished bridge in 1894. The owner regards these photographs as reliable, and they show what a real construction record looks like. Buildings with no construction images found can be compared against it.
+
 **What it shows so far:**
 
 - **Totals:** 7 buildings with construction photographs (Cologne, the Crystal Palace, the Galleria, the St Pancras train shed, the Albert Hall, Tower Bridge and Chicago's Palace of Fine Arts), 2 with some (Westminster and the Natural History Museum), 2 possible (the Trocadéro and Dresden), 2 with lithographs or engravings only (Saint Isaac's and Melbourne), 2 from before photography (Palmanova and the Royal Pavilion), and 11 with none found.

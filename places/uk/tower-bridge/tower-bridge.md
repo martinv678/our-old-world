@@ -91,6 +91,20 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 
 **Documented** – Just upstream, the Tower Subway was dug under the Thames in 1869–70, with a cable-hauled railway that soon failed. It became a toll foot tunnel and closed to people in 1898, after the free bridge opened, and now carries pipes and cables. Old tunnels under rivers are of interest in mud flood and underground research. The Tower Subway is well documented and its entrance kiosk survives on Tower Hill.
 
+### A benchmark for construction photographs
+
+**Documented** – The owner's view is that these photographs hold up, and are a good example of what a real construction record looks like: they show the bridge going up stage by stage, not just the finished result. Put in order, the five photographs in this entry show:
+
+1. **28 September 1892** (dated on the plate): the steel frames of both towers and the high walkways standing, with the stone only partly fixed
+2. **probably 1893**: the towers clad up to the walkways, with bare steel pyramid frames for the roofs
+3. **probably 1893–94**: scaffolding on the roofs and the side-span chains in place
+4. **probably 1894**: the tops finished, with bare steel still visible on a tower's inner face below the walkways
+5. **probably 1894**: the bridge nearly complete, with the last scaffolding on the towers
+
+The London Metropolitan Archives' set of 50 photographs (about 1891–94) fills in more of the sequence. The earliest stage, the building of the piers in the river in 1886–89, isn't in this selection yet.
+
+This makes Tower Bridge a useful **benchmark** for the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-construction-photographs-the-photo-record-argument). It shows what to expect when a building really was photographed while being built: a dated sequence, from bare structure to finished building, from more than one viewpoint. Buildings such as the [Royal Courts of Justice](../royal-courts-of-justice/royal-courts-of-justice.md#no-construction-photographs-found) and [Manchester Town Hall](../manchester-town-hall/manchester-town-hall.md#no-construction-photographs-found), for which only the finished building has been found so far, can be compared against it.
+
 ### Where are the workers?
 
 **Observed** – The owner has noticed that the construction photographs show very few people. Looked at closely, the five photographs in this entry do show some: in the view from the walkway, several workmen can be made out on top of the pier, one standing by a column and a group sitting near the edge (see the detail in [Images](#images)); and the two riverside views show bystanders, boatmen and a woman with a child in the foreground. But hardly any workers can be seen on the steelwork, scaffolding or staging itself, even in the dated view of 28 September 1892, when the towers and walkways were being built with some 432 people on site each day.
@@ -193,6 +207,7 @@ Points to weigh up:
 
 <!-- Owner's notes: add observations, hunches and links here. Claude reads this section first and doesn't remove it. -->
 
+- Owner's view: these photographs hold up. They are a good example of construction photographs, because they show the bridge from start to finish rather than just the finished item. See [A benchmark for construction photographs](#a-benchmark-for-construction-photographs).
 - Owner's observation: the construction photographs seem never to show people. See [Where are the workers?](#where-are-the-workers).
 
 ## Images
