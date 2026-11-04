@@ -24,6 +24,7 @@ This page explains the ideas behind the "alternative view" sections in this proj
 | **Shared architecture** | The same domes and styles appear on every continent at once | See the [glossary](GLOSSARY.md), for example Dome and Onion dome |
 | **Satan's Little Season** | The "thousand years" of Revelation 20 have already passed, and we now live in the short season that follows, a time of deception that explains the reset and the hidden history | A framework for the whole project rather than one building; see [below](#satans-little-season) |
 | **Letters in dates (the "J" argument)** | The first "1" in dates like 1255 was originally an **I** or **J** standing for Jesus, so history has been stretched by about 1,000 years | Date stones and inscriptions on buildings; see [below](#letters-in-dates-the-j-argument) |
+| **Skill and precision** | So many complex buildings needed huge numbers of master craftsmen who got it right first time, without modern tools | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md), [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md); see [below](#skill-and-precision-the-master-builders-argument) |
 | **Materials and delivery** | The millions of bricks and tons of stone and iron for so many buildings at once couldn't have been made and delivered with horses, carts and early railways | [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md), [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md), [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md); see [below](#materials-and-delivery-the-logistics-argument) |
 
 ## Satan's Little Season
@@ -92,20 +93,21 @@ For each building, the **Timeline check** should include a **delivery check**: h
 
 **Period figures** (approximate; see Sources):
 
-- **A brick** weighed about 3 kg. A one-horse dray was customarily loaded with about **500 bricks**, about 1.5 tonnes.
+- **A brick** weighed about 3–3.5 kg (a Victorian imperial brick of about 9 × 4½ × 3 inches is roughly 2 litres of fired clay), so 500 bricks weigh about 1.5–1.75 tonnes.
+- **A one-horse load** is uncertain. One local history source says a one-horse dray was customarily loaded with about **500 bricks** ("over 1,500 kg"), but another period rule of thumb is about **one tonne per horse**, which would mean about **300 bricks**. The working below shows both. A period source for cart loads is still needed.
 - **Britain made about 1.7 billion bricks in 1840**, according to the brick tax returns (the tax was charged per thousand bricks from 1784 to 1850, so output was counted). Output grew a great deal after the tax was abolished.
 - **Bricks for London** came largely by **Thames sailing barge** from brickfields in Kent and Essex, and from brickfields around the edge of the city. Northern cities like Manchester had their own brickworks and canals as well as railways.
 - **London had more than 300,000 horses** pulling vehicles in 1893, according to W. J. Gordon's *The Horse World of London*.
 
 **Worked examples:**
 
-| Building | Bricks | Years of building | Bricks a day (300 working days a year) | One-horse loads a day (500 bricks) |
-|---|---|---|---|---|
-| [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | about 6 million | about 3 | about 6,700 | about 13 |
-| [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) | more than 14 million | about 7 | about 6,700 | about 13 |
-| [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | about 35 million (not confirmed) | about 8 | about 14,600 | about 29 |
+| Building | Bricks | Years of building | Bricks a day (300 working days a year) | One-horse loads a day (500 bricks) | One-horse loads a day (300 bricks) |
+|---|---|---|---|---|---|
+| [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | about 6 million | about 3 | about 6,700 | about 13 | about 22 |
+| [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) | more than 14 million | about 7 | about 6,700 | about 13 | about 22 |
+| [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | about 35 million (not confirmed) | about 8 | about 14,600 | about 29 | about 49 |
 
-If each cart made three or four round trips a day from a wharf, rail yard or brickfield a mile or two away, about 13 loads a day needs only four or five carts. For a single building, the delivery side is small: the Albert Hall's whole yearly need (about 2 million bricks) is about a tenth of one per cent of Britain's 1840 output.
+If each cart made three or four round trips a day from a wharf, rail yard or brickfield a mile or two away, about 13 to 22 loads a day needs only four to seven carts. For a single building, the delivery side is small: the Albert Hall's whole yearly need (about 2 million bricks) is about a tenth of one per cent of Britain's 1840 output.
 
 **The bigger question is the total.** The great public buildings were only a small part of what was being built. Most bricks went into ordinary houses, along with shops, pubs, theatres, chapels, schools, warehouses, railway viaducts and sewers. So the test has to be done for a whole city, everything included.
 
@@ -118,13 +120,14 @@ If each cart made three or four round trips a day from a wharf, rail yard or bri
 | Bricks a year | about 700 million | about 1,470 million |
 | Bricks a working day (300 days) | about 2.3 million | about 4.9 million |
 | Weight a day (about 3 kg a brick) | about 7,000 tonnes | about 14,700 tonnes |
-| One-horse loads a day (500 bricks), if all went by road | about 4,700 | about 9,800 |
-| Carts needed, at three trips a day each | about 1,600 | about 3,300 |
+| One-horse loads a day at 500 bricks, if all went by road | about 4,700 | about 9,800 |
+| One-horse loads a day at 300 bricks, if all went by road | about 7,800 | about 16,300 |
+| Carts needed, at three trips a day each | about 1,600–2,600 | about 3,300–5,400 |
 | Bricklayers laying at once, at 500–1,000 bricks a day each | about 2,300–4,700 | about 4,900–9,800 |
 
 How this compares with what London had:
 
-- **Horses:** about 1,600 carts in 1879, or about 3,300 in the late 1890s, would be about 0.5–1% of the more than 300,000 horses working in London in 1893.
+- **Horses:** about 1,600–2,600 carts in 1879, or about 3,300–5,400 in the late 1890s (depending on the load size), would be about 0.5–2% of the more than 300,000 horses working in London in 1893.
 - **Barges:** if about half the bricks (350 million a year in 1879) came up the Thames from Kent, and a typical sailing barge carried about 120 tons (sources give 80–150), about 40,000 bricks a load, that's about 8,750 barge-loads a year, or about 29 a day. There were about 2,000 Thames sailing barges working around 1900 (one source says 4,000), so each would have needed to carry bricks only four or five times a year.
 - **The great buildings' share:** the Royal Courts of Justice, at about 4.4 million bricks a year if the 35 million figure is right, would have been about 0.6% of London's annual use. The Royal Albert Hall, at about 2 million a year, about 0.3%.
 - **Bricklayers:** London would have needed several thousand bricklayers laying at once, with labourers, scaffolders and carters on top. The census occupation tables for 1871, 1881 and 1891 give the real numbers of bricklayers in London, and should be checked against this.
@@ -153,6 +156,42 @@ So, on the period figures found so far, the city-wide demand, houses included, c
 - Check the **transport records**: canal and river tolls (for example, tolls charged per thousand bricks on barges), railway goods traffic and local carting firms.
 
 If the recorded production and transport capacity falls clearly short of what was built, that would support the argument. If it matches, it would weaken it.
+
+## Skill and precision (the master builders argument)
+
+### The idea
+
+This is also the owner's own argument. Buildings like the Royal Courts of Justice, Manchester Town Hall and the Royal Albert Hall needed vaults, towers, carved stone and iron domes, all made to fit exactly. The people who built them would have had to be masters of their craft, in very large numbers, and to get it right first time, with no computers, no modern surveying instruments and no second chances on a wall of cut stone. If there weren't enough skilled people, or if the work is more precise than the methods of the time allowed, that would suggest the buildings, or parts of them, came from somewhere else.
+
+### How it applies to this project
+
+For each building, ask:
+
+- **How many skilled trades were needed**, and where did the masons, carvers, bricklayers and ironworkers come from?
+- **Was it right first time?** Look for evidence of mistakes, rebuilding, changes of design during construction, collapses, repairs and complaints. A building that was built in one go with no recorded problems is more striking than one with a long list of corrections.
+- **How was the precision achieved?** Look for drawings, templates, models, trial assemblies and specialist firms.
+
+### What the entries show so far
+
+The buildings in this project have a mixed record, which is useful evidence in itself:
+
+- **Not always right first time.** The [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md#a-hall-that-echoed-from-the-first-day) had a bad echo from its opening day that wasn't fixed until 1969. [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) burned down 16 days after it opened and was rebuilt to a different design. The [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) and the [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) were redesigned and cut back to save money. The Tay Bridge in Scotland collapsed in a storm on 28 December 1879, taking a train with it.
+- **Precision was planned for.** The Albert Hall's iron dome was [assembled once in Manchester](places/uk/royal-albert-hall/royal-albert-hall.md#the-dome-built-twice) before being taken apart and rebuilt in London, to make sure it fitted. Terracotta for the Albert Hall and the Natural History Museum was made in moulds in a factory, so repeated detail didn't depend on each carver's hand.
+- **Skilled workers were scarce.** When the masons at the [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md#who-really-built-it) went on strike, the contractors brought in masons from abroad, mostly from Germany. That suggests skilled stonemasons were in short supply and in demand. It cuts both ways: it supports the idea that skill was a real constraint, and shows that the gap was filled from elsewhere.
+- **Large numbers of drawings survive.** The architects of these buildings, such as Street and Waterhouse, left thousands of drawings, which show the designs being worked out and changed.
+
+### What critics say
+
+- **The skills were taught and recorded.** Trades were learned through apprenticeships, typically of several years, and the methods are written down in Victorian builders' manuals, pattern books and journals such as *The Builder*.
+- **Victorian architects studied medieval buildings closely.** The Gothic Revival was based on measured drawings of real medieval churches and halls, which showed how to build vaults, arches and towers.
+- **Mistakes did happen.** Collapses, fires, faulty acoustics, leaking roofs and redesigns are well recorded for buildings of this period.
+
+### How to test it
+
+- Use the **census occupation tables** (1851–1901) to find how many masons, carvers, bricklayers and other building tradesmen there were in each city, and compare them with what was being built.
+- Look for **records of mistakes**: rebuilt walls, failed foundations, design changes during building, disputes with contractors and repair bills soon after completion.
+- Look for the **tools and methods**: templates, setting-out drawings, full-size details and trial assemblies in the architects' and contractors' records.
+- Check **the quality of the work itself**: is the stonework and detailing as uniform and precise as the claimed methods would allow, or more so?
 
 ## People and places to watch
 

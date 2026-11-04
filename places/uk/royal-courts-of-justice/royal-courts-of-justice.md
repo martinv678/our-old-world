@@ -142,7 +142,7 @@ Points to weigh up:
 - **Method:** unlike the iron and glass or terracotta buildings in this project, this is mainly hand-cut stone over brick, which is slow work. That fits the long timeline.
 - **Interruptions:** a masons' strike, hard frosts, and the contractors' need to bring in and house foreign workers are all recorded.
 - **Workforce:** figures haven't been found yet.
-- **Delivery check:** if the often-quoted 35 million bricks is right, that's about 105,000 tonnes over about 8 years, or about 14,600 bricks a day: about 29 one-horse loads a day at about 500 bricks a load. Most London bricks came up the Thames by barge from Kent and Essex, so the road part was short. The Portland stone came by sea from Dorset. These figures need the real contract quantities to be confirmed. See the [logistics argument](../../../ALTERNATIVE-VIEW.md#materials-and-delivery-the-logistics-argument) for the method.
+- **Delivery check:** if the often-quoted 35 million bricks is right, that's about 105,000 tonnes over about 8 years, or about 14,600 bricks a day: about 29–49 one-horse loads a day at 300–500 bricks a load (the load size is uncertain). Most London bricks came up the Thames by barge from Kent and Essex, so the road part was short. The Portland stone came by sea from Dorset. These figures need the real contract quantities to be confirmed. See the [logistics argument](../../../ALTERNATIVE-VIEW.md#materials-and-delivery-the-logistics-argument) for the method.
 
 **Working still needed:**
 
