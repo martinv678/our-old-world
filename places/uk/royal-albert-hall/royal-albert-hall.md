@@ -12,7 +12,8 @@
 | **Status** | In use as a concert hall. Grade I listed. Renovated 1996–2004 |
 | **Features** | [Dome](../../../GLOSSARY.md#dome), [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Inscriptions](../../../GLOSSARY.md#inscriptions) |
 
-*Images to be added by the owner.*
+![The Royal Albert Hall under construction, with the oval ring of lower walls in scaffolding and a large curved glasshouse behind](images/construction-lower-walls.jpg)
+*The hall's lower walls under construction, probably 1867–68 (date not confirmed), with the Royal Horticultural Society's conservatory behind. Photographer unknown. Via [Kevin Kelly Architects](https://www.kevinkellyarchitects.com/projects/royal-albert-hall); licence to be confirmed.*
 
 ## Overview
 
@@ -103,7 +104,7 @@ This is the same pattern seen at the [Crystal Palace](../crystal-palace/crystal-
 
 **Observed** (slope and exposed walls) / **Speculative** (mud flood) – The ground falls from Kensington Gore on the north side to Prince Consort Road on the south, where steps led down from the hall. Two modern projects have dug down beside it: the 1996–2004 works, which made a deep basement behind the hall (reported as 18 m) and a tunnel under it for services, and the Great Excavation of 2017–19, which dug two basement levels about 10 m deep on the south-west side. In mud flood research, buildings with walls running well below today's ground are checked for signs that the ground was once lower.
 
-**A photo of the Great Excavation** (owner-supplied; it appears to be from 2017–19, as Sir Robert McAlpine hoarding is visible) shows the side of the hall cut open, with the excavation held apart by steel props. What it shows:
+**A photo of the Great Excavation** (from [Kevin Kelly Architects](https://www.kevinkellyarchitects.com/projects/royal-albert-hall), see [Images](#images); it appears to be from 2017–19, as Sir Robert McAlpine hoarding is visible) shows the side of the hall cut open, with the excavation held apart by steel props. What it shows:
 
 - **The walls go a long way down.** The hall's wall continues roughly a full storey or more below today's ground level, down to the excavation floor (**Observed**).
 - **Two kinds of wall.** Above ground the wall is red brick with carved terracotta window surrounds. Below ground it changes to plain yellow-grey brick, with patches of older red brick and no decoration (**Observed**).
@@ -119,7 +120,7 @@ Points to weigh up:
 
 ### The construction photo: building from the ground up
 
-**Documented** (photo) / **Observed** (what it shows) – An early construction photo (owner-supplied, from the hall's [construction in pictures](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures) page) shows the hall at an early stage, probably 1867–68 (date not confirmed). It's taken from high up on the north side, with trees from Kensington Gardens in the foreground. The oval ring of the lower walls and the arena are surrounded by timber scaffolding, with stacks of building materials around them.
+**Documented** (photo) / **Observed** (what it shows) – An early construction photo (the main image at the top of this entry, via [Kevin Kelly Architects](https://www.kevinkellyarchitects.com/projects/royal-albert-hall)) shows the hall at an early stage, probably 1867–68 (date not confirmed). It's taken from high up on the north side, with trees from Kensington Gardens in the foreground. The oval ring of the lower walls and the arena are surrounded by timber scaffolding, with stacks of building materials around them.
 
 What it shows:
 
@@ -154,10 +155,10 @@ What stands out for this project:
 | Seats sold in advance; seatholders still own about 1,300 seats | Histories of the hall | Reported | New World Encyclopedia; Wikipedia |
 | Period photographs show the dome under construction | Hall's published construction photographs | Documented | [Royal Albert Hall](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures) |
 | Hall on a slope, with steps down to the south; deep basement dug 1996–2004 | Visible on site; project records | Observed | Designing Buildings; GCG |
-| Hall's walls run a storey or more below today's ground; plain brick below, decorated red brick above | Owner-supplied photo of the Great Excavation | Observed | Owner; Sir Robert McAlpine |
-| Framed opening with a stone surround in the buried wall | Owner-supplied photo of the Great Excavation | Observed | Owner |
-| Lower walls built up from an open site in 1867–68 | Early construction photo | Observed | Royal Albert Hall |
-| Paxton-style conservatory behind the site, by Fowke, since demolished | Early construction photo; Survey of London | Documented | Royal Albert Hall; British History Online |
+| Hall's walls run a storey or more below today's ground; plain brick below, decorated red brick above | Photo of the Great Excavation | Observed | Kevin Kelly Architects; Sir Robert McAlpine |
+| Framed opening with a stone surround in the buried wall | Photo of the Great Excavation | Observed | Kevin Kelly Architects |
+| Lower walls built up from an open site in 1867–68 | Early construction photo | Observed | Kevin Kelly Architects |
+| Paxton-style conservatory behind the site, by Fowke, since demolished | Early construction photo; Survey of London | Documented | Kevin Kelly Architects; British History Online |
 
 ### Timeline check
 
@@ -246,11 +247,19 @@ What stands out for this project:
 
 ## Images
 
-Images will be added by the owner. The most useful for this entry would be:
+Click any image to enlarge it.
 
-- the hall **under construction** in 1867–71, especially the dome. The hall has published a set of these on its [construction in pictures](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures) page; check their copyright and licence before reusing any
-- **Owner-supplied:** the early construction photo of the lower walls with the Horticultural Society's conservatory behind (from the hall's construction page; probably 1867–68, and old enough to be public domain, but the date and photographer need confirming)
-- **Owner-supplied:** the Great Excavation photo showing the buried walls (c. 2017–19; a modern photo, so it's likely to be in copyright and needs permission or a link instead)
+![The Royal Albert Hall under construction, with the oval ring of lower walls in scaffolding and a large curved glasshouse behind](images/construction-lower-walls.jpg)
+*The hall's lower walls and arena under construction, seen from the north, probably 1867–68 (date not confirmed). Behind is the Royal Horticultural Society's Great Conservatory (1861), with a small domed pavilion on each side. Photographer unknown. Via [Kevin Kelly Architects](https://www.kevinkellyarchitects.com/projects/royal-albert-hall).*
+
+![The side of the Royal Albert Hall cut open by a deep excavation held apart by steel props, showing plain brick walls below the decorated red brick above](images/great-excavation-buried-walls.jpg)
+*The Great Excavation, c. 2017–19: the hall's wall continues a storey or more below today's ground, in plain brick below the red brick and terracotta above. A framed opening is partly visible low down on the far right. Via [Kevin Kelly Architects](https://www.kevinkellyarchitects.com/projects/royal-albert-hall).*
+
+_Image licences are still to be confirmed. The construction photo is old enough that it is probably public domain; the excavation photo is modern and is likely to be in copyright, so permission from Kevin Kelly Architects (or removal and a link instead) may be needed._
+
+Other images that would be useful:
+
+- more of the hall **under construction** in 1867–71, especially the dome. The hall has published a set on its [construction in pictures](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures) page
 - the **foundation stone ceremony** on 20 May 1867 and the **opening** on 29 March 1871
 - a clear, high-resolution view of the **inscription** showing the Roman-numeral dates
 - the **south side and steps** to Prince Consort Road in the 1870s, for comparison with today
@@ -259,6 +268,7 @@ Images will be added by the owner. The most useful for this entry would be:
 
 ## Sources
 
+- Kevin Kelly Architects – Royal Albert Hall (source of the two images): https://www.kevinkellyarchitects.com/projects/royal-albert-hall
 - Sir Robert McAlpine – Project spotlight: Royal Albert Hall: https://www.srm.com/news-and-comment/project-spotlight-royal-albert-hall/
 - Hideaway Media – The Great Excavation video: https://www.hideawaymedia.com/great-excavation-video-royal-albert-hall/
 - British History Online – Survey of London, volume 38, plate 28: Royal Horticultural Society's Garden: https://www.british-history.ac.uk/survey-london/vol38/plate-28
