@@ -59,11 +59,11 @@ This is the clearest example in this project of a modern structure deliberately 
 
 Points to weigh up:
 
-- **The steel frame was photographed before it was clad.** Construction photographs of the 1880s–90s show the bare steel towers standing in the river, before the stone went on. This is strong evidence that the bridge was built new in 1886–94.
+- **The steel frame was photographed before it was clad.** Construction photographs of the 1880s–90s show the bare steel towers standing in the river, before the stone went on. This is strong evidence that the bridge was built new in 1886–94. A good selection is gathered on [Rare Historical Photos](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/). The London Metropolitan Archives hold a set of 50 construction photographs taken in about 1891–94, which can be seen in the London Picture Archive, and Historic England has a view of the bridge in its final stages of construction.
 - **The "disguise" was a public choice.** The Gothic style was chosen so the bridge would suit the Tower of London. That was debated openly at the time.
 - **It shows how other buildings could be studied.** If a Victorian building can hide a modern frame behind historic-looking stone, then the structure inside other "old-looking" buildings is worth checking too. That can cut both ways: it may reveal modern construction, or older work.
 
-**How to test it:** collect the construction photographs with their dates, and match each stage of the steelwork against the reported timeline.
+**How to test it:** collect the construction photographs with their dates, and match each stage of the steelwork against the reported timeline. The London Metropolitan Archives' set of 50 photographs (London Picture Archive records 323335–323384) is the place to start.
 
 ### The architect who died a year in
 
@@ -166,7 +166,7 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 - **Institution of Civil Engineers:** Barry's papers on the bridge in its *Minutes of Proceedings*, and its archive.
 - **Friends of the National Libraries:** technical drawings of the construction, acquired with their help.
 - **Period journals:** *The Engineer*, *Engineering*, *The Builder* and the *Illustrated London News*, 1884–94.
-- **Construction photographs:** sets held by the London Metropolitan Archives and published on the Tower Bridge site.
+- **Construction photographs:** the London Metropolitan Archives' set of 50 photographs of about 1891–94 (London Picture Archive, records 323335–323384; for research use, with permission needed for anything else), the City of London's Tower Bridge collection (CLA/020, catalogued on AIM25), Historic England's photograph of the final stages, and the selection on [Rare Historical Photos](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/). The Tower Bridge site also describes 130-year-old photographs found more recently, including some of the 1894 opening found by an engineer's great-grandson.
 - **Tower Subway:** its history and the surviving entrance kiosk on Tower Hill.
 - **Historic England:** the Grade I listing.
 
@@ -178,7 +178,7 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 
 Images will be added by the owner. The most useful for this entry would be:
 
-- the **bare steel towers** under construction, before the stone was added
+- the **bare steel towers** under construction, before the stone was added (see the [Rare Historical Photos selection](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/) and the London Picture Archive; check each photograph's licence before reusing it)
 - the **piers** being built in the river
 - the **opening** on 30 June 1894
 - the **engine rooms**, steam engines and accumulators
@@ -187,6 +187,13 @@ Images will be added by the owner. The most useful for this entry would be:
 
 ## Sources
 
+- Rare Historical Photos – The innovative construction of London's Tower Bridge seen through old photographs, 1886–1895: https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/
+- London Picture Archive (London Metropolitan Archives) – Tower Bridge construction: https://www.londonpicturearchive.org.uk/view-item?i=323066
+- AIM25 – City of London: Tower Bridge collection (CLA/020): https://atom.aim25.com/index.php/tower-bridge
+- Historic England – Tower Bridge during the final stages of construction (AA83/01330): https://historicengland.org.uk/images-books/photos/item/AA83/01330
+- Tower Bridge – Discovering 130-year-old photographs: https://www.towerbridge.org.uk/discovering-130-year-old-photographs
+- Southwark News – A towering achievement: photos show Tower Bridge being built: https://www.southwarknews.co.uk/history/towering-achievement-photos-show-tower-bridge-built/
+- Southwark News – Rare photos of Tower Bridge's 1894 opening discovered by engineer's great-grandson: https://southwarknews.co.uk/area/borough/rare-photos-of-tower-bridges-1894-opening-discovered-by-engineers-great-grandson/
 - Tower Bridge – Timeline: the construction of Tower Bridge: https://www.towerbridge.org.uk/stories/timeline-the-construction-of-tower-bridge
 - Tower Bridge – How was Tower Bridge built?: https://www.towerbridge.org.uk/stories/how-was-tower-bridge-built
 - Tower Bridge – How does Tower Bridge work?: https://www.towerbridge.org.uk/stories/how-does-tower-bridge-work
