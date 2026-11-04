@@ -66,6 +66,22 @@ Each point below carries an evidence label: **Documented**, **Observed**, **Repo
 
 **Documented** (dates) / **Speculative** (an older origin) – Barlow's roof, the largest single span of its time, was built in about three years. Like the Crystal Palace, it's part of a wave of huge iron and glass structures that the alternative view sees as possibly reusing older knowledge. Unusually, here the maker and date are cast into the iron itself.
 
+### The shed was photographed; the hotel apparently wasn't
+
+**Documented** (shed) / **Observed** (no hotel photographs found so far) – Photographs exist of the train shed being built: the basement in 1867 and the roof ribs going up in 1868. But no photograph of Scott's Gothic hotel under construction has been found yet, even though it was built right next to the shed over the following eight years. This fits the wider pattern in the project's [photo record](../../../ALTERNATIVE-VIEW.md#missing-construction-photographs-the-photo-record-argument): iron and engineering works were photographed while going up, while Gothic stone and brick buildings of the same years, such as [Manchester Town Hall](../manchester-town-hall/manchester-town-hall.md) and the [Royal Courts of Justice](../royal-courts-of-justice/royal-courts-of-justice.md), so far have no construction photographs. For the alternative view, St Pancras is the sharpest test case: the same client, the same site and the same years, with one half photographed and the other not (**Speculative**).
+
+Points to weigh up:
+
+- **The shed was the engineering showpiece.** Its record-breaking span was of interest to engineers and journals, which is a likely reason it was photographed.
+- **The hotel was built in stages** from 1868 to 1876 while the station was in use. Progress views may exist as engravings in *The Builder* or *The Building News* rather than as photographs.
+- **The Midland Railway's archive hasn't been searched.** The National Railway Museum and the National Archives hold its records, which may include photographs.
+
+**How to test it:** search the National Railway Museum's collections and the Midland Railway records at the National Archives for images dated 1868–76, and *The Builder* and *The Building News* for engravings of the hotel works.
+
+### Materials brought in on the railway's own line
+
+**Documented** (sources) / **Reported** (quantities) – The station was built from Midland materials carried on the Midland Railway's own line: deep red Gripper's patent bricks from Nottingham, Ketton and Ancaster limestone, red Mansfield sandstone and ironwork from the Butterley Company in Derbyshire. Demand for the Nottingham bricks is said to have outrun supply, so more had to be ordered from Tucker & Sons of Loughborough. One source puts the total at about 50 million bricks for the shed and hotel. This is a good example for the [logistics argument](../../../ALTERNATIVE-VIEW.md#materials-and-delivery-the-logistics-argument): the railway could deliver its own building materials by train, straight to the site. See the delivery check under [Timeline check](#timeline-check).
+
 ### Anomaly log
 
 | Anomaly | Evidence | Label | Source |
@@ -79,6 +95,8 @@ Each point below carries an evidence label: **Documented**, **Observed**, **Repo
 | Hotel design said to reuse Scott's Whitehall scheme | Secondary sources | Reported | Victorian Web |
 | Hotel closed after about 60 years, nearly demolished in the 1960s | Building history | Documented | Network Rail |
 | Iron ribs cast with "Butterley Company, 1867" | Plate on a rib | Documented | Blipfoto photo |
+| Train shed photographed under construction (1867–68); no photographs of the hotel going up found yet | Photo record search | Observed | Structurae; History Today |
+| About 50 million bricks, with Nottingham supply running short | Single secondary source | Reported | Culture Voyage; Brickhunter |
 
 ### Timeline check
 
@@ -86,14 +104,22 @@ Each point below carries an evidence label: **Documented**, **Observed**, **Repo
 
 - The train shed was built in about three years (1865–1868).
 - The hotel took about eight years (1868–1876), opening in 1873 while still unfinished.
+- One source gives about 50 million bricks for the whole station and hotel (not confirmed).
 
 **The working:**
 
-- The roof is a series of wrought-iron arch ribs, all of the same design, made by the Butterley Company in Derbyshire and brought in by rail.
-- Repeating one standard rib many times is the same method that made the Crystal Palace fast.
-- The undercroft columns are likewise standard castings.
+- **The roof:** a series of wrought-iron arch ribs, all of the same design, made by the Butterley Company in Derbyshire and brought in by rail. Repeating one standard rib many times is the same method that made the Crystal Palace fast. The undercroft columns are likewise standard castings.
+- **Brickwork:** 50 million bricks over about 11 years (1865–1876) is about 4.5 million a year, or about 15,000 a day over 300 working days. At the commonly quoted Victorian rate of 500–1,000 bricks per bricklayer per day (not confirmed here), that's about 15 to 30 bricklayers laying at once.
+- **Delivery check:** 15,000 bricks a day at about 3 kg each is about 45 tonnes a day. If it all went by road, that's about 30 one-horse loads a day at 500 bricks, or about 50 at 300 bricks (the load size is uncertain). But here the materials came by rail on the Midland's own line: at a rough 6–10 tonnes per 1860s goods wagon (not confirmed here), that's about 5 to 8 wagon-loads of bricks a day. The yearly need, about 4.5 million bricks, is about two-thirds of one per cent of the roughly 700 million bricks London used each year around 1879. See the [logistics argument](../../../ALTERNATIVE-VIEW.md#materials-and-delivery-the-logistics-argument) for the method.
+- **Strain on supply:** the Nottingham brickmaker reportedly couldn't keep up, so a second supplier was brought in. That suggests the demand was real and large enough to stretch a specialist maker.
 
-**Verdict for now:** **Plausible.** Three years for a repeated-rib iron roof, with the manufacturer's name and year cast into it, fits the industry of the 1860s. Eight years for the hotel is not fast. The stronger questions here are about what was removed to build it, and how the station's own history has been retold, as the clock story shows.
+**Working still needed:**
+
+1. A confirmed brick count, and the tonnage of stone and iron.
+2. The size of the workforce for the shed and for the hotel.
+3. The Midland Railway's goods records for materials delivered to the site.
+
+**Verdict for now:** **Plausible.** Three years for a repeated-rib iron roof, with the manufacturer's name and year cast into it, fits the industry of the 1860s, and the railway could deliver its own materials by train. Eight years for the hotel is not fast. The stronger questions here are what was removed to build it, why the hotel apparently wasn't photographed while the shed was, and how the station's own history has been retold, as the clock story shows.
 
 ### Comparison buildings
 
@@ -120,6 +146,7 @@ Each point below carries an evidence label: **Documented**, **Observed**, **Repo
 - The Butterley Company's records for the ironwork
 - Dated photographs and engravings of the construction
 - Survey records from the 2000s restoration
+- Photographs or engravings of the hotel under construction
 
 ## Open questions for contributors
 
@@ -129,6 +156,8 @@ Each point below carries an evidence label: **Documented**, **Observed**, **Repo
 - **The churchyard:** How many graves were moved, where were the remains taken, and did Hardy arrange the stones around the tree?
 - **The clock:** When exactly was it taken down, and how did it fall?
 - **Scott's design:** How much of the hotel really comes from his Whitehall scheme?
+- **Hotel construction photographs:** Do any photographs of the hotel being built exist, in the National Railway Museum or elsewhere?
+- **Brick count:** How many bricks were used, and how many came from Nottingham and Loughborough?
 - **Photos:** Photos of Agar Town, the churchyard clearance and the construction would be especially useful.
 
 ## Leads to follow up
@@ -137,7 +166,8 @@ Each point below carries an evidence label: **Documented**, **Observed**, **Repo
 - **The Butterley Company's records** for the roof ironwork.
 - **Camden Local Studies and Archives** for Agar Town and the churchyard; Steven Denford's *Agar Town* (Camden History Society, 1995).
 - **Thomas Hardy's own writings**, including his poem "The Levelled Churchyard", and biographies covering his time with Blomfield.
-- **The *Illustrated London News*** and *The Builder* for 1865–1876.
+- **The *Illustrated London News***, *The Builder* and *The Building News* for 1865–1876, for engravings of the works.
+- **The National Railway Museum** photo collections, for construction photographs of the shed and any of the hotel.
 - **HS1** (the station's owners) for the history of the clocks and the 2007 restoration.
 - **Historic England** list entry for the station and hotel.
 
@@ -177,3 +207,6 @@ Three freely licensed images have been chosen for this entry but not yet added. 
 - Mike Higginbottom – The St Pancras clock: https://www.mikehigginbottominterestingtimes.co.uk/2017/09/26/the-st-pancras-clock/
 - The Pillar – St Pancras clock: https://www.pillarcatholic.com/p/st-pancras-clock-and-performative
 - Literary Rambles – "The Levelled Churchyard": https://literaryrambles.org/walks/uk/england/london/st-pancras-gardens-london-thomas-hardy-7248
+- Culture Voyage – A grand rebirth (50 million Gripper bricks): https://www.culturevoyage.co.uk/729/
+- Brickhunter – Brick buildings we love: St Pancras: https://brickhunter.com/blog/brick-buildings-we-love-st-pancras
+- Camden Council – Heritage document on St Pancras (materials brought by rail from the Midlands): https://camdocs.camden.gov.uk/CMWebDrawer/Record/7155900/file/document

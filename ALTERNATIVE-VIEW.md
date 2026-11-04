@@ -108,6 +108,7 @@ For each building, the **Timeline check** should include a **delivery check**: h
 | [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | about 6 million | about 3 | about 6,700 | about 13 | about 22 |
 | [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) | more than 14 million | about 7 | about 6,700 | about 13 | about 22 |
 | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | about 35 million (not confirmed) | about 8 | about 14,600 | about 29 | about 49 |
+| [St Pancras station and hotel](places/uk/st-pancras/st-pancras.md) | about 50 million (not confirmed) | about 11 | about 15,200 | about 30 | about 51 |
 
 If each cart made three or four round trips a day from a wharf, rail yard or brickfield a mile or two away, about 13 to 22 loads a day needs only four to seven carts. For a single building, the delivery side is small: the Albert Hall's whole yearly need (about 2 million bricks) is about a tenth of one per cent of Britain's 1840 output.
 
