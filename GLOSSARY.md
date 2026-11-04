@@ -9,7 +9,7 @@ The building lists and the index below are generated automatically from the **Fe
 |---|---|
 | [Built on older ruins](#built-on-older-ruins) | 4 |
 | [Buried ground floor](#buried-ground-floor) | 1 |
-| [Clock tower](#clock-tower) | 3 |
+| [Clock tower](#clock-tower) | 4 |
 | [Coloured tilework](#coloured-tilework) | 1 |
 | [Courtyard](#courtyard) | 1 |
 | [Dome](#dome) | 8 |
@@ -26,7 +26,7 @@ The building lists and the index below are generated automatically from the **Fe
 | [Spire](#spire) | 3 |
 | [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
-| [Tower](#tower) | 11 |
+| [Tower](#tower) | 12 |
 | [Undercroft](#undercroft) | 1 |
 | [Underground tunnel](#underground-tunnel) | 3 |
 <!-- index:end -->
@@ -67,8 +67,9 @@ A tower carrying a large public clock, often the tallest point of a town hall, r
 **Why it matters:** clock towers appear in near-identical forms across the world in the same period. Some researchers link towers and spires to ideas about lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (3):**
+**Buildings (4):**
 
+- [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) – UK
 - [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 - [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
@@ -302,13 +303,14 @@ A tall structure rising above the main body of a building, whether square, round
 **Why it matters:** towers and spires are common in old world architecture. Some theories link them to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (11):**
+**Buildings (12):**
 
 - [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) – France
 - [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
 - [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) – Italy
 - [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) – Italy
 - [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) – UK
+- [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) – UK
 - [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) – UK
 - [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 - [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) – UK

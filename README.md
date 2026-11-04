@@ -60,7 +60,7 @@ The town or city goes in the details table at the top of each entry, not in the 
 Every building, grouped by type. A building can appear under more than one type (for example a station that is also a hotel). This list is generated automatically from each entry's **Type** row, so there's no need to edit it by hand.
 
 <!-- catalogue:start -->
-**Jump to:** [Bridge](#bridge) (1) · [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Concert hall](#concert-hall) (1) · [Exhibition hall](#exhibition-hall) (5) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Law court](#law-court) (1) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Villa](#villa) (2)
+**Jump to:** [Bridge](#bridge) (1) · [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Concert hall](#concert-hall) (1) · [Exhibition hall](#exhibition-hall) (5) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Law court](#law-court) (1) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Town hall](#town-hall) (1) · [Villa](#villa) (2)
 
 ### Bridge
 
@@ -174,6 +174,12 @@ Every building, grouped by type. A building can appear under more than one type 
 | Building | Country | Built | Status |
 |---|---|---|---|
 | [Seattle Underground](places/usa/seattle-underground/seattle-underground.md) | USA | Streets and buildings mostly 1889–1890s; streets raised in the years after 1889 | Partly accessible on guided tours |
+
+### Town hall
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) | UK | 1868–1877 | Grade I listed. Closed since 2018 for restoration |
 
 ### Villa
 

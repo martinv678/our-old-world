@@ -4,7 +4,7 @@ Pre-1900 buildings and places to research for the project, grouped by region. �
 
 Dates are approximate starting points, so check them when researching. "Begun" means the building was started before 1900 but finished later.
 
-**Progress: 25 of 134 done.**
+**Progress: 26 of 134 done.**
 
 ## United Kingdom and Ireland
 
@@ -22,7 +22,7 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ⬜ | Palm House, Kew Gardens | London | 1844–48 | Early iron and glass giant |
 | ⬜ | Tilbury Fort | Essex | 1670s | English star fort on the Thames |
 | ⬜ | Berwick-upon-Tweed walls | Northumberland | 1558–70 | Bastioned town walls (star fort design) |
-| ⬜ | Manchester Town Hall | Manchester | 1868–77 | Gothic clock tower |
+| ✅ | [Manchester Town Hall](../places/uk/manchester-town-hall/manchester-town-hall.md) | Manchester | 1868–77 | Gothic clock tower |
 | ⬜ | St George's Hall | Liverpool | 1841–54 | Giant neoclassical hall with columns |
 | ⬜ | Leeds Town Hall | Leeds | 1853–58 | Domed clock tower |
 | ⬜ | Glasgow City Chambers | Glasgow | 1882–88 | Marble interiors, tower |

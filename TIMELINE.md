@@ -43,6 +43,7 @@ The list below is generated automatically by `scripts/build_index.py`, so don't 
 | 1865 | [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) | Italy | 1865–1877 | Shopping arcade |
 | 1865 | [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) | UK | Train shed 1865–1868; hotel 1868–1876 | Railway station, Hotel |
 | 1867 | [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | UK | 1867–1871 | Concert hall |
+| 1868 | [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) | UK | 1868–1877 | Town hall |
 | 1873 | [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) | UK | 1873–1881 | Museum |
 | 1873 | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | UK | 1873–1882 | Law court |
 | 1876 | [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) | Germany | 1876–1880, replacing a station of 1841 | Railway station |
