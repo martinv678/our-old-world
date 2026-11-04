@@ -268,7 +268,7 @@ So far the evidence fits the critics' explanation (engineering showpieces were p
 
 ### The idea
 
-This is the owner's own view. Many of these buildings, especially churches and cathedrals with rose windows, were designed with **cymatics** in mind: the patterns that sound makes when it vibrates a surface. On this view, the builders understood which sounds and acoustics are best for the human body. Rose windows exist because they match the patterns that sound creates, and organs and bells were used to turn the whole building into an instrument.
+This is the owner's own view. Many of these buildings, especially churches and cathedrals with rose windows, were designed with **cymatics** in mind: the patterns that sound makes when it vibrates a surface. On this view, the builders understood which sounds and acoustics are best for the human body (**Speculative**: no direct evidence has been found yet). Rose windows exist because they match the patterns that sound creates, and organs and bells were used to turn the whole building into an instrument.
 
 ### How it applies to this project
 
