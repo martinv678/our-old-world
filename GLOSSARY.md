@@ -28,7 +28,7 @@ The building lists and the index below are generated automatically from the **Fe
 | [Stucco decoration](#stucco-decoration) | 2 |
 | [Tower](#tower) | 7 |
 | [Undercroft](#undercroft) | 1 |
-| [Underground tunnel](#underground-tunnel) | 2 |
+| [Underground tunnel](#underground-tunnel) | 3 |
 <!-- index:end -->
 
 ---
@@ -324,10 +324,11 @@ A passage running underground from a building, for example to another building, 
 **Why it matters:** tunnels and hidden passages come up often in old world research. Where they go, who built them and when are often poorly recorded.
 
 <!-- buildings:start -->
-**Buildings (2):**
+**Buildings (3):**
 
 - [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) – Germany
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
+- [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
 <!-- buildings:end -->
 
 ---
