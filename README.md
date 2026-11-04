@@ -60,7 +60,7 @@ The town or city goes in the details table at the top of each entry, not in the 
 Every building, grouped by type. A building can appear under more than one type (for example a station that is also a hotel). This list is generated automatically from each entry's **Type** row, so there's no need to edit it by hand.
 
 <!-- catalogue:start -->
-**Jump to:** [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Concert hall](#concert-hall) (1) · [Exhibition hall](#exhibition-hall) (5) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Villa](#villa) (2)
+**Jump to:** [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Concert hall](#concert-hall) (1) · [Exhibition hall](#exhibition-hall) (5) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Law court](#law-court) (1) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Villa](#villa) (2)
 
 ### Casino
 
@@ -115,6 +115,12 @@ Every building, grouped by type. A building can appear under more than one type 
 | Building | Country | Built | Status |
 |---|---|---|---|
 | [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) | UK | Train shed 1865–1868; hotel 1868–1876 | In use as St Pancras International station and the St Pancras Renaissance Hotel |
+
+### Law court
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | UK | 1873–1882 | In use as law courts. Grade I listed |
 
 ### Museum
 
