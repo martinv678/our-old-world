@@ -76,6 +76,10 @@ Points to weigh up:
 
 This is the same pattern seen at the [Crystal Palace](../crystal-palace/crystal-palace.md): structures assembled in one place and moved to another. Here, though, the trial assembly is well documented and is a normal engineering precaution for a roof of this size. The precision is the interesting part. How did Victorian engineers achieve it with the tools of the day? Fairbairn's own records would show the method.
 
+**Documented** (construction photographs) – The hall's own archive has published period photographs of the building going up, including the dome being built: see [Construction of the Royal Albert Hall in pictures](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures). Photographs of the iron frame being raised are strong evidence that the dome was built in 1867–71 as the official story says, rather than inherited from an earlier structure. The Science Museum Group also holds a print titled "Building of Royal Albert Hall", dated 1867–71, and the V&A has published an article on how the dome was designed.
+
+**How to use the photos:** check each one's date and caption, and compare the stages of the dome shown with the reported sequence (trial assembly in Manchester, then re-erection in London on timber scaffolding filling the hall). Note the resolution any analysis is based on, as the research brief asks.
+
 ### A hall that echoed from the first day
 
 **Documented** – The echo was noticed at the opening on 29 March 1871 and wasn't properly dealt with for nearly a century. A canvas awning was hung under the dome, then replaced with aluminium panels in 1949, and the "mushroom" diffusers were added in 1968–69. It was joked that the hall was the only place where a British composer could be sure of hearing his work twice.
@@ -112,6 +116,7 @@ This is the same pattern seen at the [Crystal Palace](../crystal-palace/crystal-
 | Electric light demonstrated in 1873 | Histories of the hall | Documented | Wikipedia; Grace's Guide |
 | Designer died before construction began | Histories of the hall | Documented | Country Life; AIM25 |
 | Seats sold in advance; seatholders still own about 1,300 seats | Histories of the hall | Reported | New World Encyclopedia; Wikipedia |
+| Period photographs show the dome under construction | Hall's published construction photographs | Documented | [Royal Albert Hall](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures) |
 | Hall on a slope, with steps down to the south; deep basement dug 1996–2004 | Visible on site; project records | Observed | Designing Buildings; GCG |
 
 ### Timeline check
@@ -156,7 +161,7 @@ This is the same pattern seen at the [Crystal Palace](../crystal-palace/crystal-
 ### What would weaken it
 
 - The Corporation's archive of drawings, contracts, minutes and subscription lists, held at the hall
-- Construction-period photographs, engravings and newspaper reports from 1867–71
+- Construction-period photographs, engravings and newspaper reports from 1867–71. The hall's [construction photographs](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures), which show the dome being built, already point this way
 - Fairbairn's records of the dome's manufacture and trial assembly
 - Pre-1867 maps showing Gore House and its grounds on the site
 
@@ -173,6 +178,8 @@ This is the same pattern seen at the [Crystal Palace](../crystal-palace/crystal-
 
 ## Leads to follow up
 
+- **Construction photographs:** the hall's own page [Construction of the Royal Albert Hall in pictures](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures) shows the dome being built. The originals, with their dates and photographers, should be in the hall's archive.
+- **Science Museum Group and V&A:** the print "Building of Royal Albert Hall" (1867–71) and the V&A article on designing the dome.
 - **Royal Albert Hall archive:** the Corporation's own archive, catalogued on AIM25 and the hall's online catalogue (catalogue.royalalberthall.com), with drawings, minutes and photographs.
 - **Royal Commission for the Exhibition of 1851:** its archive covers the land purchase and the planning of Albertopolis. Some of Prince Albert's papers on the scheme are online at albert.rct.uk.
 - **Victoria and Albert Museum:** Henry Cole's diaries and papers, and the museum's records of Fowke's designs.
@@ -191,7 +198,7 @@ This is the same pattern seen at the [Crystal Palace](../crystal-palace/crystal-
 
 Images will be added by the owner. The most useful for this entry would be:
 
-- the hall **under construction** in 1867–71, especially the dome
+- the hall **under construction** in 1867–71, especially the dome. The hall has published a set of these on its [construction in pictures](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures) page; check their copyright and licence before reusing any
 - the **foundation stone ceremony** on 20 May 1867 and the **opening** on 29 March 1871
 - a clear, high-resolution view of the **inscription** showing the Roman-numeral dates
 - the **south side and steps** to Prince Consort Road in the 1870s, for comparison with today
@@ -200,6 +207,9 @@ Images will be added by the owner. The most useful for this entry would be:
 
 ## Sources
 
+- Royal Albert Hall – Construction of the Royal Albert Hall in pictures: https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures
+- V&A – Designing the dome of the Royal Albert Hall: https://www.vam.ac.uk/blog/news/designing-the-dome-of-the-royal-albert-hall
+- Science Museum Group – Photo entitled 'Building of Royal Albert Hall': https://collection.sciencemuseumgroup.org.uk/documents/aa110146271
 - Wikipedia – Royal Albert Hall: https://en.wikipedia.org/wiki/Royal_Albert_Hall
 - Designing Buildings – Royal Albert Hall: https://www.designingbuildings.co.uk/wiki/Royal_Albert_Hall
 - Country Life – The Royal Albert Hall: a 19th-century marvel: https://www.countrylife.co.uk/architecture/the-royal-albert-hall-although-it-has-never-really-answered-its-founding-purposes-it-has-been-a-triumphant-success-224834
