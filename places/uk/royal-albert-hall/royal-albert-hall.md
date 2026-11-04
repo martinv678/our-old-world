@@ -12,8 +12,8 @@
 | **Status** | In use as a concert hall. Grade I listed. Renovated 1996–2004 |
 | **Features** | [Dome](../../../GLOSSARY.md#dome), [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Inscriptions](../../../GLOSSARY.md#inscriptions) |
 
-![The Royal Albert Hall under construction, with the oval ring of lower walls in scaffolding and a large curved glasshouse behind](images/construction-lower-walls.jpg)
-*The hall's lower walls under construction, probably 1867–68 (date not confirmed), with the Royal Horticultural Society's conservatory behind. Photographer unknown. Via [Kevin Kelly Architects](https://www.kevinkellyarchitects.com/projects/royal-albert-hall); licence to be confirmed.*
+![The Royal Albert Hall seen from the Albert Memorial, with its red brick drum, frieze and glass dome under a blue sky](images/hall-from-albert-memorial.jpg)
+*The Royal Albert Hall seen from the steps of the Albert Memorial in Kensington Gardens, with the memorial's canopy and one of its corner sculpture groups on the left. Modern photo; photographer, source and licence to be confirmed.*
 
 ## Overview
 
@@ -120,7 +120,7 @@ Points to weigh up:
 
 ### The construction photo: building from the ground up
 
-**Documented** (photo) / **Observed** (what it shows) – An early construction photo (the main image at the top of this entry, via [Kevin Kelly Architects](https://www.kevinkellyarchitects.com/projects/royal-albert-hall)) shows the hall at an early stage, probably 1867–68 (date not confirmed). It's taken from high up on the north side, with trees from Kensington Gardens in the foreground. The oval ring of the lower walls and the arena are surrounded by timber scaffolding, with stacks of building materials around them.
+**Documented** (photo) / **Observed** (what it shows) – An early construction photo (see [Images](#images); via [Kevin Kelly Architects](https://www.kevinkellyarchitects.com/projects/royal-albert-hall)) shows the hall at an early stage, probably 1867–68 (date not confirmed). It's taken from high up on the north side, with trees from Kensington Gardens in the foreground. The oval ring of the lower walls and the arena are surrounded by timber scaffolding, with stacks of building materials around them.
 
 What it shows:
 
@@ -248,6 +248,9 @@ What stands out for this project:
 ## Images
 
 Click any image to enlarge it.
+
+![The Royal Albert Hall seen from the Albert Memorial, with its red brick drum, frieze and glass dome under a blue sky](images/hall-from-albert-memorial.jpg)
+*The hall today from the Albert Memorial, which faces it across Kensington Gore. The mosaic frieze and the inscription band run around the top of the drum, below the iron and glass dome. Photographer, source and licence to be confirmed.*
 
 ![The Royal Albert Hall under construction, with the oval ring of lower walls in scaffolding and a large curved glasshouse behind](images/construction-lower-walls.jpg)
 *The hall's lower walls and arena under construction, seen from the north, probably 1867–68 (date not confirmed). Behind is the Royal Horticultural Society's Great Conservatory (1861), with a small domed pavilion on each side. Photographer unknown. Via [Kevin Kelly Architects](https://www.kevinkellyarchitects.com/projects/royal-albert-hall).*
