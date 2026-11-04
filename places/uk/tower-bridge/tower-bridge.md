@@ -12,7 +12,8 @@
 | **Status** | In use. Grade I listed. Walkways and engine rooms open as an exhibition |
 | **Features** | [Tower](../../../GLOSSARY.md#tower) |
 
-*Images to be added by the owner.*
+![Tower Bridge under construction, with both steel towers and the high walkways standing over the Thames and the suspension chains being put up, captioned "Tower Bridge works Sep 28th 1892"](images/works-28-september-1892.jpg)
+*"Tower Bridge works Sep 28th 1892": the steel frames of both towers and the high walkways in place, with the stone cladding only partly fixed. From [Rare Historical Photos](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/), which credits its images to the London Stereoscopic Company, Wikimedia Commons and the Tower Bridge organisation; photographer and licence of this photograph to be confirmed.*
 
 ## Overview
 
@@ -59,7 +60,7 @@ This is the clearest example in this project of a modern structure deliberately 
 
 Points to weigh up:
 
-- **The steel frame was photographed before it was clad.** Construction photographs of the 1880s–90s show the bare steel towers standing in the river, before the stone went on. This is strong evidence that the bridge was built new in 1886–94. A good selection is gathered on [Rare Historical Photos](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/). The London Metropolitan Archives hold a set of 50 construction photographs taken in about 1891–94, which can be seen in the London Picture Archive, and Historic England has a view of the bridge in its final stages of construction.
+- **The steel frame was photographed before it was clad.** Construction photographs of the 1880s–90s show the bare steel towers standing in the river, before the stone went on. This is strong evidence that the bridge was built new in 1886–94. One photograph in the [Images](#images) section is dated on the plate "Tower Bridge works Sep 28th 1892" and shows the steel towers and walkways standing before the stone was finished; another, from the walkway, shows the bare braced steel inside a tower between its stone-clad corners. A good selection is gathered on [Rare Historical Photos](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/). The London Metropolitan Archives hold a set of 50 construction photographs taken in about 1891–94, which can be seen in the London Picture Archive, and Historic England has a view of the bridge in its final stages of construction.
 - **The "disguise" was a public choice, and reportedly a legal one.** The Gothic style was chosen so the bridge would suit the Tower of London, and the 1885 Act of Parliament is reported to have required it (**Reported**; the wording of the Act still needs checking). So the medieval look was decided in public, in law, before building began.
 - **It shows how other buildings could be studied.** If a Victorian building can hide a modern frame behind historic-looking stone, then the structure inside other "old-looking" buildings is worth checking too. That can cut both ways: it may reveal modern construction, or older work.
 
@@ -99,6 +100,7 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 | Anomaly | Evidence | Label | Source |
 |---|---|---|---|
 | Steel frame hidden inside stone towers to look old | Official history; construction photographs | Documented | Tower Bridge; Linda Hall Library |
+| Steel towers and walkways standing before the cladding, photographed on 28 September 1892 | Dated construction photograph | Documented | Rare Historical Photos |
 | Many people assume the bridge is centuries old | Popular perception | Documented | London Pass |
 | Architect died a year after work began; exterior redesigned by his assistant | Official history | Documented | Tower Bridge; Wikipedia |
 | Fifth designer in this project to die before completion | Comparison with other entries | Documented | This project |
@@ -121,7 +123,7 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 **Working still needed:**
 
 1. The volume of masonry and concrete, from the contract records. A figure of over 70,000 long tons of concrete in the two piers is given by Rare Historical Photos and Wikipedia, but hasn't been confirmed from the contract records.
-2. The dates when each tower's steel frame was finished and when cladding started, from the construction photographs.
+2. The dates when each tower's steel frame was finished and when cladding started, from the construction photographs. By 28 September 1892 (a dated photograph), the steel of both towers and the high walkways was up and the cladding had begun.
 3. How the 432 workers were split between the five contractors.
 
 **Verdict for now:** **Plausible.** Eight years, with factory-made steel from one of the most experienced bridge builders of the day, is a reasonable timeline, and the construction is thoroughly photographed and recorded. The interest of this entry for the project lies in the disguise of new steel as old stone, not in the speed of the build.
@@ -178,10 +180,26 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 
 ## Images
 
-Images will be added by the owner. The most useful for this entry would be:
+Click any image to enlarge it. All five construction photographs below are from the selection on [Rare Historical Photos](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/), which credits its images to the London Stereoscopic Company, Wikimedia Commons and the Tower Bridge organisation. The individual photographers and licences still need confirming; photographs of this age are generally out of copyright.
 
-- the **bare steel towers** under construction, before the stone was added. The photographs gathered by Rare Historical Photos include views dated 1892 and 1894 and are credited to the London Stereoscopic Company, Wikimedia Commons and the Tower Bridge organisation (see the [Rare Historical Photos selection](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/) and the London Picture Archive; check each photograph's licence before reusing it)
-- the **piers** being built in the river
+![Tower Bridge under construction, with both steel towers and the high walkways standing over the Thames and the suspension chains being put up, captioned "Tower Bridge works Sep 28th 1892"](images/works-28-september-1892.jpg)
+*"Tower Bridge works Sep 28th 1892" (date written on the photograph). The steel frames of both towers and the high walkways are up, with cranes on top. The right-hand tower is still mostly bare steel above its stone base; the left-hand tower is partly clad. The suspension chains of the north side span are being erected on timber staging.*
+
+![Both towers of Tower Bridge clad in stone up to the walkways, with bare steel pyramid frames on top for the roofs, cranes, and timber staging in the river](images/towers-with-steel-roof-frames.jpg)
+*Probably 1893 (date not confirmed). Both towers are now clad in stone up to the walkways, but their roofs are still bare steel pyramid frames, with a crane on top of the right-hand tower. Timber staging stands in the river around the piers. Bare steel can still be seen on the inner face of the left-hand tower, below the walkway.*
+
+![One tower of Tower Bridge from the riverbank, with scaffolding at the top, the suspension chains of the side span, and timber piles in the river, with men and rowing boats in the foreground](images/tower-from-riverbank-scaffolding.jpg)
+*Probably 1893–94 (date not confirmed). One tower seen from the riverbank, with scaffolding still on its roof and turrets. The steel suspension chains of the side span hang from the tower, and lines of timber piles from the temporary staging stand in the water.*
+
+![Looking down from the high-level walkway at one of the towers, whose inner face below the walkways is still bare braced steel between stone-clad corners, with the Tower of London on the left](images/walkway-view-bare-steel.jpg)
+*Probably 1894 (date not confirmed), looking from one of the high walkways towards a tower, with the Tower of London on the left. The top of the tower is finished, but below the walkways its inner face is still bare, cross-braced steel between the stone-clad corner turrets. This is the clearest view of the steel frame that the stone was built around.*
+
+![Tower Bridge nearly complete, seen from the riverside with sailing barges, a steam tug and rowing boats, scaffolding still on the tops of the towers; marked "493. FF&Co."](images/nearly-complete-frith.jpg)
+*Nearly complete, probably 1894 (date not confirmed), seen from the riverside, with a Thames sailing barge, a steam tug and rowing boats. Scaffolding is still on the tops of both towers. The plate is marked "493. FF&Co.", which may be the catalogue number of Francis Frith & Co., the photographic publishers (to be confirmed).*
+
+Other images that would be useful:
+
+- the **piers** being built in the river (1886–89)
 - the **opening** on 30 June 1894
 - the **engine rooms**, steam engines and accumulators
 - the **walkways**, then and now
