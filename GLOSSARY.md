@@ -14,8 +14,8 @@ The building lists and the index below are generated automatically from the **Fe
 | [Courtyard](#courtyard) | 1 |
 | [Dome](#dome) | 7 |
 | [Inscriptions](#inscriptions) | 1 |
-| [Iron and glass construction](#iron-and-glass-construction) | 6 |
-| [Landscaped park](#landscaped-park) | 7 |
+| [Iron and glass construction](#iron-and-glass-construction) | 7 |
+| [Landscaped park](#landscaped-park) | 8 |
 | [Minaret](#minaret) | 2 |
 | [Monolithic columns](#monolithic-columns) | 1 |
 | [Moorish arches](#moorish-arches) | 3 |
@@ -26,7 +26,7 @@ The building lists and the index below are generated automatically from the **Fe
 | [Spire](#spire) | 2 |
 | [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
-| [Tower](#tower) | 7 |
+| [Tower](#tower) | 8 |
 | [Undercroft](#undercroft) | 1 |
 | [Underground tunnel](#underground-tunnel) | 3 |
 <!-- index:end -->
@@ -134,12 +134,13 @@ Large buildings framed in cast or wrought iron and covered in glass, such as exh
 **Why it matters:** enormous iron and glass structures appeared around the world in a few decades and were often put up very quickly. Many were later demolished or burned.
 
 <!-- buildings:start -->
-**Buildings (6):**
+**Buildings (7):**
 
 - [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) – Germany
 - [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) – Germany
 - [Frankfurt (Main) Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) – Germany
 - [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) – Italy
+- [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
 <!-- buildings:end -->
@@ -151,12 +152,13 @@ Large designed grounds around a building, often with exotic trees, paths and wat
 **Why it matters:** mature parks with exotic trees raise questions about when they were really planted, and whether the grounds are older than the building's official date.
 
 <!-- buildings:start -->
-**Buildings (7):**
+**Buildings (8):**
 
 - [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) – Australia
 - [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) – Italy
 - [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) – Italy
 - [Goryōkaku](places/japan/goryokaku/goryokaku.md) – Japan
+- [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) – UK
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
 - [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) – USA
@@ -294,12 +296,13 @@ A tall structure rising above the main body of a building, whether square, round
 **Why it matters:** towers and spires are common in old world architecture. Some theories link them to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (7):**
+**Buildings (8):**
 
 - [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) – France
 - [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
 - [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) – Italy
 - [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) – Italy
+- [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) – UK
 - [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK

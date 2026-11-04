@@ -60,7 +60,7 @@ The town or city goes in the details table at the top of each entry, not in the 
 Every building, grouped by type. A building can appear under more than one type (for example a station that is also a hotel). This list is generated automatically from each entry's **Type** row, so there's no need to edit it by hand.
 
 <!-- catalogue:start -->
-**Jump to:** [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Exhibition hall](#exhibition-hall) (4) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Museum](#museum) (1) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Villa](#villa) (2)
+**Jump to:** [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Exhibition hall](#exhibition-hall) (5) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Museum](#museum) (1) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Villa](#villa) (2)
 
 ### Casino
 
@@ -88,6 +88,7 @@ Every building, grouped by type. A building can appear under more than one type 
 |---|---|---|---|
 | [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) | Australia | 1879–1880 | In use as an exhibition venue |
 | [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) | France | 1876–1878 | Largely demolished 1935–1937 |
+| [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) | UK | First palace c. 1865–1873 (burned 1873); rebuilt 1873–1875 | In use as an events venue. Burned 1873, rebuilt 1875 |
 | [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | UK | 1850–1851; dismantled and rebuilt larger at Sydenham 1852–1854 | Destroyed by fire 1936 |
 | [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) | USA | 1891–1893; rebuilt in stone c. 1929–1933 | In use as the Griffin Museum of Science and Industry |
 

@@ -111,7 +111,7 @@ Glass and iron buildings full of timber floors and exhibits were genuinely vulne
 | Great Conservatory, Chatsworth | Derbyshire, UK | 1836–41 | Paxton's earlier glasshouse; demolished 1920 |
 | New York Crystal Palace | New York, USA | 1853 | Burned 1858 |
 | Glaspalast | Munich, Germany | 1854 | Burned 1931 |
-| Alexandra Palace | London, UK | 1873 | Burned 16 days after opening; rebuilt (on the research list) |
+| [Alexandra Palace](../alexandra-palace/alexandra-palace.md) | London, UK | 1873 | Burned 16 days after opening; rebuilt 1875 |
 | Palacio de Cristal | Madrid, Spain | 1887 | Survives (on the research list) |
 | [Royal Exhibition Building](../../australia/royal-exhibition-building/royal-exhibition-building.md) | Melbourne, Australia | 1879–80 | Survives |
 | [Palais du Trocadéro](../../france/palais-du-trocadero/palais-du-trocadero.md) | Paris, France | 1876–78 | Demolished 1935–37 |

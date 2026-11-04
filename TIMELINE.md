@@ -39,6 +39,7 @@ The list below is generated automatically by `scripts/build_index.py`, so don't 
 | 1850 | [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) | Italy | From 1850, on the ruins of a medieval fortress; extended until the 1890s | Castle |
 | 1850 | [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | UK | 1850–1851; dismantled and rebuilt larger at Sydenham 1852–1854 | Exhibition hall |
 | 1857 | [Goryōkaku](places/japan/goryokaku/goryokaku.md) | Japan | c. 1857–1866 (sources differ) | Star fort |
+| 1865 | [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) | UK | First palace c. 1865–1873 (burned 1873); rebuilt 1873–1875 | Exhibition hall |
 | 1865 | [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) | Italy | 1865–1877 | Shopping arcade |
 | 1865 | [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) | UK | Train shed 1865–1868; hotel 1868–1876 | Railway station, Hotel |
 | 1876 | [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) | Germany | 1876–1880, replacing a station of 1841 | Railway station |

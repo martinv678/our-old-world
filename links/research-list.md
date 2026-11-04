@@ -4,7 +4,7 @@ Pre-1900 buildings and places to research for the project, grouped by region. �
 
 Dates are approximate starting points, so check them when researching. "Begun" means the building was started before 1900 but finished later.
 
-**Progress: 20 of 132 done.**
+**Progress: 21 of 132 done.**
 
 ## United Kingdom and Ireland
 
@@ -14,7 +14,7 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ✅ | [Royal Pavilion](../places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) | Brighton | 1787; 1815–23 | Onion domes and minarets on the English coast |
 | ✅ | [St Pancras Station and Midland Grand Hotel](../places/uk/st-pancras/st-pancras.md) | London | 1865–76 | Undercroft below the tracks; clock tower |
 | ✅ | [Palace of Westminster and Elizabeth Tower](../places/uk/palace-of-westminster/palace-of-westminster.md) | London | c. 1840–70 | 1834 fire started by burning old records |
-| ⬜ | Alexandra Palace | London | 1873; rebuilt 1875 | Burned down 16 days after opening, then rebuilt in two years |
+| ✅ | [Alexandra Palace](../places/uk/alexandra-palace/alexandra-palace.md) | London | 1873; rebuilt 1875 | Burned down 16 days after opening, then rebuilt in two years |
 | ⬜ | Royal Albert Hall | London | 1867–71 | Huge iron and glass dome over an oval hall |
 | ⬜ | Natural History Museum | London | 1873–81 | Romanesque 'cathedral of nature' with towers |
 | ⬜ | Royal Courts of Justice | London | 1873–82 | Vast Gothic complex; spires and towers |
