@@ -12,7 +12,8 @@
 | **Status** | Grade I listed. Closed since 2018 for restoration; reopening expected in 2027 |
 | **Features** | [Clock tower](../../../GLOSSARY.md#clock-tower), [Tower](../../../GLOSSARY.md#tower) |
 
-*Images to be added by the owner.*
+![Manchester Town Hall from Albert Square, with its tall clock tower and spire, the Albert Memorial on the left and a statue in the foreground](images/albert-square-today.jpg)
+*Manchester Town Hall from Albert Square, with the Albert Memorial on the left. Supplied by the owner from Wikipedia (Wikimedia Commons); photographer and licence to be confirmed.*
 
 ## Overview
 
@@ -82,7 +83,9 @@ Points to weigh up:
 
 ### Dates and inscriptions
 
-**Speculative** – The foundation stone of 26 October 1868, and any dated stones or inscriptions on the building, haven't been checked yet for the [letters in dates](../../../ALTERNATIVE-VIEW.md#letters-in-dates-the-j-argument) argument.
+**Observed** (skylight) / **Speculative** (foundation stone) – The glass roof of one of the upper halls (see [Images](#images)) carries the names of Manchester's mayors and the years they held office, painted on yellow bands across the panes: for example "1851", "1863–1864", "W.T. Jackson 1923", "F.J. West 1924", "M.E. Mitchell 1925" and "H.F. Roberts 1926". The years are written in ordinary numerals with a plain leading "1", and names were still being added in the 1920s, so the window is a running record rather than a single 1870s inscription. For the [letters in dates](../../../ALTERNATIVE-VIEW.md#letters-in-dates-the-j-argument) argument, this is a modern-style record with no "I" or "J" in the years. The city's Latin motto, *Concilio et Labore* ("by counsel and work"), runs along the frieze below.
+
+The foundation stone of 26 October 1868, and any dated stones on the outside of the building, haven't been checked yet.
 
 ### Anomaly log
 
@@ -95,6 +98,7 @@ Points to weigh up:
 | Cost given as anything from about £775,000 to about £1 million | Sources disagree | Documented | Wikipedia; Country Life |
 | Design placed fourth for looks but chosen for its planning | Histories of the competition | Reported | Wikipedia |
 | Medieval Gothic style for a modern council building | The building | Documented | – |
+| Mayors' names and years painted on a skylight, in ordinary numerals, added up to the 1920s | Owner-supplied photograph | Observed | Wikimedia Commons (via owner) |
 
 ### Timeline check
 
@@ -167,17 +171,43 @@ Points to weigh up:
 
 ## Images
 
-Images will be added by the owner. The most useful for this entry would be:
+Click any image to enlarge it. The modern photographs were supplied by the owner from Wikipedia (Wikimedia Commons); their photographers and licences still need to be confirmed and added.
+
+![Manchester Town Hall from Albert Square, with its tall clock tower and spire, the Albert Memorial on the left and a statue in the foreground](images/albert-square-today.jpg)
+*The Town Hall today from Albert Square, with the Albert Memorial (1862–67) on the left. Supplied by the owner from Wikipedia (Wikimedia Commons); photographer and licence to be confirmed.*
+
+![Early black-and-white photograph of Manchester Town Hall with its clock tower, seen across an almost empty Albert Square, with the Albert Memorial on the right](images/albert-square-early-photo.jpg)
+*An early photograph of the finished Town Hall, probably late 1870s or 1880s (date not confirmed). Albert Square is almost empty: there are none of the statues that now stand in it, and hardly any people can be seen, which fits the long exposure times of the period (see the [Tower Bridge](../tower-bridge/tower-bridge.md#where-are-the-workers) discussion). The street level along the front looks much as it does today. Supplied by the owner; photographer, source and licence to be confirmed.*
+
+![The Great Hall of Manchester Town Hall, with a hammerbeam roof painted with coats of arms, chandeliers, the organ case at the far end, a white statue and murals on the side walls](images/great-hall.jpg)
+*The Great Hall, with its painted hammerbeam roof, Ford Madox Brown's murals on the side walls, and the organ at the far end. The organ was built in 1877 by the French maker Aristide Cavaillé-Coll, the only Cavaillé-Coll organ in the UK; it is being restored (see [Sound and cymatics](../../../ALTERNATIVE-VIEW.md#sound-and-cymatics-the-resonance-argument)). Supplied by the owner from Wikipedia (Wikimedia Commons); photographer and licence to be confirmed.*
+
+![An upper hall with a mosaic floor decorated with bees, a glass roof on stone arches, busts on pedestals and a round traceried window at the far end](images/bee-mosaic-hall.jpg)
+*An upper hall with a mosaic floor of bees, the symbol of industrious Manchester, under a glass roof on stone arches. At the far end is a round traceried window, and along the frieze runs the city's motto, "Concilio et Labore". Supplied by the owner from Wikipedia (Wikimedia Commons); photographer and licence to be confirmed.*
+
+![Enlarged view of the hall's glass roof, showing yellow bands painted with mayors' names and years such as 1851, 1863–1864, 1923, 1924 and 1925](images/skylight-mayors-names.jpg)
+*Detail of the glass roof, enlarged: the yellow bands carry the names of mayors and their years in office, from the 1850s to the 1920s. See [Dates and inscriptions](#dates-and-inscriptions). Detail of the photograph above.*
+
+![A large reception room with a coffered timber ceiling decorated with gilded suns, portraits on green patterned walls, a gallery, fireplaces and chandeliers](images/reception-room.jpg)
+*One of the state rooms, with a coffered timber ceiling studded with gilded suns, panelling, fireplaces and portraits of past civic leaders. Supplied by the owner from Wikipedia (Wikimedia Commons); photographer and licence to be confirmed.*
+
+![A long vaulted corridor with painted geometric ceiling vaults, banded stone walls, tiled dado, stained-glass windows and a mosaic floor](images/vaulted-corridor.jpg)
+*One of the vaulted corridors, with painted vaults, banded stonework, tiles and a mosaic floor. Supplied by the owner from Wikipedia (Wikimedia Commons); photographer and licence to be confirmed.*
+
+**No construction images.** None of these show the Town Hall being built; see [No construction photographs found](#no-construction-photographs-found).
+
+Other images that would be useful:
 
 - the Town Hall **under construction** in 1868–77, if any can be found
 - photographs from the **1877 opening album**
 - the **old town hall** on King Street, and the **colonnade** in Heaton Park today
-- the **Great Hall** and the Manchester Murals
 - the **rediscovered Waterhouse drawings**
-- any **dated inscriptions** or the foundation stone
+- the **foundation stone**
 
 ## Sources
 
+- Manchester City Council – The Town Hall organ: https://www.manchester.gov.uk/the-council-and-democracy/town-hall-complex/our-town-hall/heritage-and-art/the-organ
+- Flentrop Orgelbouw – Historical reconstruction of the organ, Manchester Town Hall: https://flentrop.nl/?p=5954
 - Wikipedia – Manchester Town Hall: https://en.wikipedia.org/wiki/Manchester_Town_Hall
 - Wikipedia – The Manchester Murals: https://en.wikipedia.org/wiki/The_Manchester_Murals
 - Country Life – The exceptional tale of Manchester Town Hall: https://www.countrylife.co.uk/architecture/exceptional-tale-manchester-town-hall-victorian-masterpiece-thats-finest-building-kind-britain-193060
