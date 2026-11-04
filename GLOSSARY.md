@@ -14,7 +14,7 @@ The building lists and the index below are generated automatically from the **Fe
 | [Courtyard](#courtyard) | 1 |
 | [Dome](#dome) | 8 |
 | [Inscriptions](#inscriptions) | 2 |
-| [Iron and glass construction](#iron-and-glass-construction) | 8 |
+| [Iron and glass construction](#iron-and-glass-construction) | 9 |
 | [Landscaped park](#landscaped-park) | 8 |
 | [Minaret](#minaret) | 2 |
 | [Monolithic columns](#monolithic-columns) | 1 |
@@ -26,7 +26,7 @@ The building lists and the index below are generated automatically from the **Fe
 | [Spire](#spire) | 2 |
 | [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
-| [Tower](#tower) | 8 |
+| [Tower](#tower) | 9 |
 | [Undercroft](#undercroft) | 1 |
 | [Underground tunnel](#underground-tunnel) | 3 |
 <!-- index:end -->
@@ -136,13 +136,14 @@ Large buildings framed in cast or wrought iron and covered in glass, such as exh
 **Why it matters:** enormous iron and glass structures appeared around the world in a few decades and were often put up very quickly. Many were later demolished or burned.
 
 <!-- buildings:start -->
-**Buildings (8):**
+**Buildings (9):**
 
 - [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) – Germany
 - [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) – Germany
 - [Frankfurt (Main) Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) – Germany
 - [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) – Italy
 - [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) – UK
+- [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) – UK
 - [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
@@ -299,13 +300,14 @@ A tall structure rising above the main body of a building, whether square, round
 **Why it matters:** towers and spires are common in old world architecture. Some theories link them to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (8):**
+**Buildings (9):**
 
 - [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) – France
 - [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
 - [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) – Italy
 - [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) – Italy
 - [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) – UK
+- [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) – UK
 - [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK

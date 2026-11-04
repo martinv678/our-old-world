@@ -4,7 +4,7 @@ Pre-1900 buildings and places to research for the project, grouped by region. �
 
 Dates are approximate starting points, so check them when researching. "Begun" means the building was started before 1900 but finished later.
 
-**Progress: 22 of 132 done.**
+**Progress: 23 of 133 done.**
 
 ## United Kingdom and Ireland
 
@@ -16,7 +16,7 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ✅ | [Palace of Westminster and Elizabeth Tower](../places/uk/palace-of-westminster/palace-of-westminster.md) | London | c. 1840–70 | 1834 fire started by burning old records |
 | ✅ | [Alexandra Palace](../places/uk/alexandra-palace/alexandra-palace.md) | London | 1873; rebuilt 1875 | Burned down 16 days after opening, then rebuilt in two years |
 | ✅ | [Royal Albert Hall](../places/uk/royal-albert-hall/royal-albert-hall.md) | London | 1867–71 | Huge iron and glass dome over an oval hall |
-| ⬜ | Natural History Museum | London | 1873–81 | Romanesque 'cathedral of nature' with towers |
+| ✅ | [Natural History Museum](../places/uk/natural-history-museum/natural-history-museum.md) | London | 1873–81 | Romanesque 'cathedral of nature' with towers |
 | ⬜ | Royal Courts of Justice | London | 1873–82 | Vast Gothic complex; spires and towers |
 | ⬜ | Tower Bridge | London | 1886–94 | Steel frame hidden inside 'medieval' stone towers |
 | ⬜ | Palm House, Kew Gardens | London | 1844–48 | Early iron and glass giant |
@@ -28,6 +28,7 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ⬜ | Glasgow City Chambers | Glasgow | 1882–88 | Marble interiors, tower |
 | ⬜ | Scott Monument | Edinburgh | 1840–46 | Gothic spire monument |
 | ⬜ | West Pier | Brighton | 1863–66 | Iron pier, now a ruin |
+| ⬜ | Oxford University Museum of Natural History | Oxford | 1855–60 | Gothic 'cathedral of science' with an iron and glass court |
 
 ## France
 

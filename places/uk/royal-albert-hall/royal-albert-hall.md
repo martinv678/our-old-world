@@ -188,7 +188,7 @@ What stands out for this project:
 | [Alexandra Palace](../alexandra-palace/alexandra-palace.md) | London, UK | 1873; rebuilt 1875 | Built by Kelk and Lucas; burned 1873 and 1980 |
 | [The Crystal Palace](../crystal-palace/crystal-palace.md) | London, UK | 1850–51; rebuilt 1852–54 | Its profits bought the hall's site; destroyed by fire 1936 |
 | Albert Memorial | Kensington Gardens, London, UK | 1864–76 | Survives, facing the hall |
-| Natural History Museum | South Kensington, London, UK | 1873–81 | Survives; built on the 1862 Exhibition site (on the research list) |
+| [Natural History Museum](../natural-history-museum/natural-history-museum.md) | South Kensington, London, UK | 1873–81 | Survives; built on the 1862 Exhibition site; Fowke won its design competition |
 | Royal Horticultural Society's Great Conservatory | South Kensington, London, UK | 1861 | By Fowke; stood just south of the hall; garden closed 1880s, demolished |
 | Great Conservatory, Chatsworth | Derbyshire, UK | 1836–41 | Paxton's glasshouse; demolished 1920 |
 | [Royal Exhibition Building](../../australia/royal-exhibition-building/royal-exhibition-building.md) | Melbourne, Australia | 1879–80 | Survives |
