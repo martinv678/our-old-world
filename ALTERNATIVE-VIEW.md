@@ -282,13 +282,27 @@ For each building, record its **sound features** and look for links between its 
 ### What the evidence shows so far
 
 - **The patterns are real.** When a plate covered in sand is made to vibrate, the sand gathers into patterns along the lines that don't move. Robert Hooke described this in 1680, and Ernst Chladni studied it systematically in 1787, so the patterns are called **Chladni figures**. Hans Jenny coined the word **cymatics** in 1967. On a round plate, the patterns are made of lines radiating from the centre and rings around it, which is also the basic shape of a rose window (**Documented**).
-- **Rose windows came before the science.** The first true rose window is usually dated to the west front of Saint-Denis near Paris, about 1140, developing from the Roman *oculus* (a round opening) and the Romanesque "wheel window". Rose windows are laid out on radial divisions, often of 12, or of 4, 6 or 8. If the medieval builders knew about sound patterns, they knew about them more than 600 years before Chladni (**Documented** dates / **Speculative** link).
+- **Rose windows came before the science.** The first true rose window is usually dated to the west front of Saint-Denis near Paris, about 1140, developing from the Roman *oculus* (a round opening) and the Romanesque "wheel window". Rose windows are laid out on radial divisions, often of 12, or of 4, 6 or 8. If the medieval builders knew about sound patterns, they knew about them more than 600 years before Chladni (**Documented** dates / **Speculative** link). See [the owner's position](#the-owners-position-on-the-600-year-gap) below.
 - **The ancients did design for sound.** The Roman architect Vitruvius, writing in the 1st century BC, described bronze or clay "sounding vessels" (*echea*) placed in theatres to improve the sound. Clay "acoustic jars" have been found built into the walls of a number of medieval churches. So the idea that builders shaped buildings for sound is documented, though not for rose windows specifically (**Documented**).
 - **Rosslyn Chapel.** Thomas and Stuart Mitchell claim that the 213 carved cubes in Rosslyn Chapel in Scotland show Chladni patterns, and turned them into music, the "Rosslyn Motet" (reported in 2005–07). It's the best-known attempt to link carvings to cymatics. It hasn't been accepted by historians, although one expert on early Scottish music said it was "by no means implausible" (**Reported**).
 - **Ancient chambers that resonate.** Studies from the 1990s onwards reported that several Neolithic chambers, including the Ħal Saflieni Hypogeum in Malta, resonate strongly at around 95–120 Hz, often around 110 Hz, which is in the range of a low male voice. A small pilot study of 30 people (2008) reported changes in brain activity at 110 Hz. A later, more careful study of the Hypogeum (*Antiquity*, 2016) said earlier work lacked rigour (**Reported**).
 - **Medieval cathedrals and their music shaped each other.** Measurements at Notre-Dame de Paris (before and after the 2019 fire) show a reverberation of several seconds, and research on its 12th-century choir suggests the long echo influenced how chant and early polyphony were sung there (**Documented**).
 - **Organs and bells in this project.** The [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) and [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) were built around huge Willis organs. [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) has a great bell, "Great Abel", and the [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) has a clock tower with five bells and a rose window over its main entrance.
 - **The Victorians didn't always get it right.** The Royal Albert Hall had such a bad echo that it wasn't fixed until 1969. On the owner's view, this could be a sign that the old knowledge of sound had been lost by the 19th century, and the revival buildings copied the forms without the understanding (**Speculative**).
+
+### The owner's position on the 600-year gap
+
+The owner believes one of two things must be true:
+
+1. **They knew it 600 years before Chladni.** The medieval builders understood how sound shapes matter, and that knowledge was lost and only "rediscovered" by Chladni in 1787 and Jenny in 1967.
+2. **The timeline is off.** If the [letters in dates](#letters-in-dates-the-j-argument) argument is right and history has been stretched, the rose windows may not be as old as their official dates say, and the gap between them and Chladni's experiments may be much shorter than it looks.
+
+Either way, the owner's view is that the rose windows and the science of sound patterns belong to the same body of knowledge (**Speculative**).
+
+How the two can be tested:
+
+- **For "they knew it":** look for medieval or earlier writing that describes sound making patterns, or links windows, geometry and music. Medieval learning grouped music with geometry, arithmetic and astronomy (the *quadrivium*), and Pythagorean ideas about number and harmony were widely taught, so this is a reasonable place to look.
+- **For "the timeline is off":** check how the dates are written in the records and inscriptions of the early rose-window churches, such as Saint-Denis and Chartres, for signs of the "J" or "I" pattern. Compare the official dates with independent dating: tree-ring dating of their roof timbers, radiocarbon dating of mortar, and the scientific dating of their glass. If the independent dates agree with the official ones, the gap is real; if they come out much later, that would support the owner's second reading.
 
 ### What critics say
 
