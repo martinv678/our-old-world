@@ -87,7 +87,7 @@ For this project's "lost energy technology" theme, this is another genuine, docu
 
 **Observed** (Roman imagery) / **Speculative** (an older building) – The owner's observation is that the hall is covered in Roman gods and symbols, and looks as if it was built by the Romans. The evidence in the photographs bears out the first part:
 
-- **"SPQL" on the bronze doors.** The great bronze doors of the Great Hall carry the letters **SPQL** (see [Images](#images)), a play on Rome's **SPQR**, *Senatus Populusque Romanus* ("the Senate and People of Rome"). It is usually read as *Senatus Populusque Liverpudliensis*, "the Senate and People of Liverpool" (**Reported** meaning).
+- **"SPQL" on the bronze doors.** The great bronze doors of the Great Hall carry the letters **SPQL** (see [Images](#images)), modelled on Rome's civic motto **SPQR**, *Senatus Populusque Romanus* ("the Senate and People of Rome"). It is usually read as *Senatus Populusque Liverpudliensis*, "the Senate and People of Liverpool" (**Reported** meaning). The doors are recorded as designed by C. R. Cockerell and made by Thomas Potter in 1854, with the letters set in the pierced openwork panels (**Documented**).
 - **The gods of the sea and trade.** The doors are worked with Neptune's tridents and dolphins and, lower down, what looks like Mercury's staff (the caduceus) with its snakes: the Roman gods of the sea and of trade, fitting for a port city. Each leaf has a roundel with a classical head (**Observed**).
 - **A Roman building type.** The Great Hall is said to be modelled on the halls of Roman baths, such as the Baths of Caracalla, with a coffered barrel vault on red granite columns, and the outside is a Corinthian temple on a podium.
 
@@ -95,12 +95,21 @@ The owner's view raises the possibility that the building, or parts of it, are o
 
 Points to weigh up:
 
-- **The Victorians copied Rome on purpose.** Liverpool's merchants saw their city as a new Rome or Athens, and the "SPQL" is a deliberate Victorian pun on SPQR. Classical revival buildings everywhere used Roman gods and symbols in the same way.
+- **The Victorians copied Rome on purpose.** Liverpool's merchants saw their city as a new Rome or Athens, and the "SPQL" deliberately borrows the form of Rome's SPQR to present Liverpool as a city in the Roman tradition. Classical revival buildings everywhere used Roman gods and symbols in the same way.
 - **There was no Roman Liverpool.** The nearest Roman town was Chester (*Deva*), about 20 miles away. Liverpool grew from a small medieval borough founded in 1207. What stood on the site of the hall before 1838 still needs checking on old maps.
 - **The modern systems are built into the structure.** Reid's ventilation needed the basement plant rooms, ducts in the walls and the hollow clay pots of the vault, which let air into the roof space. These are part of the fabric of the building, not added later, which would be very hard to do in an older building.
 - **The materials can be dated.** Minton tiles of the 1850s, and the bronze doors, are likely to carry makers' marks; the bricks and clay pots can be compared with known 19th-century products.
 
 **How to test it:** look for makers' marks and dates on the bronze doors, the Minton tiles and the ironwork; check whether the hollow pots and ducts are bonded into the original walls; and compare the earliest maps of the site, before 1838, to see whether anything stood there.
+
+#### Were the letters added later?
+
+**Speculative** (owner's question) / **Documented** (maker and date) – The owner asks whether "SPQL" could have been added to the doors later, and why anyone would put such a play on words onto a fine work of art, suggesting the story behind it may be a later invention. Two separate questions are involved:
+
+1. **Are the letters original to the doors?** The doors are recorded as Cockerell's design, made by Thomas Potter in 1854, and the letters are part of the same pierced metalwork as the foliage, tridents and other ornament around them (as the photograph shows), rather than a plate or inscription fixed on afterwards. That is strong evidence that they were there from the start. It could be confirmed by checking Cockerell's drawings for the doors (the RIBA and the V&A hold his designs for the hall) and the earliest photographs and descriptions of the Great Hall.
+2. **Is the meaning a later story?** The letters themselves are physically on the doors; the reading *Senatus Populusque Liverpudliensis* is the usual interpretation, but no 1850s source for it has been found yet. If no period source explains it, the meaning remains an interpretation, not a fact. Newspaper descriptions of the opening in 1854, Cockerell's papers and the council's records would show how the letters were explained at the time.
+
+On the owner's second point: at the time, adapting SPQR wasn't seen as a joke. Using the form of Rome's civic motto was a serious way of claiming Rome's dignity for a city's government, and the Latin, the gods and the temple form of the whole building all make the same claim.
 
 ### A Greek temple in a Victorian port
 
@@ -126,7 +135,8 @@ Points to weigh up:
 | Raised plateau with rooms below the main floor | Visible on site; plans | Observed | Historic England |
 | South pediment sculpture removed in 1950 and never replaced | Histories; listing | Documented | Royal Academy; Historic England |
 | No construction images found | Searches so far | Observed | This project |
-| "SPQL" on the bronze doors, with Neptune's tridents and Mercury's staff | Owner-supplied photograph | Observed | Wikimedia Commons (via owner) |
+| "SPQL" on the bronze doors, with Neptune's tridents and Mercury's staff | Owner-supplied photograph; maker's record (Cockerell, Potter, 1854) | Observed / Documented | Wikimedia Commons (via owner); Victorian Web |
+| No 1850s source yet found for the meaning of "SPQL" | Searches so far | Speculative | Owner; this project |
 
 ### Timeline check
 
@@ -179,6 +189,7 @@ Points to weigh up:
 - **The organ:** Was the Willis organ really the largest in Britain in 1855?
 - **The pediment:** Where are the pieces of the south pediment sculpture now, and what were they made of?
 - **Construction images:** Are there any engravings or early photographs of the hall being built?
+- **SPQL:** Do Cockerell's drawings for the doors show the letters? How were they explained in 1854?
 - **Quantities:** How much stone and brick did it use, and where did they come from?
 
 ## Leads to follow up
@@ -195,6 +206,7 @@ Points to weigh up:
 
 <!-- Owner's notes: add observations, hunches and links here. Claude reads this section first and doesn't remove it. -->
 
+- Owner's question: could SPQL have been added later? Why add a play on words to a fine work of art? The story may be fabricated. See [Were the letters added later?](#were-the-letters-added-later)
 - Owner's observation: once again, no construction photographs. The hall has a lot of Roman gods on it and looks as if it was built by the Romans. See [Built like the Romans?](#built-like-the-romans)
 
 ## Images
@@ -225,6 +237,9 @@ Other images that would be useful:
 
 ## Sources
 
+- Victorian Web – The doors to St George's Hall, Liverpool, executed by Thomas Potter: https://victorianweb.org/art/design/metalwork/potter/4.html
+- RIBApix – St George's Hall, Liverpool: bronze door in the Great Hall: https://www.ribapix.com/st-georges-hall-liverpool-bronze-door-in-the-great-hall_riba74179
+- V&A – St George's Hall in Liverpool, the Great Hall (design by Charles Cockerell): https://collections.vam.ac.uk/item/O787180/st-georges-hall-in-liverpool-design-charles-cockerell/
 - Wikipedia – St George's Hall, Liverpool: https://en.wikipedia.org/wiki/St_George%27s_Hall,_Liverpool
 - Wikipedia – Harvey Lonsdale Elmes: https://en.wikipedia.org/wiki/Harvey_Lonsdale_Elmes
 - Historic England – St George's Hall (list entry 1361677): https://historicengland.org.uk/listing/the-list/list-entry/1361677
