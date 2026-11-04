@@ -12,7 +12,8 @@
 | **Status** | In use as law courts. Grade I listed |
 | **Features** | [Clock tower](../../../GLOSSARY.md#clock-tower), [Tower](../../../GLOSSARY.md#tower), [Spire](../../../GLOSSARY.md#spire) |
 
-*Images to be added by the owner.*
+![The Gothic front of the Royal Courts of Justice on the Strand, with the central arched entrance, rose window and spire](images/strand-front.jpg)
+*The main front on the Strand, with the central entrance arch, rose window and flèche. Wikimedia Commons; author and licence to be confirmed.*
 
 ## Overview
 
@@ -160,7 +161,7 @@ So, at the very moment the Law Courts were rising, one of London's best-known ol
 - **The strike:** When did the masons' strike happen, how long did it last, and how many foreign workers were brought in?
 - **The cleared streets:** What stood on the site, and how old were the buildings? How many people were displaced?
 - **Temple Bar:** When exactly was it rebuilt at Theobalds Park (1880, 1887 or 1889)?
-- **Street's statue:** Where is Armstead's statue of Street in the building?
+- **Street's statue:** Where is Armstead's statue of Street in the building? Is it the white statue on the left of the Great Hall photo?
 - **The bricks:** Is the often-quoted figure of 35 million bricks right?
 - **The Great Hall:** Is it 38 ft or 48 ft wide? Sources differ.
 
@@ -182,13 +183,25 @@ So, at the very moment the Law Courts were rising, one of London's best-known ol
 
 ## Images
 
-Images will be added by the owner. The most useful for this entry would be:
+Click any image to enlarge it.
+
+![The Gothic front of the Royal Courts of Justice on the Strand, with the central arched entrance, rose window and spire](images/strand-front.jpg)
+*The main front on the Strand: pale Portland stone, with the central entrance arch, a rose window, a slender flèche and corner turrets. Wikimedia Commons; author and licence to be confirmed.*
+
+![A courtyard at the Royal Courts of Justice, with red brick walls banded in pale stone, tall chimneys and a flight of steps up to an arched entrance](images/brick-courtyard.jpg)
+*A courtyard within the Royal Courts of Justice. Away from the Strand, the walls are red brick banded with stone, matching the listing's description of "Portland stone ashlar and red bricks". The entrance on the left is reached up a flight of steps. Wikimedia Commons; author and licence to be confirmed.*
+
+![The vaulted Great Hall of the Royal Courts of Justice, with a long patterned marble mosaic floor, a large chandelier and a white statue at the left](images/great-hall.jpg)
+*The Great Hall, about 238 ft long and 80 ft high, with its stone vault and marble mosaic floor. A white marble statue stands in the arcade on the left; it may be Armstead's memorial statue of Street, but this needs confirming. Wikimedia Commons; author and licence to be confirmed.*
+
+_Image credits and licences are still to be confirmed (Wikimedia Commons was rate-limiting lookups)._
+
+Other images that would be useful:
 
 - the **streets on the site** before they were demolished
 - the courts **under construction** in 1873–82
 - **Temple Bar** standing beside the building site before 1878
 - the **opening** by Queen Victoria on 4 December 1882
-- the **Great Hall** and its mosaic floor
 - the **Temple Bar Memorial** and its dragon
 - any **dated inscriptions** on the building
 
