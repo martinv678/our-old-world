@@ -12,6 +12,9 @@
 | **Status** | In use as an exhibition venue; UNESCO World Heritage Site (2004) |
 | **Features** | [Dome](../../../GLOSSARY.md#dome), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |
 
+![The south front of the Royal Exhibition Building, Melbourne, seen across Carlton Gardens with orange and purple tulips in the foreground and the main dome behind](images/front-from-gardens.jpg)
+*The south front from Carlton Gardens. The dome, flanking towers and ornate arcade are all original to 1880. Photo: Wikimedia Commons (licence to be confirmed).*
+
 ## Overview
 
 The Royal Exhibition Building is a huge domed hall in the Carlton Gardens, on the northern edge of central Melbourne. It is one of the last major 19th-century exhibition halls in the world still standing, and in 2004 became the first building in Australia to be listed as a UNESCO World Heritage Site, together with its gardens.
@@ -62,6 +65,29 @@ Most great exhibition halls of the era were lost to fire or demolition, includin
 - **The annexes:** When was each annex demolished, and are there photos?
 - **Underground:** What is below the hall and the gardens?
 - **Photos:** Historic photos from 1880–1900 are likely to be public domain.
+
+## Images
+
+![Engraving from The Australasian Sketcher, 8 June 1878, showing the prize-winning design for the Melbourne International Exhibition Building](images/prize-design-1878.jpg)
+*Prize design for the Melbourne International Exhibition Building. From* The Australasian Sketcher*, 8 June 1878. The completed building followed this design closely. Public domain.*
+
+![Engraving showing the building under construction with heavy scaffolding and labourers, captioned "The Works at the Melbourne International Exhibition"](images/under-construction-1879.jpg)
+*"The Works at the Melbourne International Exhibition" — engraving showing construction in progress, c.1879. Public domain.*
+
+![Bird's-eye engraving of the Melbourne Centennial Exhibition of 1888, showing the main hall dwarfed by its enormous temporary annexes extending across the site](images/annexes-1888.jpg)
+*Bird's-eye view of the Melbourne Centennial Exhibition of 1888. The main hall (right, with dome) is almost hidden behind the vast temporary annexes. Public domain.*
+
+![Historic black-and-white photograph showing smashed timber and iron debris in the foreground, with the Royal Exhibition Building dome visible in the background](images/annexe-demolition.jpg)
+*Demolition or collapse of the exhibition annexes, date uncertain. The main dome survives in the background. Source: National Library of Australia (licence to be confirmed).*
+
+![Ground-level photograph of the east facade of the Royal Exhibition Building, with a stone memorial in the foreground and the ornate arched entrance behind](images/east-facade.jpg)
+*East facade and entrance. A stone memorial stands in the foreground gardens. Photo: Wikimedia Commons (licence to be confirmed).*
+
+![Ground-level photograph of the south facade from the circular garden, showing the rose window above the main arch and Melbourne's CBD skyline in the distance](images/south-facade.jpg)
+*South facade from the circular garden, with the rose window above the main arch. Melbourne's CBD skyline is visible to the left. Photo: Wikimedia Commons (licence to be confirmed).*
+
+![Aerial photograph looking north-west over the Royal Exhibition Building, showing the full plan of the building with its nave, transepts and dome, surrounded by Carlton Gardens](images/aerial-view.jpg)
+*Aerial view looking north-west, showing the full plan of nave, transepts and dome set within Carlton Gardens. Photo: Wikimedia Commons (licence to be confirmed).*
 
 ## Sources
 
