@@ -12,8 +12,8 @@
 | **Status** | In use. Grade I listed. Walkways and engine rooms open as an exhibition |
 | **Features** | [Tower](../../../GLOSSARY.md#tower) |
 
-![Tower Bridge under construction, with both steel towers and the high walkways standing over the Thames and the suspension chains being put up, captioned "Tower Bridge works Sep 28th 1892"](images/works-28-september-1892.jpg)
-*"Tower Bridge works Sep 28th 1892": the steel frames of both towers and the high walkways in place, with the stone cladding only partly fixed. From [Rare Historical Photos](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/), which credits its images to the London Stereoscopic Company, Wikimedia Commons and the Tower Bridge organisation; photographer and licence of this photograph to be confirmed.*
+![Tower Bridge today from the river, with its two stone towers, the high walkways, the lowered bascules and the pale blue suspension chains in evening sun](images/tower-bridge-today.jpg)
+*Tower Bridge today, seen from the river in evening light, with the bascules lowered. Photographer, source and licence to be confirmed.*
 
 ## Overview
 
@@ -181,6 +181,9 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 ## Images
 
 Click any image to enlarge it. All five construction photographs below are from the selection on [Rare Historical Photos](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/), which credits its images to the London Stereoscopic Company, Wikimedia Commons and the Tower Bridge organisation. The individual photographers and licences still need confirming; photographs of this age are generally out of copyright.
+
+![Tower Bridge today from the river, with its two stone towers, the high walkways, the lowered bascules and the pale blue suspension chains in evening sun](images/tower-bridge-today.jpg)
+*Tower Bridge today, for comparison with the construction photographs below: the same steel frame, now fully clad in granite and Portland stone. Photographer, source and licence to be confirmed.*
 
 ![Tower Bridge under construction, with both steel towers and the high walkways standing over the Thames and the suspension chains being put up, captioned "Tower Bridge works Sep 28th 1892"](images/works-28-september-1892.jpg)
 *"Tower Bridge works Sep 28th 1892" (date written on the photograph). The steel frames of both towers and the high walkways are up, with cranes on top. The right-hand tower is still mostly bare steel above its stone base; the left-hand tower is partly clad. The suspension chains of the north side span are being erected on timber staging.*
