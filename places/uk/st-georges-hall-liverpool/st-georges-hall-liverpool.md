@@ -12,7 +12,8 @@
 | **Status** | In use as a venue. Grade I listed. Courts closed 1984; restored and reopened about 2007 |
 | **Features** | [Barrel vault](../../../GLOSSARY.md#barrel-vault), [Undercroft](../../../GLOSSARY.md#undercroft) |
 
-*Images to be added by the owner.*
+![St George's Hall from Lime Street, a long stone building with rows of giant Corinthian columns on a raised base with steps, and an equestrian statue in front](images/exterior-today.jpg)
+*St George's Hall today, from the east, with its Corinthian colonnade on a raised base. Supplied by the owner, apparently from Wikimedia Commons; photographer and licence to be confirmed.*
 
 ## Overview
 
@@ -82,6 +83,25 @@ For this project's "lost energy technology" theme, this is another genuine, docu
 
 **Documented** – The south pediment once held a sculpture group designed by Cockerell and carved by William Nicholl. In August 1950, after large pieces of stone fell from it (some reported as weighing about 50 lb), it was taken down and put into storage. One account blames general decay; another says an expert judged it "decayed and defaced". The pediment has stood empty for more than 70 years. This fits the project's theme of lost and changed parts: what was the sculpture made of, why did it decay so fast, and where are the pieces now?
 
+### Built like the Romans?
+
+**Observed** (Roman imagery) / **Speculative** (an older building) – The owner's observation is that the hall is covered in Roman gods and symbols, and looks as if it was built by the Romans. The evidence in the photographs bears out the first part:
+
+- **"SPQL" on the bronze doors.** The great bronze doors of the Great Hall carry the letters **SPQL** (see [Images](#images)), a play on Rome's **SPQR**, *Senatus Populusque Romanus* ("the Senate and People of Rome"). It is usually read as *Senatus Populusque Liverpudliensis*, "the Senate and People of Liverpool" (**Reported** meaning).
+- **The gods of the sea and trade.** The doors are worked with Neptune's tridents and dolphins and, lower down, what looks like Mercury's staff (the caduceus) with its snakes: the Roman gods of the sea and of trade, fitting for a port city. Each leaf has a roundel with a classical head (**Observed**).
+- **A Roman building type.** The Great Hall is said to be modelled on the halls of Roman baths, such as the Baths of Caracalla, with a coffered barrel vault on red granite columns, and the outside is a Corinthian temple on a podium.
+
+The owner's view raises the possibility that the building, or parts of it, are older than the records say: that it belongs to an earlier, classical age and was later claimed as Victorian work (**Speculative**). This is the [Tartaria](../../../ALTERNATIVE-VIEW.md) and "older civilisation" question in its sharpest form.
+
+Points to weigh up:
+
+- **The Victorians copied Rome on purpose.** Liverpool's merchants saw their city as a new Rome or Athens, and the "SPQL" is a deliberate Victorian pun on SPQR. Classical revival buildings everywhere used Roman gods and symbols in the same way.
+- **There was no Roman Liverpool.** The nearest Roman town was Chester (*Deva*), about 20 miles away. Liverpool grew from a small medieval borough founded in 1207. What stood on the site of the hall before 1838 still needs checking on old maps.
+- **The modern systems are built into the structure.** Reid's ventilation needed the basement plant rooms, ducts in the walls and the hollow clay pots of the vault, which let air into the roof space. These are part of the fabric of the building, not added later, which would be very hard to do in an older building.
+- **The materials can be dated.** Minton tiles of the 1850s, and the bronze doors, are likely to carry makers' marks; the bricks and clay pots can be compared with known 19th-century products.
+
+**How to test it:** look for makers' marks and dates on the bronze doors, the Minton tiles and the ironwork; check whether the hollow pots and ducts are bonded into the original walls; and compare the earliest maps of the site, before 1838, to see whether anything stood there.
+
 ### A Greek temple in a Victorian port
 
 **Documented** (style) / **Speculative** (interpretation) – The hall is modelled on Greek and Roman temples, with giant Corinthian columns and a coffered barrel vault like those of Roman baths. In the "shared worldwide architecture" theme, the same classical forms appear on government buildings, banks, museums and churches across Europe, Russia and the Americas in the same decades, for example [Saint Isaac's Cathedral](../../russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) in St Petersburg (1818–58). The ordinary explanation is the Greek Revival, a well-documented movement in architecture.
@@ -106,6 +126,7 @@ For this project's "lost energy technology" theme, this is another genuine, docu
 | Raised plateau with rooms below the main floor | Visible on site; plans | Observed | Historic England |
 | South pediment sculpture removed in 1950 and never replaced | Histories; listing | Documented | Royal Academy; Historic England |
 | No construction images found | Searches so far | Observed | This project |
+| "SPQL" on the bronze doors, with Neptune's tridents and Mercury's staff | Owner-supplied photograph | Observed | Wikimedia Commons (via owner) |
 
 ### Timeline check
 
@@ -174,13 +195,30 @@ For this project's "lost energy technology" theme, this is another genuine, docu
 
 <!-- Owner's notes: add observations, hunches and links here. Claude reads this section first and doesn't remove it. -->
 
+- Owner's observation: once again, no construction photographs. The hall has a lot of Roman gods on it and looks as if it was built by the Romans. See [Built like the Romans?](#built-like-the-romans)
+
 ## Images
 
-Images will be added by the owner. The most useful for this entry would be:
+Click any image to enlarge it.
+
+![St George's Hall from Lime Street, a long stone building with rows of giant Corinthian columns on a raised base with steps, and an equestrian statue in front](images/exterior-today.jpg)
+*St George's Hall today, from the east, with its Corinthian colonnade on a raised base reached by steps. Supplied by the owner, apparently from Wikimedia Commons; photographer and licence to be confirmed.*
+
+![The Great Hall of St George's Hall, with a coffered barrel vault, red granite columns, chandeliers, statues, the organ and a stained-glass window at the far end, and the patterned Minton floor uncovered](images/great-hall.jpg)
+*The Great Hall, with its coffered barrel vault on red granite columns, statues of local worthies, the Willis organ and stained glass at the far end, and the Minton tile floor uncovered. Supplied by the owner, apparently from Wikimedia Commons; photographer and licence to be confirmed.*
+
+![Bronze and gilded doors with pierced panels of scrolling foliage, tridents, a panel with the letters SPQL, roundels with classical heads, and dolphins](images/bronze-doors-spql.jpg)
+*The bronze doors of the Great Hall, marked "SPQL", with Neptune's tridents and dolphins, and what looks like Mercury's staff with snakes. See [Built like the Romans?](#built-like-the-romans) Supplied by the owner, apparently from Wikimedia Commons; photographer and licence to be confirmed.*
+
+![Wood engraving of a crowded Christmas party in the Great Hall, with rows of seated people, a procession of children carrying lanterns, and spectators in the galleries](images/cope-christmas-engraving.jpg)
+*"Messrs. Cope's Christmas Entertainment to their Workpeople at St. George's Hall, Liverpool": an engraving of the hall in use, probably from the "Illustrated London News" in the 1860s (publication and date to be confirmed). Cope's were Liverpool tobacco manufacturers. Supplied by the owner; a print of this age is likely to be out of copyright.*
+
+**No construction images.** As with several other buildings in this project, none of these show the hall being built; see [No construction images found](#no-construction-images-found).
+
+Other images that would be useful:
 
 - any **engraving or photograph** of the hall being built in 1841–54
 - the **south pediment** with its sculpture, before 1950
-- the **Minton floor** uncovered
 - the **basement** and the remains of Reid's ventilation system
 - the **plateau and steps**, then and now
 - the **1838 foundation stone**, if it can be found
