@@ -60,7 +60,7 @@ The town or city goes in the details table at the top of each entry, not in the 
 Every building, grouped by type. A building can appear under more than one type (for example a station that is also a hotel). This list is generated automatically from each entry's **Type** row, so there's no need to edit it by hand.
 
 <!-- catalogue:start -->
-**Jump to:** [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Exhibition hall](#exhibition-hall) (5) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Museum](#museum) (1) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Villa](#villa) (2)
+**Jump to:** [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Concert hall](#concert-hall) (1) · [Exhibition hall](#exhibition-hall) (5) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Museum](#museum) (1) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Villa](#villa) (2)
 
 ### Casino
 
@@ -81,6 +81,12 @@ Every building, grouped by type. A building can appear under more than one type 
 |---|---|---|---|
 | [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) | Germany | Begun 1248; work stopped 1473; resumed 1842; completed 1880 | In use |
 | [Saint Isaac's Cathedral](places/russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) | Russia | 1818–1858 | Museum, with church services held |
+
+### Concert hall
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | UK | 1867–1871 | In use as a concert hall. Grade I listed. Renovated 1996–2004 |
 
 ### Exhibition hall
 

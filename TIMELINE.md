@@ -42,6 +42,7 @@ The list below is generated automatically by `scripts/build_index.py`, so don't 
 | 1865 | [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) | UK | First palace c. 1865–1873 (burned 1873); rebuilt 1873–1875 | Exhibition hall |
 | 1865 | [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) | Italy | 1865–1877 | Shopping arcade |
 | 1865 | [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) | UK | Train shed 1865–1868; hotel 1868–1876 | Railway station, Hotel |
+| 1867 | [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | UK | 1867–1871 | Concert hall |
 | 1876 | [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) | Germany | 1876–1880, replacing a station of 1841 | Railway station |
 | 1876 | [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) | France | 1876–1878 | Exhibition hall |
 | 1879 | [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) | Australia | 1879–1880 | Exhibition hall |

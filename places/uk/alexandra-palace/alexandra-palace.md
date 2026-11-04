@@ -167,7 +167,7 @@ Large buildings full of timber, exhibits and gaslight were genuinely at risk. Bu
 |---|---|---|---|
 | [The Crystal Palace](../crystal-palace/crystal-palace.md) | London, UK | 1850–51; rebuilt 1852–54 | Moved and rebuilt; north transept burned 1866; destroyed by fire 1936 |
 | 1862 International Exhibition building | South Kensington, London, UK | 1861–62 | Demolished 1864; materials reused at Alexandra Palace |
-| Royal Albert Hall | London, UK | 1867–71 | Built by Lucas Brothers; survives (on the research list) |
+| [Royal Albert Hall](../royal-albert-hall/royal-albert-hall.md) | London, UK | 1867–71 | Built by Lucas Brothers; survives |
 | New York Crystal Palace | New York, USA | 1853 | Burned 1858 |
 | Glaspalast | Munich, Germany | 1854 | Burned 1931 |
 | [Royal Exhibition Building](../../australia/royal-exhibition-building/royal-exhibition-building.md) | Melbourne, Australia | 1879–80 | Survives |

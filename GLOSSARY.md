@@ -12,9 +12,9 @@ The building lists and the index below are generated automatically from the **Fe
 | [Clock tower](#clock-tower) | 2 |
 | [Coloured tilework](#coloured-tilework) | 1 |
 | [Courtyard](#courtyard) | 1 |
-| [Dome](#dome) | 7 |
-| [Inscriptions](#inscriptions) | 1 |
-| [Iron and glass construction](#iron-and-glass-construction) | 7 |
+| [Dome](#dome) | 8 |
+| [Inscriptions](#inscriptions) | 2 |
+| [Iron and glass construction](#iron-and-glass-construction) | 8 |
 | [Landscaped park](#landscaped-park) | 8 |
 | [Minaret](#minaret) | 2 |
 | [Monolithic columns](#monolithic-columns) | 1 |
@@ -104,13 +104,14 @@ A rounded roof shaped like half a sphere, rising above the main building.
 **Why it matters:** domes are one of the most common features of "old world" architecture. The same forms appear on palaces, casinos, churches and exhibition halls across continents in the same decades. Some theories link domes to lost energy or acoustic technology.
 
 <!-- buildings:start -->
-**Buildings (7):**
+**Buildings (8):**
 
 - [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) – Australia
 - [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) – Germany
 - [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) – Italy
 - [Villa Sultana (Villa "La Sultana")](places/italy/villa-sultana/villa-sultana.md) – Italy
 - [Saint Isaac's Cathedral](places/russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) – Russia
+- [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) – UK
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 - [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) – USA
 <!-- buildings:end -->
@@ -122,9 +123,10 @@ Words, mottos or symbols carved, painted or moulded into a building's walls or d
 **Why it matters:** inscriptions can carry clues to a building's purpose or origin, and many have never been fully recorded or translated.
 
 <!-- buildings:start -->
-**Buildings (1):**
+**Buildings (2):**
 
 - [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) – Italy
+- [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) – UK
 <!-- buildings:end -->
 
 ## Iron and glass construction
@@ -134,13 +136,14 @@ Large buildings framed in cast or wrought iron and covered in glass, such as exh
 **Why it matters:** enormous iron and glass structures appeared around the world in a few decades and were often put up very quickly. Many were later demolished or burned.
 
 <!-- buildings:start -->
-**Buildings (7):**
+**Buildings (8):**
 
 - [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) – Germany
 - [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) – Germany
 - [Frankfurt (Main) Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) – Germany
 - [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) – Italy
 - [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) – UK
+- [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
 <!-- buildings:end -->
