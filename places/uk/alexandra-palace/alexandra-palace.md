@@ -22,6 +22,8 @@ Since then the building has been an entertainment centre, a refugee shelter and 
 
 ## The main story
 
+The palace was conceived as a "People's Palace" for north London: a place of cheap, improving entertainment reached by railway, to rival the Crystal Palace in the south.
+
 - **December 1858 – 1859** – The designer Owen Jones exhibits plans for a vast glass "Palace of the People" on Muswell Hill. It's never built in that form. (Sources give both 1858 and 1859 for his proposal.)
 - **c. 1860** – The Great Northern Palace Company is formed but at first fails to raise the money to build.
 - **23 July 1863** – Alexandra Park opens to the public. The palace and park are named after Alexandra of Denmark, who married the Prince of Wales that year.
@@ -42,13 +44,28 @@ Since then the building has been an entertainment centre, a refugee shelter and 
 - **17 March 1988** – The rebuilt palace formally reopens, with a new Great Hall and West Hall and a restored Palm Court. The work is funded partly by insurance.
 - **1 December 2018** – After a six-year project, the theatre reopens in a state of "arrested decay", with its Victorian stage machinery conserved but not in use.
 
+## Conservation
+
+- The palace (including the site of the former station to the north) is **Grade II listed** by Historic England (list entry 1268256), and Alexandra Park is on the **Register of Parks and Gardens** (list entry 1001253).
+- The **Alexandra Palace and Park Act 1900** still binds the site: the building and park must remain available for the free use and recreation of the public. The London Borough of Haringey is the trust's sole corporate trustee.
+- After the 1980 fire the Great Hall, West Hall and Palm Court were rebuilt and restored in 1980–88, funded partly by insurance.
+- A later National Lottery grant of nearly £19 million helped later restoration work. The theatre reopened on 1 December 2018 in "arrested decay" rather than as a full restoration, keeping its Victorian stage machinery in place.
+
 ## The alternative view
 
-Each point below carries an evidence label: **Documented**, **Observed**, **Reported** or **Speculative** (see the [research brief](https://github.com/martinv678/our-old-world/blob/main/CLAUDE.md)).
+The official account is of a Victorian commercial venture that was unlucky: slow to build for lack of money, burned by accident just after opening, rebuilt quickly, and burned again a century later. Looked at from an "old world" perspective, several things invite a second look: a building made from another building, a dome that vanished, a fast rebuild with no clear money behind it, and two great fires at telling moments. Each point below carries an evidence label: **Documented**, **Observed**, **Reported** or **Speculative** (see the [research brief](https://github.com/martinv678/our-old-world/blob/main/CLAUDE.md)).
 
 ### Burned sixteen days after opening
 
 **Documented** (dates) / **Speculative** (interpretation) – Alexandra Palace is one of the most striking examples of the "grand building lost to fire soon after completion" pattern. It took around eight years to get from the start of building to the opening, and then the palace was destroyed in about two hours, 16 days later. The official cause, a cinder from a workman's brazier on the roof, is plausible for a building full of timber, but it rests on newspaper accounts of the day rather than any formal inquiry that has been traced so far. In alternative history research, a fire that removes a newly "finished" building is exactly the kind of event to examine closely: what was actually lost, and was the building that people saw on 24 May 1873 really new?
+
+Points to weigh up:
+
+- **The cause is ordinary.** Plumbers working on lead roofs used braziers to heat their irons and solder, and fires started this way were common in the period.
+- **People died.** Three staff were killed, which would normally mean an inquest. Its records, if they survive, would give sworn evidence about where and how the fire started.
+- **The fire was widely reported.** Newspapers covered it in detail, so the extent of the damage can be checked against what was rebuilt.
+
+**How to test it:** find the inquest records for the three deaths, any fire brigade report, and images of the ruins, and compare what they say survived with what was rebuilt.
 
 ### A building made from another building
 
@@ -61,6 +78,12 @@ Each point below carries an evidence label: **Documented**, **Observed**, **Repo
 ### The lost dome
 
 **Reported** – The 1873 palace had a central dome, reported as 220 ft high. The 1875 palace has no central dome; the Great Hall has a curved roof instead, and the building is marked by four corner towers. Domes are central to the "lost energy technology" theme in this project. Why was the dome not rebuilt, when almost everything else was rebuilt larger? The official answer is presumably cost and fire safety, but no source reached so far explains the decision. Old engravings and photographs of the 1873 dome are a priority to find.
+
+**How to test it:** find dated images of the 1873 palace from several angles and check:
+
+- the dome's size and shape against the reported 220 ft height
+- whether the dome appears in the photographs of the ruins after the fire, and in what state
+- whether the company's minutes or *The Builder* give a reason for leaving it out of the rebuild
 
 ### Water towers on the corners
 
@@ -131,6 +154,13 @@ Large buildings full of timber, exhibits and gaslight were genuinely at risk. Bu
 
 **Verdict for now:** **Tight but plausible**, on the assumption that the surviving walls and foundations were reused. The speed of the rebuild is less striking than the contrast with the first build, which stalled for years. The bigger questions are about the money, the decision to drop the dome, and the circumstances of both fires.
 
+**Working still needed:**
+
+1. Whether the 1873 outer walls and foundations were reused, from the rebuild contracts or *The Builder*.
+2. The size of the workforce on the rebuild, from newspaper reports or company records.
+3. Where the £417,000 came from: insurance, new shares, loans or the contractors themselves.
+4. Floor area and roof spans from Johnson and Meeson's drawings, to replace the rough acreage used above.
+
 ### Comparison buildings
 
 | Building | Where | Built | Fate |
@@ -174,17 +204,18 @@ Large buildings full of timber, exhibits and gaslight were genuinely at risk. Bu
 
 ## Leads to follow up
 
-- **The Spectator archive, 14 June 1873**, and the ***Illustrated London News*, *The Builder* and *The Times*** for May–June 1873 and 1873–75, for reports of the opening, the fire and the rebuild. (`archive.spectator.co.uk` needs allowing in this environment's network settings.)
-- **Alexandra Palace's own archive and blog** (alexandrapalace.com), which has published period newspaper accounts of the 1873 fire and the 1875 reopening.
-- **Hornsey Historical Society**, which has researched the palace and park in depth.
-- **Historic England listing 1268256** (the palace) and the Register of Parks and Gardens entry 1001253 (the park).
-- **London Metropolitan Archives** for the building company's records, inquest records for 1873 and Greater London Council papers for 1980.
-- **London Fire Brigade** records for the 1980 fire.
-- **RIBApix**, which holds an image of the palace in flames and drawings of the building.
-- **Grace's Guide** for John Kelk and Lucas Brothers.
-- **Victorian Web** pages on John Johnson and Alfred Meeson.
-- **Britain from Above** aerial photos of 1921 (EPW006283) and 1946 (EAW003047), which show the palace, the racecourse and the station.
-- **The Theatres Trust** and the theatre restoration reports, for the stage machinery and any dated fabric.
+- **The Spectator archive:** the report of 14 June 1873 on the fire and the insurance. Needs `archive.spectator.co.uk` allowed in this environment's network settings.
+- **Period newspapers and journals:** the *Illustrated London News*, *The Builder* and *The Times* for May–June 1873 and 1873–75, for the opening, the fire and the rebuild.
+- **Alexandra Palace archive:** the palace's own archive and blog (alexandrapalace.com) have published period newspaper accounts of the 1873 fire and the 1875 reopening.
+- **Hornsey Historical Society:** has researched the palace and park in depth.
+- **Historic England:** listing 1268256 (the palace) and Register of Parks and Gardens entry 1001253 (the park).
+- **London Metropolitan Archives:** the building company's records, inquest records for 1873 and Greater London Council papers for 1980.
+- **London Fire Brigade:** records of the 1980 fire.
+- **RIBApix:** holds an image of the palace in flames and drawings of the building.
+- **Grace's Guide:** entries on John Kelk and Lucas Brothers.
+- **Victorian Web:** pages on John Johnson and Alfred Meeson.
+- **Britain from Above:** aerial photos of 1921 (EPW006283) and 1946 (EAW003047), showing the palace, the racecourse and the station.
+- **The Theatres Trust:** the theatre's record and restoration reports, for the stage machinery and any dated fabric.
 
 ## Research notes
 
