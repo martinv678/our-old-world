@@ -207,7 +207,7 @@ For every building, the **Records audit** should say whether construction photog
 
 ### The photo record so far
 
-All 27 entries have now been checked (November 2026), using online catalogues and search. "None found" means none was found online; the archives listed in each entry haven't been searched in person.
+All 28 entries have now been checked (November 2026), using online catalogues and search. "None found" means none was found online; the archives listed in each entry haven't been searched in person.
 
 | Building | Built | Style | Construction images found |
 |---|---|---|---|
@@ -215,6 +215,7 @@ All 27 entries have now been checked (November 2026), using online catalogues an
 | [Royal Pavilion](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) | 1815–23 | Indian-style exterior | **Before photography**: drawings and prints only |
 | [Saint Isaac's Cathedral](places/russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) | 1818–58 | Neoclassical | **Lithographs, yes**: Montferrand's own album shows the columns being raised and the building in scaffolding (1845). The earliest photograph found is from August 1856, near completion |
 | [Palace of Westminster](places/uk/palace-of-westminster/palace-of-westminster.md) | c. 1840–70 | Gothic Revival | **Some**: Roger Fenton's view of about 1857 shows the palace under construction behind Westminster Abbey |
+| [St George's Hall, Liverpool](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) | 1841–54 | Neoclassical | **None found** so far |
 | [Palm House, Kew Gardens](places/uk/palm-house-kew/palm-house-kew.md) | 1844–48 | Wrought iron and glass | **None found** by the owner or in searches, in the first years of photography; the earliest image found is a print of the finished building, probably 1850s–60s. Engravings in *The Builder* not yet searched |
 | [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) | 1248–1473; 1842–80 | Gothic | **Yes**: Bisson Frères photographed the south transept with scaffolding in 1854, and later photographs (c. 1874–81) show the towers being built |
 | [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | 1850–51; rebuilt 1852–54 | Iron and glass | **Yes**: the rebuilding at Sydenham was photographed by Philip Henry Delamotte |
@@ -243,7 +244,7 @@ All 27 entries have now been checked (November 2026), using online catalogues an
 
 **What it shows so far:**
 
-- **Totals:** 7 buildings with construction photographs (Cologne, the Crystal Palace, the Galleria, the St Pancras train shed, the Albert Hall, Tower Bridge and Chicago's Palace of Fine Arts), 2 with some (Westminster and the Natural History Museum), 2 possible (the Trocadéro and Dresden), 2 with lithographs or engravings only (Saint Isaac's and Melbourne), 2 from before photography (Palmanova and the Royal Pavilion), and 12 with none found (including the Palm House at Kew, added later).
+- **Totals:** 7 buildings with construction photographs (Cologne, the Crystal Palace, the Galleria, the St Pancras train shed, the Albert Hall, Tower Bridge and Chicago's Palace of Fine Arts), 2 with some (Westminster and the Natural History Museum), 2 possible (the Trocadéro and Dresden), 2 with lithographs or engravings only (Saint Isaac's and Melbourne), 2 from before photography (Palmanova and the Royal Pavilion), and 13 with none found (including the Palm House at Kew and St George's Hall, added later).
 - **Iron and engineering were photographed; stone and brick often weren't.** The clearest pattern is not about style but about what was being built. Iron and glass structures, bridges and world's fair buildings were photographed while going up: the Crystal Palace, the Galleria's iron frame, the St Pancras train shed, the Albert Hall dome, Tower Bridge's steel and the Chicago fair. At **St Pancras**, the iron train shed was photographed but no photograph of the Gothic hotel going up has been found, even though they were built side by side.
 - **The owner's pattern partly holds.** The buildings with no construction photographs found include the Gothic civic buildings (Manchester Town Hall, Royal Courts of Justice), the St Pancras hotel, and the Moorish and eclectic villas and castles (Sammezzano, Rocchetta Mattei, Villa Crespi, Villa Sultana). These are the buildings that look most like older periods.
 - **But there are exceptions both ways.** Cologne Cathedral and the Palace of Westminster, both Gothic, were photographed, and so was the Natural History Museum's site. Tower Bridge was designed to look medieval and was photographed in detail. And some buildings in newer styles, such as the German stations, haven't turned up construction photographs either.

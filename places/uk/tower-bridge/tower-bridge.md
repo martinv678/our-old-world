@@ -70,6 +70,7 @@ Points to weigh up:
 
 **Documented** – Horace Jones died on 21 May 1887, about a year after work began. The bridge was completed by Barry, with Jones's assistant George Stevenson redesigning the stone exterior. This is the fifth building in this project whose designer died before it was finished:
 
+- Harvey Lonsdale Elmes: [St George's Hall, Liverpool](../st-georges-hall-liverpool/st-georges-hall-liverpool.md) (died 1847; added later)
 - Captain Francis Fowke: [Royal Albert Hall](../royal-albert-hall/royal-albert-hall.md) and [Natural History Museum](../natural-history-museum/natural-history-museum.md) (died 1865)
 - Giuseppe Mengoni: [Galleria Vittorio Emanuele II](../../italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) (died 1877)
 - George Edmund Street: [Royal Courts of Justice](../royal-courts-of-justice/royal-courts-of-justice.md) (died 1881)

@@ -7,6 +7,7 @@ The building lists and the index below are generated automatically from the **Fe
 <!-- index:start -->
 | Feature | Buildings |
 |---|---|
+| [Barrel vault](#barrel-vault) | 1 |
 | [Built on older ruins](#built-on-older-ruins) | 4 |
 | [Buried ground floor](#buried-ground-floor) | 1 |
 | [Clock tower](#clock-tower) | 4 |
@@ -27,7 +28,7 @@ The building lists and the index below are generated automatically from the **Fe
 | [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
 | [Tower](#tower) | 13 |
-| [Undercroft](#undercroft) | 1 |
+| [Undercroft](#undercroft) | 2 |
 | [Underground tunnel](#underground-tunnel) | 4 |
 <!-- index:end -->
 
@@ -331,8 +332,9 @@ A vaulted space underneath a building, at or below ground level, often used for 
 **Why it matters:** large spaces below street level are often linked to mud flood theories. Were they built as basements, or were they once the ground floor?
 
 <!-- buildings:start -->
-**Buildings (1):**
+**Buildings (2):**
 
+- [St George's Hall, Liverpool](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 <!-- buildings:end -->
 
@@ -349,6 +351,18 @@ A passage running underground from a building, for example to another building, 
 - [Palm House, Kew Gardens](places/uk/palm-house-kew/palm-house-kew.md) – UK
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
+<!-- buildings:end -->
+
+## Barrel vault
+
+A continuous arched ceiling or roof, shaped like half a barrel or tunnel, running the length of a hall. Roman baths and basilicas used them, and 19th-century architects copied them for great halls, sometimes building them with hollow clay pots or iron to reduce the weight.
+
+**Why it matters:** a wide masonry vault needs careful engineering and skilled builders to stand without collapsing, which makes it a good test for the [skill and precision](ALTERNATIVE-VIEW.md#skill-and-precision-the-master-builders-argument) argument. Large vaulted halls also have strong acoustics, which is relevant to the [sound and cymatics](ALTERNATIVE-VIEW.md#sound-and-cymatics-the-resonance-argument) theme.
+
+<!-- buildings:start -->
+**Buildings (1):**
+
+- [St George's Hall, Liverpool](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) – UK
 <!-- buildings:end -->
 
 ---

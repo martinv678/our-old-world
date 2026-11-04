@@ -4,7 +4,7 @@ Pre-1900 buildings and places to research for the project, grouped by region. �
 
 Dates are approximate starting points, so check them when researching. "Begun" means the building was started before 1900 but finished later.
 
-**Progress: 27 of 134 done.**
+**Progress: 28 of 135 done.**
 
 ## United Kingdom and Ireland
 
@@ -23,12 +23,13 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ⬜ | Tilbury Fort | Essex | 1670s | English star fort on the Thames |
 | ⬜ | Berwick-upon-Tweed walls | Northumberland | 1558–70 | Bastioned town walls (star fort design) |
 | ✅ | [Manchester Town Hall](../places/uk/manchester-town-hall/manchester-town-hall.md) | Manchester | 1868–77 | Gothic clock tower |
-| ⬜ | St George's Hall | Liverpool | 1841–54 | Giant neoclassical hall with columns |
+| ✅ | [St George's Hall](../places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) | Liverpool | 1841–54 | Giant neoclassical hall with columns |
 | ⬜ | Leeds Town Hall | Leeds | 1853–58 | Domed clock tower |
 | ⬜ | Glasgow City Chambers | Glasgow | 1882–88 | Marble interiors, tower |
 | ⬜ | Scott Monument | Edinburgh | 1840–46 | Gothic spire monument |
 | ⬜ | West Pier | Brighton | 1863–66 | Iron pier, now a ruin |
 | ⬜ | Oxford University Museum of Natural History | Oxford | 1855–60 | Gothic 'cathedral of science' with an iron and glass court |
+| ⬜ | Birmingham Town Hall | Birmingham | 1832–34 | Roman-temple concert hall on a high base |
 | ⬜ | Forth Bridge | Firth of Forth, Scotland | 1882–90 | Giant steel cantilever bridge by Tower Bridge's steel contractor |
 
 ## France
