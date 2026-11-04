@@ -41,6 +41,7 @@ The hall was the centrepiece of Prince Albert's plan to use the Great Exhibition
 - **24 February 1958** – The hall is listed (now Grade I).
 - **Late 1968 – 1969** – Fibreglass acoustic diffusers, nicknamed "mushrooms", are hung below the dome (usually given as 135). In 2001 some are removed and the rest rearranged.
 - **1996–2004** – A major renovation is carried out in about 30 separate projects while the hall stays open. A deep basement is dug at the rear for plant and loading, the south steps to Prince Consort Road are taken down and rebuilt around a new south porch, and the organ is rebuilt by Mander Organs.
+- **2017 – c. 2019** – The "Great Excavation": Sir Robert McAlpine digs two new basement levels on the south-west side of the hall, about 40 m by 20 m and 10 m deep, adding about 930 m² of space. The works expose the hall's lower walls below today's ground level.
 
 ## Conservation
 
@@ -98,11 +99,46 @@ This is the same pattern seen at the [Crystal Palace](../crystal-palace/crystal-
 
 **Reported** – Seats were sold in advance at £100 each to raise the money, and the seatholders still own about 1,300 of the seats today. They're often said to hold them on 999-year leases, but this hasn't been confirmed in the sources reached so far. It's an unusual arrangement for a public building, and the original subscription lists would show who paid for the hall and when.
 
-### Ground levels on the slope
+### Ground levels and the buried walls
 
-**Observed** (slope) / **Speculative** (mud flood) – The ground falls from Kensington Gore on the north side to Prince Consort Road on the south, where steps led down from the hall. The 1996–2004 works dug a deep basement (reported as 18 m) behind the hall and a tunnel under it for services, and took down and rebuilt the south steps. In mud flood research, buildings on slopes with lower entrances and steps down are checked for signs that the ground was once lower. No evidence of buried floors has been found here, and the slope is a natural explanation. The excavation records from 1996–2004 should show exactly what was found below ground.
+**Observed** (slope and exposed walls) / **Speculative** (mud flood) – The ground falls from Kensington Gore on the north side to Prince Consort Road on the south, where steps led down from the hall. Two modern projects have dug down beside it: the 1996–2004 works, which made a deep basement behind the hall (reported as 18 m) and a tunnel under it for services, and the Great Excavation of 2017–19, which dug two basement levels about 10 m deep on the south-west side. In mud flood research, buildings with walls running well below today's ground are checked for signs that the ground was once lower.
 
-**How to test it:** compare engravings and photographs of the south side from the 1870s with the site today, and look for any report of earlier structures or fill found during the basement excavation.
+**A photo of the Great Excavation** (owner-supplied; it appears to be from 2017–19, as Sir Robert McAlpine hoarding is visible) shows the side of the hall cut open, with the excavation held apart by steel props. What it shows:
+
+- **The walls go a long way down.** The hall's wall continues roughly a full storey or more below today's ground level, down to the excavation floor (**Observed**).
+- **Two kinds of wall.** Above ground the wall is red brick with carved terracotta window surrounds. Below ground it changes to plain yellow-grey brick, with patches of older red brick and no decoration (**Observed**).
+- **An opening in the buried wall.** At the far right of the photo, low down in the exposed wall, there appears to be a framed opening with a stone surround (**Observed**). It's only partly in view, so it's not clear whether it's a window, a door, a light well or a later service opening.
+
+Points to weigh up:
+
+- **Plain brick below ground fits a basement that was always underground.** Builders didn't put terracotta decoration on walls that were never meant to be seen. If this level had once been at street level, you'd expect it to be faced and decorated like the walls above.
+- **The hall had lower levels from the start.** The construction photo described below shows the lower storeys being built from an open site in 1867–71.
+- **The opening is the part worth checking.** Victorian basements often had windows onto light wells or areas below pavement level. Comparing its position with the original drawings would show whether it was planned as a below-ground window.
+
+**How to test it:** find a larger copy of the excavation photo, ideally with a date, and look closely at the opening and the join between the two kinds of brick. Compare them with Fowke and Scott's section drawings, and with any report from the 1996–2004 or 2017–19 works on what was found below ground (older structures, fill or buried surfaces).
+
+### The construction photo: building from the ground up
+
+**Documented** (photo) / **Observed** (what it shows) – An early construction photo (owner-supplied, from the hall's [construction in pictures](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures) page) shows the hall at an early stage, probably 1867–68 (date not confirmed). It's taken from high up on the north side, with trees from Kensington Gardens in the foreground. The oval ring of the lower walls and the arena are surrounded by timber scaffolding, with stacks of building materials around them.
+
+What it shows:
+
+- **The hall's lower levels being built on an open site.** The ring of walls rises from cleared ground, with the deeper centre (the arena) inside it. This supports the official account that the lower storeys were built new in 1867, rather than being an older building dug out of the ground. It weakens a mud flood reading for the Albert Hall itself (**Observed**).
+- **The ground level then and now.** The hoarding and road in the foreground can be compared with today's street level on the north side, to see whether the ground has been raised since 1867.
+
+### The glasshouse behind the hall
+
+**Observed** (photo) / **Documented** (identity) / **Speculative** (pattern) – Behind the half-built hall in the construction photo stands a large curved iron and glass conservatory, with two small domed pavilions to either side. This is the Royal Horticultural Society's Great Conservatory, which opened in 1861 at the north end of the Society's garden in South Kensington, on land leased from the 1851 Exhibition Commissioners. It's credited to Captain Francis Fowke, the hall's own designer, with Sydney Smirke (who designed the garden's arcades).
+
+As the owner has noted, it looks very like Joseph Paxton's glasshouses: the curved roof recalls his Great Conservatory at Chatsworth (1836–41) and the arched transept of the [Crystal Palace](../crystal-palace/crystal-palace.md). The resemblance is real, and it's no accident: Paxton's buildings set the pattern for large Victorian glasshouses, and the Commissioners who leased the garden had put up the Crystal Palace ten years earlier.
+
+What stands out for this project:
+
+- **Another lost glasshouse.** The Society's garden closed in the 1880s (sources give 1882 or 1888) and the conservatory was later demolished; its exact demolition date hasn't been found yet. Chatsworth's Great Conservatory was demolished in 1920, the Crystal Palace burned in 1936, and Fowke's 1862 Exhibition building was taken down in 1864. Almost all of the great glasshouses of this period have gone (**Speculative** as to any pattern beyond cost and fire risk).
+- **One designer, one district.** Fowke designed the conservatory, the 1862 Exhibition building and the first plans for the hall, all within a few hundred metres of each other in a few years, and he died in 1865.
+- **The domed pavilions.** The two small domed buildings beside the conservatory haven't been identified yet. They may be the garden's bandstands, which the Survey of London also credits to Fowke.
+
+**How to test it:** the Survey of London volume 38 (on British History Online) describes the Horticultural Society's garden and has plates of the conservatory. Compare its plans and dates with the construction photo, and look for when and why the conservatory was taken down.
 
 ### Anomaly log
 
@@ -118,6 +154,10 @@ This is the same pattern seen at the [Crystal Palace](../crystal-palace/crystal-
 | Seats sold in advance; seatholders still own about 1,300 seats | Histories of the hall | Reported | New World Encyclopedia; Wikipedia |
 | Period photographs show the dome under construction | Hall's published construction photographs | Documented | [Royal Albert Hall](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures) |
 | Hall on a slope, with steps down to the south; deep basement dug 1996–2004 | Visible on site; project records | Observed | Designing Buildings; GCG |
+| Hall's walls run a storey or more below today's ground; plain brick below, decorated red brick above | Owner-supplied photo of the Great Excavation | Observed | Owner; Sir Robert McAlpine |
+| Framed opening with a stone surround in the buried wall | Owner-supplied photo of the Great Excavation | Observed | Owner |
+| Lower walls built up from an open site in 1867–68 | Early construction photo | Observed | Royal Albert Hall |
+| Paxton-style conservatory behind the site, by Fowke, since demolished | Early construction photo; Survey of London | Documented | Royal Albert Hall; British History Online |
 
 ### Timeline check
 
@@ -148,6 +188,8 @@ This is the same pattern seen at the [Crystal Palace](../crystal-palace/crystal-
 | [The Crystal Palace](../crystal-palace/crystal-palace.md) | London, UK | 1850–51; rebuilt 1852–54 | Its profits bought the hall's site; destroyed by fire 1936 |
 | Albert Memorial | Kensington Gardens, London, UK | 1864–76 | Survives, facing the hall |
 | Natural History Museum | South Kensington, London, UK | 1873–81 | Survives; built on the 1862 Exhibition site (on the research list) |
+| Royal Horticultural Society's Great Conservatory | South Kensington, London, UK | 1861 | By Fowke; stood just south of the hall; garden closed 1880s, demolished |
+| Great Conservatory, Chatsworth | Derbyshire, UK | 1836–41 | Paxton's glasshouse; demolished 1920 |
 | [Royal Exhibition Building](../../australia/royal-exhibition-building/royal-exhibition-building.md) | Melbourne, Australia | 1879–80 | Survives |
 | [Galleria Vittorio Emanuele II](../../italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) | Milan, Italy | 1865–77 | Iron and glass; architect died before completion |
 
@@ -174,7 +216,10 @@ This is the same pattern seen at the [Crystal Palace](../crystal-palace/crystal-
 - **Electric light:** Who ran the 1873 demonstration, and how was the power produced? Was full lighting installed in 1879 or 1888?
 - **The frieze:** Is it called "The Triumph of Arts and Sciences" or "The Triumph of Art and Letters"? Sources disagree. Is it really 800 ft long?
 - **Capacity:** The figure is usually given as about 5,200 to 5,300 seats today. What was it in 1871?
-- **The excavations:** What was found below ground during the 1996–2004 works?
+- **The excavations:** What was found below ground during the 1996–2004 works and the 2017–19 Great Excavation?
+- **The buried opening:** What is the framed opening low down in the wall exposed by the Great Excavation, and is it on the original drawings?
+- **The construction photo:** When exactly was the early photo of the lower walls taken, and by whom?
+- **The conservatory:** When was the Horticultural Society's conservatory demolished, and what were the two small domed pavilions beside it?
 
 ## Leads to follow up
 
@@ -189,16 +234,23 @@ This is the same pattern seen at the [Crystal Palace](../crystal-palace/crystal-
 - **Historic England:** the Grade I listing description.
 - **Institute of Acoustics:** published papers on the hall's acoustics and the history of the echo.
 - **Renovation records:** reports from the 1996–2004 works, including the basement excavation.
+- **The Great Excavation:** Sir Robert McAlpine's project pages, and the time-lapse films made by Hideaway Media in 2017–19, which may show the buried walls and the opening in detail.
+- **Survey of London, volume 38:** the chapters and plates on the Royal Horticultural Society's garden and conservatory (British History Online).
 
 ## Research notes
 
 <!-- Owner's notes: add observations, hunches and links here. Claude reads this section first and doesn't remove it. -->
+
+- Owner's observation: the photo of the Great Excavation shows "mud flood" levels, with the hall's walls continuing well below today's ground. See [Ground levels and the buried walls](#ground-levels-and-the-buried-walls).
+- Owner's observation: the early construction photo shows the base of the building, with a Paxton-style glasshouse behind it, like the one at Chatsworth. See [The glasshouse behind the hall](#the-glasshouse-behind-the-hall).
 
 ## Images
 
 Images will be added by the owner. The most useful for this entry would be:
 
 - the hall **under construction** in 1867–71, especially the dome. The hall has published a set of these on its [construction in pictures](https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures) page; check their copyright and licence before reusing any
+- **Owner-supplied:** the early construction photo of the lower walls with the Horticultural Society's conservatory behind (from the hall's construction page; probably 1867–68, and old enough to be public domain, but the date and photographer need confirming)
+- **Owner-supplied:** the Great Excavation photo showing the buried walls (c. 2017–19; a modern photo, so it's likely to be in copyright and needs permission or a link instead)
 - the **foundation stone ceremony** on 20 May 1867 and the **opening** on 29 March 1871
 - a clear, high-resolution view of the **inscription** showing the Roman-numeral dates
 - the **south side and steps** to Prince Consort Road in the 1870s, for comparison with today
@@ -207,6 +259,10 @@ Images will be added by the owner. The most useful for this entry would be:
 
 ## Sources
 
+- Sir Robert McAlpine – Project spotlight: Royal Albert Hall: https://www.srm.com/news-and-comment/project-spotlight-royal-albert-hall/
+- Hideaway Media – The Great Excavation video: https://www.hideawaymedia.com/great-excavation-video-royal-albert-hall/
+- British History Online – Survey of London, volume 38, plate 28: Royal Horticultural Society's Garden: https://www.british-history.ac.uk/survey-london/vol38/plate-28
+- London Remembers – International Exhibition and RHS Garden, South Kensington: https://londonremembers.com/subjects/international-exhibition-rhs-garden-south-ken
 - Royal Albert Hall – Construction of the Royal Albert Hall in pictures: https://www.royalalberthall.com/about-the-hall/building-and-history/our-history/construction-of-the-royal-albert-hall-in-pictures
 - V&A – Designing the dome of the Royal Albert Hall: https://www.vam.ac.uk/blog/news/designing-the-dome-of-the-royal-albert-hall
 - Science Museum Group – Photo entitled 'Building of Royal Albert Hall': https://collection.sciencemuseumgroup.org.uk/documents/aa110146271
