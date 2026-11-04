@@ -27,12 +27,12 @@ By the 1870s, the East End had grown so much that a new crossing was needed down
 - **1870** – The Tower Subway, a tunnel under the Thames close to the later bridge, opens. Its cable-hauled railway soon fails and it becomes a toll foot tunnel.
 - **1876** – The City of London Corporation sets up the Special Bridge or Subway Committee to find a solution. More than 50 designs are submitted over the following years.
 - **1884** – Horace Jones's design for a bascule bridge, developed with the engineer John Wolfe Barry, is approved.
-- **1885** – An Act of Parliament authorises the bridge.
+- **1885** – An Act of Parliament authorises the bridge. It is reported to have required an opening span with a clear width of 200 ft (61 m) and headroom of 135 ft (41 m), and to have specified that the bridge be built in a Gothic style.
 - **22 April 1886** – Work begins on site.
 - **21 June 1886** – The Prince of Wales lays the foundation stone.
 - **21 May 1887** – Horace Jones dies. Barry takes charge, and Jones's assistant George D. Stevenson redesigns the masonry, using Portland stone and Cornish granite. Jones is said to have intended brick.
 - **1886–1894** – Five main contractors and about 432 workers build the bridge. Sir John Jackson builds the foundations, and two large piers are sunk into the riverbed. Sir William Arrol & Co. put up more than 11,000 tons of steel for the towers and walkways, which is then clad in stone. Armstrong Mitchell of Newcastle provide the hydraulic machinery: two 360 hp steam engines pump water at 750 psi into six accumulators, whose stored pressure drives the engines that raise the bascules.
-- **30 June 1894** – The Prince and Princess of Wales open the bridge. The total cost is given as £1,184,000.
+- **30 June 1894** – The Prince and Princess of Wales open the bridge. The total cost is given as £1,184,000, paid by the Bridge House Estates, a charity founded in 1282 to maintain London Bridge. The bascules can be raised to their full angle of 86 degrees in about a minute. Under the Act, a tug has to be kept on station to help ships in trouble at the bridge, a rule that lasted until the 1960s.
 - **1898** – With a free bridge next door, the Tower Subway closes to foot traffic and is used for water mains.
 - **1910** – The high-level walkways are closed because so few people use them.
 - **1942** – A third steam engine is added as a wartime precaution.
@@ -60,7 +60,7 @@ This is the clearest example in this project of a modern structure deliberately 
 Points to weigh up:
 
 - **The steel frame was photographed before it was clad.** Construction photographs of the 1880s–90s show the bare steel towers standing in the river, before the stone went on. This is strong evidence that the bridge was built new in 1886–94. A good selection is gathered on [Rare Historical Photos](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/). The London Metropolitan Archives hold a set of 50 construction photographs taken in about 1891–94, which can be seen in the London Picture Archive, and Historic England has a view of the bridge in its final stages of construction.
-- **The "disguise" was a public choice.** The Gothic style was chosen so the bridge would suit the Tower of London. That was debated openly at the time.
+- **The "disguise" was a public choice, and reportedly a legal one.** The Gothic style was chosen so the bridge would suit the Tower of London, and the 1885 Act of Parliament is reported to have required it (**Reported**; the wording of the Act still needs checking). So the medieval look was decided in public, in law, before building began.
 - **It shows how other buildings could be studied.** If a Victorian building can hide a modern frame behind historic-looking stone, then the structure inside other "old-looking" buildings is worth checking too. That can cut both ways: it may reveal modern construction, or older work.
 
 **How to test it:** collect the construction photographs with their dates, and match each stage of the steelwork against the reported timeline. The London Metropolitan Archives' set of 50 photographs (London Picture Archive records 323335–323384) is the place to start.
@@ -106,6 +106,7 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 | High-level walkways closed 1910, reopened 1982 | Official history | Documented | Tower Bridge |
 | Walkways said to have attracted pickpockets and prostitutes | Often repeated | Reported | – |
 | Jones originally intended brick | Secondary source | Reported | Blog post (see Sources) |
+| The 1885 Act required a Gothic style | Secondary sources | Reported | Rare Historical Photos; Wikipedia |
 
 ### Timeline check
 
@@ -119,7 +120,7 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 
 **Working still needed:**
 
-1. The volume of masonry and concrete, from the contract records. A figure of 70,000 tons of concrete is sometimes quoted but hasn't been confirmed.
+1. The volume of masonry and concrete, from the contract records. A figure of over 70,000 long tons of concrete in the two piers is given by Rare Historical Photos and Wikipedia, but hasn't been confirmed from the contract records.
 2. The dates when each tower's steel frame was finished and when cladding started, from the construction photographs.
 3. How the 432 workers were split between the five contractors.
 
@@ -154,7 +155,8 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 
 - **Foundation stone:** Where is it, and what does its inscription say?
 - **Brick or stone:** Did Jones really intend brick? Whose decision was it to clad the steel in stone?
-- **Concrete:** How much concrete went into the piers?
+- **Concrete:** Is the figure of over 70,000 long tons of concrete in the piers right?
+- **The Act:** Does the 1885 Act really require a Gothic style? What are its exact words?
 - **The walkways:** Were they mainly structural or mainly for people? Why were they closed in 1910?
 - **Workforce:** Is 432 the total workforce or the number at any one time?
 - **Competition:** How many designs were submitted to the Special Bridge or Subway Committee, and when?
@@ -178,7 +180,7 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 
 Images will be added by the owner. The most useful for this entry would be:
 
-- the **bare steel towers** under construction, before the stone was added (see the [Rare Historical Photos selection](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/) and the London Picture Archive; check each photograph's licence before reusing it)
+- the **bare steel towers** under construction, before the stone was added. The photographs gathered by Rare Historical Photos include views dated 1892 and 1894 and are credited to the London Stereoscopic Company, Wikimedia Commons and the Tower Bridge organisation (see the [Rare Historical Photos selection](https://rarehistoricalphotos.com/tower-bridge-construction-old-photographs/) and the London Picture Archive; check each photograph's licence before reusing it)
 - the **piers** being built in the river
 - the **opening** on 30 June 1894
 - the **engine rooms**, steam engines and accumulators
