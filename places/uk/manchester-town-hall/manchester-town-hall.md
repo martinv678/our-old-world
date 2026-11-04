@@ -66,7 +66,7 @@ Points to weigh up:
 - **Engravings were the normal record.** *The Builder*, *The Building News* and the local press may have published views of the works in progress.
 - **Local archives haven't been searched.** Manchester Archives+, the Manchester Local Image Collection and the newly found Waterhouse drawings are the places to look.
 
-**How to test it:** search Manchester Archives+ and the Manchester Local Image Collection for images dated 1868–77, and the volumes of *The Builder* and *The Building News* for engravings of the works.
+**How to test it:** search Manchester Archives+ and the Manchester Local Image Collection for images dated 1868–77, and the volumes of *The Builder* and *The Building News* for engravings of the works. This building is tracked in the project-wide [photo record table](../../../ALTERNATIVE-VIEW.md#missing-construction-photographs-the-photo-record-argument).
 
 ### A medieval palace for a modern council
 

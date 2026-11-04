@@ -41,6 +41,7 @@ Test each building against these. Add, remove or reorder them to match what you 
 - **Letters in dates (the "J" argument):** Fomenko's claim that the leading "1" in dates was originally an I or J for Jesus, adding about 1,000 years to history. Check date stones, foundation stones, inscriptions and documents for how the year is written, and record examples in the Anomaly log. Remember that a final "j" in Roman numerals (for example "xiij") is normal in older writing.
 - **Materials and delivery (the logistics argument):** the millions of bricks and tons of stone, iron and glass for so many buildings going up at the same time would have needed transport and production on a vast scale. For each building, work out how much material was needed, where it came from, how it was carried and how many loads a day that means, then consider what else was being built in the same city at the same time. See [ALTERNATIVE-VIEW.md](ALTERNATIVE-VIEW.md#materials-and-delivery-the-logistics-argument).
 - **Skill and precision (the master builders argument):** these buildings needed large numbers of master craftsmen who got complex work right first time, without modern tools. For each building, ask where the skilled workers came from, whether it was right first time (look for mistakes, rebuilding, redesigns and repairs), and how the precision was achieved (drawings, templates, trial assemblies, factory-made parts). See [ALTERNATIVE-VIEW.md](ALTERNATIVE-VIEW.md#skill-and-precision-the-master-builders-argument).
+- **Missing construction photographs (the photo record argument):** many 19th-century buildings in older styles have no photographs of being built, and they match buildings from much older periods, which may mean they're older than the records say. For each building, record whether construction photographs or engravings have been found, and add it to the photo record table in [ALTERNATIVE-VIEW.md](ALTERNATIVE-VIEW.md#missing-construction-photographs-the-photo-record-argument).
 
 ## 4. Owner's sources and researchers ✏️
 
@@ -63,7 +64,7 @@ A suggested starting list (from [ALTERNATIVE-VIEW.md](ALTERNATIVE-VIEW.md)). Edi
 
 Work through as many of these as the evidence allows.
 
-1. **Records audit.** What primary records exist: plans, contracts, invoices, construction photos, newspaper reports, official inquiries? Note where they're held and where the gaps are.
+1. **Records audit.** What primary records exist: plans, contracts, invoices, construction photos, newspaper reports, official inquiries? Note where they're held and where the gaps are. Say whether any construction photographs or engravings were found, and update the photo record table in ALTERNATIVE-VIEW.md.
 2. **Timeline check.** Estimate the materials and labour against the recorded dates and workforce. Include a **delivery check**: where the materials came from, how they were carried and how many loads a day that means. Show the working, and say whether the timeline is plausible, tight or implausible.
 3. **Ground-level check.** Compare the oldest available photos, engravings and maps with today. Look for buried windows and doors, steps down into entrances, and raised streets.
 4. **Photo analysis.** For key historic images, check lighting and shadows, edges, perspective, retouching and captions. Say what resolution the analysis is based on.

@@ -107,7 +107,7 @@ Points to weigh up:
 - **There's written evidence of the construction.** Questions in Parliament in the 1870s report on the progress and delays of the work, including the late eastern wing and the masons' strike. These describe a building site, not an existing building.
 - **The site had to be cleared first.** About 450 houses were demolished in the 1860s. Maps from before and after would show whether anything large stood on the site before 1873.
 
-**How to test it:** search the National Archives (Office of Works records for the Law Courts), the London Metropolitan Archives' Collage image collection, the Historic England Archive and the RIBA collections for photographs dated 1873–82. Look through *The Builder*, *The Building News* and the *Illustrated London News* for 1873–82 (many volumes are on the Internet Archive and HathiTrust) for engravings of the works in progress. If, after a proper search, no image of the building site exists at all, that would be a significant finding.
+**How to test it:** search the National Archives (Office of Works records for the Law Courts), the London Metropolitan Archives' Collage image collection, the Historic England Archive and the RIBA collections for photographs dated 1873–82. Look through *The Builder*, *The Building News* and the *Illustrated London News* for 1873–82 (many volumes are on the Internet Archive and HathiTrust) for engravings of the works in progress. If, after a proper search, no image of the building site exists at all, that would be a significant finding. This building is tracked in the project-wide [photo record table](../../../ALTERNATIVE-VIEW.md#missing-construction-photographs-the-photo-record-argument).
 
 ### A cathedral for the law
 

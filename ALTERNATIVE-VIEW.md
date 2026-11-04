@@ -24,6 +24,7 @@ This page explains the ideas behind the "alternative view" sections in this proj
 | **Shared architecture** | The same domes and styles appear on every continent at once | See the [glossary](GLOSSARY.md), for example Dome and Onion dome |
 | **Satan's Little Season** | The "thousand years" of Revelation 20 have already passed, and we now live in the short season that follows, a time of deception that explains the reset and the hidden history | A framework for the whole project rather than one building; see [below](#satans-little-season) |
 | **Letters in dates (the "J" argument)** | The first "1" in dates like 1255 was originally an **I** or **J** standing for Jesus, so history has been stretched by about 1,000 years | Date stones and inscriptions on buildings; see [below](#letters-in-dates-the-j-argument) |
+| **Missing construction photographs** | Buildings in older styles have no photographs of being built, which suggests they're older than the records say | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md), [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md); see [below](#missing-construction-photographs-the-photo-record-argument) |
 | **Skill and precision** | So many complex buildings needed huge numbers of master craftsmen who got it right first time, without modern tools | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md), [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md); see [below](#skill-and-precision-the-master-builders-argument) |
 | **Materials and delivery** | The millions of bricks and tons of stone and iron for so many buildings at once couldn't have been made and delivered with horses, carts and early railways | [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md), [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md), [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md); see [below](#materials-and-delivery-the-logistics-argument) |
 
@@ -193,6 +194,50 @@ The buildings in this project have a mixed record, which is useful evidence in i
 - Look for the **tools and methods**: templates, setting-out drawings, full-size details and trial assemblies in the architects' and contractors' records.
 - Check **the quality of the work itself**: is the stonework and detailing as uniform and precise as the claimed methods would allow, or more so?
 
+## Missing construction photographs (the photo record argument)
+
+### The idea
+
+This is the owner's own argument. Photography was well established by the 1850s, yet for some of the great 19th-century buildings no photographs of them being built have been found. And the buildings with no construction photographs tend to be the ones that look like buildings from much older periods: Gothic halls and towers in the style of the 13th century, Romanesque churches of the 11th and 12th, classical temples. If a building that looks medieval has no record of being built in the 1870s, perhaps it wasn't built in the 1870s at all, but is older than the official story says, and was completed, refaced or simply claimed.
+
+### How it applies to this project
+
+For every building, the **Records audit** should say whether construction photographs or engravings have been found, and the building should be added to the table below. Once enough buildings are in the table, it will show whether the missing photographs really go with the older-looking styles, or with something else, such as the date of building or the kind of project.
+
+### The photo record so far
+
+| Building | Built | Style | Construction images found |
+|---|---|---|---|
+| [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | 1850–51; rebuilt 1852–54 | Iron and glass | **Yes**: the rebuilding at Sydenham was photographed by Philip Henry Delamotte |
+| [Palace of Westminster](places/uk/palace-of-westminster/palace-of-westminster.md) | c. 1840–70 | Gothic Revival | **Some**: Roger Fenton's view of about 1857 shows the palace under construction behind Westminster Abbey |
+| [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) | 1248–1473; 1842–80 | Gothic | **Yes**: Bisson Frères photographed the south transept with scaffolding in 1854, and later photographs show the towers being built |
+| [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | 1867–71 | Italianate, Roman amphitheatre plan | **Yes**: the hall has published a set, including the dome going up |
+| [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) | 1868–77 | Gothic Revival | **None found so far**: only an 1877 album of the finished building |
+| [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | 1873–82 | Gothic Revival | **None found so far**: designs, a finished-looking engraving and later postcards only |
+| [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) | 1873–81 | Romanesque Revival | Not yet checked |
+| [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) | 1873; rebuilt 1875 | Exhibition palace | Not yet checked |
+| [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) | 1879–80 | Exhibition hall | **Engraving** of the works; photographs not yet checked |
+| [Tower Bridge](places/uk/tower-bridge/tower-bridge.md) | 1886–94 | Victorian Gothic over steel | **Yes**: the bare steel towers were photographed before the stone was added |
+| Other entries | | | Not yet checked |
+
+**What it shows so far:** the two buildings with no construction images found, Manchester Town Hall and the Royal Courts of Justice, are both Gothic Revival, which fits the owner's argument. But two other Gothic buildings, the Palace of Westminster and Cologne Cathedral, do have construction photographs, and so does Tower Bridge, which was deliberately dressed to look medieval. So on the evidence so far, style alone doesn't decide whether a building was photographed. More buildings are needed before any pattern can be relied on (**Speculative**).
+
+### What critics say
+
+- **Construction photography was occasional before the 1880s.** Long exposure times made busy building sites hard to photograph, and workers often appear only by accident. Photographing building works became common with public engineering projects and contractors' records in the 1880s–1900s, and routine after about 1890. So the earlier a building, the less likely it is to have been photographed while being built.
+- **Engineering projects were photographed more.** Bridges, iron halls and domes, such as the Brooklyn Bridge (from 1869–70), the Crystal Palace, the Albert Hall dome and Tower Bridge, were showpieces of engineering, and their builders wanted a record. A council or a government office building a stone hall may not have commissioned one.
+- **Engravings were the usual record.** Journals like *The Builder* and the *Illustrated London News* recorded progress in engravings, which have to be searched as well as photographs.
+- **Not online isn't the same as missing.** Many early photographs survive only as prints in archives that haven't been put online.
+- **Older buildings had to be cleared first.** At the Royal Courts of Justice, about 450 houses were demolished to make the site, which Parliament debated and paid for. If the old maps show those streets on the site, a much older building couldn't have been standing there.
+
+### How to test it
+
+- **Complete the table** for every entry, giving the earliest construction image found and where it is held, or "none found" with the archives searched.
+- **Compare by style, date and type**: do the gaps follow style (Gothic, Romanesque, classical), date (before or after about 1880) or type of project (engineering or civic)?
+- For each "none found", search the **national and local archives**, the architects' and contractors' records, and the engravings in *The Builder*, *The Building News* and the *Illustrated London News*.
+- **Check the site before the build** on old maps: was it empty, or covered by other buildings that were demolished?
+- **Look for physical dating evidence** in the building: machine-made bricks, Portland cement mortar, rolled iron and steel, and tree-ring dating of roof timbers would all show when it was really built.
+
 ## People and places to watch
 
 A starting list for exploring the alternative view. The project doesn't endorse every claim these sources make: use them for leads and arguments, then check each claim against the evidence and label it (see [How to weigh what you watch](#how-to-weigh-what-you-watch)).
@@ -242,6 +287,13 @@ Knowing the strongest counter-arguments makes the alternative view sharper. Thes
 
 ## Sources
 
+- Heritage Images – Westminster Abbey and the Palace of Westminster under construction, c. 1857 (Roger Fenton): https://www.heritage-images.com/preview/1191588
+- Bridgeman Images – Bisson Frères, Cologne Cathedral, south transept, 1854: https://bridgemanimages.com/fr/bisson-freres-studio/cologne-cathedral-south-transept-1854-albumen-print/albumen-print/asset/2971288
+- Cornell University Library – Cologne Cathedral tower detail, c. 1877–81: https://digital.library.cornell.edu/catalog/ss:3874239
+- Google Arts & Culture – Cologne Cathedral during construction: https://artsandculture.google.com/incognito/asset/cologne-cathedral-during-construction-gothic-architecture/uwHl5Qhze7Kn0Q
+- Structurae – Victor Horta and building site photography (on early building-site photography): https://structurae.net/literature/conference-paper/victor-horta-and-building-site-photography
+- TU Delft repository – thesis on building-site photography, 1890–1920: https://repository.tudelft.nl/file/File_b7cf47e0-bfa0-4875-8486-a6867396370a
+- University of Navarra – Documentary photography and the industrialisation of the Parisian worksite: https://dadun.unav.edu/handle/10171/42431
 - Scottish Brick History – Brick development through the centuries (brick tax output figures): https://www.scottishbrickhistory.co.uk/brick-development-through-the-centuries/
 - Wikipedia – Brick tax: https://en.wikipedia.org/wiki/Brick_tax
 - Kent Archaeological Society – The brickmaking industry in Kent c. 1825–1900: https://www.kentarchaeology.org.uk/journal/141/brickmaking-industry-kent-c1825-1900
