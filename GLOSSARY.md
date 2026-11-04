@@ -24,10 +24,10 @@ The building lists and the index below are generated automatically from the **Fe
 | [Raised streets](#raised-streets) | 1 |
 | [Rooftop sculpture](#rooftop-sculpture) | 1 |
 | [Rose window](#rose-window) | 1 |
-| [Spire](#spire) | 3 |
+| [Spire](#spire) | 4 |
 | [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
-| [Tower](#tower) | 14 |
+| [Tower](#tower) | 15 |
 | [Undercroft](#undercroft) | 3 |
 | [Underground tunnel](#underground-tunnel) | 4 |
 <!-- index:end -->
@@ -269,11 +269,12 @@ A tall, tapering pointed structure on top of a tower or roof, typical of Gothic 
 **Why it matters:** spires appear in very similar forms around the world. Some theories link spires and towers to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (3):**
+**Buildings (4):**
 
 - [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
 - [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 - [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) – UK
+- [Scott Monument](places/uk/scott-monument/scott-monument.md) – UK
 <!-- buildings:end -->
 
 ## Star fort
@@ -309,7 +310,7 @@ A tall structure rising above the main body of a building, whether square, round
 **Why it matters:** towers and spires are common in old world architecture. Some theories link them to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (14):**
+**Buildings (15):**
 
 - [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) – France
 - [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
@@ -322,6 +323,7 @@ A tall structure rising above the main body of a building, whether square, round
 - [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 - [Palm House, Kew Gardens](places/uk/palm-house-kew/palm-house-kew.md) – UK
 - [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) – UK
+- [Scott Monument](places/uk/scott-monument/scott-monument.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
 - [Tower Bridge](places/uk/tower-bridge/tower-bridge.md) – UK

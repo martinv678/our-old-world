@@ -64,7 +64,7 @@ The town or city goes in the details table at the top of each entry, not in the 
 Every building, grouped by type. A building can appear under more than one type (for example a station that is also a hotel). This list is generated automatically from each entry's **Type** row, so there's no need to edit it by hand.
 
 <!-- catalogue:start -->
-**Jump to:** [Bridge](#bridge) (1) · [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Concert hall](#concert-hall) (2) · [Exhibition hall](#exhibition-hall) (5) · [Glasshouse](#glasshouse) (1) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Law court](#law-court) (2) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Town hall](#town-hall) (2) · [Villa](#villa) (2)
+**Jump to:** [Bridge](#bridge) (1) · [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Concert hall](#concert-hall) (2) · [Exhibition hall](#exhibition-hall) (5) · [Glasshouse](#glasshouse) (1) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Law court](#law-court) (2) · [Monument](#monument) (1) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Town hall](#town-hall) (2) · [Villa](#villa) (2)
 
 ### Bridge
 
@@ -139,6 +139,12 @@ Every building, grouped by type. A building can appear under more than one type 
 |---|---|---|---|
 | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) | UK | 1873–1882 | In use as law courts. Grade I listed |
 | [St George's Hall, Liverpool](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) | UK | 1841–1854 (foundation stone 1838; small concert room finished 1856) | In use as a venue. Grade I listed. Courts closed 1984 |
+
+### Monument
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [Scott Monument](places/uk/scott-monument/scott-monument.md) | UK | 1840–1844 (inaugurated 1846) | Standing |
 
 ### Museum
 

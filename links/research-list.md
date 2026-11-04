@@ -4,7 +4,7 @@ Pre-1900 buildings and places to research for the project, grouped by region. �
 
 Dates are approximate starting points, so check them when researching. "Begun" means the building was started before 1900 but finished later.
 
-**Progress: 29 of 137 done.**
+**Progress: 30 of 138 done.**
 
 ## United Kingdom and Ireland
 
@@ -26,11 +26,12 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ✅ | [St George's Hall](../places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) | Liverpool | 1841–54 | Giant neoclassical hall with columns |
 | ✅ | [Leeds Town Hall](../places/uk/leeds-town-hall/leeds-town-hall.md) | Leeds | 1853–58 | Domed clock tower |
 | ⬜ | Glasgow City Chambers | Glasgow | 1882–88 | Marble interiors, tower |
-| ⬜ | Scott Monument | Edinburgh | 1840–46 | Gothic spire monument |
+| ✅ | [Scott Monument](../places/uk/scott-monument/scott-monument.md) | Edinburgh | 1840–46 | Gothic spire monument |
 | ⬜ | West Pier | Brighton | 1863–66 | Iron pier, now a ruin |
 | ⬜ | Oxford University Museum of Natural History | Oxford | 1855–60 | Gothic 'cathedral of science' with an iron and glass court |
 | ⬜ | Leeds Corn Exchange | Leeds | 1861–63 | Brodrick's domed oval trading hall |
 | ⬜ | Grand Hotel | Scarborough | 1863–67 | Brodrick's giant seaside hotel |
+| ⬜ | Albert Memorial | London | 1864–76 | Gothic canopy over a gilded statue, facing the Albert Hall |
 | ⬜ | Birmingham Town Hall | Birmingham | 1832–34 | Roman-temple concert hall on a high base |
 | ⬜ | Forth Bridge | Firth of Forth, Scotland | 1882–90 | Giant steel cantilever bridge by Tower Bridge's steel contractor |
 
