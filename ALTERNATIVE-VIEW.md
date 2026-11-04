@@ -259,6 +259,7 @@ So far the evidence fits the critics' explanation (engineering showpieces were p
 ### How to test it
 
 - **Complete the table** for every entry, giving the earliest construction image found and where it is held, or "none found" with the archives searched.
+- **Note who is in the photographs.** The owner has noticed that construction photographs show few people; at [Tower Bridge](places/uk/tower-bridge/tower-bridge.md#where-are-the-workers), workmen can only be made out when the images are enlarged, and hardly any are visible on the structure itself. For each construction photograph, record whether workers are visible, and remember that long exposures made moving people blur or vanish.
 - **Compare by style, date and type**: do the gaps follow style (Gothic, Romanesque, classical), date (before or after about 1880) or type of project (engineering or civic)?
 - For each "none found", search the **national and local archives**, the architects' and contractors' records, and the engravings in *The Builder*, *The Building News* and the *Illustrated London News*.
 - **Check the site before the build** on old maps: was it empty, or covered by other buildings that were demolished?

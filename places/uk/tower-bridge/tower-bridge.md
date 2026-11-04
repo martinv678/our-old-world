@@ -91,6 +91,19 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 
 **Documented** – Just upstream, the Tower Subway was dug under the Thames in 1869–70, with a cable-hauled railway that soon failed. It became a toll foot tunnel and closed to people in 1898, after the free bridge opened, and now carries pipes and cables. Old tunnels under rivers are of interest in mud flood and underground research. The Tower Subway is well documented and its entrance kiosk survives on Tower Hill.
 
+### Where are the workers?
+
+**Observed** – The owner has noticed that the construction photographs show very few people. Looked at closely, the five photographs in this entry do show some: in the view from the walkway, several workmen can be made out on top of the pier, one standing by a column and a group sitting near the edge (see the detail in [Images](#images)); and the two riverside views show bystanders, boatmen and a woman with a child in the foreground. But hardly any workers can be seen on the steelwork, scaffolding or staging itself, even in the dated view of 28 September 1892, when the towers and walkways were being built with some 432 people on site each day.
+
+Points to weigh up:
+
+- **Long exposures.** Photographs of the 1890s often needed exposures of a second or more. Anyone moving, as most workers would be, blurs or disappears, while people standing still (bystanders, posing boatmen, men sitting on the pier) come out clearly. This is a well-known effect in Victorian street and building photographs.
+- **Size and resolution.** At the size of these copies, a man on the walkway 42 m up is only a few pixels high. Larger scans of the originals would show whether workers are there.
+- **When the photographs were taken.** Progress photographs were sometimes taken at breaks, at the end of the day or on Sundays, when the site was quiet (**Speculative**: not confirmed for these photographs).
+- **The owner's wider pattern.** The same question has come up before: in the [Villa Sultana](../../italy/villa-sultana/villa-sultana.md#the-1911-photo-no-shadows) photograph of 1911, the people on the steps cast no shadows. Missing or oddly rendered people in early photographs is worth tracking across the project.
+
+**How to test it:** find high-resolution scans of the originals in the London Metropolitan Archives' set (London Picture Archive records 323335–323384) and count the visible workers in each; look for posed group photographs of the workforce, which were often taken on big Victorian projects; and check newspaper reports for the time of day and conditions when progress photographs were taken.
+
 ### Dates and inscriptions
 
 **Speculative** – The foundation stone of 21 June 1886 and any other dated stones or plaques on the bridge haven't been checked yet for the [letters in dates](../../../ALTERNATIVE-VIEW.md#letters-in-dates-the-j-argument) argument. Where is the foundation stone, and how is its date written?
@@ -101,6 +114,7 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 |---|---|---|---|
 | Steel frame hidden inside stone towers to look old | Official history; construction photographs | Documented | Tower Bridge; Linda Hall Library |
 | Steel towers and walkways standing before the cladding, photographed on 28 September 1892 | Dated construction photograph | Documented | Rare Historical Photos |
+| Few workers visible on the structure in the construction photographs | Photographs in this entry | Observed | Owner; Rare Historical Photos |
 | Many people assume the bridge is centuries old | Popular perception | Documented | London Pass |
 | Architect died a year after work began; exterior redesigned by his assistant | Official history | Documented | Tower Bridge; Wikipedia |
 | Fifth designer in this project to die before completion | Comparison with other entries | Documented | This project |
@@ -159,6 +173,7 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 - **Brick or stone:** Did Jones really intend brick? Whose decision was it to clad the steel in stone?
 - **Concrete:** Is the figure of over 70,000 long tons of concrete in the piers right?
 - **The Act:** Does the 1885 Act really require a Gothic style? What are its exact words?
+- **The workers:** Do the high-resolution originals of the construction photographs show workers on the steelwork? Was a group photograph of the workforce ever taken?
 - **The walkways:** Were they mainly structural or mainly for people? Why were they closed in 1910?
 - **Workforce:** Is 432 the total workforce or the number at any one time?
 - **Competition:** How many designs were submitted to the Special Bridge or Subway Committee, and when?
@@ -177,6 +192,8 @@ This makes Tower Bridge a useful benchmark. It shows what genuine 19th-century p
 ## Research notes
 
 <!-- Owner's notes: add observations, hunches and links here. Claude reads this section first and doesn't remove it. -->
+
+- Owner's observation: the construction photographs seem never to show people. See [Where are the workers?](#where-are-the-workers).
 
 ## Images
 
@@ -199,6 +216,9 @@ Click any image to enlarge it. All five construction photographs below are from 
 
 ![Tower Bridge nearly complete, seen from the riverside with sailing barges, a steam tug and rowing boats, scaffolding still on the tops of the towers; marked "493. FF&Co."](images/nearly-complete-frith.jpg)
 *Nearly complete, probably 1894 (date not confirmed), seen from the riverside, with a Thames sailing barge, a steam tug and rowing boats. Scaffolding is still on the tops of both towers. The plate is marked "493. FF&Co.", which may be the catalogue number of Francis Frith & Co., the photographic publishers (to be confirmed).*
+
+![Enlarged detail of the view from the walkway, showing the top of the pier with a hut, lamp standards and several small figures of workmen](images/walkway-view-detail-workmen.jpg)
+*Detail of the view from the walkway, enlarged: several workmen can be made out on top of the pier, one standing to the left of the right-hand column and a group sitting near the right-hand edge, with more figures by the railing at the top left. See [Where are the workers?](#where-are-the-workers).*
 
 Other images that would be useful:
 
