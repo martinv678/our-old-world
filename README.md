@@ -20,7 +20,7 @@ These are some of the ideas that come up again and again when looking at old wor
 - **Construction timelines.** Buildings recorded as finished in a handful of years with the tools, labour and money of the time. Does the timeline add up?
 - **Materials and delivery.** Millions of bricks and tons of stone and iron, made and carried by horse, barge and early railway, for many great buildings going up at once. Could the country really have supplied it all?
 - **Missing construction photographs.** Buildings in older styles with no photographs of them being built. Do the gaps follow the style, suggesting the buildings are older than the records say?
-- **Sound and cymatics.** Rose windows that match the patterns sound makes, and organs and bells that turn buildings into instruments. Did the builders understand sound and the body better than we do?
+- **Sound and cymatics.** Rose windows that match the patterns sound makes, and organs and bells that turn buildings into instruments. Did the builders design them for sound?
 - **Skill and precision.** Complex stone, brick and iron work needing large numbers of master craftsmen who got it right first time. Were there enough of them, and were there mistakes?
 - **Mud flood and buried floors.** Ground floors and windows below today's street level, raised streets, and buildings that appear to have been dug out.
 - **Shared architecture worldwide.** The same domes, columns and proportions turning up on different continents at around the same time.
