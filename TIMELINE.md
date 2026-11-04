@@ -40,6 +40,7 @@ The list below is generated automatically by `scripts/build_index.py`, so don't 
 | 1844 | [Palm House, Kew Gardens](places/uk/palm-house-kew/palm-house-kew.md) | UK | 1844–1848 | Glasshouse |
 | 1850 | [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) | Italy | From 1850, on the ruins of a medieval fortress; extended until the 1890s | Castle |
 | 1850 | [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | UK | 1850–1851; dismantled and rebuilt larger at Sydenham 1852–1854 | Exhibition hall |
+| 1853 | [Leeds Town Hall](places/uk/leeds-town-hall/leeds-town-hall.md) | UK | 1853–1858 (tower added to the design in 1856; altered 1877) | Town hall |
 | 1857 | [Goryōkaku](places/japan/goryokaku/goryokaku.md) | Japan | c. 1857–1866 (sources differ) | Star fort |
 | 1865 | [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) | UK | First palace c. 1865–1873 (burned 1873); rebuilt 1873–1875 | Exhibition hall |
 | 1865 | [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) | Italy | 1865–1877 | Shopping arcade |

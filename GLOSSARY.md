@@ -10,7 +10,7 @@ The building lists and the index below are generated automatically from the **Fe
 | [Barrel vault](#barrel-vault) | 1 |
 | [Built on older ruins](#built-on-older-ruins) | 4 |
 | [Buried ground floor](#buried-ground-floor) | 1 |
-| [Clock tower](#clock-tower) | 4 |
+| [Clock tower](#clock-tower) | 5 |
 | [Coloured tilework](#coloured-tilework) | 1 |
 | [Courtyard](#courtyard) | 1 |
 | [Dome](#dome) | 8 |
@@ -27,8 +27,8 @@ The building lists and the index below are generated automatically from the **Fe
 | [Spire](#spire) | 3 |
 | [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
-| [Tower](#tower) | 13 |
-| [Undercroft](#undercroft) | 2 |
+| [Tower](#tower) | 14 |
+| [Undercroft](#undercroft) | 3 |
 | [Underground tunnel](#underground-tunnel) | 4 |
 <!-- index:end -->
 
@@ -68,8 +68,9 @@ A tower carrying a large public clock, often the tallest point of a town hall, r
 **Why it matters:** clock towers appear in near-identical forms across the world in the same period. Some researchers link towers and spires to ideas about lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (4):**
+**Buildings (5):**
 
+- [Leeds Town Hall](places/uk/leeds-town-hall/leeds-town-hall.md) – UK
 - [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) – UK
 - [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 - [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) – UK
@@ -308,13 +309,14 @@ A tall structure rising above the main body of a building, whether square, round
 **Why it matters:** towers and spires are common in old world architecture. Some theories link them to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (13):**
+**Buildings (14):**
 
 - [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) – France
 - [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
 - [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) – Italy
 - [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) – Italy
 - [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) – UK
+- [Leeds Town Hall](places/uk/leeds-town-hall/leeds-town-hall.md) – UK
 - [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) – UK
 - [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) – UK
 - [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
@@ -332,8 +334,9 @@ A vaulted space underneath a building, at or below ground level, often used for 
 **Why it matters:** large spaces below street level are often linked to mud flood theories. Were they built as basements, or were they once the ground floor?
 
 <!-- buildings:start -->
-**Buildings (2):**
+**Buildings (3):**
 
+- [Leeds Town Hall](places/uk/leeds-town-hall/leeds-town-hall.md) – UK
 - [St George's Hall, Liverpool](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 <!-- buildings:end -->

@@ -207,7 +207,7 @@ For every building, the **Records audit** should say whether construction photog
 
 ### The photo record so far
 
-All 28 entries have now been checked (November 2026), using online catalogues and search. "None found" means none was found online; the archives listed in each entry haven't been searched in person.
+All 29 entries have now been checked (November 2026), using online catalogues and search. "None found" means none was found online; the archives listed in each entry haven't been searched in person.
 
 | Building | Built | Style | Construction images found |
 |---|---|---|---|
@@ -222,6 +222,7 @@ All 28 entries have now been checked (November 2026), using online catalogues an
 | [Castello di Sammezzano](places/italy/castello-di-sammezzano/castello-di-sammezzano.md) | Remodelled c. 1853–89 | Moorish Revival | **None found**: only interior views of about 1880–1900 |
 | [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) | 1850–1890s | Eclectic | **None found**: only later views of the finished building |
 | [Goryōkaku](places/japan/goryokaku/goryokaku.md) | c. 1857–66 | Star fort | **None found**: the earliest image found is an 1873 illustration |
+| [Leeds Town Hall](places/uk/leeds-town-hall/leeds-town-hall.md) | 1853–58 | Neoclassical with a Baroque tower | **None found** so far |
 | [Galleria Vittorio Emanuele II](places/italy/galleria-vittorio-emanuele-ii/galleria-vittorio-emanuele-ii.md) | 1865–77 | Neo-Renaissance with iron and glass | **Yes**: a full photographic record of the building site in 1866–67 by Deroche & Heyland, probably commissioned by the city, showing scaffolding, the cast-iron frame and a wooden tower at the Octagon |
 | [St Pancras](places/uk/st-pancras/st-pancras.md) | Train shed 1865–68; hotel 1868–76 | Gothic hotel; iron shed | **Yes for the train shed** (the basement in 1867, the roof in 1868). **None found yet for the Gothic hotel** |
 | [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) | 1867–71 | Italianate | **Yes**: the hall has published a set, including the lower walls and the dome going up |
@@ -244,7 +245,7 @@ All 28 entries have now been checked (November 2026), using online catalogues an
 
 **What it shows so far:**
 
-- **Totals:** 7 buildings with construction photographs (Cologne, the Crystal Palace, the Galleria, the St Pancras train shed, the Albert Hall, Tower Bridge and Chicago's Palace of Fine Arts), 2 with some (Westminster and the Natural History Museum), 2 possible (the Trocadéro and Dresden), 2 with lithographs or engravings only (Saint Isaac's and Melbourne), 2 from before photography (Palmanova and the Royal Pavilion), and 13 with none found (including the Palm House at Kew and St George's Hall, added later).
+- **Totals:** 7 buildings with construction photographs (Cologne, the Crystal Palace, the Galleria, the St Pancras train shed, the Albert Hall, Tower Bridge and Chicago's Palace of Fine Arts), 2 with some (Westminster and the Natural History Museum), 2 possible (the Trocadéro and Dresden), 2 with lithographs or engravings only (Saint Isaac's and Melbourne), 2 from before photography (Palmanova and the Royal Pavilion), and 14 with none found (including the Palm House at Kew, St George's Hall and Leeds Town Hall, added later).
 - **Iron and engineering were photographed; stone and brick often weren't.** The clearest pattern is not about style but about what was being built. Iron and glass structures, bridges and world's fair buildings were photographed while going up: the Crystal Palace, the Galleria's iron frame, the St Pancras train shed, the Albert Hall dome, Tower Bridge's steel and the Chicago fair. At **St Pancras**, the iron train shed was photographed but no photograph of the Gothic hotel going up has been found, even though they were built side by side.
 - **The owner's pattern partly holds.** The buildings with no construction photographs found include the Gothic civic buildings (Manchester Town Hall, Royal Courts of Justice), the St Pancras hotel, and the Moorish and eclectic villas and castles (Sammezzano, Rocchetta Mattei, Villa Crespi, Villa Sultana). These are the buildings that look most like older periods.
 - **But there are exceptions both ways.** Cologne Cathedral and the Palace of Westminster, both Gothic, were photographed, and so was the Natural History Museum's site. Tower Bridge was designed to look medieval and was photographed in detail. And some buildings in newer styles, such as the German stations, haven't turned up construction photographs either.
