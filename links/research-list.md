@@ -4,7 +4,7 @@ Pre-1900 buildings and places to research for the project, grouped by region. �
 
 Dates are approximate starting points, so check them when researching. "Begun" means the building was started before 1900 but finished later.
 
-**Progress: 32 of 140 done.**
+**Progress: 33 of 142 done.**
 
 ## United Kingdom and Ireland
 
@@ -170,6 +170,8 @@ Tatarstan, on the Volga, is the historic heartland of the Volga Tatars, the Kaza
 |---|---|---|---|---|
 | ✅ | [Palace of Fine Arts](../places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) | Chicago, USA | 1893 | Only survivor of the White City |
 | ✅ | [Seattle Underground](../places/usa/seattle-underground/seattle-underground.md) | Seattle, USA | 1889 onwards | Buried shopfronts under raised streets |
+| ✅ | [Pennsylvania Station](../places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) | New York, USA | 1904–10 (after 1900; added at the owner's request) | Roman baths in steel and granite; demolished 1963–66 and dumped in the Meadowlands |
+| ⬜ | Singer Building | New York, USA | 1906–08 (after 1900) | Tallest building ever demolished when pulled down in 1968; named by Tartaria theorists |
 | ⬜ | Chicago Water Tower | Chicago, USA | 1869 | Survived the 1871 Great Chicago Fire |
 | ⬜ | United States Capitol dome | Washington DC, USA | 1855–66 | Cast-iron dome |
 | ⬜ | Library of Congress (Jefferson Building) | Washington DC, USA | 1890–97 | Dome; elaborate symbolism |

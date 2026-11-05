@@ -62,4 +62,10 @@ The list below is generated automatically by `scripts/build_index.py`, so don't 
 | 1889 | [Seattle Underground](places/usa/seattle-underground/seattle-underground.md) | USA | Streets and buildings mostly 1889–1890s; streets raised in the years after 1889 | Street level, Historic district |
 | 1891 | [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) | USA | 1891–1893; rebuilt in stone c. 1929–1933 | Exhibition hall, Museum |
 | 1892 | [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) | Germany | 1892–1898 | Railway station |
+
+## 20th century
+
+| Year | Building | Country | Built | Type |
+|---|---|---|---|---|
+| 1904 | [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) | USA | 1904–1910; demolished 1963–1966 | Railway station |
 <!-- timeline:end -->

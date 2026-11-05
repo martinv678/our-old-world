@@ -30,7 +30,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 <!-- media:start -->
 
-56 images from 11 buildings.
+59 images from 12 buildings.
 
 ### Australia
 
@@ -269,6 +269,23 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 ![Enlarged detail of the view from the walkway, showing the top of the pier with a hut, lamp standards and several small figures of workmen](places/uk/tower-bridge/images/walkway-view-detail-workmen.jpg)
 *Detail of the view from the walkway, enlarged: several workmen can be made out on top of the pier, one standing to the left of the right-hand column and a group sitting near the right-hand edge, with more figures by the railing at the top left. See Where are the workers?.*
+
+</div>
+
+### USA
+
+#### [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) (3)
+
+<div class="media-grid" markdown>
+
+![Pennsylvania Station's long granite colonnade, with the great arched windows of the waiting room rising behind, horse-drawn carts in the street, a contractor's hut and sign, stacked timber, and an excavated block in the foreground](places/usa/pennsylvania-station-new-york/images/station-nearly-finished.jpg)
+*Pennsylvania Station's colonnade, with the waiting room's arched windows behind. Building materials, a contractor's hut and a sign reading "George A. Fuller Company, Building Construction" are still on the pavement on the right, so this was probably taken shortly before the opening in 1910. Detroit Publishing Co.; Library of Congress, Prints and Photographs Division (det.4a23398), via Wikimedia Commons. Public domain.*
+
+![High view of Pennsylvania Station from the north-east, showing the granite colonnades, the raised block of the waiting room with its great arched windows, the concourse roofs behind, and the brick tenements and rooftops of the surrounding streets](places/usa/pennsylvania-station-new-york/images/aerial-view.jpg)
+*The station from the north-east, 1910s, with the tenements of the old neighbourhood around it. Its size against the surrounding streets is clear. In the bottom left is what seems to be the same excavated block as in the photograph above. Which block it is hasn't been checked; the General Post Office site across Eighth Avenue, dug in these years, is one possibility. Detroit Publishing Co., catalogued as between 1910 and 1920; Library of Congress (det.4a24329), via Wikimedia Commons. Public domain.*
+
+![Impressionist painting of a deep pit in snow-covered ground, with workmen, a small steam locomotive, derricks and smoking chimneys around it, and tall buildings beyond](places/usa/pennsylvania-station-new-york/images/excavation-lawson-1906.jpg)
+*"Excavation – Penn Station", oil on canvas by Ernest Lawson, 1906 (Frederick R. Weisman Art Museum). Workmen, derricks and a small steam locomotive work around the pit in winter. Via Wikimedia Commons (from The Athenaeum). Public domain.*
 
 </div>
 

@@ -15,22 +15,22 @@ The building lists and the index below are generated automatically from the **Fe
 | [Courtyard](#courtyard) | 1 |
 | [Dome](#dome) | 8 |
 | [Inscriptions](#inscriptions) | 2 |
-| [Iron and glass construction](#iron-and-glass-construction) | 10 |
+| [Iron and glass construction](#iron-and-glass-construction) | 11 |
 | [Landscaped park](#landscaped-park) | 9 |
 | [Minaret](#minaret) | 2 |
 | [Monolithic columns](#monolithic-columns) | 1 |
 | [Moorish arches](#moorish-arches) | 3 |
 | [Onion dome](#onion-dome) | 2 |
-| [Portico](#portico) | 3 |
+| [Portico](#portico) | 4 |
 | [Raised streets](#raised-streets) | 1 |
-| [Rooftop sculpture](#rooftop-sculpture) | 1 |
+| [Rooftop sculpture](#rooftop-sculpture) | 2 |
 | [Rose window](#rose-window) | 1 |
 | [Spire](#spire) | 5 |
 | [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
 | [Tower](#tower) | 16 |
 | [Undercroft](#undercroft) | 3 |
-| [Underground tunnel](#underground-tunnel) | 4 |
+| [Underground tunnel](#underground-tunnel) | 5 |
 <!-- index:end -->
 
 ---
@@ -141,7 +141,7 @@ Large buildings framed in cast or wrought iron and covered in glass, such as exh
 **Why it matters:** enormous iron and glass structures appeared around the world in a few decades and were often put up very quickly. Many were later demolished or burned.
 
 <!-- buildings:start -->
-**Buildings (10):**
+**Buildings (11):**
 
 - [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) – Germany
 - [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) – Germany
@@ -153,6 +153,7 @@ Large buildings framed in cast or wrought iron and covered in glass, such as exh
 - [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) – UK
 - [St Pancras Station and Midland Grand Hotel](places/uk/st-pancras/st-pancras.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
+- [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) – USA
 <!-- buildings:end -->
 
 ## Landscaped park
@@ -246,9 +247,10 @@ Statues or sculpture groups standing on a building's roofline, often figures fro
 **Why it matters:** the subjects chosen for rooftop sculpture can hint at what a building's makers valued or knew. Figures representing electricity or energy on 19th-century buildings are of particular interest to old world research.
 
 <!-- buildings:start -->
-**Buildings (1):**
+**Buildings (2):**
 
 - [Frankfurt (Main) Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) – Germany
+- [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) – USA
 <!-- buildings:end -->
 
 ## Rose window
@@ -353,12 +355,13 @@ A passage running underground from a building, for example to another building, 
 **Why it matters:** tunnels and hidden passages come up often in old world research. Where they go, who built them and when are often poorly recorded.
 
 <!-- buildings:start -->
-**Buildings (4):**
+**Buildings (5):**
 
 - [Anhalter Bahnhof](places/germany/anhalter-bahnhof/anhalter-bahnhof.md) – Germany
 - [Palm House, Kew Gardens](places/uk/palm-house-kew/palm-house-kew.md) – UK
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 - [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) – UK
+- [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) – USA
 <!-- buildings:end -->
 
 ## Barrel vault
@@ -380,11 +383,12 @@ A porch in the form of a temple front: a row of columns carrying a roof, often w
 **Why it matters:** in the 19th century, temple porticos with Corinthian or Ionic columns were put on town halls, assembly rooms, theatres, banks and museums across Britain, Europe, Russia and the Americas at the same time. That makes them a clear example of the [shared worldwide architecture](ALTERNATIVE-VIEW.md) theme, and of grand fronts on buildings in young or small towns.
 
 <!-- buildings:start -->
-**Buildings (3):**
+**Buildings (4):**
 
 - [Leeds Town Hall](places/uk/leeds-town-hall/leeds-town-hall.md) – UK
 - [Lyceum Theatre, Newport](places/uk/lyceum-theatre-newport/lyceum-theatre-newport.md) – UK
 - [St George's Hall, Liverpool](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) – UK
+- [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) – USA
 <!-- buildings:end -->
 
 ---
