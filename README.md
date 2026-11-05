@@ -29,8 +29,6 @@ These are some of the ideas that come up again and again when looking at old wor
 - **Missing or thin records.** Gaps in architects' records, construction photos, plans or costs.
 - **Old maps, photos and postcards.** Early images that show things the official story doesn't explain.
 
-The project also argues against itself: we still build mega-structures today, and design moves on with fashion. See [Arguing against ourselves](ALTERNATIVE-VIEW.md#arguing-against-ourselves).
-
 For where these ideas come from, how they apply to the buildings here, and **people to watch and read**, see [The alternative view](ALTERNATIVE-VIEW.md).
 
 ## Repository structure
