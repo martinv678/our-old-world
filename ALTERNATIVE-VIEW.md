@@ -24,6 +24,7 @@ This page explains the ideas behind the "alternative view" sections in this proj
 | **Shared architecture** | The same domes and styles appear on every continent at once | See the [glossary](GLOSSARY.md), for example Dome and Onion dome |
 | **Satan's Little Season** | The "thousand years" of Revelation 20 have already passed, and we now live in the short season that follows, a time of deception that explains the reset and the hidden history | A framework for the whole project rather than one building; see [below](#satans-little-season) |
 | **Letters in dates (the "J" argument)** | The first "1" in dates like 1255 was originally an **I** or **J** standing for Jesus, so history has been stretched by about 1,000 years | Date stones and inscriptions on buildings; see [below](#letters-in-dates-the-j-argument) |
+| **"Founded", not built** | Towns and buildings recorded as "founded" were really found, standing empty or "dead", and then occupied and claimed | [Palmanova](places/italy/palmanova/palmanova.md), [Leeds Town Hall](places/uk/leeds-town-hall/leeds-town-hall.md); see [below](#founded-not-built-the-found-dead-argument) |
 | **Sound and cymatics** | Rose windows match the patterns sound makes, and organs and bells turned buildings into instruments, suggesting the builders designed for sound | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) (rose window and bells), [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) (organ and echo); see [below](#sound-and-cymatics-the-resonance-argument) |
 | **Missing construction photographs** | Buildings in older styles have no photographs of being built, which suggests they're older than the records say | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md), [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md); see [below](#missing-construction-photographs-the-photo-record-argument) |
 | **Skill and precision** | So many complex buildings needed huge numbers of master craftsmen who got it right first time, without modern tools | [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md), [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md); see [below](#skill-and-precision-the-master-builders-argument) |
@@ -336,6 +337,48 @@ How the two can be tested:
 - **Compare measured acoustics with the organs and bells**: do the main resonances of a building match the pitch of its bells or the tuning of its organ?
 - **Check for acoustic jars or vessels** in the walls and vaults of the older buildings in this project.
 
+## "Founded", not built (the "found dead" argument)
+
+### The idea
+
+This is the owner's own argument. Histories often say a town, fortress or building was **"founded"** in a certain year, rather than that it was **"built"**. On this view, the word is a clue: "founded" really means **found**. The towns and buildings were found already standing, empty or "dead", their original builders and inhabitants gone, and were then occupied and claimed by newcomers, who recorded the date they took them over as the date of "foundation". This fits the wider [Tartaria](#the-main-ideas) and reset ideas: an older civilisation's cities and buildings, discovered after a catastrophe and repopulated, rather than built from scratch.
+
+### How it applies to this project
+
+For each building, look at the **exact words** used in the records and histories for its origin:
+
+- Is it said to have been **"founded"**, **"built"**, **"erected"**, **"constructed"**, **"raised"** or **"completed"**?
+- Is the "foundation" date the only date recorded, with no record of the building actually going up?
+- Is there a **foundation stone**, a ceremony, or a record of a site being cleared and dug?
+
+Examples in this project:
+
+- **[Palmanova](places/italy/palmanova/palmanova.md)** is recorded as **"founded"** by Venice on 7 October 1593, usually given as the day its first stone was laid, followed by the building of its first two rings of walls and its gates.
+- **[Leeds Town Hall](places/uk/leeds-town-hall/leeds-town-hall.md#out-of-place-as-if-discovered)** struck the owner as looking out of place, "as if it was discovered" rather than built.
+- **The Roman fortress at Caerleon** (see the [Lyceum, Newport](places/uk/lyceum-theatre-newport/lyceum-theatre-newport.md#a-small-parthenon-near-a-roman-fortress)) and **Liverpool** (see [St George's Hall](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md)) are described as "founded" in AD 75 and 1207.
+
+### What the words mean
+
+**Documented** (word history) – In English, two separate words are spelled "found", and a third is close to them:
+
+- **"found" meaning to establish** (as in "founded a town") comes, through Old French *fonder*, from the Latin *fundare*, "to lay the bottom or foundation", from *fundus*, "bottom". To found a town or a building originally meant to lay its foundations. "Foundation" and "foundation stone" come from the same word.
+- **"found" as the past tense of "find"** comes from the Old English *findan*. It is a different word that happens to look the same in modern English.
+- **"found" meaning to cast metal** (as in "foundry") comes from the Latin *fundere*, "to pour".
+
+The owner's argument links the first two. The usual view is that they are unrelated words that only look alike, and that "founded" was used because it described the start of the work: laying the foundations.
+
+### What critics say
+
+- **"Founded" is mostly used for towns and institutions, not buildings.** Cities, colleges, hospitals, companies and religious houses are "founded", because they are more than a single building: they are a community or organisation that starts on a given date. Individual buildings are usually said to be "built", "erected" or "begun".
+- **The foundation date is often the first stone.** Many towns and buildings have a recorded foundation ceremony, such as Palmanova's on 7 October 1593 or the laying of a foundation stone, followed by years of recorded building work.
+- **The words have different histories.** The two senses of "found" come from different roots, Latin and Old English, so the resemblance is a coincidence of modern spelling.
+
+### How to test it
+
+- **Look at the original-language records.** For Palmanova, the Venetian records are in Italian and Latin, where "founded" is *fondata* or *fundata*, which has nothing to do with "finding" (in Italian, "found" is *trovato*). If the "found" pun only works in English, it can't explain records written in other languages.
+- **Look for the building work after the "foundation".** If a town or building was "founded" and then has a record of years of building, workers, materials and costs, it was built; if the foundation date is followed by no record of building at all, that would support the argument.
+- **Check what stood on the site before the foundation date**, on maps and in excavations.
+
 ## People and places to watch
 
 A starting list for exploring the alternative view. The project doesn't endorse every claim these sources make: use them for leads and arguments, then check each claim against the evidence and label it (see [How to weigh what you watch](#how-to-weigh-what-you-watch)).
@@ -385,6 +428,9 @@ Knowing the strongest counter-arguments makes the alternative view sharper. Thes
 
 ## Sources
 
+- Online Etymology Dictionary – found (to establish): https://www.etymonline.com/word/found
+- Online Etymology Dictionary – find: https://www.etymonline.com/word/find
+- Online Etymology Dictionary – foundry: https://www.etymonline.com/word/foundry
 - Wikipedia – Cymatics (Hooke, Chladni and Jenny): https://en.wikipedia.org/wiki/Cymatics
 - Wikipedia – Rose window: https://en.wikipedia.org/wiki/Rose_window
 - History News Network – 500-year-old music code cracked: the Rosslyn Motet: https://www.historynewsnetwork.org/article/38297
