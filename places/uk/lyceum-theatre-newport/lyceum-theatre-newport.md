@@ -13,8 +13,8 @@
 | **Fires** | 27/28 May 1896: the Victoria Theatre gutted; the Lyceum was built inside its surviving walls |
 | **Features** | [Portico](../../../GLOSSARY.md#portico) |
 
-![Early postcard of Bridge Street, Newport, with the Queen's Hotel on the left and the Lyceum on the right, a classical building with giant columns, LYCEUM lettered on its pediment, and a domed shelter and horse-drawn cart in the street](images/bridge-street-postcard.jpg)
-*Postcard, "Bridge St, Newport", probably about 1900–1910 (after the Lyceum opened in 1897): the Lyceum on the right with its giant-columned portico and pediment lettered LYCEUM, the Queen's Hotel on the left. Supplied by the owner; this copy is from Arthur Lloyd's theatre history website (arthurlloyd.co.uk) and carries its watermark. The postcard itself is likely out of copyright, but permission for this scan, or a clean copy of the postcard, should be sought.*
+![Coloured postcard of the Lyceum Theatre, Newport: a classical building with six Corinthian columns on an arcaded ground floor, a pediment topped by a seated statue and the word LYCEUM, and a long side wall of arched windows](images/lyceum-coloured-postcard.jpg)
+*"Lyceum Theatre, Newport, Mon.", coloured postcard, probably about 1900–1910. Supplied by the owner; publisher and licence to be confirmed, though an image of this age is likely to be out of copyright.*
 
 ## Overview
 
@@ -62,7 +62,12 @@ The Roman connection is real and close:
 
 - **Roman Caerleon.** Caerleon, about 3 miles (5 km) north-east of Newport's centre on the same river, the Usk, was the Roman legionary fortress of *Isca Augusta*, founded in about AD 75 as a base of the Second Augustan Legion. Its amphitheatre, bath house and barracks can still be seen, and the National Roman Legion Museum is there (**Documented**).
 - **A Roman temple front.** The Lyceum's portico had six Corinthian columns. The Parthenon in Athens is a Greek temple with eight plainer Doric columns across its front, so in form the Lyceum was closer to a Roman temple such as the Maison Carrée at Nîmes, which also has six Corinthian columns across its front (**Documented** form).
-- **The statues.** The owner reports that the building was covered in Roman statues. In the owner's postcard of Bridge Street (see [Images](#images)), enlarged, a sculpted figure can be made out on the left-hand corner of the pediment, beside the LYCEUM lettering, and a row of ornaments (urns or finials) runs along the top of the side wall (**Observed**). At the size of this copy (800 pixels wide), the figure's subject can't be identified, and no other statues can be picked out. Their number, subjects, sculptor and date still need confirming from clearer photographs or records, and nothing is known so far about what happened to them when the building was demolished in 1961.
+- **The statues.** The owner reports that the building was covered in Roman statues. The images in this entry (see [Images](#images)) show what stood on the roof (**Observed**):
+  - **In 1874**, a print of the Victoria Hall shows three sculptures on the pediment: a robed female figure standing at the top, and a lion at each of the lower corners. In the middle of the pediment is a roundel, which may hold a monogram.
+  - **About 1900–1910**, a coloured postcard of the Lyceum shows a seated female figure at the top of the pediment, wearing a helmet or crown and holding a staff, much like the usual figure of **Britannia**, with a sculpted figure or beast at the left-hand corner beside the LYCEUM lettering. The roundel is still in the pediment.
+  - **Standing or seated?** The top figure appears to be standing in the 1874 print but seated in the later postcard. This could be the engraver's licence, or a sign that the statue was replaced after the fire of 1896. It's worth checking against other photographs (**Observed**; explanation not known).
+  - **The Roman link.** Britannia began as a Roman figure: the personification of the province of Britain on Roman coins of the 2nd century. So a Britannia on the roof is, in a sense, a Roman statue, though by the 19th century she was a national symbol.
+  - Beyond these three sculptures and the ornaments along the parapet, no other statues can be seen at the resolution of these images. Their sculptor, and what happened to them in 1961, are still unknown.
 - **The portico in the photograph.** The postcard shows the giant columns standing on an arcaded ground floor, rising through two storeys to a pediment, with a long side wall of arched windows and pilasters stretching down Bridge Street. A sign reading "EARLY DOORS", for the cheaper early entry to performances, hangs at street level (**Observed**).
 
 On the owner's view, a Roman-style temple full of Roman statues, a few miles from a real Roman fortress, raises the question of whether the building, or its site, had an older Roman connection than the records of 1867 suggest (**Speculative**).
@@ -81,7 +86,7 @@ Points to weigh up:
 
 ### A new theatre inside an old shell
 
-**Documented** (rebuilding) / **Speculative** (dating) – Because the Lyceum was built "within the exterior walls" of the older building, the building that stood until 1961 was partly of 1867 and partly of 1896–97. How much of the front was original, and how much was refaced by Sprague? This matters for any attempt to date the building from its photographs: the portico may be older than the theatre behind it.
+**Documented** (rebuilding) / **Speculative** (dating) – Because the Lyceum was built "within the exterior walls" of the older building, the building that stood until 1961 was partly of 1867 and partly of 1896–97. How much of the front was original, and how much was refaced by Sprague? This matters for any attempt to date the building from its photographs: the portico may be older than the theatre behind it. The owner's images now answer part of this: the print of 12 May 1874 and the postcard of about 1900–1910 show the same front, with six Corinthian columns on an arcaded ground floor, the same pediment roundel, the same side wall and the same urns, so the front of the 1867 Victoria Hall seems to have survived the 1896 fire and been kept by Sprague, with the LYCEUM lettering added and possibly a new statue on top (**Observed**).
 
 ### Demolished in the 1960s
 
@@ -89,7 +94,7 @@ Points to weigh up:
 
 ### Dates in dispute
 
-**Documented** (conflicting sources) – Sources give the building's origin as 1867, 1868, 1874 or 1876, and its demolition as 1961 or later. Some of this is because the building had several names (Victoria Assembly Rooms, Victoria Hall, Victoria Theatre, Lyceum), and some sources may mix it up with other buildings. Dates that don't agree are one of this project's themes, and here they should be settled from the *Illustrated London News* of 1868, local newspapers and the Coflein record.
+**Documented** (conflicting sources) – Sources give the building's origin as 1867, 1868, 1874 or 1876. The 1874 date can now be explained: the owner's print of the "Victoria Hall" is published by Rock & Co. of London and dated 12 May 1874, so it records the finished building in that year rather than its construction. Sources also give its demolition as 1961 or later. Some of this is because the building had several names (Victoria Assembly Rooms, Victoria Hall, Victoria Theatre, Lyceum), and some sources may mix it up with other buildings. Dates that don't agree are one of this project's themes, and here they should be settled from the *Illustrated London News* of 1868, local newspapers and the Coflein record.
 
 ### No construction images found
 
@@ -110,6 +115,8 @@ Points to weigh up:
 | Demolished in 1961 for later redevelopment | Coflein; histories | Documented | Coflein; Wales Online |
 | No construction images found | Searches so far | Observed | This project |
 | Sculpted figure on the pediment corner, visible in an early postcard | Owner-supplied postcard | Observed | Arthur Lloyd (via owner) |
+| Statue and two lions on the pediment already in 1874, before the fire | Dated print by Rock & Co., 12 May 1874 | Observed | Owner-supplied print |
+| Top statue standing in 1874 but seated (Britannia-like) about 1900–1910 | Print and later postcard | Observed | Owner-supplied images |
 | Roman-style temple front with Roman statues, about 3 miles from the Roman fortress at Caerleon | Owner's observation; Caerleon's Roman remains | Reported / Documented | Owner; Coflein; Museum Wales |
 
 ### Timeline check
@@ -165,7 +172,9 @@ Points to weigh up:
 - **The front:** Was the Corinthian portico of 1867 kept in the Lyceum, or rebuilt by Sprague?
 - **The demolition:** Was it demolished in 1961, or later? Was anything salvaged?
 - **Capacity:** Did it seat 1,250 or 1,150?
-- **The statues:** How many Roman statues were there, whom did they show, who carved them, and where did they go in 1961?
+- **The statues:** Who is the figure on top of the pediment (Britannia, Victoria, Minerva?), who carved it and the lions, and where did they go in 1961?
+- **Standing or seated?** Was the top statue replaced after the 1896 fire, or is the difference between the 1874 print and the later postcard just the engraver's licence?
+- **The roundel:** What is in the roundel in the pediment? Is it Henry Pearce Bolt's monogram, or the town's arms?
 - **Roman remains:** Has anything Roman ever been found on or near the site on Bridge Street?
 
 ## Leads to follow up
@@ -191,6 +200,18 @@ Points to weigh up:
 ## Images
 
 Click any image to enlarge it.
+
+![Coloured postcard of the Lyceum Theatre, Newport: a classical building with six Corinthian columns on an arcaded ground floor, a pediment topped by a seated statue and the word LYCEUM, and a long side wall of arched windows](images/lyceum-coloured-postcard.jpg)
+*"Lyceum Theatre, Newport, Mon.", coloured postcard, probably about 1900–1910. Six Corinthian columns stand on an arcaded ground floor with the entrance canopy and posters; the side wall has arched and round windows and a row of urns along the parapet; the pediment carries a roundel and, on top, a seated figure and the LYCEUM lettering. Supplied by the owner; publisher and licence to be confirmed, though an image of this age is likely to be out of copyright.*
+
+![Enlarged detail of the coloured postcard showing the top of the pediment, with a seated female figure wearing a helmet or crown and holding a staff, the word LYCEUM, a sculpted figure at the left-hand corner, and a roundel in the pediment](images/lyceum-postcard-roof-detail.jpg)
+*Detail of the coloured postcard: the seated figure on top of the pediment, much like Britannia, with the LYCEUM lettering and a sculpted figure or beast at the corner. See [A small Parthenon, near a Roman fortress](#a-small-parthenon-near-a-roman-fortress).*
+
+![Print titled Victoria Hall showing the building with six Corinthian columns, a pediment with a standing statue on top and a lion at each corner, carriages and people in front](images/victoria-hall-print-1874.jpg)
+*"Victoria Hall", print published by Rock & Co., London, dated 12 May 1874: the building before the fire of 1896, already with its portico, its statue and lions on the pediment, and the urns along the side. Supplied by the owner; publisher and licence to be confirmed, though an image of this age is likely to be out of copyright.*
+
+![Enlarged detail of the 1874 print showing a robed figure standing on top of the pediment, a lion at each lower corner, and a roundel in the pediment](images/victoria-hall-1874-roof-detail.jpg)
+*Detail of the 1874 print: a standing robed figure on top, a lion at each corner, and a roundel in the pediment.*
 
 ![Early postcard of Bridge Street, Newport, with the Queen's Hotel on the left and the Lyceum on the right, a classical building with giant columns, LYCEUM lettered on its pediment, and a domed shelter and horse-drawn cart in the street](images/bridge-street-postcard.jpg)
 *Postcard, "Bridge St, Newport", probably about 1900–1910. On the right, the Lyceum: giant Corinthian columns on an arcaded ground floor, a pediment lettered LYCEUM, and a long side wall down Bridge Street with an "EARLY DOORS" sign. On the left, the Queen's Hotel; in the street, a domed shelter, a horse-drawn cart and passers-by. Supplied by the owner; this copy is from Arthur Lloyd's theatre history website (arthurlloyd.co.uk) and carries its watermark. The postcard itself is likely out of copyright, but permission for this scan, or a clean copy of the postcard, should be sought.*
