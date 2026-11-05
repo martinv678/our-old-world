@@ -30,7 +30,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 <!-- media:start -->
 
-55 images from 11 buildings.
+56 images from 11 buildings.
 
 ### Australia
 
@@ -146,7 +146,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 </div>
 
-#### [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) (8)
+#### [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) (9)
 
 <div class="media-grid" markdown>
 
@@ -154,10 +154,13 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 *Manchester Town Hall from Albert Square, with the Albert Memorial on the left. Supplied by the owner from Wikipedia (Wikimedia Commons); photographer and licence to be confirmed.*
 
 ![Early black-and-white photograph of Manchester Town Hall with its clock tower, seen across an almost empty Albert Square, with the Albert Memorial on the right](places/uk/manchester-town-hall/images/albert-square-early-photo.jpg)
-*An early photograph of the finished Town Hall, probably late 1870s or 1880s (date not confirmed). Albert Square is almost empty: there are none of the statues that now stand in it, and hardly any people can be seen, which fits the long exposure times of the period (see the Tower Bridge discussion). The street level along the front looks much as it does today. The clock faces appear to have no hands (see A clock without hands). Supplied by the owner; photographer, source and licence to be confirmed.*
+*An early photograph of the finished Town Hall, probably late 1870s or 1880s (date not confirmed). Albert Square is almost empty: there are none of the statues that now stand in it, and hardly any people can be seen. Long exposure is the usual explanation, but there are reasons to doubt it here (see An empty square). The street level along the front looks much as it does today. The clock faces appear to have no hands (see A clock without hands). Supplied by the owner; photographer, source and licence to be confirmed.*
 
 ![Sepia photograph of the newly finished Manchester Town Hall across an empty, unpaved Albert Square, with the Albert Memorial on the right and two clock faces on the tower that have numerals but no hands](places/uk/manchester-town-hall/images/clock-without-hands.jpg)
 *The Town Hall across an empty Albert Square, with the Albert Memorial on the right. A sharper print of what seems to be the same view as the photograph above. Both clock faces show numerals but **no hands**. Probably about 1877 (not confirmed). Supplied by the owner; photographer, source and licence to be confirmed.*
+
+![Enlarged strip of the street in front of the Town Hall, showing railings, gas lamps, the main porch and a single man standing sharply by the steps, with the square empty](places/uk/manchester-town-hall/images/empty-square-detail.jpg)
+*Detail of the photograph above, enlarged: the pavement and the main porch. One man stands by the steps, sharply recorded, and there are no blurred figures or vehicle streaks anywhere in the square. See An empty square.*
 
 ![The Great Hall of Manchester Town Hall, with a hammerbeam roof painted with coats of arms, chandeliers, the organ case at the far end, a white statue and murals on the side walls](places/uk/manchester-town-hall/images/great-hall.jpg)
 *The Great Hall, with its painted hammerbeam roof, Ford Madox Brown's murals on the side walls, and the organ at the far end. The organ was built in 1877 by the French maker Aristide Cavaillé-Coll, the only Cavaillé-Coll organ in the UK; it is being restored (see Sound and cymatics). Supplied by the owner from Wikipedia (Wikimedia Commons); photographer and licence to be confirmed.*
