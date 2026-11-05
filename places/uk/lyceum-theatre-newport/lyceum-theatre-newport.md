@@ -66,6 +66,7 @@ The Roman connection is real and close:
   - **In 1874**, a print of the Victoria Hall shows three sculptures on the pediment: a robed female figure standing at the top, and a lion at each of the lower corners. In the middle of the pediment is a roundel, which may hold a monogram.
   - **About 1900–1910**, a coloured postcard of the Lyceum shows a seated female figure at the top of the pediment, wearing a helmet or crown and holding a staff, much like the usual figure of **Britannia**, with a sculpted figure or beast at the left-hand corner beside the LYCEUM lettering. The roundel is still in the pediment.
   - **Standing or seated?** The top figure appears to be standing in the 1874 print but seated in the later postcard. This could be the engraver's licence, or a sign that the statue was replaced after the fire of 1896. It's worth checking against other photographs (**Observed**; explanation not known).
+  - **Victoria, or someone else?** The statue on top is said to have been **Queen Victoria** (**Reported**), which would suit a building named the Victoria Hall. The owner doubts it, because a later close-up photograph shows the figure so weathered and defaced that it can't be identified for certain. In that photograph (see [Images](#images)), probably taken in the mid-20th century, the seated figure has lost most of its face; it has wavy hair with no clear crown, a bare right arm resting on a block, and robes falling over its seat, and its pedestal is carved with two worn faces, possibly theatrical masks (**Observed**). A bare arm and loose hair are more usual for a classical goddess or Britannia than for portraits of Queen Victoria, who was normally shown crowned or veiled and fully dressed, but the weathering is too severe to be sure either way (**Speculative**).
   - **The Roman link.** Britannia began as a Roman figure: the personification of the province of Britain on Roman coins of the 2nd century. So a Britannia on the roof is, in a sense, a Roman statue, though by the 19th century she was a national symbol.
   - Beyond these three sculptures and the ornaments along the parapet, no other statues can be seen at the resolution of these images. Their sculptor, and what happened to them in 1961, are still unknown.
 - **The portico in the photograph.** The postcard shows the giant columns standing on an arcaded ground floor, rising through two storeys to a pediment, with a long side wall of arched windows and pilasters stretching down Bridge Street. A sign reading "EARLY DOORS", for the cheaper early entry to performances, hangs at street level (**Observed**).
@@ -117,6 +118,7 @@ Points to weigh up:
 | Sculpted figure on the pediment corner, visible in an early postcard | Owner-supplied postcard | Observed | Arthur Lloyd (via owner) |
 | Statue and two lions on the pediment already in 1874, before the fire | Dated print by Rock & Co., 12 May 1874 | Observed | Owner-supplied print |
 | Top statue standing in 1874 but seated (Britannia-like) about 1900–1910 | Print and later postcard | Observed | Owner-supplied images |
+| Top statue said to be Queen Victoria, but too weathered to identify | Mid-20th-century close-up photograph | Reported / Observed | Owner-supplied photograph |
 | Roman-style temple front with Roman statues, about 3 miles from the Roman fortress at Caerleon | Owner's observation; Caerleon's Roman remains | Reported / Documented | Owner; Coflein; Museum Wales |
 
 ### Timeline check
@@ -172,7 +174,8 @@ Points to weigh up:
 - **The front:** Was the Corinthian portico of 1867 kept in the Lyceum, or rebuilt by Sprague?
 - **The demolition:** Was it demolished in 1961, or later? Was anything salvaged?
 - **Capacity:** Did it seat 1,250 or 1,150?
-- **The statues:** Who is the figure on top of the pediment (Britannia, Victoria, Minerva?), who carved it and the lions, and where did they go in 1961?
+- **The statues:** Who is the figure on top of the pediment: Queen Victoria, as is said, or Britannia or a classical goddess? Who carved it and the lions, and where did they go in 1961?
+- **The close-up photograph:** When and why was it taken (an inspection before demolition?), and who published it? The source, perhaps a local newspaper such as the *South Wales Argus*, would date it.
 - **Standing or seated?** Was the top statue replaced after the 1896 fire, or is the difference between the 1874 print and the later postcard just the engraver's licence?
 - **The roundel:** What is in the roundel in the pediment? Is it Henry Pearce Bolt's monogram, or the town's arms?
 - **Roman remains:** Has anything Roman ever been found on or near the site on Bridge Street?
@@ -195,6 +198,8 @@ Points to weigh up:
 
 <!-- Owner's notes: add observations, hunches and links here. Claude reads this section first and doesn't remove it. -->
 
+- Owner's observation: the statue on the roof is supposedly Queen Victoria, but it is so weathered and defaced that this can't be said for sure. See [A small Parthenon, near a Roman fortress](#a-small-parthenon-near-a-roman-fortress).
+
 - Owner's observation: the Lyceum was essentially a mini Parthenon in Newport, covered in Roman statues, with the Romans also found in neighbouring Caerleon. See [A small Parthenon, near a Roman fortress](#a-small-parthenon-near-a-roman-fortress).
 
 ## Images
@@ -206,6 +211,9 @@ Click any image to enlarge it.
 
 ![Enlarged detail of the coloured postcard showing the top of the pediment, with a seated female figure wearing a helmet or crown and holding a staff, the word LYCEUM, a sculpted figure at the left-hand corner, and a roundel in the pediment](images/lyceum-postcard-roof-detail.jpg)
 *Detail of the coloured postcard: the seated figure on top of the pediment, much like Britannia, with the LYCEUM lettering and a sculpted figure or beast at the corner. See [A small Parthenon, near a Roman fortress](#a-small-parthenon-near-a-roman-fortress).*
+
+![Black-and-white photograph of a badly weathered seated stone statue on a carved pedestal, its face worn away, with a man in a hat and suit looking up at it from scaffolding](images/roof-statue-mid-20th-century.jpg)
+*The statue from the top of the pediment, close up, probably mid-20th century (date and photographer to be confirmed; perhaps taken for a newspaper before the demolition of 1961). A man on scaffolding inspects the figure, which is badly weathered: its face is almost gone, it has wavy hair, a bare right arm on a block and falling robes, and its pedestal carries two worn carved faces, possibly theatrical masks. It is said to be Queen Victoria, but the owner doubts this can be confirmed from its condition. Supplied by the owner; source and licence to be confirmed.*
 
 ![Print titled Victoria Hall showing the building with six Corinthian columns, a pediment with a standing statue on top and a lion at each corner, carriages and people in front](images/victoria-hall-print-1874.jpg)
 *"Victoria Hall", print published by Rock & Co., London, dated 12 May 1874: the building before the fire of 1896, already with its portico, its statue and lions on the pediment, and the urns along the side. Supplied by the owner; publisher and licence to be confirmed, though an image of this age is likely to be out of copyright.*
