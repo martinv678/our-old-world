@@ -13,7 +13,8 @@
 | **Fires** | 27/28 May 1896: the Victoria Theatre gutted; the Lyceum was built inside its surviving walls |
 | **Features** | [Portico](../../../GLOSSARY.md#portico) |
 
-*Images to be added by the owner.*
+![Early postcard of Bridge Street, Newport, with the Queen's Hotel on the left and the Lyceum on the right, a classical building with giant columns, LYCEUM lettered on its pediment, and a domed shelter and horse-drawn cart in the street](images/bridge-street-postcard.jpg)
+*Postcard, "Bridge St, Newport", probably about 1900–1910 (after the Lyceum opened in 1897): the Lyceum on the right with its giant-columned portico and pediment lettered LYCEUM, the Queen's Hotel on the left. Supplied by the owner; this copy is from Arthur Lloyd's theatre history website (arthurlloyd.co.uk) and carries its watermark. The postcard itself is likely out of copyright, but permission for this scan, or a clean copy of the postcard, should be sought.*
 
 ## Overview
 
@@ -61,7 +62,8 @@ The Roman connection is real and close:
 
 - **Roman Caerleon.** Caerleon, about 3 miles (5 km) north-east of Newport's centre on the same river, the Usk, was the Roman legionary fortress of *Isca Augusta*, founded in about AD 75 as a base of the Second Augustan Legion. Its amphitheatre, bath house and barracks can still be seen, and the National Roman Legion Museum is there (**Documented**).
 - **A Roman temple front.** The Lyceum's portico had six Corinthian columns. The Parthenon in Athens is a Greek temple with eight plainer Doric columns across its front, so in form the Lyceum was closer to a Roman temple such as the Maison Carrée at Nîmes, which also has six Corinthian columns across its front (**Documented** form).
-- **The statues.** The owner reports that the building was covered in Roman statues. Their number, subjects, sculptor and date haven't yet been confirmed from photographs or records, and nothing is known so far about what happened to them when the building was demolished in 1961.
+- **The statues.** The owner reports that the building was covered in Roman statues. In the owner's postcard of Bridge Street (see [Images](#images)), enlarged, a sculpted figure can be made out on the left-hand corner of the pediment, beside the LYCEUM lettering, and a row of ornaments (urns or finials) runs along the top of the side wall (**Observed**). At the size of this copy (800 pixels wide), the figure's subject can't be identified, and no other statues can be picked out. Their number, subjects, sculptor and date still need confirming from clearer photographs or records, and nothing is known so far about what happened to them when the building was demolished in 1961.
+- **The portico in the photograph.** The postcard shows the giant columns standing on an arcaded ground floor, rising through two storeys to a pediment, with a long side wall of arched windows and pilasters stretching down Bridge Street. A sign reading "EARLY DOORS", for the cheaper early entry to performances, hangs at street level (**Observed**).
 
 On the owner's view, a Roman-style temple full of Roman statues, a few miles from a real Roman fortress, raises the question of whether the building, or its site, had an older Roman connection than the records of 1867 suggest (**Speculative**).
 
@@ -107,6 +109,7 @@ Points to weigh up:
 | Origin dated 1867, 1868, 1874 or 1876 | Sources disagree | Documented | Coflein; Cinema Treasures; Newport Past |
 | Demolished in 1961 for later redevelopment | Coflein; histories | Documented | Coflein; Wales Online |
 | No construction images found | Searches so far | Observed | This project |
+| Sculpted figure on the pediment corner, visible in an early postcard | Owner-supplied postcard | Observed | Arthur Lloyd (via owner) |
 | Roman-style temple front with Roman statues, about 3 miles from the Roman fortress at Caerleon | Owner's observation; Caerleon's Roman remains | Reported / Documented | Owner; Coflein; Museum Wales |
 
 ### Timeline check
@@ -187,10 +190,20 @@ Points to weigh up:
 
 ## Images
 
-Images will be added by the owner. The most useful for this entry would be:
+Click any image to enlarge it.
+
+![Early postcard of Bridge Street, Newport, with the Queen's Hotel on the left and the Lyceum on the right, a classical building with giant columns, LYCEUM lettered on its pediment, and a domed shelter and horse-drawn cart in the street](images/bridge-street-postcard.jpg)
+*Postcard, "Bridge St, Newport", probably about 1900–1910. On the right, the Lyceum: giant Corinthian columns on an arcaded ground floor, a pediment lettered LYCEUM, and a long side wall down Bridge Street with an "EARLY DOORS" sign. On the left, the Queen's Hotel; in the street, a domed shelter, a horse-drawn cart and passers-by. Supplied by the owner; this copy is from Arthur Lloyd's theatre history website (arthurlloyd.co.uk) and carries its watermark. The postcard itself is likely out of copyright, but permission for this scan, or a clean copy of the postcard, should be sought.*
+
+![Enlarged detail of the postcard showing the Lyceum's pediment with a sculpted figure at its left-hand corner beside the word LYCEUM, the tall columns of the portico, and urn-shaped ornaments along the top of the side wall](images/bridge-street-postcard-portico-detail.jpg)
+*Detail of the postcard above, enlarged three times: a sculpted figure stands on the left-hand corner of the pediment beside the LYCEUM lettering, and ornaments run along the top of the side wall. At this resolution the figure can't be identified. See [A small Parthenon, near a Roman fortress](#a-small-parthenon-near-a-roman-fortress).*
+
+**No construction images.** This postcard shows the finished Lyceum; no image of either building being built has been found.
+
+Other images that would be useful:
 
 - the **1868 engraving** of the Victoria Assembly Rooms from the *Illustrated London News*
-- **photographs of the Lyceum** and its Corinthian portico, before 1961, especially close-ups of the **Roman statues**
+- **clearer photographs** of the portico, especially close-ups of the **statues**
 - any image of the **1896 fire** or its aftermath
 - **photographs of the demolition** in 1961
 - the **site today**
