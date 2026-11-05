@@ -4,7 +4,7 @@ Pre-1900 buildings and places to research for the project, grouped by region. �
 
 Dates are approximate starting points, so check them when researching. "Begun" means the building was started before 1900 but finished later.
 
-**Progress: 31 of 139 done.**
+**Progress: 32 of 140 done.**
 
 ## United Kingdom and Ireland
 
@@ -32,6 +32,7 @@ Dates are approximate starting points, so check them when researching. "Begun" m
 | ⬜ | Leeds Corn Exchange | Leeds | 1861–63 | Brodrick's domed oval trading hall |
 | ⬜ | Grand Hotel | Scarborough | 1863–67 | Brodrick's giant seaside hotel |
 | ✅ | [Lyceum Theatre](../places/uk/lyceum-theatre-newport/lyceum-theatre-newport.md) | Newport, Wales | c. 1867; rebuilt 1896–97 | Corinthian portico; gutted by fire 1896; demolished 1961 |
+| ✅ | [All Saints Church](../places/uk/all-saints-marlow/all-saints-marlow.md) | Marlow, Buckinghamshire | Rebuilt 1832–35; spire 1898–99 | A "J" date inside; chequerboard on the side |
 | ⬜ | Albert Memorial | London | 1864–76 | Gothic canopy over a gilded statue, facing the Albert Hall |
 | ⬜ | Birmingham Town Hall | Birmingham | 1832–34 | Roman-temple concert hall on a high base |
 | ⬜ | Forth Bridge | Firth of Forth, Scotland | 1882–90 | Giant steel cantilever bridge by Tower Bridge's steel contractor |

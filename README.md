@@ -65,7 +65,7 @@ The town or city goes in the details table at the top of each entry, not in the 
 Every building, grouped by type. A building can appear under more than one type (for example a station that is also a hotel). This list is generated automatically from each entry's **Type** row, so there's no need to edit it by hand.
 
 <!-- catalogue:start -->
-**Jump to:** [Bridge](#bridge) (1) · [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Concert hall](#concert-hall) (2) · [Exhibition hall](#exhibition-hall) (5) · [Glasshouse](#glasshouse) (1) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Law court](#law-court) (2) · [Monument](#monument) (1) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Theatre](#theatre) (1) · [Town hall](#town-hall) (2) · [Villa](#villa) (2)
+**Jump to:** [Bridge](#bridge) (1) · [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Church](#church) (1) · [Concert hall](#concert-hall) (2) · [Exhibition hall](#exhibition-hall) (5) · [Glasshouse](#glasshouse) (1) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Law court](#law-court) (2) · [Monument](#monument) (1) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (4) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Theatre](#theatre) (1) · [Town hall](#town-hall) (2) · [Villa](#villa) (2)
 
 ### Bridge
 
@@ -92,6 +92,12 @@ Every building, grouped by type. A building can appear under more than one type 
 |---|---|---|---|
 | [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) | Germany | Begun 1248; work stopped 1473; resumed 1842; completed 1880 | In use |
 | [Saint Isaac's Cathedral](places/russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) | Russia | 1818–1858 | Museum, with church services held |
+
+### Church
+
+| Building | Country | Built | Status |
+|---|---|---|---|
+| [All Saints Church, Marlow](places/uk/all-saints-marlow/all-saints-marlow.md) | UK | Medieval church on the site; rebuilt 1832–1835; chancel 1875–1876; nave remodelled 1881–1882; tower and spire rebuilt 1898–1899 | In use as the parish church. Grade II* listed |
 
 ### Concert hall
 

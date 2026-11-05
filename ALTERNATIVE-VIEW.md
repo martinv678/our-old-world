@@ -208,13 +208,14 @@ For every building, the **Records audit** should say whether construction photog
 
 ### The photo record so far
 
-All 31 entries have now been checked (November 2026), using online catalogues and search. "None found" means none was found online; the archives listed in each entry haven't been searched in person.
+All 32 entries have now been checked (November 2026), using online catalogues and search. "None found" means none was found online; the archives listed in each entry haven't been searched in person.
 
 | Building | Built | Style | Construction images found |
 |---|---|---|---|
 | [Palmanova](places/italy/palmanova/palmanova.md) | 1593 onwards | Renaissance star fort | **Before photography**: plans and engravings only |
 | [Royal Pavilion](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) | 1815–23 | Indian-style exterior | **Before photography**: drawings and prints only |
 | [Saint Isaac's Cathedral](places/russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) | 1818–58 | Neoclassical | **Lithographs, yes**: Montferrand's own album shows the columns being raised and the building in scaffolding (1845). The earliest photograph found is from August 1856, near completion |
+| [All Saints Church, Marlow](places/uk/all-saints-marlow/all-saints-marlow.md) | 1832–35; spire 1898–99 | Gothic Revival | **Design drawings** for 1832 (RIBA; shown at the Royal Academy), before photography; no photographs found of the 1898–99 spire rebuilding |
 | [Palace of Westminster](places/uk/palace-of-westminster/palace-of-westminster.md) | c. 1840–70 | Gothic Revival | **Some**: Roger Fenton's view of about 1857 shows the palace under construction behind Westminster Abbey |
 | [St George's Hall, Liverpool](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) | 1841–54 | Neoclassical | **None found** so far |
 | [Scott Monument](places/uk/scott-monument/scott-monument.md) | 1840–44 | Gothic Revival | **Yes**: David Octavius Hill and Robert Adamson photographed it at almost every stage in 1843–44, and Fox Talbot photographed it near completion in October 1844: among the earliest construction photographs anywhere |

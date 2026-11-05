@@ -25,10 +25,10 @@ The building lists and the index below are generated automatically from the **Fe
 | [Raised streets](#raised-streets) | 1 |
 | [Rooftop sculpture](#rooftop-sculpture) | 1 |
 | [Rose window](#rose-window) | 1 |
-| [Spire](#spire) | 4 |
+| [Spire](#spire) | 5 |
 | [Star fort](#star-fort) | 2 |
 | [Stucco decoration](#stucco-decoration) | 2 |
-| [Tower](#tower) | 15 |
+| [Tower](#tower) | 16 |
 | [Undercroft](#undercroft) | 3 |
 | [Underground tunnel](#underground-tunnel) | 4 |
 <!-- index:end -->
@@ -270,9 +270,10 @@ A tall, tapering pointed structure on top of a tower or roof, typical of Gothic 
 **Why it matters:** spires appear in very similar forms around the world. Some theories link spires and towers to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (4):**
+**Buildings (5):**
 
 - [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
+- [All Saints Church, Marlow](places/uk/all-saints-marlow/all-saints-marlow.md) – UK
 - [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) – UK
 - [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md) – UK
 - [Scott Monument](places/uk/scott-monument/scott-monument.md) – UK
@@ -311,13 +312,14 @@ A tall structure rising above the main body of a building, whether square, round
 **Why it matters:** towers and spires are common in old world architecture. Some theories link them to lost energy or communication technology.
 
 <!-- buildings:start -->
-**Buildings (15):**
+**Buildings (16):**
 
 - [Palais du Trocadéro](places/france/palais-du-trocadero/palais-du-trocadero.md) – France
 - [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) – Germany
 - [Rocchetta Mattei](places/italy/rocchetta-mattei/rocchetta-mattei.md) – Italy
 - [Villa Crespi](places/italy/villa-crespi/villa-crespi.md) – Italy
 - [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) – UK
+- [All Saints Church, Marlow](places/uk/all-saints-marlow/all-saints-marlow.md) – UK
 - [Leeds Town Hall](places/uk/leeds-town-hall/leeds-town-hall.md) – UK
 - [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md) – UK
 - [Natural History Museum](places/uk/natural-history-museum/natural-history-museum.md) – UK
