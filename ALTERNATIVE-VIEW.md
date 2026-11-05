@@ -379,6 +379,49 @@ The owner's argument links the first two. The usual view is that they are unrela
 - **Look for the building work after the "foundation".** If a town or building was "founded" and then has a record of years of building, workers, materials and costs, it was built; if the foundation date is followed by no record of building at all, that would support the argument.
 - **Check what stood on the site before the foundation date**, on maps and in excavations.
 
+## Arguing against ourselves
+
+The owner wants the project to argue against its own case as well as for it, so that the alternative view is tested honestly. Two of the owner's own counter-arguments apply to almost every theme in this project.
+
+### 1. We still build mega-structures today
+
+The scale of the old buildings is often taken as a sign that they were beyond the people of their time. But huge buildings are still being built, quickly, and some of them by hand:
+
+- **The Burj Khalifa** in Dubai, 828 m tall, was built in about six years (2004–2010), with modern machinery, steel and concrete.
+- **The Neasden Temple** (BAPS Shri Swaminarayan Mandir) in north London was built of hand-carved Bulgarian limestone and Italian marble, carved by about 1,500 craftsmen in India into some 26,300 pieces, shipped to London and assembled like a jigsaw without a steel or concrete frame. Its first stone was laid in June 1993 and it opened in 1995. This is traditional carved masonry, on a large scale, done by hand within living memory.
+- **Liverpool Cathedral**, a huge Gothic cathedral designed by Giles Gilbert Scott, was built between 1904 and 1978, slowed by two world wars and shortages of skilled men, materials and money, and its building is recorded in photographs.
+
+What this means for the themes:
+
+- **[Materials and delivery](#materials-and-delivery-the-logistics-argument):** large quantities of stone and brick can be cut, carried and assembled with the right organisation, whether by Victorian barges and railways or by modern shipping.
+- **[Skill and precision](#skill-and-precision-the-master-builders-argument):** the Neasden Temple shows that hand-carving thousands of precise stone pieces, and fitting them together, is still possible when there is the will and the money to train and employ the craftsmen.
+- **[Missing construction photographs](#missing-construction-photographs-the-photo-record-argument):** Liverpool Cathedral is a Gothic building with a full photographic record of its building, which shows that a medieval style is no barrier to being photographed.
+- **[Impossible timelines](#the-main-ideas):** buildings put up in a few years with good organisation are normal; Liverpool Cathedral shows a hand-built Gothic building can also take three-quarters of a century.
+
+### 2. Design moves on with fashion
+
+The owner's second counter-argument is that styles change. We don't build like the Victorians today not because we can't, but because architectural fashion, costs and values have moved on:
+
+- **The revival styles were themselves a fashion.** The Gothic, Romanesque, Greek and Roman buildings of the 19th century were deliberate revivals: architects studied, measured and copied older buildings, and published pattern books and drawings that spread the same forms across Europe, the Americas and the British Empire. That alone explains why so many 19th-century buildings **look older than they are**, and why the **same styles appear in many countries at once**.
+- **Ornament fell out of fashion.** From the early 20th century, modern architects argued against decoration. The Austrian architect Adolf Loos, in his lecture "Ornament and Crime" (given in 1910; often dated 1908), argued that ornament wasted craftsmen's labour, materials and money. After the First World War, craft labour became expensive while steel, concrete and glass became cheap, and plain modern buildings took over.
+- **The skills declined because they weren't used.** Fewer carvers, masons and plasterers were trained once there was less demand for their work. That decline is recorded, and the craft revives wherever there is demand, as at the Neasden Temple.
+
+What this means for the themes:
+
+- **[Tartaria and an older civilisation](#the-main-ideas):** a building can look ancient because it was designed to, as [Tower Bridge](places/uk/tower-bridge/tower-bridge.md#a-steel-bridge-in-medieval-clothes) was, and as the classical [St George's Hall](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md#built-like-the-romans) was.
+- **[Shared worldwide architecture](#the-main-ideas):** the same styles appear everywhere at once because the same fashion, the same pattern books and the same architectural schools spread across the world, not necessarily because of one lost civilisation.
+- **Out-of-place buildings:** a grand building in a small or young town was often a deliberate statement of local pride, built to the fashion of the day.
+
+### What these counter-arguments don't settle
+
+The counter-arguments explain the *general* pattern, but they don't answer every *specific* question raised in the entries. For example:
+
+- why no construction photographs have been found for particular buildings, such as the [Royal Courts of Justice](places/uk/royal-courts-of-justice/royal-courts-of-justice.md#no-construction-photographs-found), when their neighbours were photographed
+- why particular records are missing, contradictory or "rediscovered", such as the drawings found in the basement of [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md)
+- particular inscriptions, such as the ["J722" ledger stone](places/uk/all-saints-marlow/all-saints-marlow.md#a-j-date-inside-the-church) at Marlow
+
+Those still need to be checked one by one, in the records. The project's approach is to put the strongest case on both sides, label the evidence honestly, and let the specific evidence decide.
+
 ## People and places to watch
 
 A starting list for exploring the alternative view. The project doesn't endorse every claim these sources make: use them for leads and arguments, then check each claim against the evidence and label it (see [How to weigh what you watch](#how-to-weigh-what-you-watch)).
@@ -428,6 +471,11 @@ Knowing the strongest counter-arguments makes the alternative view sharper. Thes
 
 ## Sources
 
+- Dezeen – Neasden Temple is built from over 5,000 tonnes of hand-carved stone: https://www.dezeen.com/?p=1569152
+- Londonist – In photos: the Neasden Temple: https://londonist.com/london/art-and-photography/neasden-temple-baps-swaminarayan-mandir-photos
+- Wikipedia – Liverpool Cathedral: https://en.wikipedia.org/wiki/Liverpool_Cathedral
+- Wikipedia – Burj Khalifa: https://en.wikipedia.org/wiki/Burj_Khalifa
+- Modernism in Architecture – Ornament and Crime (1910): https://modernism-in-architecture.org/facts/ornament-and-crime-ornament-und-verbrechen-1910/
 - Online Etymology Dictionary – found (to establish): https://www.etymonline.com/word/found
 - Online Etymology Dictionary – find: https://www.etymonline.com/word/find
 - Online Etymology Dictionary – foundry: https://www.etymonline.com/word/foundry

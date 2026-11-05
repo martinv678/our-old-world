@@ -19,6 +19,7 @@ The aim is to give the alternative view **real depth**: not a token paragraph, b
 - Present the alternative view in its strongest form, then show what would confirm or undermine it.
 - Never invent evidence, sources, quotes or figures. If something is a hunch, label it as one.
 - Use the evidence labels in section 6 on every anomaly.
+- Test each building against the owner's own counter-arguments too: that we still build mega-structures today, and that architectural design moves on with fashion. See [Arguing against ourselves](ALTERNATIVE-VIEW.md#arguing-against-ourselves).
 
 ## 3. Theories and themes to test ✏️
 
