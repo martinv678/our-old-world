@@ -30,7 +30,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 <!-- media:start -->
 
-75 images from 13 buildings.
+79 images from 13 buildings.
 
 ### Australia
 
@@ -325,21 +325,33 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 </div>
 
-#### [United States Capitol](places/usa/united-states-capitol/united-states-capitol.md) (4)
+#### [United States Capitol](places/usa/united-states-capitol/united-states-capitol.md) (8)
 
 <div class="media-grid" markdown>
 
-![Early photograph of the Capitol's east front, with its low ribbed dome, central portico with columns, two smaller domes on the wings, steps and young trees in the foreground](places/usa/united-states-capitol/images/plumbe-1846.jpg)
-*The east front in about 1846, with Bulfinch's low dome: the earliest known photograph of the Capitol. Daguerreotype by John Plumbe; Library of Congress (cph.3g03595), via Wikimedia Commons. Public domain.*
+![The west front of the Capitol seen from above the Mall: the white dome topped by the Statue of Freedom, the long marble wings on either side, terraces and steps, and lawns and flower beds in front](places/usa/united-states-capitol/images/west-front-1997.jpg)
+*The west front of the Capitol today, with the dome, the marble wings of 1851–1868 and Olmsted's terraces. Architect of the Capitol, 1997, via Wikimedia Commons. Public domain.*
+
+![Thornton's design drawing of the Capitol's east front: a long two-storey classical building with a central pedimented portico and a low dome](places/usa/united-states-capitol/images/thornton-elevation-1793.jpg)
+*William Thornton's east elevation, with a low dome: ink, watercolour and graphite, about 1793. Library of Congress (LCCN 92519533), via Wikimedia Commons. Public domain.*
+
+![Daguerreotype of the Capitol's east front in about 1846, with the low ribbed dome on a drum, the central portico, smaller domes over the two wings, and a fountain and young trees in front](places/usa/united-states-capitol/images/plumbe-1846.jpg)
+*The east front in about 1846, before the extension and the iron dome. Bulfinch's low dome of wood and copper is in the centre, and the sandstone east portico, whose columns now stand at the National Arboretum, is below it. Daguerreotype by John Plumbe; Library of Congress (cph.3g03595), via Wikimedia Commons. Public domain.*
 
 ![Watercolour of the burned Capitol in 1814: two pale stone wings with blackened, empty windows, joined by a low brick wall where the centre section had not yet been built, with figures and rubble on the grass in front](places/usa/united-states-capitol/images/after-burning-1814.jpg)
-*"U.S. Capitol after burning by the British", watercolour by George Munger, 1814. The two wings stand as shells with burned-out windows, and the space between them, where the Rotunda would later go, is only a temporary wooden and brick passage. Library of Congress (LCCN 2004662324), via Wikimedia Commons. Public domain.*
+*"U.S. Capitol after burning by the British", watercolour by George Munger, 1814. The two wings stand as shells with burned-out windows, and the centre section between them, where the Rotunda would later go, had not yet been built. Library of Congress (LCCN 2004662324), via Wikimedia Commons. Public domain.*
 
 ![Photograph of the Capitol in about 1860 with the new dome half built: the columned drum complete, the iron ribs of the upper dome rising in an open cage, and a tall crane on top, behind a line of trees](places/usa/united-states-capitol/images/dome-construction-1860.jpg)
 *The new dome under construction, about 1860: the drum and its columns are up, the iron ribs of the upper dome are being raised, and a crane stands at the top. Library of Congress (LCCN 2009631424), via Wikimedia Commons. Public domain.*
 
 ![Photograph of a large brick foundry building with arched windows and signs reading "Iron Foundry and Machine Shop" and "Janes & Kirtland", with two men standing in front](places/usa/united-states-capitol/images/janes-kirtland-foundry.jpg)
 *The iron foundry of Janes & Kirtland in New York, which cast the iron for the dome. US Capitol (Architect of the Capitol), via Wikimedia Commons. Public domain.*
+
+![Albumen photograph of the Capitol from the north-east in 1863: the dome nearly complete with a crane on top, the new marble wing on the right with scaffolding and a derrick, and curved cast-iron dome pieces and stone lying on the ground](places/usa/united-states-capitol/images/dome-unfinished-1863.jpg)
+*"Capitol, Washington, D.C., north-east view. Dome and front unfinished, June 28, 1863", photograph by Andrew J. Russell. The dome is nearly up, with a crane at the top, and curved iron castings for it lie on the ground in the foreground. Library of Congress (LCCN 2004680121), via Wikimedia Commons. Public domain.*
+
+![Twenty-two tall Corinthian sandstone columns standing on a stone platform in a grassy meadow, reflected in a long rectangular pool, with trees behind](places/usa/united-states-capitol/images/arboretum-columns.jpg)
+*The National Capitol Columns at the US National Arboretum: the sandstone columns of the old east portico, taken down in 1958–1962 and set up here in 1990. Carol M. Highsmith; Library of Congress (LCCN 2011630897), via Wikimedia Commons. Public domain.*
 
 </div>
 

@@ -13,8 +13,8 @@
 | **Features** | [Dome](../../../GLOSSARY.md#dome), [Portico](../../../GLOSSARY.md#portico), [Monolithic columns](../../../GLOSSARY.md#monolithic-columns), [Rooftop sculpture](../../../GLOSSARY.md#rooftop-sculpture) |
 | **Fires** | 24 August 1814: burned by British troops; 24 December 1851: fire destroyed the Library of Congress in the west front, with about 35,000 of its 55,000 books; 1898: gas explosion and fire in the Senate wing (reported) |
 
-![Early photograph of the Capitol's east front, with its low ribbed dome, central portico with columns, two smaller domes on the wings, steps and young trees in the foreground](images/plumbe-1846.jpg)
-*The east front in about 1846, with Bulfinch's low dome: the earliest known photograph of the Capitol. Daguerreotype by John Plumbe; Library of Congress (cph.3g03595), via Wikimedia Commons. Public domain.*
+![The west front of the Capitol seen from above the Mall: the white dome topped by the Statue of Freedom, the long marble wings on either side, terraces and steps, and lawns and flower beds in front](images/west-front-1997.jpg)
+*The west front of the Capitol today, with the dome, the marble wings of 1851–1868 and Olmsted's terraces. Architect of the Capitol, 1997, via Wikimedia Commons. Public domain.*
 
 ## Overview
 
@@ -114,7 +114,7 @@ So here the records do name the workers, in a building more than a century older
 
 ### Construction photographs
 
-**Documented** – The Capitol was built before photography, so its first phase is known from drawings: Thornton's and Latrobe's designs, and views of the burned building in 1814. The earliest known photograph of it is John Plumbe's daguerreotype of about 1846, showing Bulfinch's low dome. The new dome, by contrast, is one of the best-photographed buildings of the 19th century: Meigs employed John Wood as a "photographic draftsman" from 1856 to 1861, and there are photographs of the iron ribs going up, the scaffolding, the cranes and the iron foundry, and of Lincoln's inauguration under the half-built dome in March 1861 (see [Images](#images)).
+**Documented** – The Capitol was built before photography, so its first phase is known from drawings: Thornton's and Latrobe's designs, and views of the burned building in 1814. The earliest known photograph of it is John Plumbe's daguerreotype of about 1846, showing Bulfinch's low dome. The new dome, by contrast, is one of the best-photographed buildings of the 19th century: Meigs employed John Wood as a "photographic draftsman" from 1856 to 1861, and there are photographs of the iron ribs going up, the scaffolding, the cranes and the iron foundry, and of Lincoln's inauguration under the half-built dome in March 1861. Andrew J. Russell's photograph of 28 June 1863 shows the curved iron castings lying on the ground, waiting to be raised (see [Images](#images)).
 
 ### Anomaly log
 
@@ -198,6 +198,9 @@ So here the records do name the workers, in a building more than a century older
 
 Click any image to enlarge it.
 
+![Thornton's design drawing of the Capitol's east front: a long two-storey classical building with a central pedimented portico and a low dome](images/thornton-elevation-1793.jpg)
+*William Thornton's east elevation, with a low dome: ink, watercolour and graphite, about 1793. Library of Congress (LCCN 92519533), via Wikimedia Commons. Public domain.*
+
 ![Daguerreotype of the Capitol's east front in about 1846, with the low ribbed dome on a drum, the central portico, smaller domes over the two wings, and a fountain and young trees in front](images/plumbe-1846.jpg)
 *The east front in about 1846, before the extension and the iron dome. Bulfinch's low dome of wood and copper is in the centre, and the sandstone east portico, whose columns now stand at the National Arboretum, is below it. Daguerreotype by John Plumbe; Library of Congress (cph.3g03595), via Wikimedia Commons. Public domain.*
 
@@ -209,6 +212,13 @@ Click any image to enlarge it.
 
 ![Photograph of a large brick foundry building with arched windows and signs reading "Iron Foundry and Machine Shop" and "Janes & Kirtland", with two men standing in front](images/janes-kirtland-foundry.jpg)
 *The iron foundry of Janes & Kirtland in New York, which cast the iron for the dome. US Capitol (Architect of the Capitol), via Wikimedia Commons. Public domain.*
+
+![Albumen photograph of the Capitol from the north-east in 1863: the dome nearly complete with a crane on top, the new marble wing on the right with scaffolding and a derrick, and curved cast-iron dome pieces and stone lying on the ground](images/dome-unfinished-1863.jpg)
+*"Capitol, Washington, D.C., north-east view. Dome and front unfinished, June 28, 1863", photograph by Andrew J. Russell. The dome is nearly up, with a crane at the top, and curved iron castings for it lie on the ground in the foreground. Library of Congress (LCCN 2004680121), via Wikimedia Commons. Public domain.*
+
+![Twenty-two tall Corinthian sandstone columns standing on a stone platform in a grassy meadow, reflected in a long rectangular pool, with trees behind](images/arboretum-columns.jpg)
+*The National Capitol Columns at the US National Arboretum: the sandstone columns of the old east portico, taken down in 1958–1962 and set up here in 1990. Carol M. Highsmith; Library of Congress (LCCN 2011630897), via Wikimedia Commons. Public domain.*
+
 
 ## Sources
 
