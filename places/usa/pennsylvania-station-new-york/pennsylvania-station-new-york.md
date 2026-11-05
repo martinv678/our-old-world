@@ -75,6 +75,8 @@ But it wasn't built as the Romans built. The vaults, columns and walls hid a fra
 
 **Documented** – The station was demolished from 28 October 1963, only 53 years after it opened, while it was still in daily use. It wasn't destroyed by fire, war or decay, but sold for the value of the space above it. The granite, the clocks and most of the sculpture were trucked away and dumped in the Meadowlands of New Jersey. A widely reproduced photograph shows one of Weinman's figures lying in the landfill.
 
+A colour photograph of 25 June 1966 (see [Images](#images)) shows the Seventh Avenue front still standing, with the Day and Night figures and four eagles in place and the clock between them covered with a dark sheet, while the steel of the new building rose behind the columns. So the old front was kept up as a screen while the new building went up behind it (**Observed**).
+
 This fits the [fire and demolition](../../../ALTERNATIVE-VIEW.md#the-main-ideas) theme: a grand building removed soon after it was built. It is also very like the [Anhalter Bahnhof](../../germany/anhalter-bahnhof/anhalter-bahnhof.md) in Berlin, a great 19th-century station blown up in 1959–1960, leaving one fragment. On the alternative view, these demolitions of the late 1950s and 1960s removed the evidence of an older world under the cover of modernisation (**Speculative**).
 
 The ordinary explanation is well recorded: the railroad was losing money, the air rights were valuable, and the demolition was argued over in public at the time. The protests, the *New York Times* editorial and the landmarks law that followed show that New Yorkers saw it as a loss, not a cover-up. The most useful question for this project is narrower: **why was the stone dumped rather than reused or sold?** Granite of this quality had value. The demolition contracts should say what happened to it.
@@ -110,7 +112,7 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 - **[Letters in dates](../../../ALTERNATIVE-VIEW.md#letters-in-dates-the-j-argument):** no date stone or dated inscription has been found yet. The plate dates on the 1909 photographs are written in ordinary figures ("Feb. 11, 09").
 - **[Sound and cymatics](../../../ALTERNATIVE-VIEW.md#sound-and-cymatics-the-resonance-argument):** there were no rose windows, organ or bells. The waiting room's acoustics are not recorded in the sources found.
 - **Lost energy technology:** nothing obvious. The station was lit by about 30,000 electric bulbs and its trains were electric, both openly modern.
-- **Clocks:** each of the four entrances had a Weinman clock flanked by Day and Night. Unlike the [Manchester Town Hall](../../uk/manchester-town-hall/manchester-town-hall.md#a-clock-without-hands) photographs, the clocks haven't yet been checked in early images for hands.
+- **Clocks:** each of the four entrances had a Weinman clock flanked by Day and Night. In the 1966 demolition photograph the Seventh Avenue clock is covered with a sheet. The clocks haven't yet been checked for hands in early images, as was done for [Manchester Town Hall](../../uk/manchester-town-hall/manchester-town-hall.md#a-clock-without-hands).
 
 ### Map check
 
@@ -129,6 +131,7 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 | About 500 buildings in the Tenderloin cleared for the site (400 for the station pit, according to a book of 1908) | Histories; 1908 book | Reported | Lost New England; PBS; Mills (1908) |
 | Start date given as 1904 or 1906; McKim's death as 1908 or 1909 | Sources disagree | Documented | PBS; ArchDaily; American-Rails |
 | Waiting room and concourse below street level | Plans and photographs; explained by the tunnels | Observed | 1910 plans (Wikimedia Commons) |
+| Front still standing in June 1966, clock covered, new steel rising behind | Colour photograph, 25 June 1966 | Observed | Wikimedia Commons (TrainWeb) |
 | Construction photographs, stereographs, glass plates and paintings, 1904–1910 | Archive catalogues | Documented | Smithsonian; MCNY; Hagley; Columbia |
 
 ### Timeline check
@@ -228,6 +231,9 @@ Click any image to enlarge it.
 
 ![Impressionist painting of a deep pit in snow-covered ground, with workmen, a small steam locomotive, derricks and smoking chimneys around it, and tall buildings beyond](images/excavation-lawson-1906.jpg)
 *"Excavation – Penn Station", oil on canvas by Ernest Lawson, 1906 (Frederick R. Weisman Art Museum). Workmen, derricks and a small steam locomotive work around the pit in winter. Via Wikimedia Commons (from The Athenaeum). Public domain.*
+
+![Colour photograph of the station's granite front at Seventh Avenue and 32nd Street in 1966: the sculpture group of two robed figures around a covered clock, with eagles either side, above a colonnade; a long banner reading "New Madison Square Garden Sports Center, Redeveloped Pennsylvania Station", a Turner Construction Company sign, and new steelwork visible between the columns](images/demolition-1966.jpg)
+*The Seventh Avenue front on 25 June 1966, during the demolition. Weinman's Day and Night figures and four eagles are still in place, but the clock between them is covered with a dark sheet, with a ladder above. A banner advertises the "New Madison Square Garden Sports Center" and "Redeveloped Pennsylvania Station", and the steel frame of the new building can be seen through the colonnade. Photograph by Hikki Nagasaki, via TrainWeb and Wikimedia Commons, where it is marked as public domain (not independently checked).*
 
 ## Sources
 

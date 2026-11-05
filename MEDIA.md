@@ -30,7 +30,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 <!-- media:start -->
 
-62 images from 12 buildings.
+63 images from 12 buildings.
 
 ### Australia
 
@@ -274,7 +274,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 ### USA
 
-#### [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) (6)
+#### [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) (7)
 
 <div class="media-grid" markdown>
 
@@ -295,6 +295,9 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 ![Impressionist painting of a deep pit in snow-covered ground, with workmen, a small steam locomotive, derricks and smoking chimneys around it, and tall buildings beyond](places/usa/pennsylvania-station-new-york/images/excavation-lawson-1906.jpg)
 *"Excavation – Penn Station", oil on canvas by Ernest Lawson, 1906 (Frederick R. Weisman Art Museum). Workmen, derricks and a small steam locomotive work around the pit in winter. Via Wikimedia Commons (from The Athenaeum). Public domain.*
+
+![Colour photograph of the station's granite front at Seventh Avenue and 32nd Street in 1966: the sculpture group of two robed figures around a covered clock, with eagles either side, above a colonnade; a long banner reading "New Madison Square Garden Sports Center, Redeveloped Pennsylvania Station", a Turner Construction Company sign, and new steelwork visible between the columns](places/usa/pennsylvania-station-new-york/images/demolition-1966.jpg)
+*The Seventh Avenue front on 25 June 1966, during the demolition. Weinman's Day and Night figures and four eagles are still in place, but the clock between them is covered with a dark sheet, with a ladder above. A banner advertises the "New Madison Square Garden Sports Center" and "Redeveloped Pennsylvania Station", and the steel frame of the new building can be seen through the colonnade. Photograph by Hikki Nagasaki, via TrainWeb and Wikimedia Commons, where it is marked as public domain (not independently checked).*
 
 </div>
 
