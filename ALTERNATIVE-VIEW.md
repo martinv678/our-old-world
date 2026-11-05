@@ -74,6 +74,13 @@ Look closely at **date stones, foundation stones, inscriptions, coins and old do
 
 Record any examples in the entry's **Anomaly log**, with a photo if possible.
 
+**Examples found so far:**
+
+| Building | Date as carved or written | Usual reading | Notes |
+|---|---|---|---|
+| [All Saints Church, Marlow](places/uk/all-saints-marlow/all-saints-marlow.md#a-j-date-inside-the-church) | "26th of April J722" on a ledger stone in the floor | 26 April 1722 | Photographed by the owner. The first figure is J-shaped, with a tail below the line. Still to check: whether other 1s on the same stone are carved the same way, and the burial register for 1722 |
+| [Manchester Town Hall](places/uk/manchester-town-hall/manchester-town-hall.md#dates-and-inscriptions) | "1851", "1863–1864", "1923"… on a skylight | As written | Ordinary figures with a plain leading 1, added up to the 1920s |
+
 ### What critics say
 
 - **J as a numeral is documented.** In Roman numerals, a final *i* was often written as *j*, so 13 might be written "xiij" and 23 "XXIIJ". A "j" in a number is therefore expected in older documents and doesn't by itself mean the date is wrong.

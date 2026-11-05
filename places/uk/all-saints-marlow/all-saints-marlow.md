@@ -12,7 +12,8 @@
 | **Status** | In use as the parish church. Grade II* listed |
 | **Features** | [Spire](../../../GLOSSARY.md#spire), [Tower](../../../GLOSSARY.md#tower) |
 
-*Images to be added by the owner.*
+![A black ledger stone set in the church floor, carved with the words "Life on Earth", "to an Eternal one", "26th of April J722" and "of Her Age", with a shoe at the bottom of the picture](images/ledger-stone-j722.jpg)
+*A ledger stone in the floor of All Saints, Marlow, with the date carved "26th of April J722". Photograph by the owner.*
 
 ## Overview
 
@@ -48,21 +49,23 @@ The official account is of a medieval church that fell into ruin and was replace
 
 ### A "J" date inside the church
 
-**Reported** (owner's evidence; photograph to be added) – The owner has found a date inside the church written with a "J". Under the [letters in dates](../../../ALTERNATIVE-VIEW.md#letters-in-dates-the-j-argument) argument, this is exactly what the project is looking for: a year whose first figure is written as a letter rather than a "1", which on Fomenko's reading could stand for Jesus, putting the date about 1,000 years later than it appears.
+**Observed** (the carving) / **Speculative** (the J argument) – The owner has photographed a black marble ledger stone set in the floor of the church (see [Images](#images)). The visible part of the inscription, which runs onto the area outside the photograph, reads:
 
-The details to record from the owner's photograph:
+> "…uous Life on Earth, / …to an Eternal one / …e 26th of April J722 / …ear of Her Age."
 
-- **Exactly how the date is written:** is the "J" (or "I") at the start of the year, in place of the "1", or at the end of a number in Roman numerals?
-- **Where it is:** on which monument, tablet, brass or stone, and whether it came from the old church.
-- **What the inscription says around it:** names, ages and other dates, which can be checked against parish registers.
+The year is carved as **"J722"**. The first figure has the shape of a capital J, with a tail dropping below the line, followed by 7, 2 and 2. The "7" also drops below the line, in the "old-style" form of figures used in 18th-century lettering. The usual reading is **26 April 1722**: the death of a woman whose name, and age, are on the part of the stone not in the photograph.
+
+On the [letters in dates](../../../ALTERNATIVE-VIEW.md#letters-in-dates-the-j-argument) argument, this is the kind of date the project is looking for: a year beginning with a J rather than a 1. On Fomenko's reading, "J722" would be "the year 722 of Jesus", with the J as a marker for Jesus rather than a number, so that the familiar way of reading it as 1722 adds about 1,000 years to the date.
 
 Points to weigh up:
 
-- **A final "j" in Roman numerals is normal.** In older writing, the last "i" of a number in Roman numerals was usually written as a "j", so "xiij" means 13 and "MDCxxxij" means 1632. This is a scribal habit and doesn't by itself change the date.
-- **Old numerals could look like letters.** In 16th- and 17th-century carving and handwriting, the figure "1" was sometimes written in a form that looks like an "I" or "J". A leading "J" in a date in ordinary figures would need careful comparison with other numbers on the same inscription.
-- **The monuments came from the old church.** Many of the older memorials, including Hobart's of 1632, were brought from the medieval building, so their dates belong to that church, not to the rebuilding of 1832–35.
+- **It isn't a Roman numeral.** The final "j" of Roman numerals ("xiij") doesn't apply here: this is a date in ordinary figures, and the J is at the start.
+- **A J-shaped "1" was a common way of writing the figure in the 17th and 18th centuries.** In handwriting and in carved lettering of the period, the figure 1 was often given a hook or tail, so that it looks like a J, especially at the start of a year. Parish registers of the time are full of such dates. On this reading, the J here is simply how this carver wrote the figure 1.
+- **The test is the other 1s.** If the same carver used the same J shape for a "1" that is not at the start of a year (for example in an age such as 21 or 61, or a day such as the 11th), then the J is just the carver's figure 1 and the Fomenko reading doesn't hold. If the J appears only at the start of years, and an ordinary "1" is used elsewhere on the same stone, that would be much more interesting.
+- **The date can be checked.** The burial of the woman named on the stone should appear in Marlow's parish registers for 1722. If the registers, written by a different hand, record her burial in 1722, the stone and the written record agree.
+- **The stone is older than the church around it.** The church was rebuilt in 1832–35; a ledger stone of 1722 would have come from the old church, and been re-laid in the new floor.
 
-**How to test it:** photograph the inscription straight on and in raking light; transcribe it letter by letter; compare the form of every number on it; and check the names and dates against the parish registers and against Cocks's transcriptions of the church's monuments (1890), which record how the dates were read at the time.
+**How to test it:** photograph the whole stone, including the name, the age and any other numbers on it; look at other ledger stones and monuments in the church for how their years are written; and check the burial in the parish registers (Buckinghamshire Archives) and in Cocks's transcription of the monuments (1890).
 
 ### A chequerboard on the side
 
@@ -98,7 +101,7 @@ Points to weigh up:
 
 | Anomaly | Evidence | Label | Source |
 |---|---|---|---|
-| Date inside the church written with a "J" | Owner's photograph (to be added) | Reported | Owner |
+| Ledger stone dated "26th of April J722", with a J-shaped first figure | Owner's photograph | Observed | Owner |
 | Chequerboard pattern on the outside, read as Masonic | Owner's photograph (to be added) | Reported / Speculative | Owner |
 | Old church's tower fell in 1831, as the bridge beside it was completed | Histories | Documented | Buckinghamshire HER; Historic England |
 | Fabric of three periods, with monuments from the medieval church | Listing | Documented | Historic England |
@@ -138,7 +141,9 @@ Points to weigh up:
 
 ## Open questions for contributors
 
-- **The "J" date:** Exactly how is it written, and on which monument? (Owner's photograph to be added.)
+- **The "J" date:** Whose ledger stone is it, and what does the rest of the inscription say (her name and age)? Are there other "1"s on the stone, and are they carved as J too?
+- **Other stones:** How are the years written on the other ledger stones and monuments in the church?
+- **The registers:** Does Marlow's burial register for April 1722 record her burial?
 - **The chequer:** Where exactly is it, what is it made of, and which building campaign does it belong to? (Owner's photograph to be added.)
 - **Masonic links:** Was there a Masonic ceremony at the foundation stones of 1832 or 1898? Were Inwood, Scott or the donors Freemasons?
 - **The 1831 collapse:** Did the tower or the spire fall, and why?
@@ -163,9 +168,16 @@ Points to weigh up:
 
 ## Images
 
-Images will be added by the owner. The most useful for this entry would be:
+![A black ledger stone set in the church floor, carved with the words "Life on Earth", "to an Eternal one", "26th of April J722" and "of Her Age", with a shoe at the bottom of the picture](images/ledger-stone-j722.jpg)
+*A black marble ledger stone in the floor of All Saints, Marlow. The visible lines read "…uous Life on Earth, / …to an Eternal one / …e 26th of April J722 / …ear of Her Age". The rest of the inscription, with the name and age, is outside the photograph. Photograph by the owner. The photograph has been turned so the inscription reads the right way up.*
 
-- the **"J" date** inside the church, photographed straight on, with the whole inscription
+![Enlarged detail of the date line, showing "26th of April" followed by a J-shaped figure with a tail below the line, then 7, 2 and 2](images/ledger-stone-j722-detail.jpg)
+*Detail of the date: "26th of April J722". The first figure of the year is shaped like a J, with a tail dropping below the line; the 7 also drops below the line, in the old-style figures of the period. See [A "J" date inside the church](#a-j-date-inside-the-church). Photograph by the owner.*
+
+Further images that would be useful:
+
+- the **whole ledger stone** with the "J722" date, including the name and age
+- **other ledger stones and monuments** in the church, for how their years are written
 - the **chequerboard pattern** on the outside, with a wider view showing where it is
 - the **old church** before 1831, from prints or drawings
 - **Inwood's design** of 1832
