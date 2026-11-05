@@ -10,6 +10,7 @@
 | **Type** | [Shopping arcade](../../../README.md#shopping-arcade) |
 | **Original use** | Covered shopping arcade linking Piazza del Duomo and Piazza della Scala |
 | **Status** | In use as a luxury shopping arcade |
+| **War damage** | Second World War: damaged by bombing, later restored |
 | **Features** | [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Dome](../../../GLOSSARY.md#dome) |
 
 ## Overview

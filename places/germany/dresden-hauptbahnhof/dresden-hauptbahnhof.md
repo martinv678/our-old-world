@@ -10,6 +10,7 @@
 | **Type** | [Railway station](../../../README.md#railway-station) |
 | **Original use** | Central railway station for Dresden |
 | **Status** | In use; restored with a new fabric roof by Foster + Partners (1997–2006) |
+| **War damage** | February 1945: badly damaged in the Allied bombing of Dresden, while crowded with refugees |
 | **Features** | [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Dome](../../../GLOSSARY.md#dome) |
 
 ## Overview

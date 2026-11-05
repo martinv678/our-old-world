@@ -10,6 +10,7 @@
 | **Type** | [Theatre](../../../README.md#theatre) |
 | **Original use** | Assembly rooms and public hall, later a theatre and then a cinema |
 | **Status** | Demolished 1961. The site was used for an ABC cinema (1968) and is now a Travelodge and car park |
+| **Fires** | 27/28 May 1896: the Victoria Theatre gutted; the Lyceum was built inside its surviving walls |
 | **Features** | [Portico](../../../GLOSSARY.md#portico) |
 
 *Images to be added by the owner.*

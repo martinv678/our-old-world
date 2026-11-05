@@ -10,6 +10,8 @@
 | **Type** | [Cathedral](../../../README.md#cathedral) |
 | **Original use** | Cathedral of the Archdiocese of Cologne, built to house the relics of the Three Kings |
 | **Status** | In use; UNESCO World Heritage Site |
+| **Fires** | 1248: the Old Cathedral damaged by fire, the year the new cathedral was begun (reported) |
+| **War damage** | 1939–1945: hit many times in Allied bombing, but stayed standing |
 | **Features** | [Spire](../../../GLOSSARY.md#spire), [Tower](../../../GLOSSARY.md#tower), [Built on older ruins](../../../GLOSSARY.md#built-on-older-ruins) |
 
 ## Overview

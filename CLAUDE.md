@@ -104,6 +104,8 @@ Each building lives at `places/<country>/<building-name>/<building-name>.md`, wi
 | **Original use** | |
 | **Status** | In use / Abandoned / Demolished / Restored |
 | **Features** | Dome, Tower |
+| **Fires** | Date: what happened; date: what happened (only if the building was damaged by fire) |
+| **War damage** | Date: what happened (only if damaged by bombing in war) |
 
 ![Description](images/main.jpg)
 *Caption with date, author, source and licence.*
@@ -150,7 +152,7 @@ Space for the owner's own observations and hunches. Claude reads this first and 
 ## Sources
 ```
 
-The **Type** and **Features** rows drive the generated Buildings list in `README.md` and the glossary in `GLOSSARY.md`. Use existing names from those lists where possible; a new feature gets a placeholder glossary section that should then be written properly.
+The **Type** and **Features** rows drive the generated Buildings list in `README.md` and the glossary in `GLOSSARY.md`. The **Fires** and **War damage** rows drive the generated list in `FIRES.md`; leave them out if the building was never damaged by fire or bombing. Use existing names from those lists where possible; a new feature gets a placeholder glossary section that should then be written properly.
 
 ## 8. Images
 

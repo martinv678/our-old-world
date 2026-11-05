@@ -10,6 +10,7 @@
 | **Type** | [Railway station](../../../README.md#railway-station) |
 | **Original use** | Central railway station, replacing three earlier stations |
 | **Status** | In use; Hesse's busiest station |
+| **War damage** | Second World War: damaged by bombing, then repaired |
 | **Features** | [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Rooftop sculpture](../../../GLOSSARY.md#rooftop-sculpture) |
 
 ## Overview

@@ -10,6 +10,7 @@
 | **Type** | [Palace](../../../README.md#palace) |
 | **Original use** | Seaside palace of the Prince Regent, later King George IV |
 | **Status** | Museum, run by Brighton & Hove Museums |
+| **Fires** | 2 November 1975: Music Room badly damaged by arson; restored and reopened in 1986 |
 | **Features** | [Onion dome](../../../GLOSSARY.md#onion-dome), [Dome](../../../GLOSSARY.md#dome), [Minaret](../../../GLOSSARY.md#minaret), [Underground tunnel](../../../GLOSSARY.md#underground-tunnel), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |
 
 ## Overview

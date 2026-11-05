@@ -38,6 +38,7 @@ our-old-world/
 ├── CLAUDE.md                       # Research brief: how entries are researched and written
 ├── GLOSSARY.md                     # Features index (domes, towers, rose windows...)
 ├── TIMELINE.md                     # Buildings in date order (generated)
+├── FIRES.md                        # Buildings damaged by fire or bombing (generated)
 ├── ALTERNATIVE-VIEW.md             # The theories explained, and people to watch
 ├── mkdocs.yml                      # Website settings
 ├── assets/                         # Website styles
@@ -219,6 +220,10 @@ The [research list](links/research-list.md) has over 100 more pre-1900 buildings
 ## Timeline
 
 Want to see the buildings in date order? The [timeline](TIMELINE.md) lists every building by when it was built, grouped by century, from medieval Cologne Cathedral to the 1890s.
+
+## Fires
+
+Want to see every building that burned? The [fires page](FIRES.md) lists every building in the project damaged or destroyed by fire, and those damaged by bombing in war, with what happened and links to each entry.
 
 ## Glossary of features
 

@@ -10,6 +10,7 @@
 | **Type** | [Government building](../../../README.md#government-building) |
 | **Original use** | Home of the UK Parliament |
 | **Status** | In use; UNESCO World Heritage Site |
+| **Fires** | 16 October 1834: most of the old palace destroyed, after old tally sticks were burned in its furnaces; the present palace replaced it |
 | **Features** | [Clock tower](../../../GLOSSARY.md#clock-tower), [Tower](../../../GLOSSARY.md#tower), [Spire](../../../GLOSSARY.md#spire), [Built on older ruins](../../../GLOSSARY.md#built-on-older-ruins) |
 
 ## Overview

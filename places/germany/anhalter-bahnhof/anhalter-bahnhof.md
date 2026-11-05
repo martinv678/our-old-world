@@ -10,6 +10,7 @@
 | **Type** | [Railway station](../../../README.md#railway-station) |
 | **Original use** | Berlin terminus of the Berlin–Anhalt railway, for trains to the south |
 | **Status** | Demolished 1959–1960; only a fragment of the entrance portico survives as a listed ruin |
+| **War damage** | 1943–1945: badly damaged in Allied bombing |
 | **Features** | [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Underground tunnel](../../../GLOSSARY.md#underground-tunnel) |
 
 ## Overview

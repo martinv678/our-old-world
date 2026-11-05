@@ -10,6 +10,7 @@
 | **Type** | [Street level](../../../README.md#street-level), [Historic district](../../../README.md#historic-district) |
 | **Original use** | Ground-floor shops, sidewalks and streets of old Seattle |
 | **Status** | Partly accessible on guided tours; Pioneer Square is a historic district |
+| **Fires** | 6 June 1889: the Great Seattle Fire destroyed the business district, which was rebuilt and its streets raised |
 | **Features** | [Buried ground floor](../../../GLOSSARY.md#buried-ground-floor), [Raised streets](../../../GLOSSARY.md#raised-streets) |
 
 ## Overview

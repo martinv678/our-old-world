@@ -10,6 +10,7 @@
 | **Type** | [Exhibition hall](../../../README.md#exhibition-hall) |
 | **Original use** | Exhibition hall for the Great Exhibition of 1851 |
 | **Status** | Destroyed by fire 1936; water towers demolished 1941. Terraces, sphinxes and park survive |
+| **Fires** | 30 December 1866: north transept destroyed and never rebuilt; 30 November 1936: main building destroyed in a few hours, cause never established |
 | **Features** | [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Tower](../../../GLOSSARY.md#tower), [Landscaped park](../../../GLOSSARY.md#landscaped-park), [Underground tunnel](../../../GLOSSARY.md#underground-tunnel) |
 
 ## Overview

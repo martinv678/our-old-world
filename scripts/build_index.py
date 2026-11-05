@@ -8,6 +8,8 @@ For every places/<country>/<building>/<building>.md entry, this reads the
   * rebuilds the index and per-feature building lists in GLOSSARY.md
   * adds a placeholder glossary section for any feature not yet defined
   * rewrites each entry's Type and Features rows as clickable links
+  * rebuilds FIRES.md, the list of buildings damaged by fire or bombing,
+    from each entry's "| **Fires** | ... |" and "| **War damage** | ... |" rows
 
 Run from anywhere:  python3 scripts/build_index.py
 """
@@ -20,12 +22,14 @@ ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 GLOSSARY = ROOT / "GLOSSARY.md"
 TIMELINE = ROOT / "TIMELINE.md"
+FIRES = ROOT / "FIRES.md"
 PLACES = ROOT / "places"
 
 LINK = re.compile(r"\[([^\]]+)\]\([^)]*\)")
 CATALOGUE_BLOCK = re.compile(r"<!-- catalogue:start -->.*?<!-- catalogue:end -->", re.DOTALL)
 INDEX_BLOCK = re.compile(r"<!-- index:start -->.*?<!-- index:end -->", re.DOTALL)
 TIMELINE_BLOCK = re.compile(r"<!-- timeline:start -->.*?<!-- timeline:end -->", re.DOTALL)
+FIRES_BLOCK = re.compile(r"<!-- fires:start -->.*?<!-- fires:end -->", re.DOTALL)
 BUILDINGS_BLOCK = re.compile(r"<!-- buildings:start -->.*?<!-- buildings:end -->", re.DOTALL)
 SECTION_HEADING = re.compile(r"^## (.+)$", re.MULTILINE)
 NOT_FEATURES = {"how the glossary works"}
@@ -40,6 +44,8 @@ TYPE_ROW = row_pattern("Type")
 FEATURES_ROW = row_pattern("Features")
 BUILT_ROW = row_pattern("Built")
 STATUS_ROW = row_pattern("Status")
+FIRES_ROW = row_pattern("Fires")
+WAR_ROW = row_pattern("War damage")
 
 
 def slug(text: str) -> str:
@@ -92,6 +98,23 @@ def build_timeline(entries) -> str:
     return "\n".join(lines)
 
 
+def build_fires(entries) -> str:
+    """Tables of buildings with a Fires row, then those with a War damage row."""
+    def table(key: str) -> list[str]:
+        rows = [e for e in entries if e[key]]
+        rows.sort(key=lambda e: (e["year"] or 9999, e["title"].lower()))
+        out = ["| Building | Country | Built | What happened | Status |", "|---|---|---|---|---|"]
+        out += [f"| [{e['title']}]({e['rel']}) | {e['country']} | {e['built']} | {e[key]} | {e['status']} |"
+                for e in rows]
+        return out, len(rows)
+    fire_rows, n_fire = table("fires")
+    war_rows, n_war = table("war")
+    lines = ["<!-- fires:start -->", "", f"## Damaged or destroyed by fire ({n_fire})", ""] + fire_rows
+    lines += ["", f"## Damaged by bombing in war ({n_war})", ""] + war_rows
+    lines += ["", "<!-- fires:end -->"]
+    return "\n".join(lines)
+
+
 def load_entries():
     entries = []
     for path in sorted(PLACES.glob("*/*/*.md")):
@@ -111,6 +134,8 @@ def load_entries():
             "built": cell(BUILT_ROW, text),
             "year": first_year(cell(BUILT_ROW, text)),
             "status": cell(STATUS_ROW, text).split(";")[0].strip(),
+            "fires": cell(FIRES_ROW, text),
+            "war": cell(WAR_ROW, text),
         })
     return entries
 
@@ -237,6 +262,11 @@ def main() -> int:
     # Timeline
     timeline = TIMELINE.read_text(encoding="utf-8")
     TIMELINE.write_text(TIMELINE_BLOCK.sub(lambda _: build_timeline(entries), timeline), encoding="utf-8")
+
+    # Fires
+    if FIRES.exists():
+        fires = FIRES.read_text(encoding="utf-8")
+        FIRES.write_text(FIRES_BLOCK.sub(lambda _: build_fires(entries), fires), encoding="utf-8")
 
     # Entries
     type_names, _ = group(entries, "types")

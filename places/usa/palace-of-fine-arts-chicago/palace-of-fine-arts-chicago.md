@@ -10,6 +10,7 @@
 | **Type** | [Exhibition hall](../../../README.md#exhibition-hall), [Museum](../../../README.md#museum) |
 | **Original use** | Art gallery of the World's Columbian Exposition of 1893 |
 | **Status** | In use as the Griffin Museum of Science and Industry |
+| **Fires** | 1894: fires destroyed most of the World's Fair buildings around it; the Palace of Fine Arts itself survived |
 | **Features** | [Dome](../../../GLOSSARY.md#dome), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |
 
 ## Overview

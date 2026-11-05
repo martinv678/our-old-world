@@ -10,6 +10,7 @@
 | **Type** | [Exhibition hall](../../../README.md#exhibition-hall) |
 | **Original use** | "People's Palace": exhibition, concert and recreation centre for north London |
 | **Status** | In use as an events venue. Burned 1873, rebuilt 1875; about a third burned again in 1980, reopened 1988. Theatre reopened 2018. Grade II listed |
+| **Fires** | 9 June 1873: destroyed 16 days after opening, three staff killed; 10 July 1980: about a third destroyed, including the Great Hall and its organ |
 | **Features** | [Tower](../../../GLOSSARY.md#tower), [Iron and glass construction](../../../GLOSSARY.md#iron-and-glass-construction), [Landscaped park](../../../GLOSSARY.md#landscaped-park) |
 
 *Images to be added by the owner.*
