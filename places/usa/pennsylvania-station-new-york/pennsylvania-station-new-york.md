@@ -150,23 +150,28 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 
 ### Timeline check
 
-**What we know:** ground was broken in 1904 and the station opened fully on 27 November 1910, about six and a half years later. The site was dug out in 1904–1908 and the masonry built in 1908–1910.
+**What we know:** ground was broken in 1904 and the station opened fully on 27 November 1910, about six and a half years later. The pit was dug from 1 July 1904 to 1907. The dated Bain photographs show the steel frame up across most of the site in October 1908 and the roof steel over the waiting room still going up in May 1909, so steel erection took roughly one and a half to two years (about 450–600 working days). Masonry ran from 1908 to the opening, about two to two and a half years (about 600–750 working days). These figures assume a six-day week of about 300 working days a year.
 
 **The working:**
 
 - **Excavation:** the 1908 book gives 2,500,000 cubic yards for the station pit, dug from 1 July 1904 to 1907. Over about three years (about 900 working days), that's about **2,800 cubic yards a day**, or roughly 5,000 tonnes of rock and earth a day. (Modern accounts give more than 3 million cubic yards, which may include the approaches.) Cresson's paper gives about 502,000 cubic yards for the western contract alone. The spoil went by rail to the West 32nd Street pier and onto scows. At several hundred cubic yards per scow (an assumption, not checked), that's a handful of scow-loads a day: a large but ordinary operation for New York harbour, where such spoil was regularly dumped.
-- **Granite:** 490,000 cu ft is about 13,900 m³, or roughly 36,800 tonnes at 2.65 tonnes per m³. Over about two and a half years of masonry work (about 750 working days), that's about 50 tonnes a day. At roughly 30 tonnes to a railway wagon (an assumption), that's about **two wagon-loads a day**, from Milford, Massachusetts, on the railway network.
-- **Steel:** 27,000 short tons is about 24,500 tonnes. If it was erected over about two years, that's about 40 tonnes a day, or one or two wagon-loads.
-- **Bricks:** 15–17 million bricks over about two and a half years is about 20,000–23,000 bricks a day. Compare about 6,500 a day at [Manchester Town Hall](../../uk/manchester-town-hall/manchester-town-hall.md#timeline-check).
+- **Granite:** 490,000 cu ft is about 13,900 m³, or roughly 36,800 tonnes at 2.65 tonnes per m³. Over about two and a half years of masonry work (about 750 working days), that's about 50 tonnes a day. At roughly 30 tonnes to a railway wagon (an assumption), that's about **two wagon-loads a day**, from Milford, Massachusetts, on the railway network. On site, about 800 cu ft a day is about **16 blocks set a day**, if the average block was about 50 cu ft or 4 tonnes (an assumption). With several derricks, each one was setting only one or two blocks a day.
+- **Steel:** 27,000 short tons is about 24,500 tonnes. Over 450–600 working days, that's about **45–60 short tons a day**, or one or two wagon-loads. If the average beam or column weighed about 2 tons (an assumption), that's about **25–30 pieces lifted a day** across the whole site. The October 1908 photographs show at least eight to ten derricks working, so each derrick was making only about **three lifts a day**. The roughly 650 steel columns work out at **one or two a day**.
+- **Bricks:** 15–17 million bricks over 600–750 working days is about **20,000–28,000 bricks a day**. At the commonly quoted period rate of 500–1,000 bricks per bricklayer per day (not confirmed here), that's about **20–55 bricklayers working at once**, plus labourers carrying for them. Compare about 6,500 bricks a day at [Manchester Town Hall](../../uk/manchester-town-hall/manchester-town-hall.md#timeline-check).
 - **Delivery:** unlike the Victorian buildings in this project, which relied on horses and carts for the last mile, Penn Station was built by a railway company on top of its own tracks and beside the river. Materials could come by rail and water almost to the site.
 
 **What else was being built in New York at the same time:** the station wasn't alone. In the same years the city was building Grand Central Terminal (1903–1913), the New York Public Library (1902–1911), the Queensboro Bridge (1903–1909), the Manhattan Bridge (1901–1909), the Singer Building (1906–1908), the Metropolitan Life Tower (1907–1909), the Municipal Building (1909–1914) and the first subway lines, as well as the railroad's own tunnels under two rivers. On the [logistics argument](../../../ALTERNATIVE-VIEW.md#materials-and-delivery-the-logistics-argument), the combined demand for stone, steel and labour in one city in one decade is worth adding up (**Speculative**). But by 1904–1910 the United States had a national railway network, steel mills producing millions of tons a year, and steam shovels and electric derricks, all of which are in the records for this site.
 
+**Comparison:** the Empire State Building (1930–1931) put up about 57,000 tons of steel in about six months, rising about four and a half storeys a week. That's roughly twice Penn Station's tonnage in a third of the time, or about five to six times the daily rate, only about 20 years later. By that standard Penn Station's pace was ordinary for steel-frame building in New York.
+
+**What the arithmetic doesn't capture:** the skilled work. Carving the capitals, the eagles and Weinman's figures, setting the travertine, and making the plaster coffers of the vaults can't be measured in tons a day. That is where the [master builders](../../../ALTERNATIVE-VIEW.md#skill-and-precision-the-master-builders-argument) question is strongest: who did this work, and how many of them were there?
+
 **Working still needed:**
 
 1. The size of the workforce, which none of the sources found gives.
-2. Whether the 3 million cubic yards includes the tunnels.
-3. Where the scows took the spoil.
+2. The average weight of the steel pieces and the size of the granite blocks, and the start and finish dates of each trade.
+3. Whether the 3 million cubic yards includes the tunnels.
+4. Where the scows took the spoil.
 
 **Verdict:** **Plausible.** Six years for a steel-framed building of this size, with railway delivery, steam and electric machinery and a recorded excavation, fits the period. Penn Station is a useful yardstick for the older buildings in this project: what took a modern railway company six years with steel, rail and machinery is a fair comparison for what was claimed by Victorian builders with less.
 
