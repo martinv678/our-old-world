@@ -30,7 +30,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 <!-- media:start -->
 
-59 images from 12 buildings.
+62 images from 12 buildings.
 
 ### Australia
 
@@ -274,7 +274,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 ### USA
 
-#### [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) (3)
+#### [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) (6)
 
 <div class="media-grid" markdown>
 
@@ -283,6 +283,15 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 ![High view of Pennsylvania Station from the north-east, showing the granite colonnades, the raised block of the waiting room with its great arched windows, the concourse roofs behind, and the brick tenements and rooftops of the surrounding streets](places/usa/pennsylvania-station-new-york/images/aerial-view.jpg)
 *The station from the north-east, 1910s, with the tenements of the old neighbourhood around it. Its size against the surrounding streets is clear. In the bottom left is what seems to be the same excavated block as in the photograph above. Which block it is hasn't been checked; the General Post Office site across Eighth Avenue, dug in these years, is one possibility. Detroit Publishing Co., catalogued as between 1910 and 1920; Library of Congress (det.4a24329), via Wikimedia Commons. Public domain.*
+
+![Painting of the deep excavation at dusk, with dark tenement blocks on the rim, smoke and steam rising from machines in the pit, snow on the ground and a few workmen in the foreground](places/usa/pennsylvania-station-new-york/images/excavation-bellows.jpg)
+*"Pennsylvania Station Excavation", oil on canvas by George Bellows, about 1907–1909 (Brooklyn Museum, 67.205.1). The pit, with steam engines working in it and the old neighbourhood's tenements on the rim. Via Wikimedia Commons. Public domain.*
+
+![Book page with three photographs: a wide view of the huge excavated pit with the city skyline behind; a work car in a rock tunnel under Fifth Avenue; and a long timber loading pier with heaps of rock on scows in the river](places/usa/pennsylvania-station-new-york/images/excavation-1908-book.jpg)
+*A page from* Pennsylvania Railroad Tunnels and Terminals in New York City *by William Wirt Mills (Moses King, 1908). The printed caption reads: "STATION EXCAVATION, begun July 1, '04, after removing 400 buildings; completed, '07; 2,050 by 500 ft. depth, 45 ft. east end, 60 ft. west end; 2,500,000 cubic yds. excavated by N. Y. Contracting Company; concrete retaining walls 30 ft. at bottom, 5 ft. at top. UNDER FIFTH AVE., tunnels built by United Eng. & Con. Co. LOADING SCOWS with material taken from big station excavation." Internet Archive Book Images, via Wikimedia Commons. No known copyright restrictions.*
+
+![Two photographs of tunnel construction: muddy workmen standing on a timber platform inside a tunnelling shield with curved segments overhead; and a long circular tunnel lined with bolted iron rings, with a bulkhead door and lights in the distance](places/usa/pennsylvania-station-new-york/images/tunnel-shield-1908.jpg)
+*Building the tunnels that brought trains to the station: workmen in a tunnelling shield, and a finished length of tunnel lined with iron rings. From the same 1908 book (Internet Archive Book Images, via Wikimedia Commons). No known copyright restrictions.*
 
 ![Impressionist painting of a deep pit in snow-covered ground, with workmen, a small steam locomotive, derricks and smoking chimneys around it, and tall buildings beyond](places/usa/pennsylvania-station-new-york/images/excavation-lawson-1906.jpg)
 *"Excavation – Penn Station", oil on canvas by Ernest Lawson, 1906 (Frederick R. Weisman Art Museum). Workmen, derricks and a small steam locomotive work around the pit in winter. Via Wikimedia Commons (from The Athenaeum). Public domain.*

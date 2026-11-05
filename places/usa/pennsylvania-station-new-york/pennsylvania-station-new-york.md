@@ -29,10 +29,10 @@ By 1900, the Pennsylvania Railroad's trains from the south and west stopped at t
 
 - **1901–1902** – Under its president Alexander Cassatt, the Pennsylvania Railroad plans tunnels under the Hudson and East rivers and a great station in Manhattan. It begins buying land in the Tenderloin district, between Seventh and Eighth Avenues.
 - **1902** – Charles Follen McKim of McKim, Mead & White is chosen as architect.
-- **1904** – Demolition of the buildings on the site begins. Some 500 buildings over about 28 acres are said to have been cleared for the station and its approaches, and thousands of residents of the Tenderloin were displaced. Ground is said to have been broken on 1 May 1904, and excavation of the station site begins in the summer of 1904. (One source gives 1906 for the start of excavation.)
+- **1904** – Demolition of the buildings on the site begins. Some 500 buildings over about 28 acres are said to have been cleared for the station and its approaches, and thousands of residents of the Tenderloin were displaced. Ground is said to have been broken on 1 May 1904. A book of 1908 says the station excavation was "begun July 1, '04, after removing 400 buildings". (One modern source gives 1906 for the start of excavation.)
 - **9 October 1906** – The Hudson River (North River) tunnels are completed.
 - **28 December 1906** – Alexander Cassatt dies.
-- **1904–1908** – The station site is dug out, mostly in rock. In all, more than 3 million cubic yards (2.3 million m³) of earth and rock are said to have been excavated for the project. The engineer B. F. Cresson's paper of 1910 describes the western contract alone as about 502,000 cubic yards, about 90 per cent of it rock. The spoil was carried in side-dump cars along a cut under Ninth Avenue and a trestle over Tenth Avenue to a pier at the foot of West 32nd Street, and tipped through chutes into scows.
+- **1904–1907** – The station site is dug out, mostly in rock, by the New York Contracting Company. The 1908 book gives the pit as 2,050 by 500 ft, 45 ft deep at the east end and 60 ft at the west, with 2,500,000 cubic yards excavated, concrete retaining walls 30 ft thick at the bottom and 5 ft at the top, and work "completed, '07". Modern accounts give more than 3 million cubic yards (2.3 million m³) for the project. The engineer B. F. Cresson's paper of 1910 describes the western contract alone as about 502,000 cubic yards, about 90 per cent of it rock. The spoil was carried in side-dump cars along a cut under Ninth Avenue and a trestle over Tenth Avenue to a pier at the foot of West 32nd Street, and tipped through chutes into scows.
 - **18 March 1908** – The East River tunnels are completed.
 - **1908** – Masonry work begins on the station building. The George A. Fuller Company is the builder. The superstructure stands on about 650 steel columns.
 - **14 September 1909** – Charles McKim dies. William Symmes Richardson of the same firm sees the design through to completion. (One source gives 1908 for McKim's death.)
@@ -81,7 +81,7 @@ The ordinary explanation is well recorded: the railroad was losing money, the ai
 
 ### A whole neighbourhood cleared first
 
-**Reported** – Before the station could be built, about 500 buildings over some 28 acres of the Tenderloin were demolished, including houses, churches and businesses, and thousands of people moved out. The site was not empty land. That makes the [map check](#map-check) unusually easy here: maps and photographs from before 1904 should show exactly what stood on these blocks, and whether anything there was older or grander than the records say.
+**Reported** – Before the station could be built, about 500 buildings (400 for the station pit itself, according to the 1908 book) over some 28 acres of the Tenderloin were demolished, including houses, churches and businesses, and thousands of people moved out. The site was not empty land. That makes the [map check](#map-check) unusually easy here: maps and photographs from before 1904 should show exactly what stood on these blocks, and whether anything there was older or grander than the records say.
 
 ### Below the street, but by design
 
@@ -95,7 +95,7 @@ The ordinary explanation is well recorded: the railroad was losing money, the ai
 - **The Museum of the City of New York** has views of the excavation in 1906 by the Byron Company and of the construction in 1908 by Wurts Bros.
 - **The Hagley Museum and Library** lists progress photographs by L. H. Dreyer and others of the building of the terminal, 1907–1910, in the Pennsylvania Railroad's records.
 - **Columbia University's Avery Library** has McKim, Mead & White photographs dated on the plate, such as "Penna. Sta. Feb. 11, 09" and "Feb. 25. 1909", naming the George A. Fuller Company as builder.
-- **Books and papers:** *Pennsylvania Railroad Tunnels and Terminals in New York City* (1908) is illustrated with photographs of the works, and the American Society of Civil Engineers published detailed papers on the station site and its construction in September 1910.
+- **Books and papers:** *Pennsylvania Railroad Tunnels and Terminals in New York City* by William Wirt Mills (1908) is illustrated with photographs of the works, including the pit, the tunnels and the scows being loaded (see [Images](#images)), and the American Society of Civil Engineers published detailed papers on the station site and its construction in September 1910.
 - **Paintings:** George Bellows painted the great pit several times in 1907–1909 (*Pennsylvania Station Excavation*, Brooklyn Museum), and Ernest Lawson painted the excavation in 1906.
 - **This entry's main photograph** shows the finished granite front with the builder's hut, its "George A. Fuller Company" sign and stacked timber still on the pavement.
 
@@ -126,7 +126,7 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 | Demolished after only 53 years, while in use | Histories; photographs | Documented | PBS; NYPAP |
 | Stone, clocks and sculpture dumped in the Meadowlands rather than reused | Histories; photograph of a figure in the landfill | Documented | Brooklyn Museum; Untapped New York |
 | Day figure missing for decades; one said to have been found by a recycling firm in 1995 | Secondary accounts | Reported | Ephemeral New York; Untapped New York |
-| About 500 buildings in the Tenderloin cleared for the site | Histories | Reported | Lost New England; PBS |
+| About 500 buildings in the Tenderloin cleared for the site (400 for the station pit, according to a book of 1908) | Histories; 1908 book | Reported | Lost New England; PBS; Mills (1908) |
 | Start date given as 1904 or 1906; McKim's death as 1908 or 1909 | Sources disagree | Documented | PBS; ArchDaily; American-Rails |
 | Waiting room and concourse below street level | Plans and photographs; explained by the tunnels | Observed | 1910 plans (Wikimedia Commons) |
 | Construction photographs, stereographs, glass plates and paintings, 1904–1910 | Archive catalogues | Documented | Smithsonian; MCNY; Hagley; Columbia |
@@ -137,7 +137,7 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 
 **The working:**
 
-- **Excavation:** more than 3 million cubic yards for the whole project is often quoted, but it isn't clear whether that includes the tunnels. Taking it as the station's figure over about four years (about 1,200 working days) gives about 2,500 cubic yards a day. Cresson's paper gives about 502,000 cubic yards for the western contract alone. The spoil went by rail to the West 32nd Street pier and onto scows. At several hundred cubic yards per scow (an assumption, not checked), that's a handful of scow-loads a day: a large but ordinary operation for New York harbour, where such spoil was regularly dumped.
+- **Excavation:** the 1908 book gives 2,500,000 cubic yards for the station pit, dug from 1 July 1904 to 1907. Over about three years (about 900 working days), that's about **2,800 cubic yards a day**, or roughly 5,000 tonnes of rock and earth a day. (Modern accounts give more than 3 million cubic yards, which may include the approaches.) Cresson's paper gives about 502,000 cubic yards for the western contract alone. The spoil went by rail to the West 32nd Street pier and onto scows. At several hundred cubic yards per scow (an assumption, not checked), that's a handful of scow-loads a day: a large but ordinary operation for New York harbour, where such spoil was regularly dumped.
 - **Granite:** 490,000 cu ft is about 13,900 m³, or roughly 36,800 tonnes at 2.65 tonnes per m³. Over about two and a half years of masonry work (about 750 working days), that's about 50 tonnes a day. At roughly 30 tonnes to a railway wagon (an assumption), that's about **two wagon-loads a day**, from Milford, Massachusetts, on the railway network.
 - **Steel:** 27,000 short tons is about 24,500 tonnes. If it was erected over about two years, that's about 40 tonnes a day, or one or two wagon-loads.
 - **Bricks:** 15–17 million bricks over about two and a half years is about 20,000–23,000 bricks a day. Compare about 6,500 a day at [Manchester Town Hall](../../uk/manchester-town-hall/manchester-town-hall.md#timeline-check).
@@ -217,6 +217,15 @@ Click any image to enlarge it.
 ![High view of Pennsylvania Station from the north-east, showing the granite colonnades, the raised block of the waiting room with its great arched windows, the concourse roofs behind, and the brick tenements and rooftops of the surrounding streets](images/aerial-view.jpg)
 *The station from the north-east, 1910s, with the tenements of the old neighbourhood around it. Its size against the surrounding streets is clear. In the bottom left is what seems to be the same excavated block as in the photograph above. Which block it is hasn't been checked; the General Post Office site across Eighth Avenue, dug in these years, is one possibility. Detroit Publishing Co., catalogued as between 1910 and 1920; Library of Congress (det.4a24329), via Wikimedia Commons. Public domain.*
 
+![Painting of the deep excavation at dusk, with dark tenement blocks on the rim, smoke and steam rising from machines in the pit, snow on the ground and a few workmen in the foreground](images/excavation-bellows.jpg)
+*"Pennsylvania Station Excavation", oil on canvas by George Bellows, about 1907–1909 (Brooklyn Museum, 67.205.1). The pit, with steam engines working in it and the old neighbourhood's tenements on the rim. Via Wikimedia Commons. Public domain.*
+
+![Book page with three photographs: a wide view of the huge excavated pit with the city skyline behind; a work car in a rock tunnel under Fifth Avenue; and a long timber loading pier with heaps of rock on scows in the river](images/excavation-1908-book.jpg)
+*A page from* Pennsylvania Railroad Tunnels and Terminals in New York City *by William Wirt Mills (Moses King, 1908). The printed caption reads: "STATION EXCAVATION, begun July 1, '04, after removing 400 buildings; completed, '07; 2,050 by 500 ft. depth, 45 ft. east end, 60 ft. west end; 2,500,000 cubic yds. excavated by N. Y. Contracting Company; concrete retaining walls 30 ft. at bottom, 5 ft. at top. UNDER FIFTH AVE., tunnels built by United Eng. & Con. Co. LOADING SCOWS with material taken from big station excavation." Internet Archive Book Images, via Wikimedia Commons. No known copyright restrictions.*
+
+![Two photographs of tunnel construction: muddy workmen standing on a timber platform inside a tunnelling shield with curved segments overhead; and a long circular tunnel lined with bolted iron rings, with a bulkhead door and lights in the distance](images/tunnel-shield-1908.jpg)
+*Building the tunnels that brought trains to the station: workmen in a tunnelling shield, and a finished length of tunnel lined with iron rings. From the same 1908 book (Internet Archive Book Images, via Wikimedia Commons). No known copyright restrictions.*
+
 ![Impressionist painting of a deep pit in snow-covered ground, with workmen, a small steam locomotive, derricks and smoking chimneys around it, and tall buildings beyond](images/excavation-lawson-1906.jpg)
 *"Excavation – Penn Station", oil on canvas by Ernest Lawson, 1906 (Frederick R. Weisman Art Museum). Workmen, derricks and a small steam locomotive work around the pit in winter. Via Wikimedia Commons (from The Athenaeum). Public domain.*
 
@@ -247,4 +256,5 @@ Click any image to enlarge it.
 - Wikipedia – Milford pink granite: https://en.wikipedia.org/wiki/Milford_pink_granite
 - Wikipedia – Tartarian Empire: https://en.wikipedia.org/wiki/Tartarian_Empire
 - The Spinoff – Inside the wild architecture conspiracy theory gaining traction online: https://thespinoff.co.nz/irl/14-01-2022/inside-the-wild-architecture-conspiracy-theory-gaining-traction-online
+- William Wirt Mills, *Pennsylvania Railroad Tunnels and Terminals in New York City* (New York: Moses King, 1908), Internet Archive: https://archive.org/details/pennsylvaniarail00mill
 - Hagley Museum and Library – Pennsylvania Railroad Company records (progress photographs of the Pennsylvania Terminal, 1907–1910), as reported in search results
