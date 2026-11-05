@@ -87,6 +87,21 @@ Points to weigh up:
 
 The foundation stone of 26 October 1868, and any dated stones on the outside of the building, haven't been checked yet.
 
+### A clock without hands
+
+**Observed** – The owner has supplied a sepia photograph of the newly finished Town Hall across an empty Albert Square (see [Images](#images)). Both clock faces that can be seen, on the front and the side of the tower, have **no hands**. At about 1500 px wide, the left-hand face is sharp enough to show its ring of numerals, but nothing crosses the dial. The older print already in this entry (the [early photograph](#images), 1200 px wide) seems to be the same view, maybe from the same negative or a sister plate. It's less sharp, but it also shows no hands on either face.
+
+This matters because the photograph is otherwise "complete": the stonework, chimneys, railings, lamps and the Albert Memorial are all finished. A building that had been standing and in use for years would be expected to have a working clock.
+
+Possible explanations, roughly from most to least ordinary:
+
+1. **The clock wasn't fitted yet.** Big tower clocks were often the last thing installed, and the hands and movement could come months after the stonework. If so, the photograph dates from **before the clock started running**, probably around the opening in September 1877, which would fit the commemorative album by J. McLeod (**Speculative** until the clock's installation date is found).
+2. **The hands were retouched out, or the faces painted in.** Victorian negatives were often retouched, and here the sky has been blanked out. Pale clock faces were sometimes painted on the negative, which would wipe out the hands with the rest of the dial (**Speculative**). A higher-resolution scan would show whether the dial looks painted.
+3. **Exposure.** This is unlikely. A long exposure blurs moving things, but a clock's hands move slowly. The hour hand barely moves in a few seconds or minutes, and the minute hand only a little, so they should still show. The empty square fits long exposure (see [Tower Bridge](../tower-bridge/tower-bridge.md#where-are-the-workers)), but missing hands don't.
+4. **The alternative reading.** On the old-world view, a clock tower with faces but no working clock fits a building that was **found standing and then fitted out**: the tower and its dials existed first, and the mechanism was added by the new occupants. This is a hunch (**Speculative**). It could be tested by finding when the clock was ordered, from whom, and whether the faces were designed with the tower or added later.
+
+**How to test it:** find the date the clock and its hands were installed (council minutes, the clockmaker's records, the *Manchester Guardian* and *Manchester Courier* for 1877); find the original of this photograph, its photographer and date; and compare it with the 1877 McLeod album in the Historic England Archive (MTH01). If the album shows hands, this view comes from before them. If the album has no hands either, the clock was probably not working at the opening, which the newspapers would be likely to mention.
+
 ### Anomaly log
 
 | Anomaly | Evidence | Label | Source |
@@ -99,6 +114,7 @@ The foundation stone of 26 October 1868, and any dated stones on the outside of 
 | Design placed fourth for looks but chosen for its planning | Histories of the competition | Reported | Wikipedia |
 | Medieval Gothic style for a modern council building | The building | Documented | – |
 | Mayors' names and years painted on a skylight, in ordinary numerals, added up to the 1920s | Owner-supplied photograph | Observed | Wikimedia Commons (via owner) |
+| Early photographs of the finished building show the clock faces with no hands | Two owner-supplied prints of the same view | Observed | Owner (source to be confirmed) |
 
 ### Timeline check
 
@@ -154,6 +170,7 @@ The foundation stone of 26 October 1868, and any dated stones on the outside of 
 - **The colonnade:** How much of the Heaton Park colonnade is original?
 - **The site:** What stood on the triangular site before 1868?
 - **Dates:** Where is the foundation stone, and how is its date written?
+- **The clock:** When were the clock and its hands installed, and who made them? Was the clock working at the opening on 13 September 1877? Who took the photograph of the clock without hands, and when?
 
 ## Leads to follow up
 
@@ -163,6 +180,7 @@ The foundation stone of 26 October 1868, and any dated stones on the outside of 
 - **RIBA Drawings Collection:** Waterhouse's competition and working drawings.
 - **Period journals:** *The Builder* and *The Building News*, 1867–77, and the *Manchester Guardian* and *Manchester Courier*.
 - **Our Town Hall project:** published reports and videos on what has been found during the restoration.
+- **The clock:** the building committee minutes and 1877 newspaper reports for the ordering and installation of the clock and bells; a high-resolution scan of the clock-without-hands photograph, to see whether the dials have been retouched.
 - **Heaton Park:** Historic England's listing for the colonnade, and Manchester City Council's history of it.
 
 ## Research notes
@@ -177,7 +195,10 @@ Click any image to enlarge it. The modern photographs were supplied by the owner
 *The Town Hall today from Albert Square, with the Albert Memorial (1862–67) on the left. Supplied by the owner from Wikipedia (Wikimedia Commons); photographer and licence to be confirmed.*
 
 ![Early black-and-white photograph of Manchester Town Hall with its clock tower, seen across an almost empty Albert Square, with the Albert Memorial on the right](images/albert-square-early-photo.jpg)
-*An early photograph of the finished Town Hall, probably late 1870s or 1880s (date not confirmed). Albert Square is almost empty: there are none of the statues that now stand in it, and hardly any people can be seen, which fits the long exposure times of the period (see the [Tower Bridge](../tower-bridge/tower-bridge.md#where-are-the-workers) discussion). The street level along the front looks much as it does today. Supplied by the owner; photographer, source and licence to be confirmed.*
+*An early photograph of the finished Town Hall, probably late 1870s or 1880s (date not confirmed). Albert Square is almost empty: there are none of the statues that now stand in it, and hardly any people can be seen, which fits the long exposure times of the period (see the [Tower Bridge](../tower-bridge/tower-bridge.md#where-are-the-workers) discussion). The street level along the front looks much as it does today. The clock faces appear to have no hands (see [A clock without hands](#a-clock-without-hands)). Supplied by the owner; photographer, source and licence to be confirmed.*
+
+![Sepia photograph of the newly finished Manchester Town Hall across an empty, unpaved Albert Square, with the Albert Memorial on the right and two clock faces on the tower that have numerals but no hands](images/clock-without-hands.jpg)
+*The Town Hall across an empty Albert Square, with the Albert Memorial on the right. A sharper print of what seems to be the same view as the photograph above. Both clock faces show numerals but **no hands**. Probably about 1877 (not confirmed). Supplied by the owner; photographer, source and licence to be confirmed.*
 
 ![The Great Hall of Manchester Town Hall, with a hammerbeam roof painted with coats of arms, chandeliers, the organ case at the far end, a white statue and murals on the side walls](images/great-hall.jpg)
 *The Great Hall, with its painted hammerbeam roof, Ford Madox Brown's murals on the side walls, and the organ at the far end. The organ was built in 1877 by the French maker Aristide Cavaillé-Coll, the only Cavaillé-Coll organ in the UK; it is being restored (see [Sound and cymatics](../../../ALTERNATIVE-VIEW.md#sound-and-cymatics-the-resonance-argument)). Supplied by the owner from Wikipedia (Wikimedia Commons); photographer and licence to be confirmed.*
