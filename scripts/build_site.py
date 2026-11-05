@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent
 BUILD = ROOT / "build"
 DOCS = BUILD / "docs"
 NAV = BUILD / "nav.yml"
-COPY = ["GLOSSARY.md", "TIMELINE.md", "FIRES.md", "ALTERNATIVE-VIEW.md", "places", "links", "assets"]
+COPY = ["GLOSSARY.md", "TIMELINE.md", "FIRES.md", "ALTERNATIVE-VIEW.md", "MEDIA.md", "media", "places", "links", "assets"]
 COUNTRY_NAMES = {"uk": "UK", "usa": "USA"}
 
 # Link targets pointing at README.md (in any folder depth) -> index.md
@@ -53,7 +53,7 @@ def main() -> int:
         if new != text:
             md.write_text(new, encoding="utf-8")
 
-    lines = ["nav:", '  - Home: index.md', '  - The alternative view: ALTERNATIVE-VIEW.md', '  - Timeline: TIMELINE.md', '  - Fires: FIRES.md', '  - Glossary: GLOSSARY.md', "  - Buildings:"]
+    lines = ["nav:", '  - Home: index.md', '  - The alternative view: ALTERNATIVE-VIEW.md', '  - Timeline: TIMELINE.md', '  - Fires: FIRES.md', '  - Glossary: GLOSSARY.md', '  - Media: MEDIA.md', "  - Buildings:"]
     for country in sorted(p for p in (DOCS / "places").iterdir() if p.is_dir()):
         entries = [d / f"{d.name}.md" for d in sorted(country.iterdir()) if (d / f"{d.name}.md").exists()]
         if not entries:

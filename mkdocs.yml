@@ -61,6 +61,8 @@ markdown_extensions:
       permalink: true
   - pymdownx.magiclink
   - pymdownx.superfences
+  - md_in_html
 
 not_in_nav: |
   /places/**/images/**
+  /media/images/**

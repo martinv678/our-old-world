@@ -4,3 +4,24 @@
 .md-typeset thead:not(:has(th:not(:empty))) {
   display: none;
 }
+
+/* Media page: images as a grid of cards, each image with its caption. */
+.md-typeset .media-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  gap: 1rem;
+  margin: 1em 0;
+}
+.md-typeset .media-grid > p {
+  margin: 0;
+  font-size: 0.68rem;
+  line-height: 1.4;
+}
+.md-typeset .media-grid img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 0.2rem;
+  margin-bottom: 0.4rem;
+}

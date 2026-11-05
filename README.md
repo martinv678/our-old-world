@@ -40,9 +40,11 @@ our-old-world/
 ├── GLOSSARY.md                     # Features index (domes, towers, rose windows...)
 ├── TIMELINE.md                     # Buildings in date order (generated)
 ├── FIRES.md                        # Buildings damaged by fire or bombing (generated)
+├── MEDIA.md                        # Every image on the site, plus found images
 ├── ALTERNATIVE-VIEW.md             # The theories explained, and people to watch
 ├── mkdocs.yml                      # Website settings
 ├── assets/                         # Website styles
+├── media/images/                   # Found images not tied to a building
 ├── scripts/
 │   ├── build_index.py              # Rebuilds the Buildings list and the glossary
 │   └── build_site.py               # Prepares the website build

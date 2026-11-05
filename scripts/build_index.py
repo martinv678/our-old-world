@@ -10,6 +10,8 @@ For every places/<country>/<building>/<building>.md entry, this reads the
   * rewrites each entry's Type and Features rows as clickable links
   * rebuilds FIRES.md, the list of buildings damaged by fire or bombing,
     from each entry's "| **Fires** | ... |" and "| **War damage** | ... |" rows
+  * rebuilds the "Building images" gallery in MEDIA.md from every image in
+    each entry's images/ folder, with the caption it has in the entry
 
 Run from anywhere:  python3 scripts/build_index.py
 """
@@ -23,6 +25,7 @@ README = ROOT / "README.md"
 GLOSSARY = ROOT / "GLOSSARY.md"
 TIMELINE = ROOT / "TIMELINE.md"
 FIRES = ROOT / "FIRES.md"
+MEDIA = ROOT / "MEDIA.md"
 PLACES = ROOT / "places"
 
 LINK = re.compile(r"\[([^\]]+)\]\([^)]*\)")
@@ -30,6 +33,7 @@ CATALOGUE_BLOCK = re.compile(r"<!-- catalogue:start -->.*?<!-- catalogue:end -->
 INDEX_BLOCK = re.compile(r"<!-- index:start -->.*?<!-- index:end -->", re.DOTALL)
 TIMELINE_BLOCK = re.compile(r"<!-- timeline:start -->.*?<!-- timeline:end -->", re.DOTALL)
 FIRES_BLOCK = re.compile(r"<!-- fires:start -->.*?<!-- fires:end -->", re.DOTALL)
+MEDIA_BLOCK = re.compile(r"<!-- media:start -->.*?<!-- media:end -->", re.DOTALL)
 BUILDINGS_BLOCK = re.compile(r"<!-- buildings:start -->.*?<!-- buildings:end -->", re.DOTALL)
 SECTION_HEADING = re.compile(r"^## (.+)$", re.MULTILINE)
 NOT_FEATURES = {"how the glossary works"}
@@ -113,6 +117,47 @@ def build_fires(entries) -> str:
     lines += ["", f"## Damaged by bombing in war ({n_war})", ""] + war_rows
     lines += ["", "<!-- fires:end -->"]
     return "\n".join(lines)
+
+
+IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"}
+# An image line in an entry, optionally followed by an italic caption line.
+ENTRY_IMAGE = re.compile(r"^!\[([^\]]*)\]\(images/([^)\s]+)\)[ \t]*(?:\n\*(.+)\*[ \t]*)?$", re.MULTILINE)
+
+
+def one_line(text: str) -> str:
+    return " ".join(LINK.sub(r"\1", text).split())
+
+
+def build_media(entries) -> str:
+    """Gallery of every building's images, by country then building."""
+    total = 0
+    body = []
+    current = None
+    for e in sorted(entries, key=by_country_then_title):
+        folder = e["path"].parent / "images"
+        files = sorted(f for f in folder.iterdir() if f.suffix.lower() in IMAGE_EXTS) if folder.is_dir() else []
+        if not files:
+            continue
+        used = {}
+        for alt, name, caption in ENTRY_IMAGE.findall(e["text"]):
+            used.setdefault(name, (one_line(alt), one_line(caption)))
+        # Images in the order the entry uses them, then any not yet used.
+        order = [n for n in used if (folder / n).exists()]
+        order += [f.name for f in files if f.name not in used]
+        if e["country"] != current:
+            current = e["country"]
+            body += ["", f"### {current}"]
+        body += ["", f"#### [{e['title']}]({e['rel']}) ({len(order)})", "", '<div class="media-grid" markdown>', ""]
+        for name in order:
+            alt, caption = used.get(name, (name.rsplit(".", 1)[0].replace("-", " "), ""))
+            src = (folder / name).relative_to(ROOT).as_posix()
+            body.append(f"![{alt}]({src})")
+            body.append(f"*{caption or 'Not yet used in the entry.'}*")
+            body.append("")
+        body.append("</div>")
+        total += len(order)
+    lines = ["<!-- media:start -->", "", f"{total} images from {sum(1 for l in body if l.startswith('#### '))} buildings."]
+    return "\n".join(lines + body + ["", "<!-- media:end -->"])
 
 
 def load_entries():
@@ -267,6 +312,11 @@ def main() -> int:
     if FIRES.exists():
         fires = FIRES.read_text(encoding="utf-8")
         FIRES.write_text(FIRES_BLOCK.sub(lambda _: build_fires(entries), fires), encoding="utf-8")
+
+    # Media
+    if MEDIA.exists():
+        media = MEDIA.read_text(encoding="utf-8")
+        MEDIA.write_text(MEDIA_BLOCK.sub(lambda _: build_media(entries), media), encoding="utf-8")
 
     # Entries
     type_names, _ = group(entries, "types")

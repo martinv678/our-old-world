@@ -160,6 +160,7 @@ The **Type** and **Features** rows drive the generated Buildings list in `README
 - Use only images that are public domain or freely licensed (for example from Wikimedia Commons), or that the owner has supplied.
 - Name files in short lowercase words with hyphens, and keep them under about 1600px wide.
 - Every image needs a description and a caption with date, author, source and licence.
+- Building images appear automatically on the [Media](MEDIA.md) page when `build_index.py` runs. Images the owner finds that don't belong to a building go in `media/images/`, with a hand-written block in the "Found images" section of `MEDIA.md`.
 - Historic photos, postcards, engravings and maps are the most valuable, especially ones that show ground levels, construction or lost parts.
 
 ## 9. Housekeeping after every change
