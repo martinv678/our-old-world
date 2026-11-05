@@ -89,6 +89,36 @@ The ordinary explanation is well recorded: the railroad was losing money, the ai
 
 **Observed** (explained) – The waiting room and concourse were below street level, reached by stairs and ramps down from the arcade, and the tracks lay about 45 ft below the street. In other buildings, rooms below street level are a sign of [mud flood](../../../ALTERNATIVE-VIEW.md#the-main-ideas) burial. Here they are not: the excavation of the site is recorded in detail, in engineering papers and in photographs, and the depth was set by the tunnels under the rivers.
 
+### Who built it: names and records
+
+**Observed** (gap) / **Speculative** (interpretation) – The owner's point: the station is only about 115 years old, so there should be records of the people who built it, by name, not just of the company and its architects. Here is what has been found so far.
+
+**Named people:**
+
+- **The railway:** Alexander Cassatt (president, died 1906) and his successors, who ran the project. Samuel Rea, the vice-president in charge of the New York extension, is also named in histories of the project (**Reported**).
+- **The engineers:** several wrote signed papers on the work for the American Society of Civil Engineers in September 1910, including B. F. Cresson Jr. ("The Terminal Station – West"), George C. Clarke ("The Site of the Terminal Station") and Alfred Noble ("The East River Division") (**Documented**).
+- **The designers and artists:** Charles McKim and William Symmes Richardson (architects), Adolph Weinman (sculpture) and Jules Guérin (murals) (**Documented**).
+- **The contractors:** the George A. Fuller Company (the building), the New York Contracting Company (the station pit) and the United Engineering & Contracting Company (tunnels under Fifth Avenue), all named in captions of 1908 (**Documented**).
+- **The photographers:** L. H. Dreyer (the railway's progress photographs), the Bain News Service, the Byron Company and Wurts Bros. (**Documented**).
+
+**Unnamed people:** no names have been found online for the bricklayers, steel erectors, riveters, stone setters, carvers or plasterers, and the size of the workforce isn't given in any source found. The carvers of Weinman's eagles and figures haven't been identified either: a Brooklyn Museum writer who looked into it found no specifics.
+
+**The tunnel deaths:** PBS says more than a dozen workers were killed building the tunnels, many from the bends. A *99% Invisible* episode on sandhogs puts deaths from the bends on the Pennsylvania Railroad tunnels at **at least 50**, and says the men were first recorded as dying of natural causes and the death certificates were later shown to have been **falsified** to hide the conditions (**Reported**). If so, this is a documented case of records about this project being altered, though by the contractors to hide deaths, not to hide the building's origins. The names of the dead haven't been found yet.
+
+**Records that should exist:**
+
+- **Pay and contract records:** the Smithsonian's Penn Station collection includes **"Contract Material Vouchers, 1907–1908"** (Series 4). The Pennsylvania Railroad's own records are at the Pennsylvania State Archives (Manuscript Group 286) and the Hagley Museum and Library. Neither catalogue, as reached so far, mentions payrolls for the station.
+- **Death certificates** in the New York City Municipal Archives, for the men killed on the works.
+- **The 1905 New York State census and the 1910 United States census**, which record occupations and sometimes employers.
+- **Newspapers** of 1904–1910, which reported accidents, strikes and deaths by name.
+- **Union records** of the bricklayers, ironworkers, stonecutters and sandhogs.
+
+**Weighing it up:** the people in charge are well recorded, as for any big project of the time. Ordinary labourers were rarely recorded by name: contractors' time books were usually thrown away, and labourers appear in the records mainly when they died, went on strike or were counted in a census. So the missing names are not unusual in themselves. But the deaths, strikes and payrolls should have left named records. Finding them, or finding that they are missing, is a fair test. Searching the vouchers, the death certificates and the newspapers for names is the next step.
+
+### What were the figures made of?
+
+**Reported** – The Day and Night figures are usually described as carved in pink granite, like the outside of the station. But the Brooklyn Museum's catalogue gives its Night figure as **Tennessee marble**, and a museum blog says conservators found this when the sculpture was cleaned in 2004. A trade article of the 1900s is said to describe the statuary as Knoxville marble. So the station's most famous sculpture may not be the stone that histories say it is. The Kansas City pair and the surviving eagles could be checked the same way.
+
 ### An incredible interior
 
 **Documented** (the interior) / **Speculative** (interpretation) – The owner's starting point for this building is the inside, and it is the part people remember. The arcade led down into a main waiting room about 314 ft long, 109 ft wide and 150 ft high, under coffered vaults carried on Corinthian columns some 60 ft tall, lit by three great semicircular windows high in the walls. Jules Guérin painted six large murals for it. Beyond it, the concourse was a forest of slender steel columns carrying glass vaults over the platforms, a space the Library of Congress catalogues as "The hall of iron". Contemporary and later writers compared the waiting room to the nave of St Peter's in Rome.
@@ -145,6 +175,9 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 | Start date given as 1904 or 1906; McKim's death as 1908 or 1909 | Sources disagree | Documented | PBS; ArchDaily; American-Rails |
 | Waiting room and concourse below street level | Plans and photographs; explained by the tunnels | Observed | 1910 plans (Wikimedia Commons) |
 | Front still standing in June 1966, clock covered, new steel rising behind | Colour photograph, 25 June 1966 | Observed | Wikimedia Commons (TrainWeb) |
+| No names found for the ordinary workers; workforce size unknown | Searches so far | Observed | This project |
+| Tunnel deaths recorded as natural causes; death certificates said to have been falsified | Secondary account | Reported | 99% Invisible (Sandhogs) |
+| Night figure catalogued as Tennessee marble, not pink granite | Museum catalogue; conservation in 2004 | Reported | Brooklyn Museum |
 | Dated glass plates show the pit (Oct. 1908), the steel frame (Oct. 1908), the colonnade being set (Oct. 1908) and the roof steel (May 1909) | Photographs dated on the plate | Documented | Library of Congress (Bain News Service) |
 | No photograph yet seen of the interior being built; the owner doubts the construction record | Catalogues list more photographs, not yet checked | Observed | Smithsonian; MCNY; Hagley; Columbia |
 
@@ -211,6 +244,7 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 - **The spoil:** Where did the scows dump the excavated rock?
 - **The stone:** Why was the granite dumped in the Meadowlands rather than sold or reused? Has any of it been recovered?
 - **The travertine adverts:** What exactly did the railway's advertising say about the stone?
+- **The workers:** What are the names of the men who built the station, and of those killed on the works? How many were there?
 - **The interior:** Is there any photograph of the waiting room's columns, vaults and coffers, or the concourse, being built? Who were the carvers and plasterers?
 - **The clocks:** Do early photographs show hands on Weinman's four clocks?
 - **The site:** What stood on the two blocks before 1904?
@@ -223,6 +257,11 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 - **Columbia University, Avery Library:** McKim, Mead & White photographs of the station, 1908–1910.
 - **Library of Congress:** Historic American Buildings Survey record HABS NY-5471 (photographs and history made before the demolition), and the Detroit Publishing Co. photographs.
 - **American Society of Civil Engineers, *Transactions* vol. LXVIII (September 1910):** papers by B. F. Cresson ("The Terminal Station – West") and George C. Clarke ("The Site of the Terminal Station"), on Project Gutenberg.
+- **Smithsonian, Penn Station collection, Series 4:** "Contract Material Vouchers, 1907–1908", for contractors' and possibly workers' names.
+- **Pennsylvania State Archives, Manuscript Group 286** (Penn Central Railroad Collection) and **Hagley**: Pennsylvania Railroad records, for payrolls and correspondence.
+- **New York City Municipal Archives:** death certificates for men killed on the station and tunnels, 1904–1910.
+- **Censuses of 1905 and 1910:** occupations such as "laborer, Penn. station" or "sandhog".
+- **Jill Jonnes, *Conquering Gotham* (2007):** a detailed history of the station and tunnels, which may name workers.
 - **Brooklyn Museum:** the Night figure and the column fragment, and the story of their rescue.
 - **New York Preservation Archive Project:** the campaign to save the station.
 - **Sanborn and Bromley maps** of the Tenderloin before 1904.
@@ -306,6 +345,9 @@ Click any image to enlarge it.
 - New York Preservation Archive Project – Pennsylvania Station: https://www.nypap.org/preservation-history/pennsylvania-station/
 - Michael Froio – From Iron Fortunes to Railroads: a brief history of McKim, Mead and White: https://michaelfroio.wordpress.com/2013/05/14/from-iron-fortunes-to-railroads-a-brief-history-on-mckim-mead-and-white/
 - Wikipedia – Milford pink granite: https://en.wikipedia.org/wiki/Milford_pink_granite
+- PA State Archives – MG-286, Penn Central Railroad Collection: https://www.phmc.state.pa.us/bah/dam/mg/mg286PRR.htm
+- 99% Invisible – Sandhogs (transcript): https://99percentinvisible.org/episode/sandhogs/transcript/
+- Brooklyn Museum tech blog – Remembering Penn Station: https://techblog.brooklynmuseum.org/2010/09/08/remembering-penn-station/
 - Wikipedia – Tartarian Empire: https://en.wikipedia.org/wiki/Tartarian_Empire
 - The Spinoff – Inside the wild architecture conspiracy theory gaining traction online: https://thespinoff.co.nz/irl/14-01-2022/inside-the-wild-architecture-conspiracy-theory-gaining-traction-online
 - William Wirt Mills, *Pennsylvania Railroad Tunnels and Terminals in New York City* (New York: Moses King, 1908), Internet Archive: https://archive.org/details/pennsylvaniarail00mill
