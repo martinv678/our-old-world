@@ -30,7 +30,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 <!-- media:start -->
 
-71 images from 12 buildings.
+75 images from 13 buildings.
 
 ### Australia
 
@@ -322,6 +322,24 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 ![Black-and-white photograph of the concourse in 1962: tall riveted steel lattice columns and arches carrying a glass roof, a hanging clock with hands, and stairs and railings leading down to the tracks](places/usa/pennsylvania-station-new-york/images/concourse-1962.jpg)
 *The concourse in May 1962: riveted steel lattice columns and arches under a glass roof, with a hanging clock. Cervin Robinson for the Historic American Buildings Survey; Library of Congress (HABS NY-5471), via Wikimedia Commons. Public domain.*
+
+</div>
+
+#### [United States Capitol](places/usa/united-states-capitol/united-states-capitol.md) (4)
+
+<div class="media-grid" markdown>
+
+![Early photograph of the Capitol's east front, with its low ribbed dome, central portico with columns, two smaller domes on the wings, steps and young trees in the foreground](places/usa/united-states-capitol/images/plumbe-1846.jpg)
+*The east front in about 1846, with Bulfinch's low dome: the earliest known photograph of the Capitol. Daguerreotype by John Plumbe; Library of Congress (cph.3g03595), via Wikimedia Commons. Public domain.*
+
+![Watercolour of the burned Capitol in 1814: two pale stone wings with blackened, empty windows, joined by a low brick wall where the centre section had not yet been built, with figures and rubble on the grass in front](places/usa/united-states-capitol/images/after-burning-1814.jpg)
+*"U.S. Capitol after burning by the British", watercolour by George Munger, 1814. The two wings stand as shells with burned-out windows, and the space between them, where the Rotunda would later go, is only a temporary wooden and brick passage. Library of Congress (LCCN 2004662324), via Wikimedia Commons. Public domain.*
+
+![Photograph of the Capitol in about 1860 with the new dome half built: the columned drum complete, the iron ribs of the upper dome rising in an open cage, and a tall crane on top, behind a line of trees](places/usa/united-states-capitol/images/dome-construction-1860.jpg)
+*The new dome under construction, about 1860: the drum and its columns are up, the iron ribs of the upper dome are being raised, and a crane stands at the top. Library of Congress (LCCN 2009631424), via Wikimedia Commons. Public domain.*
+
+![Photograph of a large brick foundry building with arched windows and signs reading "Iron Foundry and Machine Shop" and "Janes & Kirtland", with two men standing in front](places/usa/united-states-capitol/images/janes-kirtland-foundry.jpg)
+*The iron foundry of Janes & Kirtland in New York, which cast the iron for the dome. US Capitol (Architect of the Capitol), via Wikimedia Commons. Public domain.*
 
 </div>
 

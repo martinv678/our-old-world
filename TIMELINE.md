@@ -29,6 +29,7 @@ The list below is generated automatically by `scripts/build_index.py`, so don't 
 | Year | Building | Country | Built | Type |
 |---|---|---|---|---|
 | 1787 | [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) | UK | 1787 (Marine Pavilion); rebuilt and extended c. 1815–1823 | Palace |
+| 1793 | [United States Capitol](places/usa/united-states-capitol/united-states-capitol.md) | USA | 1793–1829; extended 1851–1868; cast-iron dome 1855–1866 | Government building |
 
 ## 19th century
 

@@ -12,12 +12,13 @@ The lists are generated automatically by `scripts/build_index.py` from the **Fir
 
 <!-- fires:start -->
 
-## Damaged or destroyed by fire (8)
+## Damaged or destroyed by fire (9)
 
 | Building | Country | Built | What happened | Status |
 |---|---|---|---|---|
 | [Cologne Cathedral](places/germany/cologne-cathedral/cologne-cathedral.md) | Germany | Begun 1248; work stopped 1473; resumed 1842; completed 1880 | 1248: the Old Cathedral damaged by fire, the year the new cathedral was begun (reported) | In use |
 | [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) | UK | 1787 (Marine Pavilion); rebuilt and extended c. 1815–1823 | 2 November 1975: Music Room badly damaged by arson; restored and reopened in 1986 | Museum, run by Brighton & Hove Museums |
+| [United States Capitol](places/usa/united-states-capitol/united-states-capitol.md) | USA | 1793–1829; extended 1851–1868; cast-iron dome 1855–1866 | 24 August 1814: burned by British troops; 24 December 1851: fire destroyed the Library of Congress in the west front, with about 35,000 of its 55,000 books; 1898: gas explosion and fire in the Senate wing (reported) | In use |
 | [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) | UK | Rebuilt c. 1840–1870 after the fire of 1834; clock tower completed c. 1859 | 16 October 1834: most of the old palace destroyed, after old tally sticks were burned in its furnaces; the present palace replaced it | In use |
 | [The Crystal Palace](places/uk/crystal-palace/crystal-palace.md) | UK | 1850–1851; dismantled and rebuilt larger at Sydenham 1852–1854 | 30 December 1866: north transept destroyed and never rebuilt; 30 November 1936: main building destroyed in a few hours, cause never established | Destroyed by fire 1936 |
 | [Alexandra Palace](places/uk/alexandra-palace/alexandra-palace.md) | UK | First palace c. 1865–1873 (burned 1873); rebuilt 1873–1875 | 9 June 1873: destroyed 16 days after opening, three staff killed; 10 July 1980: about a third destroyed, including the Great Hall and its organ | In use as an events venue. Burned 1873, rebuilt 1875 |

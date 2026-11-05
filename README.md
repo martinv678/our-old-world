@@ -68,7 +68,7 @@ The town or city goes in the details table at the top of each entry, not in the 
 Every building, grouped by type. A building can appear under more than one type (for example a station that is also a hotel). This list is generated automatically from each entry's **Type** row, so there's no need to edit it by hand.
 
 <!-- catalogue:start -->
-**Jump to:** [Bridge](#bridge) (1) · [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Church](#church) (1) · [Concert hall](#concert-hall) (2) · [Exhibition hall](#exhibition-hall) (5) · [Glasshouse](#glasshouse) (1) · [Government building](#government-building) (1) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Law court](#law-court) (2) · [Monument](#monument) (1) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (5) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Theatre](#theatre) (1) · [Town hall](#town-hall) (2) · [Villa](#villa) (2)
+**Jump to:** [Bridge](#bridge) (1) · [Casino](#casino) (1) · [Castle](#castle) (2) · [Cathedral](#cathedral) (2) · [Church](#church) (1) · [Concert hall](#concert-hall) (2) · [Exhibition hall](#exhibition-hall) (5) · [Glasshouse](#glasshouse) (1) · [Government building](#government-building) (2) · [Historic district](#historic-district) (1) · [Hotel](#hotel) (1) · [Law court](#law-court) (2) · [Monument](#monument) (1) · [Museum](#museum) (2) · [Palace](#palace) (1) · [Planned town](#planned-town) (1) · [Railway station](#railway-station) (5) · [Shopping arcade](#shopping-arcade) (1) · [Star fort](#star-fort) (2) · [Street level](#street-level) (1) · [Theatre](#theatre) (1) · [Town hall](#town-hall) (2) · [Villa](#villa) (2)
 
 ### Bridge
 
@@ -130,6 +130,7 @@ Every building, grouped by type. A building can appear under more than one type 
 | Building | Country | Built | Status |
 |---|---|---|---|
 | [Palace of Westminster and Elizabeth Tower](places/uk/palace-of-westminster/palace-of-westminster.md) | UK | Rebuilt c. 1840–1870 after the fire of 1834; clock tower completed c. 1859 | In use |
+| [United States Capitol](places/usa/united-states-capitol/united-states-capitol.md) | USA | 1793–1829; extended 1851–1868; cast-iron dome 1855–1866 | In use |
 
 ### Historic district
 

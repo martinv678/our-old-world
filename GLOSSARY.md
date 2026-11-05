@@ -13,17 +13,17 @@ The building lists and the index below are generated automatically from the **Fe
 | [Clock tower](#clock-tower) | 5 |
 | [Coloured tilework](#coloured-tilework) | 1 |
 | [Courtyard](#courtyard) | 1 |
-| [Dome](#dome) | 8 |
+| [Dome](#dome) | 9 |
 | [Inscriptions](#inscriptions) | 2 |
 | [Iron and glass construction](#iron-and-glass-construction) | 11 |
 | [Landscaped park](#landscaped-park) | 9 |
 | [Minaret](#minaret) | 2 |
-| [Monolithic columns](#monolithic-columns) | 1 |
+| [Monolithic columns](#monolithic-columns) | 2 |
 | [Moorish arches](#moorish-arches) | 3 |
 | [Onion dome](#onion-dome) | 2 |
-| [Portico](#portico) | 4 |
+| [Portico](#portico) | 5 |
 | [Raised streets](#raised-streets) | 1 |
-| [Rooftop sculpture](#rooftop-sculpture) | 2 |
+| [Rooftop sculpture](#rooftop-sculpture) | 3 |
 | [Rose window](#rose-window) | 1 |
 | [Spire](#spire) | 5 |
 | [Star fort](#star-fort) | 2 |
@@ -109,7 +109,7 @@ A rounded roof shaped like half a sphere, rising above the main building.
 **Why it matters:** domes are one of the most common features of "old world" architecture. The same forms appear on palaces, casinos, churches and exhibition halls across continents in the same decades. Some theories link domes to lost energy or acoustic technology.
 
 <!-- buildings:start -->
-**Buildings (8):**
+**Buildings (9):**
 
 - [Royal Exhibition Building](places/australia/royal-exhibition-building/royal-exhibition-building.md) – Australia
 - [Dresden Hauptbahnhof](places/germany/dresden-hauptbahnhof/dresden-hauptbahnhof.md) – Germany
@@ -119,6 +119,7 @@ A rounded roof shaped like half a sphere, rising above the main building.
 - [Royal Albert Hall](places/uk/royal-albert-hall/royal-albert-hall.md) – UK
 - [Royal Pavilion, Brighton](places/uk/royal-pavilion-brighton/royal-pavilion-brighton.md) – UK
 - [Palace of Fine Arts, Chicago](places/usa/palace-of-fine-arts-chicago/palace-of-fine-arts-chicago.md) – USA
+- [United States Capitol](places/usa/united-states-capitol/united-states-capitol.md) – USA
 <!-- buildings:end -->
 
 ## Inscriptions
@@ -196,9 +197,10 @@ Columns, obelisks or pillars carved from a single block of stone, often weighing
 **Why it matters:** quarrying, moving and raising huge single stones by hand raises questions about the methods really used. Monolithic columns are often cited as evidence of lost building technology.
 
 <!-- buildings:start -->
-**Buildings (1):**
+**Buildings (2):**
 
 - [Saint Isaac's Cathedral](places/russia/saint-isaacs-cathedral/saint-isaacs-cathedral.md) – Russia
+- [United States Capitol](places/usa/united-states-capitol/united-states-capitol.md) – USA
 <!-- buildings:end -->
 
 ## Moorish arches
@@ -247,10 +249,11 @@ Statues or sculpture groups standing on a building's roofline, often figures fro
 **Why it matters:** the subjects chosen for rooftop sculpture can hint at what a building's makers valued or knew. Figures representing electricity or energy on 19th-century buildings are of particular interest to old world research.
 
 <!-- buildings:start -->
-**Buildings (2):**
+**Buildings (3):**
 
 - [Frankfurt (Main) Hauptbahnhof](places/germany/frankfurt-hauptbahnhof/frankfurt-hauptbahnhof.md) – Germany
 - [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) – USA
+- [United States Capitol](places/usa/united-states-capitol/united-states-capitol.md) – USA
 <!-- buildings:end -->
 
 ## Rose window
@@ -383,12 +386,13 @@ A porch in the form of a temple front: a row of columns carrying a roof, often w
 **Why it matters:** in the 19th century, temple porticos with Corinthian or Ionic columns were put on town halls, assembly rooms, theatres, banks and museums across Britain, Europe, Russia and the Americas at the same time. That makes them a clear example of the [shared worldwide architecture](ALTERNATIVE-VIEW.md) theme, and of grand fronts on buildings in young or small towns.
 
 <!-- buildings:start -->
-**Buildings (4):**
+**Buildings (5):**
 
 - [Leeds Town Hall](places/uk/leeds-town-hall/leeds-town-hall.md) – UK
 - [Lyceum Theatre, Newport](places/uk/lyceum-theatre-newport/lyceum-theatre-newport.md) – UK
 - [St George's Hall, Liverpool](places/uk/st-georges-hall-liverpool/st-georges-hall-liverpool.md) – UK
 - [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) – USA
+- [United States Capitol](places/usa/united-states-capitol/united-states-capitol.md) – USA
 <!-- buildings:end -->
 
 ---
