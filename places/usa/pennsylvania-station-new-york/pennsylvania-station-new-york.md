@@ -95,6 +95,8 @@ The ordinary explanation is well recorded: the railroad was losing money, the ai
 
 For the [master builders](../../../ALTERNATIVE-VIEW.md#skill-and-precision-the-master-builders-argument) argument, the questions are where the carvers, plasterers and stone setters came from, how the coffers and the giant columns were made and set so exactly, and whether anything had to be redone. The sources found so far describe the method rather than the men. The lower walls and stair columns were real travertine. Most of the rest was thin stone and plaster sheets on a steel frame, made to look like solid masonry. Some sources say the vaults were Guastavino tile. That would make the room a modern steel building dressed as a Roman one, like [Tower Bridge](../../uk/tower-bridge/tower-bridge.md#a-steel-bridge-in-medieval-clothes). But the claim is unconfirmed, and **no photograph of the interior being built has been seen yet** for this entry (see below).
 
+The interior photographs in [Images](#images) show it as finished: the waiting room in 1911 and again in 1962, when the Historic American Buildings Survey recorded it before the demolition, and the concourse in Joseph Pennell's etching of 1919 and in 1962. By 1962 a low modern ticket counter had been built across the waiting room floor, but the vaults, columns and windows were unchanged.
+
 ### The construction record: what has been seen
 
 **The owner's view** (**Speculative**) – The owner doesn't accept the construction photographs as proof that the station was built from scratch. Their reading is that the photographs show a space being cleared and dug out, not the building itself being erected.
@@ -123,7 +125,7 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 - **[Letters in dates](../../../ALTERNATIVE-VIEW.md#letters-in-dates-the-j-argument):** no date stone or dated inscription has been found yet. The plate dates on the 1909 photographs are written in ordinary figures ("Feb. 11, 09").
 - **[Sound and cymatics](../../../ALTERNATIVE-VIEW.md#sound-and-cymatics-the-resonance-argument):** there were no rose windows, organ or bells. The waiting room's acoustics are not recorded in the sources found.
 - **Lost energy technology:** nothing obvious. The station was lit by about 30,000 electric bulbs and its trains were electric, both openly modern.
-- **Clocks:** each of the four entrances had a Weinman clock flanked by Day and Night. In the 1966 demolition photograph the Seventh Avenue clock is covered with a sheet. The clocks haven't yet been checked for hands in early images, as was done for [Manchester Town Hall](../../uk/manchester-town-hall/manchester-town-hall.md#a-clock-without-hands).
+- **Clocks:** each of the four entrances had a Weinman clock flanked by Day and Night. In the 1966 demolition photograph the Seventh Avenue clock is covered with a sheet. In the waiting room photograph of 1911, a large clock high in the arch is too faint to show whether it has hands; the hanging clock in the 1962 concourse photograph clearly has them. The clocks haven't yet been checked for hands in early images, as was done for [Manchester Town Hall](../../uk/manchester-town-hall/manchester-town-hall.md#a-clock-without-hands).
 
 ### Map check
 
@@ -261,6 +263,18 @@ Click any image to enlarge it.
 
 ![Colour photograph of the station's granite front at Seventh Avenue and 32nd Street in 1966: the sculpture group of two robed figures around a covered clock, with eagles either side, above a colonnade; a long banner reading "New Madison Square Garden Sports Center, Redeveloped Pennsylvania Station", a Turner Construction Company sign, and new steelwork visible between the columns](images/demolition-1966.jpg)
 *The Seventh Avenue front on 25 June 1966, during the demolition. Weinman's Day and Night figures and four eagles are still in place, but the clock between them is covered with a dark sheet, with a ladder above. A banner advertises the "New Madison Square Garden Sports Center" and "Redeveloped Pennsylvania Station", and the steel frame of the new building can be seen through the colonnade. Photograph by Hikki Nagasaki, via TrainWeb and Wikimedia Commons, where it is marked as public domain (not independently checked).*
+
+![Photograph of the main waiting room in 1911: a vast hall with giant Corinthian columns, coffered vaults, huge arched windows letting in hazy light, a bronze statue in a niche on the left with an inscribed plaque, wide steps in the foreground and small groups of travellers on the floor, some blurred](images/waiting-room-1911.jpg)
+*The main waiting room in 1911, from the steps down from the arcade, with the statue of Alexander Cassatt in its niche on the left. A large clock is set high in the arch on the right; at this resolution its hands can't be made out. Library of Congress (LCCN 2004670836), via Wikimedia Commons. Public domain.*
+
+![Etching of the station concourse: steel lattice arches rising like branches into glass vaults, crowds on the floor below, and stairs going down to the platforms](images/hall-of-iron-pennell.jpg)
+*"The Hall of Iron, Pennsylvania Station, New York": the concourse, etched by Joseph Pennell in 1919 (trial proof). Library of Congress (LCCN 2003673809), via Wikimedia Commons. Public domain.*
+
+![Black-and-white photograph of the waiting room in 1962: coffered vault, great arched window, fluted Corinthian columns and travertine walls, with a low modern ticket counter and canopy built across the floor](images/waiting-room-1962.jpg)
+*The waiting room on 8 May 1962, photographed for the Historic American Buildings Survey before the demolition. The coffered vault, columns and arched windows are intact, but a modern ticket counter with a sloping canopy has been built across the floor. Cervin Robinson; Library of Congress (HABS NY-5471), via Wikimedia Commons. Public domain.*
+
+![Black-and-white photograph of the concourse in 1962: tall riveted steel lattice columns and arches carrying a glass roof, a hanging clock with hands, and stairs and railings leading down to the tracks](images/concourse-1962.jpg)
+*The concourse in May 1962: riveted steel lattice columns and arches under a glass roof, with a hanging clock. Cervin Robinson for the Historic American Buildings Survey; Library of Congress (HABS NY-5471), via Wikimedia Commons. Public domain.*
 
 ## Sources
 

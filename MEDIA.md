@@ -30,7 +30,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 <!-- media:start -->
 
-67 images from 12 buildings.
+71 images from 12 buildings.
 
 ### Australia
 
@@ -274,7 +274,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 ### USA
 
-#### [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) (11)
+#### [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) (15)
 
 <div class="media-grid" markdown>
 
@@ -310,6 +310,18 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 ![Colour photograph of the station's granite front at Seventh Avenue and 32nd Street in 1966: the sculpture group of two robed figures around a covered clock, with eagles either side, above a colonnade; a long banner reading "New Madison Square Garden Sports Center, Redeveloped Pennsylvania Station", a Turner Construction Company sign, and new steelwork visible between the columns](places/usa/pennsylvania-station-new-york/images/demolition-1966.jpg)
 *The Seventh Avenue front on 25 June 1966, during the demolition. Weinman's Day and Night figures and four eagles are still in place, but the clock between them is covered with a dark sheet, with a ladder above. A banner advertises the "New Madison Square Garden Sports Center" and "Redeveloped Pennsylvania Station", and the steel frame of the new building can be seen through the colonnade. Photograph by Hikki Nagasaki, via TrainWeb and Wikimedia Commons, where it is marked as public domain (not independently checked).*
+
+![Photograph of the main waiting room in 1911: a vast hall with giant Corinthian columns, coffered vaults, huge arched windows letting in hazy light, a bronze statue in a niche on the left with an inscribed plaque, wide steps in the foreground and small groups of travellers on the floor, some blurred](places/usa/pennsylvania-station-new-york/images/waiting-room-1911.jpg)
+*The main waiting room in 1911, from the steps down from the arcade, with the statue of Alexander Cassatt in its niche on the left. A large clock is set high in the arch on the right; at this resolution its hands can't be made out. Library of Congress (LCCN 2004670836), via Wikimedia Commons. Public domain.*
+
+![Etching of the station concourse: steel lattice arches rising like branches into glass vaults, crowds on the floor below, and stairs going down to the platforms](places/usa/pennsylvania-station-new-york/images/hall-of-iron-pennell.jpg)
+*"The Hall of Iron, Pennsylvania Station, New York": the concourse, etched by Joseph Pennell in 1919 (trial proof). Library of Congress (LCCN 2003673809), via Wikimedia Commons. Public domain.*
+
+![Black-and-white photograph of the waiting room in 1962: coffered vault, great arched window, fluted Corinthian columns and travertine walls, with a low modern ticket counter and canopy built across the floor](places/usa/pennsylvania-station-new-york/images/waiting-room-1962.jpg)
+*The waiting room on 8 May 1962, photographed for the Historic American Buildings Survey before the demolition. The coffered vault, columns and arched windows are intact, but a modern ticket counter with a sloping canopy has been built across the floor. Cervin Robinson; Library of Congress (HABS NY-5471), via Wikimedia Commons. Public domain.*
+
+![Black-and-white photograph of the concourse in 1962: tall riveted steel lattice columns and arches carrying a glass roof, a hanging clock with hands, and stairs and railings leading down to the tracks](places/usa/pennsylvania-station-new-york/images/concourse-1962.jpg)
+*The concourse in May 1962: riveted steel lattice columns and arches under a glass roof, with a hanging clock. Cervin Robinson for the Historic American Buildings Survey; Library of Congress (HABS NY-5471), via Wikimedia Commons. Public domain.*
 
 </div>
 
