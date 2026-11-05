@@ -89,19 +89,30 @@ The ordinary explanation is well recorded: the railroad was losing money, the ai
 
 **Observed** (explained) – The waiting room and concourse were below street level, reached by stairs and ramps down from the arcade, and the tracks lay about 45 ft below the street. In other buildings, rooms below street level are a sign of [mud flood](../../../ALTERNATIVE-VIEW.md#the-main-ideas) burial. Here they are not: the excavation of the site is recorded in detail, in engineering papers and in photographs, and the depth was set by the tunnels under the rivers.
 
-### A clear construction record
+### An incredible interior
 
-**Documented** – Unlike many buildings in this project, Penn Station was recorded while it was going up, by its builders, by commercial photographers and by artists:
+**Documented** (the interior) / **Speculative** (interpretation) – The owner's starting point for this building is the inside, and it is the part people remember. The arcade led down into a main waiting room about 314 ft long, 109 ft wide and 150 ft high, under coffered vaults carried on Corinthian columns some 60 ft tall, lit by three great semicircular windows high in the walls. Jules Guérin painted six large murals for it. Beyond it, the concourse was a forest of slender steel columns carrying glass vaults over the platforms, a space the Library of Congress catalogues as "The hall of iron". Contemporary and later writers compared the waiting room to the nave of St Peter's in Rome.
 
-- **The Smithsonian** (National Museum of American History, Archives Center) holds a "Penn Station, New York, Photographs" collection: prints of 1904–1909, stereographs of 1904–1909 and glass-plate negatives of 1908–1910, covering the station's foundations, the West 32nd Street pier and the tunnels.
-- **The Museum of the City of New York** has views of the excavation in 1906 by the Byron Company and of the construction in 1908 by Wurts Bros.
-- **The Hagley Museum and Library** lists progress photographs by L. H. Dreyer and others of the building of the terminal, 1907–1910, in the Pennsylvania Railroad's records.
-- **Columbia University's Avery Library** has McKim, Mead & White photographs dated on the plate, such as "Penna. Sta. Feb. 11, 09" and "Feb. 25. 1909", naming the George A. Fuller Company as builder.
-- **Books and papers:** *Pennsylvania Railroad Tunnels and Terminals in New York City* by William Wirt Mills (1908) is illustrated with photographs of the works, including the pit, the tunnels and the scows being loaded (see [Images](#images)), and the American Society of Civil Engineers published detailed papers on the station site and its construction in September 1910.
-- **Paintings:** George Bellows painted the great pit several times in 1907–1909 (*Pennsylvania Station Excavation*, Brooklyn Museum), and Ernest Lawson painted the excavation in 1906.
-- **This entry's main photograph** shows the finished granite front with the builder's hut, its "George A. Fuller Company" sign and stacked timber still on the pavement.
+For the [master builders](../../../ALTERNATIVE-VIEW.md#skill-and-precision-the-master-builders-argument) argument, the questions are where the carvers, plasterers and stone setters came from, how the coffers and the giant columns were made and set so exactly, and whether anything had to be redone. The sources found so far describe the method rather than the men. The lower walls and stair columns were real travertine. Most of the rest was thin stone and plaster sheets on a steel frame, made to look like solid masonry. Some sources say the vaults were Guastavino tile. That would make the room a modern steel building dressed as a Roman one, like [Tower Bridge](../../uk/tower-bridge/tower-bridge.md#a-steel-bridge-in-medieval-clothes). But the claim is unconfirmed, and **no photograph of the interior being built has been seen yet** for this entry (see below).
 
-For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-construction-photographs-the-photo-record-argument), Penn Station is a **benchmark**, like [Tower Bridge](../../uk/tower-bridge/tower-bridge.md#a-benchmark-for-construction-photographs). It shows what a real construction record looks like for a stone-clad building in a classical style, made after 1900. Its record is stronger than that of any 19th-century stone building in the project.
+### The construction record: what has been seen
+
+**The owner's view** (**Speculative**) – The owner doesn't accept the construction photographs as proof that the station was built from scratch. Their reading is that the photographs show a space being cleared and dug out, not the building itself being erected.
+
+**What the photographs show** (**Documented**) – That was true of the images first added to this entry, which show the pit, the tunnels and the finished front. Since then, four glass-plate negatives from the Bain News Service, now in the Library of Congress, have been found on Wikimedia Commons (see [Images](#images)). Each has its date written by hand on the plate:
+
+1. **"Penn. R.R. Site, Oct. '08"** – the pit, with trestles, a small locomotive, stacked steel and the rock walls of the excavation. No building yet.
+2. **"P.R.R. Terminal, Oct. '08"** – the **steel skeleton** of the station: columns, girders and floor beams over the whole site, with derricks working on top and Macy's store behind.
+3. **"P.R.R. Terminal, Oct. '08"** (plate 487-9) – the **granite colonnade being built**: the columns standing with no roof between them, the pediment set, derricks and steelwork above, cut stone blocks lying on the ground, and the "George A. Fuller Company, Building Construction" sign.
+4. **"Penn. R.R. Station, New York, May '09"** – the stone front finished, with the **steel roof over the waiting room still being put up**, derricks on top and the arched windows framed but open to the sky.
+
+Taken together, these show the building going up in stages over seven months: an empty pit, a steel frame, stone set onto it, and the roof last. They are numbered in sequence (487-7, 487-8, 487-9), which fits a news agency's set taken on one visit.
+
+**What still hasn't been seen:** the **interior** being built. No photograph has yet been found of the waiting room's columns, vaults or coffers going up, or of the concourse's steel and glass being erected. The catalogues list more: the Smithsonian's collection (prints and stereographs of 1904–1909, glass plates of 1908–1910), the Museum of the City of New York's construction views of 1908 by Wurts Bros., the railroad's own progress photographs by L. H. Dreyer and others (1907–1910) at Hagley and Columbia, and Columbia's dated plates such as "Penna. Sta. Feb. 11, 09" and "Mar. 26, 09". Their contents haven't been checked, because those sites are blocked here. If the interior was photographed under construction, that is where it will be.
+
+**Other records:** the 1908 book *Pennsylvania Railroad Tunnels and Terminals in New York City* by William Wirt Mills, the engineering papers of September 1910, and the paintings of the pit by George Bellows (1907–1909) and Ernest Lawson (1906).
+
+For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-construction-photographs-the-photo-record-argument), the outside of Penn Station now has a dated construction sequence, like [Tower Bridge](../../uk/tower-bridge/tower-bridge.md#a-benchmark-for-construction-photographs). The interior is the open question.
 
 ### "Founded" or built?
 
@@ -132,7 +143,8 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 | Start date given as 1904 or 1906; McKim's death as 1908 or 1909 | Sources disagree | Documented | PBS; ArchDaily; American-Rails |
 | Waiting room and concourse below street level | Plans and photographs; explained by the tunnels | Observed | 1910 plans (Wikimedia Commons) |
 | Front still standing in June 1966, clock covered, new steel rising behind | Colour photograph, 25 June 1966 | Observed | Wikimedia Commons (TrainWeb) |
-| Construction photographs, stereographs, glass plates and paintings, 1904–1910 | Archive catalogues | Documented | Smithsonian; MCNY; Hagley; Columbia |
+| Dated glass plates show the pit (Oct. 1908), the steel frame (Oct. 1908), the colonnade being set (Oct. 1908) and the roof steel (May 1909) | Photographs dated on the plate | Documented | Library of Congress (Bain News Service) |
+| No photograph yet seen of the interior being built; the owner doubts the construction record | Catalogues list more photographs, not yet checked | Observed | Smithsonian; MCNY; Hagley; Columbia |
 
 ### Timeline check
 
@@ -173,12 +185,14 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 
 - Evidence that something older stood on the site before 1904, in maps, photographs or the excavation records
 - Construction photographs that turn out to be misdated, retouched or of a different building
+- A thorough search of the progress photographs that finds no image of the waiting room or concourse being built
 - Large gaps in the material, workforce or cost records that the official account can't fill
 - Evidence that the stone was dumped to stop it being examined, rather than for cost
 
 ### What would weaken it
 
-- The construction photographs already catalogued at the Smithsonian, the Museum of the City of New York, Hagley and Columbia (this record is already strong)
+- The dated Bain photographs of 1908–1909 already show the steel frame, the colonnade and the roof going up
+- Photographs of the interior being built, if they are in the Smithsonian, Museum of the City of New York, Hagley or Columbia collections
 - The engineering papers of 1910 describing the excavation and building in detail
 - The demolition contracts showing why the stone was dumped
 - The Pennsylvania Railroad's accounts, contracts and correspondence for the station
@@ -190,6 +204,7 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 - **The spoil:** Where did the scows dump the excavated rock?
 - **The stone:** Why was the granite dumped in the Meadowlands rather than sold or reused? Has any of it been recovered?
 - **The travertine adverts:** What exactly did the railway's advertising say about the stone?
+- **The interior:** Is there any photograph of the waiting room's columns, vaults and coffers, or the concourse, being built? Who were the carvers and plasterers?
 - **The clocks:** Do early photographs show hands on Weinman's four clocks?
 - **The site:** What stood on the two blocks before 1904?
 
@@ -215,13 +230,25 @@ For the [photo record argument](../../../ALTERNATIVE-VIEW.md#missing-constructio
 Click any image to enlarge it.
 
 ![Pennsylvania Station's long granite colonnade, with the great arched windows of the waiting room rising behind, horse-drawn carts in the street, a contractor's hut and sign, stacked timber, and an excavated block in the foreground](images/station-nearly-finished.jpg)
-*Pennsylvania Station, probably shortly before the opening in 1910. In the foreground is a cleared and excavated block across the street. On the right are the builder's hut, its sign ("George A. Fuller Company, Building Construction") and stacked timber, so the photograph shows the end of construction. Detroit Publishing Co.; Library of Congress (det.4a23398), via Wikimedia Commons. Public domain.*
+*Pennsylvania Station, after May 1909 and probably shortly before the opening in 1910 (a Bain photograph of May 1909 from the same spot still shows the roof steel going up). In the foreground is a cleared and excavated block across the street. On the right are the builder's hut, its sign ("George A. Fuller Company, Building Construction") and stacked timber, so the photograph shows the end of construction. Detroit Publishing Co.; Library of Congress (det.4a23398), via Wikimedia Commons. Public domain.*
 
 ![High view of Pennsylvania Station from the north-east, showing the granite colonnades, the raised block of the waiting room with its great arched windows, the concourse roofs behind, and the brick tenements and rooftops of the surrounding streets](images/aerial-view.jpg)
 *The station from the north-east, 1910s, with the tenements of the old neighbourhood around it. Its size against the surrounding streets is clear. In the bottom left is what seems to be the same excavated block as in the photograph above. Which block it is hasn't been checked; the General Post Office site across Eighth Avenue, dug in these years, is one possibility. Detroit Publishing Co., catalogued as between 1910 and 1920; Library of Congress (det.4a24329), via Wikimedia Commons. Public domain.*
 
 ![Painting of the deep excavation at dusk, with dark tenement blocks on the rim, smoke and steam rising from machines in the pit, snow on the ground and a few workmen in the foreground](images/excavation-bellows.jpg)
 *"Pennsylvania Station Excavation", oil on canvas by George Bellows, about 1907–1909 (Brooklyn Museum, 67.205.1). The pit, with steam engines working in it and the old neighbourhood's tenements on the rim. Via Wikimedia Commons. Public domain.*
+
+![Glass-plate photograph captioned "Penn. R.R. Site Oct. '08": a vast excavated pit with rock walls, a curving timber trestle carrying a railway, stacked steel, a small locomotive, and old brick buildings and a church along the rim](images/site-october-1908.jpg)
+*"Penn. R.R. Site, Oct. '08", written on the plate (no. 487-7): the pit before the steel went up. Bain News Service; Library of Congress (LCCN 2014682318), via Wikimedia Commons. Public domain.*
+
+![Glass-plate photograph captioned "P.R.R. Terminal Oct. '08": the bare steel frame of the station, with columns, girders and floor beams over the whole site, tall derricks working on top, and Macy's store in the background](images/steel-frame-october-1908.jpg)
+*"P.R.R. Terminal, Oct. '08" (plate 487-8): the steel skeleton of the station, with derricks on top and Macy's store behind. Bain News Service; Library of Congress (LCCN 2014682319), via Wikimedia Commons. Public domain.*
+
+![Glass-plate photograph captioned "P.R.R. Terminal Oct. '08": the granite colonnade and pediment being built, with columns standing and no roof between them, steelwork and derricks above, cut stone on the ground, and a sign reading "George A. Fuller Company, Building Construction"](images/colonnade-october-1908.jpg)
+*"P.R.R. Terminal, Oct. '08" (plate 487-9): the granite colonnade being set onto the steel, with derricks above and the builder's sign on the left. Bain News Service; Library of Congress (LCCN 2014682320), via Wikimedia Commons. Public domain.*
+
+![Glass-plate photograph captioned "Penn. R.R. Station, New York, May '09": the finished granite front and colonnade, with the steel roof of the waiting room still being erected above the arched windows, derricks on top, and an excavated block in the foreground](images/roof-steel-may-1909.jpg)
+*"Penn. R.R. Station, New York, May '09" (plate 342-13): the stone front finished, with the steel roof over the waiting room still being put up. It is taken from almost the same spot as the photograph at the top of this entry, which must therefore be later. Bain News Service; Library of Congress (LCCN 2014681599), via Wikimedia Commons. Public domain.*
 
 ![Book page with three photographs: a wide view of the huge excavated pit with the city skyline behind; a work car in a rock tunnel under Fifth Avenue; and a long timber loading pier with heaps of rock on scows in the river](images/excavation-1908-book.jpg)
 *A page from* Pennsylvania Railroad Tunnels and Terminals in New York City *by William Wirt Mills (Moses King, 1908). The printed caption reads: "STATION EXCAVATION, begun July 1, '04, after removing 400 buildings; completed, '07; 2,050 by 500 ft. depth, 45 ft. east end, 60 ft. west end; 2,500,000 cubic yds. excavated by N. Y. Contracting Company; concrete retaining walls 30 ft. at bottom, 5 ft. at top. UNDER FIFTH AVE., tunnels built by United Eng. & Con. Co. LOADING SCOWS with material taken from big station excavation." Internet Archive Book Images, via Wikimedia Commons. No known copyright restrictions.*

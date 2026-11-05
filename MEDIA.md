@@ -30,7 +30,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 <!-- media:start -->
 
-63 images from 12 buildings.
+67 images from 12 buildings.
 
 ### Australia
 
@@ -274,7 +274,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 ### USA
 
-#### [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) (7)
+#### [Pennsylvania Station, New York](places/usa/pennsylvania-station-new-york/pennsylvania-station-new-york.md) (11)
 
 <div class="media-grid" markdown>
 
@@ -286,6 +286,18 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 ![Painting of the deep excavation at dusk, with dark tenement blocks on the rim, smoke and steam rising from machines in the pit, snow on the ground and a few workmen in the foreground](places/usa/pennsylvania-station-new-york/images/excavation-bellows.jpg)
 *"Pennsylvania Station Excavation", oil on canvas by George Bellows, about 1907–1909 (Brooklyn Museum, 67.205.1). The pit, with steam engines working in it and the old neighbourhood's tenements on the rim. Via Wikimedia Commons. Public domain.*
+
+![Glass-plate photograph captioned "Penn. R.R. Site Oct. '08": a vast excavated pit with rock walls, a curving timber trestle carrying a railway, stacked steel, a small locomotive, and old brick buildings and a church along the rim](places/usa/pennsylvania-station-new-york/images/site-october-1908.jpg)
+*"Penn. R.R. Site, Oct. '08", written on the plate (no. 487-7): the pit before the steel went up. Bain News Service; Library of Congress (LCCN 2014682318), via Wikimedia Commons. Public domain.*
+
+![Glass-plate photograph captioned "P.R.R. Terminal Oct. '08": the bare steel frame of the station, with columns, girders and floor beams over the whole site, tall derricks working on top, and Macy's store in the background](places/usa/pennsylvania-station-new-york/images/steel-frame-october-1908.jpg)
+*"P.R.R. Terminal, Oct. '08" (plate 487-8): the steel skeleton of the station, with derricks on top and Macy's store behind. Bain News Service; Library of Congress (LCCN 2014682319), via Wikimedia Commons. Public domain.*
+
+![Glass-plate photograph captioned "P.R.R. Terminal Oct. '08": the granite colonnade and pediment being built, with columns standing and no roof between them, steelwork and derricks above, cut stone on the ground, and a sign reading "George A. Fuller Company, Building Construction"](places/usa/pennsylvania-station-new-york/images/colonnade-october-1908.jpg)
+*"P.R.R. Terminal, Oct. '08" (plate 487-9): the granite colonnade being set onto the steel, with derricks above and the builder's sign on the left. Bain News Service; Library of Congress (LCCN 2014682320), via Wikimedia Commons. Public domain.*
+
+![Glass-plate photograph captioned "Penn. R.R. Station, New York, May '09": the finished granite front and colonnade, with the steel roof of the waiting room still being erected above the arched windows, derricks on top, and an excavated block in the foreground](places/usa/pennsylvania-station-new-york/images/roof-steel-may-1909.jpg)
+*"Penn. R.R. Station, New York, May '09" (plate 342-13): the stone front finished, with the steel roof over the waiting room still being put up. It is taken from almost the same spot as the photograph at the top of this entry, which must therefore be later. Bain News Service; Library of Congress (LCCN 2014681599), via Wikimedia Commons. Public domain.*
 
 ![Book page with three photographs: a wide view of the huge excavated pit with the city skyline behind; a work car in a rock tunnel under Fifth Avenue; and a long timber loading pier with heaps of rock on scows in the river](places/usa/pennsylvania-station-new-york/images/excavation-1908-book.jpg)
 *A page from* Pennsylvania Railroad Tunnels and Terminals in New York City *by William Wirt Mills (Moses King, 1908). The printed caption reads: "STATION EXCAVATION, begun July 1, '04, after removing 400 buildings; completed, '07; 2,050 by 500 ft. depth, 45 ft. east end, 60 ft. west end; 2,500,000 cubic yds. excavated by N. Y. Contracting Company; concrete retaining walls 30 ft. at bottom, 5 ft. at top. UNDER FIFTH AVE., tunnels built by United Eng. & Con. Co. LOADING SCOWS with material taken from big station excavation." Internet Archive Book Images, via Wikimedia Commons. No known copyright restrictions.*
