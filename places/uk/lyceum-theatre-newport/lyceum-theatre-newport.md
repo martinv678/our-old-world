@@ -53,6 +53,26 @@ The official account is of a Victorian assembly hall that burned, was rebuilt as
 
 **How to test it:** find the architect and builder of the 1867 building, its plans and its costs, and compare the 1868 engraving with later photographs to see whether the front changed.
 
+### A small Parthenon, near a Roman fortress
+
+**Reported** (owner's observation) / **Speculative** (interpretation) – The owner describes the building as essentially a small Parthenon in the middle of Newport, covered in Roman statues, and points out that the Romans are also found right next door, at Caerleon.
+
+The Roman connection is real and close:
+
+- **Roman Caerleon.** Caerleon, about 3 miles (5 km) north-east of Newport's centre on the same river, the Usk, was the Roman legionary fortress of *Isca Augusta*, founded in about AD 75 as a base of the Second Augustan Legion. Its amphitheatre, bath house and barracks can still be seen, and the National Roman Legion Museum is there (**Documented**).
+- **A Roman temple front.** The Lyceum's portico had six Corinthian columns. The Parthenon in Athens is a Greek temple with eight plainer Doric columns across its front, so in form the Lyceum was closer to a Roman temple such as the Maison Carrée at Nîmes, which also has six Corinthian columns across its front (**Documented** form).
+- **The statues.** The owner reports that the building was covered in Roman statues. Their number, subjects, sculptor and date haven't yet been confirmed from photographs or records, and nothing is known so far about what happened to them when the building was demolished in 1961.
+
+On the owner's view, a Roman-style temple full of Roman statues, a few miles from a real Roman fortress, raises the question of whether the building, or its site, had an older Roman connection than the records of 1867 suggest (**Speculative**).
+
+Points to weigh up:
+
+- **Victorian Newport was proud of its Roman neighbour.** Roman finds at Caerleon were well known in the 19th century (a local museum of Roman finds is said to have opened there in about 1850, not yet confirmed), and Victorian builders across Britain used Roman and Greek forms and statues on public buildings, as at [St George's Hall](../st-georges-hall-liverpool/st-georges-hall-liverpool.md#built-like-the-romans) in Liverpool.
+- **The building is recorded as new in 1867.** The *Illustrated London News* of 1868 describes it as newly built and fitted out for Henry Pearce Bolt. That account, and any plans, would show whether older fabric was reused.
+- **The site is in the town, not at Caerleon.** No Roman finds are known from the site so far; any report from the 1961 demolition, or from later building work on the site, would show whether anything older lay underneath.
+
+**How to test it:** find photographs that show the statues clearly and identify their subjects and maker; search the 1868 account and Newport's newspapers for who carved them; check whether any were saved in 1961; and look for any archaeological record from the site of 66 Bridge Street.
+
 ### Fire: gutted, but the walls survived
 
 **Documented** (fire) / **Speculative** (interpretation) – On the morning of 27/28 May 1896, fire gutted the Victoria Theatre. The new Lyceum was built inside the surviving outer walls. In this project's "fire and demolition" theme, fires that clear the inside of a grand building, leaving its shell to be reused, are a recurring pattern: [Alexandra Palace](../alexandra-palace/alexandra-palace.md) was rebuilt after its fire in 1873, reportedly on its surviving walls. Theatre fires were common in the 19th century, because of gas lighting, timber stages and painted scenery, so the ordinary explanation is strong here. The cause of the 1896 fire hasn't been found yet.
@@ -87,6 +107,7 @@ The official account is of a Victorian assembly hall that burned, was rebuilt as
 | Origin dated 1867, 1868, 1874 or 1876 | Sources disagree | Documented | Coflein; Cinema Treasures; Newport Past |
 | Demolished in 1961 for later redevelopment | Coflein; histories | Documented | Coflein; Wales Online |
 | No construction images found | Searches so far | Observed | This project |
+| Roman-style temple front with Roman statues, about 3 miles from the Roman fortress at Caerleon | Owner's observation; Caerleon's Roman remains | Reported / Documented | Owner; Coflein; Museum Wales |
 
 ### Timeline check
 
@@ -115,6 +136,9 @@ The official account is of a Victorian assembly hall that burned, was rebuilt as
 | [Alexandra Palace](../alexandra-palace/alexandra-palace.md) | London, UK | 1873; rebuilt 1875 | Entertainment palace burned and rebuilt |
 | Lyceum Theatre | Sheffield, UK | 1897 | Opened the same year; a surviving theatre of the period (not on the research list) |
 | Wyndham's Theatre | London, UK | 1899 | One of Sprague's later West End theatres (not on the research list) |
+| Maison Carrée | Nîmes, France | c. 16 BC | Roman temple with a front of six Corinthian columns, the form the Lyceum's portico followed (not on the research list) |
+| Parthenon | Athens, Greece | 447–432 BC | The Greek temple the owner compares it to; eight Doric columns across the front (not on the research list) |
+| Roman fortress of Isca Augusta | Caerleon, Wales | c. AD 75 | Real Roman remains about 3 miles away (not on the research list) |
 
 ### What would support the alternative view
 
@@ -138,6 +162,8 @@ The official account is of a Victorian assembly hall that burned, was rebuilt as
 - **The front:** Was the Corinthian portico of 1867 kept in the Lyceum, or rebuilt by Sprague?
 - **The demolition:** Was it demolished in 1961, or later? Was anything salvaged?
 - **Capacity:** Did it seat 1,250 or 1,150?
+- **The statues:** How many Roman statues were there, whom did they show, who carved them, and where did they go in 1961?
+- **Roman remains:** Has anything Roman ever been found on or near the site on Bridge Street?
 
 ## Leads to follow up
 
@@ -149,23 +175,31 @@ The official account is of a Victorian assembly hall that burned, was rebuilt as
 - **Theatres Trust database:** records of lost theatres.
 - **Welsh Newspapers Online (National Library of Wales):** the *South Wales Argus*, *Monmouthshire Merlin* and others for 1867–68, 1896–97 and 1960–61.
 - **Britain from Above:** aerial view WPW032458, annotated as the Lyceum.
+- **National Roman Legion Museum, Caerleon (Amgueddfa Cymru):** for Roman finds from Newport and the history of the Victorian excavations.
+- **Cadw and the Glamorgan-Gwent Archaeological Trust:** for any archaeological records from Bridge Street.
+- **Newport Museum and Art Gallery:** for any statues or carvings saved from the Lyceum.
 
 ## Research notes
 
 <!-- Owner's notes: add observations, hunches and links here. Claude reads this section first and doesn't remove it. -->
+
+- Owner's observation: the Lyceum was essentially a mini Parthenon in Newport, covered in Roman statues, with the Romans also found in neighbouring Caerleon. See [A small Parthenon, near a Roman fortress](#a-small-parthenon-near-a-roman-fortress).
 
 ## Images
 
 Images will be added by the owner. The most useful for this entry would be:
 
 - the **1868 engraving** of the Victoria Assembly Rooms from the *Illustrated London News*
-- **photographs of the Lyceum** and its Corinthian portico, before 1961
+- **photographs of the Lyceum** and its Corinthian portico, before 1961, especially close-ups of the **Roman statues**
 - any image of the **1896 fire** or its aftermath
 - **photographs of the demolition** in 1961
 - the **site today**
 
 ## Sources
 
+- Wikipedia – Isca Augusta (Caerleon): https://en.wikipedia.org/wiki/Isca_Augusta
+- Coflein – Caerleon, Isca legionary fortress (site 95647): https://coflein.gov.uk/en/site/95647
+- Museum Wales – Caerleon, City of the Legion: https://museum.wales/blog/1326/Caerleon---City-of-the-Legion/
 - Arthur Lloyd – Theatres and halls in Newport, South Wales: http://www.arthurlloyd.co.uk/Newport.htm
 - Coflein – Lyceum Theatre / Victoria Assembly Rooms, Bridge Street, Newport (site 31973): https://coflein.gov.uk/en/site/31973
 - Coflein – archive item 6195787: https://coflein.gov.uk/en/archive/6195787
