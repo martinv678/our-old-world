@@ -30,7 +30,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 <!-- media:start -->
 
-79 images from 13 buildings.
+83 images from 13 buildings.
 
 ### Australia
 
@@ -119,7 +119,7 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 </div>
 
-#### [Lyceum Theatre, Newport](places/uk/lyceum-theatre-newport/lyceum-theatre-newport.md) (7)
+#### [Lyceum Theatre, Newport](places/uk/lyceum-theatre-newport/lyceum-theatre-newport.md) (11)
 
 <div class="media-grid" markdown>
 
@@ -143,6 +143,18 @@ To add one, save it in `media/images/` (short lowercase file name with hyphens, 
 
 ![Enlarged detail of the postcard showing the Lyceum's pediment with a sculpted figure at its left-hand corner beside the word LYCEUM, the tall columns of the portico, and urn-shaped ornaments along the top of the side wall](places/uk/lyceum-theatre-newport/images/bridge-street-postcard-portico-detail.jpg)
 *Detail of the postcard above, enlarged three times: a sculpted figure stands on the left-hand corner of the pediment beside the LYCEUM lettering, and ornaments run along the top of the side wall. At this resolution the figure can't be identified. See A small Parthenon, near a Roman fortress.*
+
+![Black-and-white photograph of the Lyceum from the street corner: the portico of six Corinthian columns on a rusticated ground floor, the word LYCEUM in large letters on the pediment beside a seated statue, a long side wall of arched windows, an entrance canopy with steps up, a man in a cap on the corner and an old car in the side street](places/uk/lyceum-theatre-newport/images/lyceum-corner-1920s-1930s.jpg)
+*The Lyceum from the corner, probably late 1920s or 1930s, judging from the car. The large LYCEUM letters stand on the pediment; the main entrance under the canopy is reached by steps up from the pavement; posters and a box office sign are on the ground floor. Supplied by the owner; photographer, source and licence to be confirmed.*
+
+![Enlarged detail of the corner photograph showing the letters LYCEUM standing on a frame along the left slope of the pediment, partly in front of a corner sculpture, with the seated statue at the top and the roundel in the pediment](places/uk/lyceum-theatre-newport/images/lyceum-letters-detail.jpg)
+*Detail of the corner photograph: the LYCEUM letters on their frame, added after the theatre reopened under that name in 1897, standing partly in front of the corner sculpture. See The LYCEUM letters.*
+
+![The corner photograph with two red lines drawn along the top of the ground floor and the foot of the side wall, meeting off the left edge, and a blue line across the picture at about the eye height of the people on the pavement](places/uk/lyceum-theatre-newport/images/side-street-level-check.jpg)
+*Ground-level check on the corner photograph (this project). The red lines follow the top of the ground floor and the foot of the side wall; they meet off the left edge at about the height of the blue line, roughly the eye height of the people on the pavement. That is what a level street looks like in perspective, so this stretch of the side street appears roughly level. See Ground levels.*
+
+![Black-and-white photograph of the front of the Lyceum: the portico of six Corinthian columns, a statue on a pedestal at the top of the pediment, the entrance canopy with steps up from the pavement, an arched doorway and iron gates with notices on the right, and smaller houses on either side](places/uk/lyceum-theatre-newport/images/lyceum-front-mid-20th-century.jpg)
+*The front of the Lyceum, probably mid-20th century and possibly near the end of its life: the LYCEUM letters have gone from the pediment, though the name is still on the canopy, and notices are fixed to the gates on the right. Steps lead up into the entrance. Supplied by the owner; date, source and licence to be confirmed.*
 
 </div>
 

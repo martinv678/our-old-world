@@ -81,13 +81,36 @@ Points to weigh up:
 
 **How to test it:** find photographs that show the statues clearly and identify their subjects and maker; search the 1868 account and Newport's newspapers for who carved them; check whether any were saved in 1961; and look for any archaeological record from the site of 66 Bridge Street.
 
+### Ground levels: flat in 1874, sloping and sunken later?
+
+**Reported** (owner's observation) / **Observed** (photo comparison) – The owner points out that the 1874 print shows the Victoria Hall standing on flat, open ground, while later photographs seem to show it on a hill, with its windows sunken. If the ground around the building had risen between 1874 and the 20th century, that would fit the **mud flood / buried levels** theme.
+
+Checked against the four images in this entry:
+
+- **The 1874 print.** The building stands on a broad, level open space, with carriages and people on the same flat ground along the front and the side. The front ground floor has five arched openings with a central arched doorway, and the base of the wall meets the ground directly, with no steps shown (**Observed**).
+- **The front, in the photographs.** In both new photographs (about the 1920s–30s and the mid-20th century), the main entrance under the canopy is reached by **three or four steps up** from the pavement, and there is another step up into the arched doorway at the right-hand end. Steps *up* into a building mean its floor stood above the street. A buried ground floor normally shows the opposite: steps down, or doors and windows cut off by the pavement (**Observed**).
+- **The side street.** In the corner photograph of about the 1920s–30s, the side street runs away from the camera, so the pavement looks as if it climbs or falls. A simple check is to extend two lines that should be level, the top of the ground floor and the foot of the wall, and see where they meet. If the street is level, they meet at the camera's eye height; if it slopes, they don't. Here they meet off the left edge of the picture at roughly the eye height of the people on the pavement, so this stretch of street appears **roughly level** along the building, not on a noticeable hill (see the marked-up image in [Images](#images)) (**Observed**, from a 1200px copy, so a gentle slope of a few degrees can't be ruled out).
+- **The windows.** The arched ground-floor windows along the side are complete, with their sills above the pavement and the full piers between them visible down to a plinth. Some arches have doors cut into them down to pavement level, which looks like later alteration for exits and shops rather than burial (**Observed**).
+- **Proportions.** Measured roughly on the front, the height of the ground floor compared with the height of the columns is about the same in the 1874 print (about 0.64) and in the photographs (about 0.63–0.69). If a metre or more of the ground floor had been buried, the ground floor would look noticeably shorter in the photographs (**Observed**, rough measurement).
+- **Why the print looks different.** Engravings of new buildings in the 19th century often tidied up the setting: they widened the street, flattened slopes, removed neighbouring buildings and lengthened façades. The 1874 print also shows the side wall with more bays than the photographs suggest, and an open square where the photographs show ordinary streets and neighbouring houses. So the flat ground in the print may be the engraver's licence rather than a record of the real ground level (**Speculative**).
+
+**Verdict for now:** the photographs don't show sunken windows or a buried ground floor; the steps lead up, not down, and the side street looks roughly level. The difference from the print is better explained by an idealised engraving and by Sprague's rebuilding of the front ground floor in 1896–97 (see below). This can be settled from the large-scale Ordnance Survey town plans of Newport, which mark levels (bench marks and spot heights) along the streets, and from the height of Bridge Street before and after any street works.
+
+**How to test it:** compare spot heights on Ordnance Survey plans of the 1880s with later surveys; search Newport's newspapers and council minutes for any raising or regrading of Bridge Street; and find any photograph of the building taken before 1896.
+
+### The LYCEUM letters: added later
+
+**Documented** (renaming) / **Observed** (letters) – The owner notes that the LYCEUM sign looks as though it was "slapped on" later. It was: the building was the Victoria Hall until the fire of 1896 and only became the Lyceum when it reopened in October 1897, so the lettering must be later than the building (**Documented**). In the photograph of about the 1920s–30s, the large letters L-Y-C-E-U-M stand on a light frame along the left-hand slope of the pediment, partly in front of the sculpture on the corner, and look like an add-on rather than part of the design (**Observed**). They don't appear in the 1874 print, and they are gone again in the mid-20th-century photograph, which still shows LYCEUM on the entrance canopy, so they were probably taken down before the building was demolished, perhaps when it closed in 1960 (**Observed**; date unknown).
+
+On the "old world" reading, a building whose name was added on top of an older structure fits the pattern of a building being claimed and re-labelled (**Speculative**). Here, though, the renaming is well recorded: a new owner, a new theatre inside the old walls, and a new name for it.
+
 ### Fire: gutted, but the walls survived
 
 **Documented** (fire) / **Speculative** (interpretation) – On the morning of 27/28 May 1896, fire gutted the Victoria Theatre. The new Lyceum was built inside the surviving outer walls. In this project's "fire and demolition" theme, fires that clear the inside of a grand building, leaving its shell to be reused, are a recurring pattern: [Alexandra Palace](../alexandra-palace/alexandra-palace.md) was rebuilt after its fire in 1873, reportedly on its surviving walls. Theatre fires were common in the 19th century, because of gas lighting, timber stages and painted scenery, so the ordinary explanation is strong here. The cause of the 1896 fire hasn't been found yet.
 
 ### A new theatre inside an old shell
 
-**Documented** (rebuilding) / **Speculative** (dating) – Because the Lyceum was built "within the exterior walls" of the older building, the building that stood until 1961 was partly of 1867 and partly of 1896–97. How much of the front was original, and how much was refaced by Sprague? This matters for any attempt to date the building from its photographs: the portico may be older than the theatre behind it. The owner's images now answer part of this: the print of 12 May 1874 and the postcard of about 1900–1910 show the same front, with six Corinthian columns on an arcaded ground floor, the same pediment roundel, the same side wall and the same urns, so the front of the 1867 Victoria Hall seems to have survived the 1896 fire and been kept by Sprague, with the LYCEUM lettering added and possibly a new statue on top (**Observed**).
+**Documented** (rebuilding) / **Speculative** (dating) – Because the Lyceum was built "within the exterior walls" of the older building, the building that stood until 1961 was partly of 1867 and partly of 1896–97. How much of the front was original, and how much was refaced by Sprague? This matters for any attempt to date the building from its photographs: the portico may be older than the theatre behind it. The owner's images now answer part of this: the print of 12 May 1874 and the postcard of about 1900–1910 show the same front, with six Corinthian columns on an arcaded ground floor, the same pediment roundel, the same side wall and the same urns, so the front of the 1867 Victoria Hall seems to have survived the 1896 fire and been kept by Sprague, with the LYCEUM lettering added and possibly a new statue on top (**Observed**). The new photographs show one clear change at street level, though: in 1874 the front ground floor had five arched openings with a central arched doorway, but by the 20th century the middle three had been replaced by a wide entrance with columns, steps and an iron-and-glass canopy, leaving only the arches at each end. The curved hood over the centre survived. So Sprague, or a later owner, rebuilt the ground floor of the front while keeping the giant columns above (**Observed**).
 
 ### Demolished in the 1960s
 
@@ -119,6 +142,9 @@ Points to weigh up:
 | Statue and two lions on the pediment already in 1874, before the fire | Dated print by Rock & Co., 12 May 1874 | Observed | Owner-supplied print |
 | Top statue standing in 1874 but seated (Britannia-like) about 1900–1910 | Print and later postcard | Observed | Owner-supplied images |
 | Top statue said to be Queen Victoria, but too weathered to identify | Mid-20th-century close-up photograph | Reported / Observed | Owner-supplied photograph |
+| Building on flat ground in 1874 print, but seemingly on a slope with sunken windows later | 1874 print compared with 20th-century photographs | Reported / Observed | Owner's observation; perspective check in this entry found steps up into the entrance and a roughly level side street |
+| LYCEUM lettering added on top of the pediment after 1897, partly hiding the corner sculpture, and gone by the mid-20th century | Photographs of about 1920s–30s and mid-20th century | Documented / Observed | Owner-supplied photographs |
+| Front ground floor changed: five arches in 1874, a colonnaded entrance with steps and canopy later | Print and photographs | Observed | Owner-supplied images |
 | Roman-style temple front with Roman statues, about 3 miles from the Roman fortress at Caerleon | Owner's observation; Caerleon's Roman remains | Reported / Documented | Owner; Coflein; Museum Wales |
 
 ### Timeline check
@@ -178,6 +204,10 @@ Points to weigh up:
 - **The close-up photograph:** When and why was it taken (an inspection before demolition?), and who published it? The source, perhaps a local newspaper such as the *South Wales Argus*, would date it.
 - **Standing or seated?** Was the top statue replaced after the 1896 fire, or is the difference between the 1874 print and the later postcard just the engraver's licence?
 - **The roundel:** What is in the roundel in the pediment? Is it Henry Pearce Bolt's monogram, or the town's arms?
+- **Ground levels:** Was Bridge Street (or the side street) ever raised, lowered or regraded? What spot heights do the Ordnance Survey town plans give beside the building?
+- **The letters:** When were the LYCEUM letters put up on the pediment, and when were they taken down?
+- **The front entrance:** Who replaced the arched ground floor of the front with the colonnaded entrance and canopy, and when: Sprague in 1896–97, or later?
+- **The two new photographs:** Who took them, and when? The car in the corner photograph suggests the late 1920s or 1930s; the notices on the gate in the front photograph might be sale or demolition notices from 1960–61.
 - **Roman remains:** Has anything Roman ever been found on or near the site on Bridge Street?
 
 ## Leads to follow up
@@ -192,6 +222,8 @@ Points to weigh up:
 - **Britain from Above:** aerial view WPW032458, annotated as the Lyceum.
 - **National Roman Legion Museum, Caerleon (Amgueddfa Cymru):** for Roman finds from Newport and the history of the Victorian excavations.
 - **Cadw and the Glamorgan-Gwent Archaeological Trust:** for any archaeological records from Bridge Street.
+- **National Library of Scotland maps (maps.nls.uk):** Ordnance Survey town plans and 25-inch maps of Newport from the 1880s onwards, for bench marks and spot heights on Bridge Street.
+- **Newport council minutes and newspapers:** any street improvements, raising or regrading of Bridge Street between 1867 and 1961.
 - **Newport Museum and Art Gallery:** for any statues or carvings saved from the Lyceum.
 
 ## Research notes
@@ -199,6 +231,8 @@ Points to weigh up:
 <!-- Owner's notes: add observations, hunches and links here. Claude reads this section first and doesn't remove it. -->
 
 - Owner's observation: the statue on the roof is supposedly Queen Victoria, but it is so weathered and defaced that this can't be said for sure. See [A small Parthenon, near a Roman fortress](#a-small-parthenon-near-a-roman-fortress).
+
+- Owner's observation: the drawing (the 1874 print) shows the building on flat ground, but in later pictures it seems to be on a hill with the windows sunken, which could fit the mud flood theory. Also, the LYCEUM sign seems to have been slapped on at a later date. See [Ground levels](#ground-levels-flat-in-1874-sloping-and-sunken-later) and [The LYCEUM letters](#the-lyceum-letters-added-later).
 
 - Owner's observation: the Lyceum was essentially a mini Parthenon in Newport, covered in Roman statues, with the Romans also found in neighbouring Caerleon. See [A small Parthenon, near a Roman fortress](#a-small-parthenon-near-a-roman-fortress).
 
@@ -226,6 +260,18 @@ Click any image to enlarge it.
 
 ![Enlarged detail of the postcard showing the Lyceum's pediment with a sculpted figure at its left-hand corner beside the word LYCEUM, the tall columns of the portico, and urn-shaped ornaments along the top of the side wall](images/bridge-street-postcard-portico-detail.jpg)
 *Detail of the postcard above, enlarged three times: a sculpted figure stands on the left-hand corner of the pediment beside the LYCEUM lettering, and ornaments run along the top of the side wall. At this resolution the figure can't be identified. See [A small Parthenon, near a Roman fortress](#a-small-parthenon-near-a-roman-fortress).*
+
+![Black-and-white photograph of the Lyceum from the street corner: the portico of six Corinthian columns on a rusticated ground floor, the word LYCEUM in large letters on the pediment beside a seated statue, a long side wall of arched windows, an entrance canopy with steps up, a man in a cap on the corner and an old car in the side street](images/lyceum-corner-1920s-1930s.jpg)
+*The Lyceum from the corner, probably late 1920s or 1930s, judging from the car. The large LYCEUM letters stand on the pediment; the main entrance under the canopy is reached by steps up from the pavement; posters and a box office sign are on the ground floor. Supplied by the owner; photographer, source and licence to be confirmed.*
+
+![Enlarged detail of the corner photograph showing the letters LYCEUM standing on a frame along the left slope of the pediment, partly in front of a corner sculpture, with the seated statue at the top and the roundel in the pediment](images/lyceum-letters-detail.jpg)
+*Detail of the corner photograph: the LYCEUM letters on their frame, added after the theatre reopened under that name in 1897, standing partly in front of the corner sculpture. See [The LYCEUM letters](#the-lyceum-letters-added-later).*
+
+![The corner photograph with two red lines drawn along the top of the ground floor and the foot of the side wall, meeting off the left edge, and a blue line across the picture at about the eye height of the people on the pavement](images/side-street-level-check.jpg)
+*Ground-level check on the corner photograph (this project). The red lines follow the top of the ground floor and the foot of the side wall; they meet off the left edge at about the height of the blue line, roughly the eye height of the people on the pavement. That is what a level street looks like in perspective, so this stretch of the side street appears roughly level. See [Ground levels](#ground-levels-flat-in-1874-sloping-and-sunken-later).*
+
+![Black-and-white photograph of the front of the Lyceum: the portico of six Corinthian columns, a statue on a pedestal at the top of the pediment, the entrance canopy with steps up from the pavement, an arched doorway and iron gates with notices on the right, and smaller houses on either side](images/lyceum-front-mid-20th-century.jpg)
+*The front of the Lyceum, probably mid-20th century and possibly near the end of its life: the LYCEUM letters have gone from the pediment, though the name is still on the canopy, and notices are fixed to the gates on the right. Steps lead up into the entrance. Supplied by the owner; date, source and licence to be confirmed.*
 
 **No construction images.** This postcard shows the finished Lyceum; no image of either building being built has been found.
 
